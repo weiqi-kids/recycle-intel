@@ -1,0 +1,81 @@
+{
+  "company_count": 13,
+  "topic_count": 8,
+  "alias_count": 78,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "tomra",
+      "short_name": "TOMRA Systems",
+      "tier": ""
+    },
+    {
+      "id": "glencore",
+      "short_name": "Glencore",
+      "tier": ""
+    },
+    {
+      "id": "waste_mgmt",
+      "short_name": "Waste Management",
+      "tier": ""
+    },
+    {
+      "id": "republic",
+      "short_name": "Republic Services",
+      "tier": ""
+    },
+    {
+      "id": "waste_connections",
+      "short_name": "Waste Connections",
+      "tier": ""
+    },
+    {
+      "id": "umicore",
+      "short_name": "Umicore",
+      "tier": ""
+    },
+    {
+      "id": "veolia",
+      "short_name": "Veolia Environnement",
+      "tier": ""
+    },
+    {
+      "id": "aurubis",
+      "short_name": "Aurubis",
+      "tier": ""
+    },
+    {
+      "id": "boliden",
+      "short_name": "Boliden",
+      "tier": ""
+    },
+    {
+      "id": "sims",
+      "short_name": "Sims Limited",
+      "tier": ""
+    },
+    {
+      "id": "renewi",
+      "short_name": "Renewi",
+      "tier": ""
+    },
+    {
+      "id": "kunding",
+      "short_name": "崑鼎投資控股",
+      "tier": ""
+    },
+    {
+      "id": "abtc",
+      "short_name": "American Battery Technology",
+      "tier": ""
+    }
+  ]
+}
