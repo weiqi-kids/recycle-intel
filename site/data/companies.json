@@ -6,8 +6,8 @@
       "short_name": "陶朗",
       "position": "upstream",
       "role": "分選設備",
-      "x": 0.05,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.04
     },
     {
       "id": "glencore",
@@ -15,8 +15,8 @@
       "short_name": "嘉能可",
       "position": "upstream",
       "role": "原物料貿易",
-      "x": 0.125,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.3
     },
     {
       "id": "waste_mgmt",
@@ -24,8 +24,8 @@
       "short_name": "廢管",
       "position": "midstream",
       "role": "廢棄物管理",
-      "x": 0.2,
-      "y": 0.34
+      "x": 0.05,
+      "y": 0.35
     },
     {
       "id": "republic",
@@ -33,8 +33,8 @@
       "short_name": "共和",
       "position": "midstream",
       "role": "廢棄物管理",
-      "x": 0.275,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.35
     },
     {
       "id": "waste_connections",
@@ -42,8 +42,8 @@
       "short_name": "WCN",
       "position": "midstream",
       "role": "廢棄物管理",
-      "x": 0.35,
-      "y": 0.34
+      "x": 0.95,
+      "y": 0.35
     },
     {
       "id": "umicore",
@@ -51,8 +51,8 @@
       "short_name": "優美科",
       "position": "midstream",
       "role": "貴金屬回收",
-      "x": 0.425,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.39
     },
     {
       "id": "veolia",
@@ -61,7 +61,7 @@
       "position": "midstream",
       "role": "環保服務",
       "x": 0.5,
-      "y": 0.34
+      "y": 0.44
     },
     {
       "id": "aurubis",
@@ -69,8 +69,8 @@
       "short_name": "奧魯比斯",
       "position": "midstream",
       "role": "銅回收",
-      "x": 0.575,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.48
     },
     {
       "id": "boliden",
@@ -78,8 +78,8 @@
       "short_name": "博利登",
       "position": "midstream",
       "role": "金屬回收",
-      "x": 0.65,
-      "y": 0.34
+      "x": 0.05,
+      "y": 0.52
     },
     {
       "id": "sims",
@@ -87,8 +87,8 @@
       "short_name": "西姆斯",
       "position": "midstream",
       "role": "金屬回收",
-      "x": 0.725,
-      "y": 0.34
+      "x": 0.95,
+      "y": 0.52
     },
     {
       "id": "renewi",
@@ -96,8 +96,8 @@
       "short_name": "瑞紐威",
       "position": "midstream",
       "role": "廢棄物轉化",
-      "x": 0.8,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.56
     },
     {
       "id": "kunding",
@@ -105,8 +105,8 @@
       "short_name": "崑鼎",
       "position": "midstream",
       "role": "廢棄物處理",
-      "x": 0.875,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.61
     },
     {
       "id": "abtc",
@@ -114,8 +114,8 @@
       "short_name": "美國電池",
       "position": "midstream",
       "role": "電池回收",
-      "x": 0.95,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.65
     }
   ],
   "links": [
