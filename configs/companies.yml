@@ -44,6 +44,7 @@ companies:
   role: 廢棄物管理
   description: 北美最大廢棄物處理與回收商
   ir_url: https://investors.wm.com/
+  rss_url: https://investors.wm.com/rss/news-releases.xml
   upstream:
   - tomra
   downstream: []
@@ -59,6 +60,7 @@ companies:
   role: 廢棄物管理
   description: 北美第二大廢棄物處理商
   ir_url: https://investor.republicservices.com/
+  rss_url: https://investor.republicservices.com/rss/news-releases.xml
   upstream:
   - tomra
   downstream: []

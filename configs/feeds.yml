@@ -1,0 +1,43 @@
+# Recycling/waste management industry news feeds
+feeds:
+  # --- Company IR RSS feeds ---
+  - id: wm_ir
+    name: WM Press Releases
+    url: https://investors.wm.com/rss/news-releases.xml
+    description: Waste Management investor relations press releases
+
+  - id: republic_ir
+    name: Republic Services Press Releases
+    url: https://investor.republicservices.com/rss/news-releases.xml
+    description: Republic Services investor relations press releases
+
+  # --- Industry media RSS feeds ---
+  - id: recycling_today
+    name: Recycling Today
+    url: https://www.recyclingtoday.com/feed/
+    description: Scrap recycling industry news - metals, paper, plastics, e-scrap
+
+  - id: waste_dive
+    name: Waste Dive
+    url: https://www.wastedive.com/feeds/news/
+    description: Solid waste and recycling industry news and analysis
+
+  - id: recycling_product_news
+    name: Recycling Product News
+    url: https://www.recyclingproductnews.com/rss
+    description: Recycling and waste management products, equipment and news
+
+  - id: resource_recycling
+    name: Resource Recycling
+    url: https://resource-recycling.com/recycling/feed/
+    description: Recycling industry news, policy and markets
+
+  - id: google_news_recycling
+    name: Google News - Recycling Industry
+    url: https://news.google.com/rss/search?q=recycling+industry+circular+economy+waste+management&hl=en
+    description: Google News aggregation for recycling and circular economy
+
+  - id: google_news_battery_recycling
+    name: Google News - Battery Recycling
+    url: https://news.google.com/rss/search?q=battery+recycling+lithium+EV&hl=en
+    description: Google News aggregation for EV battery recycling
