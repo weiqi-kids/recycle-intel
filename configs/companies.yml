@@ -11,6 +11,7 @@ companies:
   role: 分選設備
   description: 全球回收分選設備龍頭
   ir_url: https://www.tomra.com/en/investor-relations
+  rss_url: https://news.google.com/rss/search?q="TOMRA+Systems"&hl=en&gl=US&ceid=US:en
   downstream:
   - waste_mgmt
   - republic
@@ -28,6 +29,7 @@ companies:
   role: 原物料貿易
   description: 全球最大原物料貿易商，回收金屬供應
   ir_url: https://www.glencore.com/investors
+  rss_url: https://news.google.com/rss/search?q="Glencore"&hl=en&gl=US&ceid=US:en
   downstream:
   - aurubis
   - boliden
@@ -75,6 +77,7 @@ companies:
   role: 廢棄物管理
   description: 北美第三大廢棄物處理商
   ir_url: https://ir.wasteconnections.com/
+  rss_url: https://news.google.com/rss/search?q="Waste+Connections"&hl=en&gl=US&ceid=US:en
   upstream:
   - tomra
   downstream: []
@@ -89,6 +92,7 @@ companies:
   role: 貴金屬回收
   description: 貴金屬與電池材料回收
   ir_url: https://www.umicore.com/en/investors/
+  rss_url: https://news.google.com/rss/search?q="Umicore"+precious+metals+recycling&hl=en&gl=US&ceid=US:en
   upstream:
   - glencore
   downstream: []
@@ -104,6 +108,7 @@ companies:
   role: 環保服務
   description: 全球最大環境服務商，廢棄物回收與水處理
   ir_url: https://www.veolia.com/en/finance
+  rss_url: https://news.google.com/rss/search?q="Veolia+Environnement"&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
 - id: aurubis
@@ -117,6 +122,7 @@ companies:
   role: 銅回收
   description: 歐洲最大銅回收精煉商
   ir_url: https://www.aurubis.com/en/investors
+  rss_url: https://news.google.com/rss/search?q="Aurubis"+copper+recycling&hl=en&gl=US&ceid=US:en
   upstream:
   - glencore
   downstream: []
@@ -131,6 +137,7 @@ companies:
   role: 金屬回收
   description: 北歐金屬回收與冶煉商
   ir_url: https://www.boliden.com/investor-relations
+  rss_url: https://news.google.com/rss/search?q="Boliden"+metals+recycling&hl=en&gl=US&ceid=US:en
   upstream:
   - glencore
   downstream: []
@@ -146,6 +153,7 @@ companies:
   role: 金屬回收
   description: 全球金屬回收與電子廢棄物處理
   ir_url: https://www.simsltd.com/investors/
+  rss_url: https://news.google.com/rss/search?q="Sims+Limited"&hl=en&gl=US&ceid=US:en
   upstream:
   - tomra
   downstream: []
@@ -160,6 +168,7 @@ companies:
   role: 廢棄物轉化
   description: 歐洲廢棄物轉化資源服務商
   ir_url: https://www.renewi.com/en/investors
+  rss_url: https://news.google.com/rss/search?q="Renewi"+waste+to+resource&hl=en&gl=US&ceid=US:en
   upstream:
   - tomra
   downstream: []
@@ -175,6 +184,7 @@ companies:
   role: 廢棄物處理
   description: 台灣焚化爐營運與環保工程
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Kunding"+waste+treatment&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
 - id: abtc
@@ -189,6 +199,7 @@ companies:
   role: 電池回收
   description: 鋰電池回收技術公司
   ir_url: https://americanbatterytechnology.com/investors/
+  rss_url: https://news.google.com/rss/search?q="American+Battery+Technology"&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
 etfs: []
