@@ -1501,9 +1501,8 @@
             svg.selectAll("*").remove();
 
             const layers = [
-                { name: "上游（設備/材料/EDA）", y: 0.0, height: 0.32, color: "rgba(245, 158, 11, 0.06)" },
-                { name: "中游（製造/代工/封測）", y: 0.34, height: 0.34, color: "rgba(59, 130, 246, 0.06)" },
-                { name: "下游（AI晶片/系統/CSP）", y: 0.70, height: 0.30, color: "rgba(16, 185, 129, 0.06)" }
+                { name: "上游（分選設備/原物料貿易）", y: 0.00, height: 0.36, color: "rgba(245, 158, 11, 0.06)" },
+                { name: "中游（廢棄物管理/廢棄物處理/廢棄物轉化/環保服務/...）", y: 0.30, height: 0.40, color: "rgba(59, 130, 246, 0.06)" }
             ];
 
             layers.forEach(layer => {
@@ -2185,9 +2184,8 @@
 
             // 按供應鏈分組
             const groups = [
-                { label: '上游（設備/材料/EDA）', position: 'upstream' },
-                { label: '中游（製造/代工/封測）', position: 'midstream' },
-                { label: '下游（AI晶片/系統/CSP）', position: 'downstream' },
+                { label: '上游（分選設備/原物料貿易）', position: 'upstream' },
+                { label: '中游（廢棄物管理/廢棄物處理/廢棄物轉化/環保服務/...）', position: 'midstream' },
             ];
 
             // 計算色塊顏色
