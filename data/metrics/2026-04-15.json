@@ -1,11 +1,28 @@
 {
   "date": "2026-04-15",
-  "total_events": 1,
-  "by_company": {},
+  "total_events": 5,
+  "by_company": {
+    "tomra": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "waste_connections": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "aurubis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "by_topic": {
     "circular_economy_policy": {
       "count": 1,
       "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.25
     }
   },
   "baselines_used": {
