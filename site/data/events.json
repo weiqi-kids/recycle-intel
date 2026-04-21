@@ -1,5 +1,115 @@
 [
   {
+    "id": "unknown-2026-04-21-003",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fuse Battery Metals Adopts Semi-Annual Financial Reporting - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNRTFuRnBtTnBjX1dDc1hOR3g5WW9jZEJsSHN4N05vQzlLYnBlWHo4cnhQN3BOcXBKSXBLYl9BZHo5RkM4SlV5ckNuc200VTNWQ3E0cTh4aDVRcy1EM1gzMGZ2aklVU0l2YXNsak5mbH",
+    "sources": []
+  },
+  {
+    "id": "waste_connections-2026-04-21-004",
+    "date": "2026-04-21",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections (WCN) Q1 Earnings Report Preview: What To Look For - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGtGYXlKVjFWSXZGbWNRTTBmTWlHM05Fbi1FRGtIZURaS1BqbUNKaXlGdXdfOXctMDZtWFhJQ0RhYzFqUU91enpydjBfN0VXeDhhVVFwaFFZc1A4NEhleGdYRHdfaXlmenVXYWM2ek",
+    "sources": []
+  },
+  {
+    "id": "waste_mgmt-2026-04-21-009",
+    "date": "2026-04-21",
+    "companies": [
+      "waste_mgmt",
+      "veolia"
+    ],
+    "topics": [
+      "plastic_recycling",
+      "circular_economy_policy",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Recycled Plastic Market Growth and Forecast: Veolia, SUEZ, and Waste Management Inc. Advancing Circular Economy - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQem5SM1JIQm5ZenZrZVo2My1OYW9UM1UxUEwyWWlONFhTeUpESzJiSkxUUFdZc2ZOeHRXeWhwUElqd0hkNDVzZ1MxVVo0YUtGajQxZUVEV200Ty1JR1RqbVRfaWpjS3lSMGxUSEdVR0",
+    "sources": []
+  },
+  {
+    "id": "tomra-2026-04-20-001",
+    "date": "2026-04-20",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tomra Systems ASA stock (NO0005668905): Is its recycling tech edge strong enough to unlock new upsid - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSElVUVpOcTJQb24wd3BmWTlPaGhGQWlvQVJVbHZIOHJodjltLTNLRVBidjVuSU9mUFF1cmx6Z01ITVA5aEdFWFRvWWQ2aEJyUTZreXVDQi1CNWJKdjN0d1NHR3YyZlh1ZVVpNkFzdF",
+    "sources": []
+  },
+  {
+    "id": "glencore-2026-04-20-002",
+    "date": "2026-04-20",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Linklaters Advises Glencore on the Establishment of an Aluminum Recycling Joint Venture - Legal Desire Media and Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORXZYUkllWnRKM2RSdk9lOUhrMTlpQzk5ZEV4Y3lvVC1pYzNfR0dqb2tRWTNhSzdTcDVRWmpIaWcyajQ1X2tjd0lTUlUxazk2MVVXZzZnLXN4N3RGbXpUZzZraDNya2FfY0ZheExIa0",
+    "sources": []
+  },
+  {
+    "id": "waste_connections-2026-04-20-005",
+    "date": "2026-04-20",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Inc expected to post earnings of $1.18 a share - Earnings Preview - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeVR6UTNGN2NoR0MwSVl4WDNOeGRKR0RJdDhlSVo0VGRWc1NsV1UwUDl6WVdOWDRObXJoeC1QU3BoSjE1VG5mSWJ1ck1DZjVVSEoyeTFoOHp3UHJHcDhwazhJQVc3dGJIV3F3S2JIbj",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-013",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Australian start-up lands $12m to challenge China dominance of EV battery recycling - The Driven",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXhEY0ZDNXJyQjlyMnNwUlBHdVp1bkpwZVRJckU1NTN3X1lCS1VKLUQwOTdQR2FQMHdRb1dyMHJqbkQ5SHVMQlFoa1otZmJsb1pqNjJmOWd0YVRHZE84RVhRRS1CekRESkFoR1Mza1",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-014",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "battery_recycling"
+    ],
+    "impact": "neutral",
+    "title": "Renewable Metals raises funds for onshoring battery recycling - Energy Source & Distribution",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQNHpzUmNRWE9hZDJTdDlnbEJFckVuSnZob3lfYXJVekdNYlZ0U2t6cnVTMk9sM0FxNUIzQ01id3I2cWJWUGx2Y01tc0FSTngzR0FZZGstNUQzZ1A0UFZVN3Rod2hZcDJNOXp1aWFBaW",
+    "sources": []
+  },
+  {
     "id": "waste_connections-2026-04-19-002",
     "date": "2026-04-19",
     "companies": [
@@ -563,6 +673,18 @@
     "impact": "neutral",
     "title": "Veolia Sees €1 Billion in Revenue From AI Industries by 2030 - Bloomberg.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUM2LTNub3ptMkV1VlpNSXZ0ZVRsWHQ2bnF6Y0VYRUVLTUtmNXRjTk5VMzVVWUwzeS1hYnlDal9aYUt4Slp3VEpfZkFNT28zcWw3bFd6d1RqWkV1UE04ak54Z1llMzVBS1VoNVVTZF",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-015",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "battery_recycling"
+    ],
+    "impact": "positive",
+    "title": "Japan Achieves 90% Lithium Recovery in EV Battery Recycling Breakthrough - Yahoo Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEVZRkowOEJwc29HSkpiTzgzRjFjQV9vdm5TRGlHUHQwQ0UyU2NhcjJ4cHR2NjluYzRUeENNUEJEZjd4eUpmVjVwSHVoOWpMd2FlX1BmTGppdDBhZjhlNXkyalNnd1FqVGVycjdEUm",
     "sources": []
   },
   {
@@ -1429,6 +1551,20 @@
     "sources": []
   },
   {
+    "id": "abtc-2026-02-19-008",
+    "date": "2026-02-19",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A massive new mine highlights Nevada’s place at the center of the U.S. lithium push - American Battery Technology Company",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1dhNmZ3R2JfYlpIbWl0RTdsQzhaZXdrLVlOZWF4V05yYk5zbzF5WmxKS19CNUM1NzY2M3p6WnVrSEkzM3JhQ1BMV2YwZVZUcFFfUk03YUdTOTZtT2NhQUNFNjhkN3FBd1JWRVhkQ3",
+    "sources": []
+  },
+  {
     "id": "waste_mgmt-2026-02-16-003",
     "date": "2026-02-16",
     "companies": [
@@ -1541,6 +1677,20 @@
     "sources": []
   },
   {
+    "id": "waste_connections-2026-02-12-006",
+    "date": "2026-02-12",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections previews AI, RNG investments for 2026 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2NvTGhzOXJyRnAwVFJKSVRPc1o0NlZiV1dTQnBBZ2ZiclBBUVllSTd5SHcxdGFSQ1Z2TWhubHQwQkIxOGV4ZGdVOS1KVGx0ZlFPUl92UHNuNGtDWHJaam5TRngzUjB5dUZwU0V4Sm",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-02-10-086",
     "date": "2026-02-10",
     "companies": [],
@@ -1592,6 +1742,20 @@
     "impact": "neutral",
     "title": "Boliden Stock Price, Paladin Uranium Stock Price 2026 Trends - Farmonaut",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ3d5Z2lMV0dmQU1FQ2hZN3AwQk9tYTZzMEg0cjAweVpvTWd2R09pQ3hyWWJaZkx6dmRzSjA4M1NtbG54MkRqWk9MQktJbnlLUTRaLUppXzZQNzJ0T052cV9QLU1tdmo1WVdSQ0JQSH",
+    "sources": []
+  },
+  {
+    "id": "veolia-2026-02-07-007",
+    "date": "2026-02-07",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement (ENXTPA:VIE) Valuation Check As US Labor Complaint Adds New Uncertainties - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOZFlleHVJU3FfZmdOVVRCQmZwN0RkdnpNaVpWeEliWHBiUXRqR3hWNlVBRkprbjlMYnVKOTZZSkM3RVFnVHFabWpwcHlscnU5SzRQdlZLcldiS0kyRHFsQ1ZXSXB4Z1lndlNwM3JoRm",
     "sources": []
   },
   {
@@ -1735,6 +1899,19 @@
     "impact": "neutral",
     "title": "Waste Connections Announces Dates for Fourth Quarter 2025 Earnings Release and 2026 Outlook - Yahoo Finance",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnBYc3hSOTZCWmtGQkZhU1RCdU5SSHpoa09COGJCX2pkczVBVXdyRm5tU0dVRlk5X1VZdGo4UUlTUEswbkxEMjFZbGdaNnhKRXJ6WDFnNi04Y2cwbk9qV0lzSC0zQ3NCdnQ3QTA5R3",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-14-011",
+    "date": "2026-01-14",
+    "companies": [],
+    "topics": [
+      "circular_economy_policy",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Japan’s Circular Economy Gains Momentum as REFINVERSE Group Advances New Recycling Technologies - The Worldfolio",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNE1xdGRXNjlKOXc4WW9MaE54R25Rd0h3RVlEdXpLbnB4V01OTEM0THVRTDhZLTgwQXRjZmt6aUZTYU9udWo4aUo0YkRPX0hld0h5MXZkMl91OG9HMkJONDMwVnF5T3hOdjUxUnJKX2",
     "sources": []
   },
   {
@@ -2180,6 +2357,19 @@
     "sources": []
   },
   {
+    "id": "unknown-2025-10-01-012",
+    "date": "2025-10-01",
+    "companies": [],
+    "topics": [
+      "circular_economy_policy",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Advanced Recycling Conference 2025: New Paths to the Circular Economy - CHEManager",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ18zN2tKbnRkOFp4aGlfX3lfbVFIN09aRjd3UHhZem5mQjJ1d21fNWpBbEJ3bkFfZGNPMUFHU08tcFk0Vi1wclEzc19nZTB5ZE5RX21kVWdyZlEyNTFJazdodThUaUx5cjNJS2pSUG",
+    "sources": []
+  },
+  {
     "id": "abtc-2025-09-30-093",
     "date": "2025-09-30",
     "companies": [
@@ -2345,6 +2535,19 @@
     "impact": "neutral",
     "title": "American Battery Technology Company Appoints Energy Sector Financial Executive Lavanya Balakrishnan to Board of Directors – American Battery Technology Company - American Battery Technology Company",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQblQwVWdQX3VsOGxIMWk2alczY1dHS3ZjeXUwVGlQS1JSRDRoallOenRSUWNZU1I3TVRkeUJrdE5MTzZpekdubUxCYUZZQ1pLY0w3UUZOblExQUlQamhYa3pwS2wwRHd0T3ZGTkNOVn",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-09-01-010",
+    "date": "2025-09-01",
+    "companies": [],
+    "topics": [
+      "circular_economy_policy",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Assessing the Circular Economy Transition in the EU: Predictive Insights From an Artificial Neural Network Model - Wiley Online Library",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LNXZjM3B5TEFxem5hQUQ2UXIzM2Eza0tXd0FrQ2paMjZvOW5kQzcycE1qZVNtRFh2aF9IdUVWeUxrTGZLUWJNQVJZVlQ2LVNmT3hNaG9oMDBXdm1WaTJ4cjBYZi1nTm5G?oc=5\" tar",
     "sources": []
   },
   {

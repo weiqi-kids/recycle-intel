@@ -1,0 +1,41 @@
+{
+  "date": "2026-04-21",
+  "total_events": 3,
+  "by_company": {
+    "waste_connections": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "waste_mgmt": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "veolia": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "plastic_recycling": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "circular_economy_policy": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
