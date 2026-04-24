@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-23T09:25:42.570398Z",
-  "quarter": "2025-12-31",
+  "updated_at": "2026-04-24T09:30:25.901616Z",
+  "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
       "id": "abtc",
@@ -133,14 +133,14 @@
       "name": "Waste Connections",
       "ticker": "WCN",
       "currency": "USD",
-      "ar": 1024992000,
-      "ar_prev": 1069645000,
-      "ar_qoq": "-4%",
-      "inventory": 78863000,
-      "inv_prev": null,
+      "ar": 1033086000,
+      "ar_prev": 1024992000,
+      "ar_qoq": "+1%",
+      "inventory": null,
+      "inv_prev": 78863000,
       "inv_qoq": "N/A",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "waste_mgmt",
