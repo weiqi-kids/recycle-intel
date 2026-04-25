@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T09:30:25.901616Z",
+  "updated_at": "2026-04-25T08:48:50.558152Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -91,14 +91,14 @@
       "name": "陶朗",
       "ticker": "TOM.OL",
       "currency": "NOK",
-      "ar": 287600000,
-      "ar_prev": 396000000,
-      "ar_qoq": "-27%",
-      "inventory": 254600000,
-      "inv_prev": 237000000,
-      "inv_qoq": "+7%",
+      "ar": 420000000,
+      "ar_prev": 287600000,
+      "ar_qoq": "+46%",
+      "inventory": 263000000,
+      "inv_prev": 254600000,
+      "inv_qoq": "+3%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "umicore",

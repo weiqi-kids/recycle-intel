@@ -1,0 +1,130 @@
+{
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T08:48:53.292070Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-04-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra Systems ASA (TMRAF) Q1 2026 Earnings Call Highlights: Stro - GuruFocus",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "tomra-2026-04-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra Systems (OB:TOM) Heads Into Q1 2026 With 7.1% Net Margin Testing Bullish Narratives - simplywall.st",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "waste_connections-2026-04-25-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Connections, Inc. (NYSE:WCN) Receives Consensus Recommendation of \"Buy\" from Analysts - MarketBeat",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tomra",
+        "count": 2
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為陶朗、WCN相關動態：「Tomra Systems ASA (TMRAF) Q1 2026 Earnings Call Highlight...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tomra Systems ASA (TMRAF) Q1 2026 Earnings Call Highlights: Stro - GuruFocus（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tomra Systems (OB:TOM) Heads Into Q1 2026 With 7.1% Net Margin Testing Bullis...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
