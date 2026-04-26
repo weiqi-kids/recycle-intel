@@ -18,6 +18,7 @@ companies:
   - waste_connections
   - sims
   - renewi
+  fetch_mode: http
 - id: glencore
   name: Glencore
   aliases:
@@ -34,6 +35,7 @@ companies:
   - aurubis
   - boliden
   - umicore
+  fetch_mode: http
 - id: waste_mgmt
   name: Waste Management
   aliases:
@@ -50,6 +52,7 @@ companies:
   upstream:
   - tomra
   downstream: []
+  fetch_mode: http
 - id: republic
   name: Republic Services
   aliases:
@@ -66,6 +69,7 @@ companies:
   upstream:
   - tomra
   downstream: []
+  fetch_mode: http
 - id: waste_connections
   name: Waste Connections
   aliases:
@@ -81,6 +85,7 @@ companies:
   upstream:
   - tomra
   downstream: []
+  fetch_mode: http
 - id: umicore
   name: Umicore
   aliases:
@@ -96,6 +101,7 @@ companies:
   upstream:
   - glencore
   downstream: []
+  fetch_mode: http
 - id: veolia
   name: Veolia Environnement
   aliases:
@@ -111,6 +117,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Veolia+Environnement"&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: aurubis
   name: Aurubis
   aliases:
@@ -126,6 +133,7 @@ companies:
   upstream:
   - glencore
   downstream: []
+  fetch_mode: http
 - id: boliden
   name: Boliden
   aliases:
@@ -141,6 +149,8 @@ companies:
   upstream:
   - glencore
   downstream: []
+  ir_rss_url: https://www.boliden.com/rss
+  fetch_mode: rss
 - id: sims
   name: Sims Limited
   aliases:
@@ -157,6 +167,8 @@ companies:
   upstream:
   - tomra
   downstream: []
+  ir_rss_url: https://www.simsltd.com/feed/
+  fetch_mode: rss
 - id: renewi
   name: Renewi
   aliases:
@@ -172,6 +184,7 @@ companies:
   upstream:
   - tomra
   downstream: []
+  fetch_mode: http
 - id: kunding
   name: 崑鼎投資控股
   aliases:
@@ -187,6 +200,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Kunding"+waste+treatment&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: abtc
   name: American Battery Technology
   aliases:
@@ -202,6 +216,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="American+Battery+Technology"&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
+  fetch_mode: http
 etfs: []
 supply_chain_positions:
   upstream:
