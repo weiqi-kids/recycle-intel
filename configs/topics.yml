@@ -112,3 +112,56 @@ topics:
       - 跌價
       - price cut
       - price decline
+  industry_general:
+    display: 產業通用
+    keywords:
+    - recycling
+    - waste
+    - scrap
+    - circular economy
+    - reclaim
+    - reuse
+    - landfill
+    - compost
+    - 回收
+    - 廢棄物
+    - 循環經濟
+    - sorting
+    - shredding
+    - incineration
+    - waste-to-energy
+    - recyclable
+    - sustainability
+    - zero waste
+    - disposal
+    - metal
+    - metals
+    - mining
+    - smelter
+    - steel
+    - cobalt
+    - lithium
+    - copper
+    - battery
+    - batteries
+    - EV
+    - oil
+    - logistics
+    - shareholders
+    - shareholder
+    - stock
+    - shares
+    - valuation
+    - annual general meeting
+    - AGM
+    - fertilizer
+    - environment
+    - emission
+    - 金屬
+    - 礦業
+    - 冶煉
+    - 鋼鐵
+    - 鈷
+    - 鋰
+    - 銅
+    - 電池
