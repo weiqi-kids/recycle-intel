@@ -1,16 +1,16 @@
 {
-  "total_raw": 246,
-  "dup_title": 137,
+  "total_raw": 247,
+  "dup_title": 133,
   "no_date": 0,
-  "too_old": 86,
+  "too_old": 87,
   "gate1_fail": 6,
-  "gate2_fail": 17,
-  "passed": 0,
+  "gate2_fail": 18,
+  "passed": 3,
   "gate2_samples": [
     "Tomra opens NC test center - Waste Today -",
     "Tomra Shareholders Approve All Proposals at 2026 Annual General Meeting - The Globe and Mail",
     "Tomra Systems ASA: - marketscreener.com",
-    "Glencore turns to drones to keep workers safer in Timmins - Northern Ontario Business",
-    "NSW Court of Appeal upholds linked port charges in Glencore appeal - Australasian Lawyer"
+    "Glencore Ruling Broadens Scope For Challenge Over Privilege - Law360",
+    "Sandvik DR413i rigs for Glencore Alumbrera restart: drilling strategy notes for engineers - Geomecha"
   ]
 }

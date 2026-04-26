@@ -120,6 +120,44 @@
     ]
   },
   {
+    "id": "unknown-2026-04-25-008",
+    "date": "2026-04-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FR0013445335 Bond Analysis — Key Metrics - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9SM3ZKMERTbjVoOC1ySWpSNWh1ZDJGQzZRYzlzeEwzenI3ckNxZnBxaTRjQ2swVWFwWDA5bGdWeU5EVnVDcU5uR3Y1aFUzeGpCNW5yR2lMZXl6ZWlWZHh1MDkyV29kQ05oNHNtYjMzbE",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SM3ZKMERTbjVoOC1ySWpSNWh1ZDJGQzZRYzlzeEwzenI3ckNxZnBxaTRjQ2swVWFwWDA5bGdWeU5EVnVDcU5uR3Y1aFUzeGpCNW5yR2lMZXl6ZWlWZHh1MDkyV29kQ05oNHNtYjMzbElYaUtPV1UyRmVGYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-04-25-009",
+    "date": "2026-04-25",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement SA (MEX:VIEN) Stock Earnings Transcripts - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fSFZIWUIwVEpMb2NENHBnRXdYZFB2RkwwbE9CdGlUZm5UckYtdTl6REw0WF9BWUhJcThQYTk4azZmaHg5THJiNnpiS3oyanh3cGgxT2hTeHVzSzFkdzNF?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fSFZIWUIwVEpMb2NENHBnRXdYZFB2RkwwbE9CdGlUZm5UckYtdTl6REw0WF9BWUhJcThQYTk4azZmaHg5THJiNnpiS3oyanh3cGgxT2hTeHVzSzFkdzNF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-04-24-001",
     "date": "2026-04-24",
     "companies": [
@@ -971,6 +1009,24 @@
       {
         "name": "google_news_recycling",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeFRWNDlzczZtUmpraElxR3JVSnVsOElnbTUtc19paEhSX2wwZ2pZU09NMmtNb3U4LXF1RURXSHd3NlpxSEdVZ1NFdjFLVlJZM1dCbHNVNlpaN3BVbDBpa3BvTkVVWmNHMGVQYUJnS3ZZS045LXd1YUdyWWNXaldGUGFfdzVvaTUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-04-22-019",
+    "date": "2026-04-22",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "American Battery Technology (ABAT) CEO awarded shares, sells some for taxes - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVURXN2h4RThabHk5VkFsWGRCMmxZTy1acHd3b1czTTFUSEdaTnhsbndwQWR1aENZdm5BWVVlcFZNdi1sX2k0dWVKaGFwSjM3bmJmLWlLYTdKRVhxZFZFRVpWS1BGcXFWVUZTVTQtOU",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVURXN2h4RThabHk5VkFsWGRCMmxZTy1acHd3b1czTTFUSEdaTnhsbndwQWR1aENZdm5BWVVlcFZNdi1sX2k0dWVKaGFwSjM3bmJmLWlLYTdKRVhxZFZFRVpWS1BGcXFWVUZTVTQtOU1HeEpzS19WN25UT1B0T2dwVS1WMjNMeFZIM3dncWdTdTVWdXZDbUZHNmFrWjVza1J1VlI3OC14R0NhZ3dJVHBzYmFfNVlPZFNfSUY3cDBOa0J0dw?oc=5",
         "type": "rss"
       }
     ]

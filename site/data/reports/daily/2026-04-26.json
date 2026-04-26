@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T03:15:57.069828Z",
+  "generated_at": "2026-04-26T08:58:56.336344Z",
   "top_events": [],
   "anomalies": [],
   "topic_trends": {},
@@ -14,6 +14,24 @@
     },
     "top_companies": [],
     "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 247,
+    "dup_title": 133,
+    "too_old": 87,
+    "gate1_blocked": 6,
+    "gate2_blocked": 18,
+    "passed": 3,
+    "pass_rate": "2.6%",
+    "gate2_block_rate": "15.8%",
+    "gate2_samples": [
+      "Tomra opens NC test center - Waste Today -",
+      "Tomra Shareholders Approve All Proposals at 2026 Annual General Meeting - The Globe and Mail",
+      "Tomra Systems ASA: - marketscreener.com",
+      "Glencore Ruling Broadens Scope For Challenge Over Privilege - Law360",
+      "Sandvik DR413i rigs for Glencore Alumbrera restart: drilling strategy notes for engineers - Geomecha"
+    ],
+    "alert": false
   },
   "llm_analysis": {
     "summary": "2026-04-26 無回收產業相關事件。市場處於平靜狀態，無重大訊號。",
