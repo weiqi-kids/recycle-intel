@@ -1,8 +1,34 @@
 {
   "date": "2026-04-26",
-  "total_events": 0,
-  "by_company": {},
-  "by_topic": {},
+  "total_events": 7,
+  "by_company": {
+    "tomra": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "waste_connections": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "veolia": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    },
+    "industry_general": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "baselines_used": {
     "companies": {},
     "topics": {}

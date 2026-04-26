@@ -1,29 +1,214 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T08:58:56.336344Z",
-  "top_events": [],
+  "generated_at": "2026-04-26T14:09:51.886713Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-04-26-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Assessing Tomra Systems (OB:TOM) Valuation After Q1 Earnings Loss And Collection Segment Strength - simplywall.st",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTFQxZmlSTUljUmQtUjRaZDRyaXAwdTJ4cTBOaW95RFdSM2Jzb0tYdVJVZnpSbmk4NjM3MU9ZZU83QWI1TjZoeFgyXzZndTdGZy0tYzlkb3MxQlg0dGd2Q0Jld25DNm9iMWxRbnF6UU9qR2U4Y3ZpRmhmU1hwS2VtRXF0ZnkwYkJ6Qlo3MElsUFQxUXlxZ2xsTDQ0dlZsTW0yb2hpVTlyc3lpS3ZFOWVwcmU3bEM0b0c4X1VDRlQtQ3FFdGZmN1lYY21pdzFabDQ0MVhDQnhjMWRyMUnSAdsBQVVfeXFMTkxUMWZpUk1JY1JkLVI0WmQ0cmlwMHUyeHEwTmlveURXUjNic29LWHVSVWZ6Um5pODYzNzFPWWVPN0FiNU42aHhYMl82Z3U3RmctLWM5ZG9zMUJYNHRndkNCZXduQzZvYjFsUW5xelFPakdlOGN2aUZoZlNYcEtlbUVxdGZ5MGJCekJaNzBJbFBUMVF5cWdsbEw0NHZWbE1tMm9oaVU5cnN5aUt2RTllcHJlN2xDNG9HOF9VQ0ZULUNxRXRmZjdZWGNtaXcxWmw0NDFYQ0J4YzFkcjFJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "waste_connections-2026-04-26-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Connections Growth Momentum Builds Market Confidence - Kalkine Media",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSTFvWDd4OHhTaEtlbW9lWkNTdU91OUpWVWVVeTNVemJtXzhkd2dsNmt1a0ZlNF9DVUJJdmxGV3VKSU56MXZLa0szNUhnM2gzUGdlMVUyUkJiWFhtdDZsU1I0TDRBVjdic2J4aF9NTG9YWWZjWHdUZDFMNWJKQ29nTi05MVVuSkNMcklkOUM4Z3lXbzJpeVNoZVlFV01tYzk3VEF0aHk3TQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "waste_connections-2026-04-26-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Connections (WCN) Valuation Check After Q1 2026 Earnings Beat And Margin Expansion Outlook - Yahoo Finance",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdjk1MGNpMHNPazhEN1I3ckhBZlRkMlJFR1hBdUdtdUxvcUhRejZLWVBSQU8zZWJ0alhDZmNHcGNzN2xLdTB6emNobDB4N1lXWDJPSGZlVUdsVXBMNGVfcmZ0T0VPM0phNEV4dWIwcmJ2QTRJaEFudl9CN3IwV2Uxa3FrTDh2WkxueGwyQ0dpaS1vWVNVRnQwUXZkWFdtc1ctZEw4cA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "veolia-2026-04-26-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Targets Data Centers With New Resource 360 Sustainability Offer - Yahoo Finance UK",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnptdXR1eDVXcHVwQmZ5MnpDUHRGWnRkSWZ1Qk5wblJhcEMta1dqNTRSYzZSRjZrVXpkMjhVQ2lRVFRYS2RRM09jZExCdDZteXNBYnRaQ3gxZkpxd1M2Z2NmWGs5S1p4S0wwMlEwQmFualFueGRJVFVTMmtTU214WDZaeE1Ta28?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "veolia-2026-04-26-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement S.A. stock (FR0000124141): Why Google Discover changes matter more now - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQlQyd21KSjhoamVSM2o5UURUakFQQ1ViUDZ4QlM3bFhJb0QwekJlUDJaNWJ0bWFHMWszRnVfT1RkUjV0SDFveVFMREkyaVhkSzNFNWhDa29fbkVVRHI3blJ0MkdSbWdZUDhwNjV5YThPMlZ4TW01QzhrcUtoRFlsSkl5ZldYem9vYVBfRGdNTGtxcWNDREZpTnd2V2FmRzJkMUpQVkJQSmRIa25OdFlQR05aRm9UWGZiSzJwbGcxdw?oc=5"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 7,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0
+      "positive": 2,
+      "neutral": 4,
+      "negative": 1
     },
-    "top_companies": [],
-    "top_topics": []
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 3
+      },
+      {
+        "id": "veolia",
+        "count": 2
+      },
+      {
+        "id": "tomra",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 247,
-    "dup_title": 133,
-    "too_old": 87,
-    "gate1_blocked": 6,
-    "gate2_blocked": 18,
-    "passed": 3,
-    "pass_rate": "2.6%",
-    "gate2_block_rate": "15.8%",
+    "total_raw": 535,
+    "dup_title": 260,
+    "too_old": 214,
+    "gate1_blocked": 7,
+    "gate2_blocked": 20,
+    "passed": 34,
+    "pass_rate": "12.4%",
+    "gate2_block_rate": "7.3%",
     "gate2_samples": [
       "Tomra opens NC test center - Waste Today -",
       "Tomra Shareholders Approve All Proposals at 2026 Annual General Meeting - The Globe and Mail",
@@ -34,15 +219,15 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "2026-04-26 無回收產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 7 則事件，焦點為WCN、威立雅、陶朗相關動態：「Assessing Tomra Systems (OB:TOM) Valuation After Q1 Earni...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
-        "level": "green"
+        "text": "Assessing Tomra Systems (OB:TOM) Valuation After Q1 Earnings Loss And Collect...（財報、產業通用）",
+        "level": "red"
       },
       {
-        "text": "建議持續監控後續發展動態。",
-        "level": "green"
+        "text": "Waste Connections Growth Momentum Builds Market Confidence - Kalkine Media（財報、產業通用）",
+        "level": "yellow"
       }
     ]
   },

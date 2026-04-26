@@ -1,11 +1,11 @@
 {
-  "total_raw": 247,
-  "dup_title": 133,
+  "total_raw": 535,
+  "dup_title": 260,
   "no_date": 0,
-  "too_old": 87,
-  "gate1_fail": 6,
-  "gate2_fail": 18,
-  "passed": 3,
+  "too_old": 214,
+  "gate1_fail": 7,
+  "gate2_fail": 20,
+  "passed": 34,
   "gate2_samples": [
     "Tomra opens NC test center - Waste Today -",
     "Tomra Shareholders Approve All Proposals at 2026 Annual General Meeting - The Globe and Mail",
