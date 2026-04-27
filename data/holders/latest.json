@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T14:09:51.434181+00:00",
+  "updated_at": "2026-04-27T01:40:24.011490+00:00",
   "companies": {
     "tomra": {
       "name": "TOMRA Systems",
@@ -361,7 +361,7 @@
           "holder": "PUBLIC EMPLOYEES RETIREMENT SYSTEM OF OHIO",
           "shares": 81202,
           "pct_held": 0.04,
-          "value": 1660580
+          "value": 1681693
         }
       ]
     },

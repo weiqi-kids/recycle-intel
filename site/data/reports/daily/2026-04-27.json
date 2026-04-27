@@ -1,0 +1,92 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T01:40:25.740167Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "waste_connections-2026-04-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Investors May Respond To Waste Connections (WCN) AI-Powered Pricing And M&A-Fueled Expansion - simplywall.st",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYmZCSG9xaHJRNTdaNXRvTjdCbkQ0S2VLSHAtaHIwd0FLOFp5M1Q5TTdKWlpqNjRmM1RkcVkxaG1wcndINGNOOC11dlZ2THBEMDcyX1lOak1aVTM5M0FObzlRZDhYaTdTeEdZWFNzbW1PQ0djNF92WXczSDRLNTJmeHVlUXJsdkJPcWdPM092OVhpVDNnX2JFNnFsR2ExN3lzb25FSTZ4NFBJNWN3X0JVbjQ0ZkZ1UDlxX3ZVVjJIQUlzc1Z4VC1ibVgta2J5NE12ZmhhN09PRnJTU29R0gHiAUFVX3lxTE9jc0NqZEVFanZGQVFCWXZpYjZ5am4xS1JnR1VybFc1cnNlbXI4SXd3SUtYTGdtaHJ0ejMzRDFyUFZVeHA0bGFNeVM0czJraHZTQkpPT3NTalNyRTh5YnVLaWFoMUY3Nk1WRUg2YzVMZ0QzVXctWHJhT3BOdlJhT1lHTng3UFFsYkl1czdLVUFhLUVhRkcwS0xEbGwzY1NpX1RPaG1jUHNtZHF5NU9SRlM5NlBoUFhDZlh3aVVUNlp0NTV1MTgwV2k2OGpoOXpXMkRxSFM1dVYxZXVVS05JY0NhT2c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 151,
+    "too_old": 124,
+    "gate1_blocked": 1,
+    "gate2_blocked": 3,
+    "passed": 8,
+    "pass_rate": "5.9%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "Glencore Ruling Broadens Scope For Challenge Over Privilege - Law360",
+      "Veolia Environnement (VIE) Status Update Summary - Quartr",
+      "Navigating PCR procurement? A new tool could help."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為WCN相關動態：「How Investors May Respond To Waste Connections (WCN) AI-P...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "How Investors May Respond To Waste Connections (WCN) AI-Powered Pricing And M...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "WCN為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
