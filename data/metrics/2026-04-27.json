@@ -1,23 +1,35 @@
 {
   "date": "2026-04-27",
-  "total_events": 2,
+  "total_events": 8,
   "by_company": {
     "waste_connections": {
       "count": 1,
       "sentiment_avg": 0.0
     },
     "waste_mgmt": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tomra": {
       "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "glencore": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 3,
       "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "industry_general": {
-      "count": 2,
+      "count": 6,
       "sentiment_avg": 0.0
     },
     "earnings": {
-      "count": 1,
+      "count": 6,
       "sentiment_avg": 0.0
     }
   },

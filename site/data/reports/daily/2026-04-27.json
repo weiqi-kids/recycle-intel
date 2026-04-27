@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:36:19.660818Z",
+  "generated_at": "2026-04-27T10:11:31.229779Z",
   "top_events": [
     {
       "rank": 1,
@@ -29,31 +29,108 @@
     },
     {
       "rank": 2,
-      "event_id": "waste_connections-2026-04-27-001",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "How Investors May Respond To Waste Connections (WCN) AI-Powered Pricing And M&A-Fueled Expansion - simplywall.st",
+      "event_id": "tomra-2026-04-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rockets, Returns, Recycling: Investors Sense Geopolitical Tailwinds for Nel ASA, RE Royalties, and Tomra Systems - news.financial",
       "companies": [
-        "waste_connections"
+        "tomra"
       ],
       "related": {
         "customers": [],
         "suppliers": []
       },
       "topics": [
+        "earnings",
         "industry_general"
       ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
       },
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYmZCSG9xaHJRNTdaNXRvTjdCbkQ0S2VLSHAtaHIwd0FLOFp5M1Q5TTdKWlpqNjRmM1RkcVkxaG1wcndINGNOOC11dlZ2THBEMDcyX1lOak1aVTM5M0FObzlRZDhYaTdTeEdZWFNzbW1PQ0djNF92WXczSDRLNTJmeHVlUXJsdkJPcWdPM092OVhpVDNnX2JFNnFsR2ExN3lzb25FSTZ4NFBJNWN3X0JVbjQ0ZkZ1UDlxX3ZVVjJIQUlzc1Z4VC1ibVgta2J5NE12ZmhhN09PRnJTU29R0gHiAUFVX3lxTE9jc0NqZEVFanZGQVFCWXZpYjZ5am4xS1JnR1VybFc1cnNlbXI4SXd3SUtYTGdtaHJ0ejMzRDFyUFZVeHA0bGFNeVM0czJraHZTQkpPT3NTalNyRTh5YnVLaWFoMUY3Nk1WRUg2YzVMZ0QzVXctWHJhT3BOdlJhT1lHTng3UFFsYkl1czdLVUFhLUVhRkcwS0xEbGwzY1NpX1RPaG1jUHNtZHF5NU9SRlM5NlBoUFhDZlh3aVVUNlp0NTV1MTgwV2k2OGpoOXpXMkRxSFM1dVYxZXVVS05JY0NhT2c?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY2dMTm1oLXNZTGxuUlkybGxubjh2aS1yMUthZ2NadkpKTkkxY2Jkd2pBTVBBT2FUTmlmYS0zT0VwOFpZUGJNZUdjbVNJT2J1NTJ5M1hzb1JGaFE3am1LRWpwbnVPY3VISllXYTNwWXFwSzJMOC1yY3REX2hGQ0phU1g5dE9QRmtnYzdvSURBcG1NTWszbmhHVi1FazBaVXdOYW8yU2REV0JTQlJPaWc1Q3NILUc5ckk5ZURiRnVYRTRibHowLWVWTWtHdWJaanZmNVRkdmxn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "waste_mgmt-2026-04-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings To Watch: Waste Management (WM) Reports Q1 Results Tomorrow - TradingView",
+      "companies": [
+        "waste_mgmt"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcE1nR3BEUk9VLVI0WWV1UU82S2ZqTmxfTmE1b3FBb2xhUHRDTk5MSWxuR1lHODI2bkxCQkhfbjcyNDNjRGEzQUM1NlBEUERvLVp2QXM2V1VZdTVPT0FCQUpaSm5ndURva04zZnJxRGRPakRzQVhYcnhZeE1WeGhMNzBHbFJMUnhaRHluUVRJNlVVc1BqWGtzN0JfRklqaXdWcHVzMFhmY1hRMmZ6NXJwUTllbzk0STlScXpPVzJPSHUtNDdP?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "veolia-2026-04-27-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement (VEOEY) Partners with Amazon on Innovative Cooling Solutions - GuruFocus",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTRqZmpqWmEzdzFxLXdmY21JTHlhQ1pyVnVGYTF3S1J5a01VYWZ1VTBkQzZoYnl6Ui1PUFRoQmNCZjB4ZWJ6RnYyVmJ3eXdLd2xJdXFlNXBpZFE0SzVUbjkyb1JCeFhFTWdfMEV4OFJiMlZnaU85RG1GakItSUd2OEpBcFlrVFRfb3hnazZwZkdkX1pRTVZEeTZhVF9tSm5DZjBnS2hpVWxWLXJBdS1lSHpINjFBSUh1WHc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "veolia-2026-04-27-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement : Inside Information / Other news releases - marketscreener.com",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1d4SkNvT1h6SmFmUW94TXlFUFRqbDJ2NDBrUWYxWVFrdGpoSnl4UDBNN2dqQ2ZDNjVmUndFb0NoZ2UzVHdPdUNiUllKMzBzdkd4dTVoRkpyQnlXVVpuY0thNnprV2prMFVZSXpnNmo0OUJQelFaclhqSzZZUkFXMF9vdC1IakF0QlNqWmVYX0dOUDlhYXZicUZVQlhUVjdGcm8weWlwc0lRR3A0R1QyZWZB?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
-      "today": 2,
+      "today": 6,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -63,7 +140,7 @@
       "sentiment_7d_avg": null
     },
     "earnings": {
-      "today": 1,
+      "today": 6,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -75,41 +152,53 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 2,
+    "total_events": 8,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 2,
+      "neutral": 8,
       "negative": 0
     },
     "top_companies": [
+      {
+        "id": "veolia",
+        "count": 3
+      },
+      {
+        "id": "waste_mgmt",
+        "count": 2
+      },
       {
         "id": "waste_connections",
         "count": 1
       },
       {
-        "id": "waste_mgmt",
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "glencore",
         "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 2
+        "count": 6
       },
       {
         "id": "earnings",
-        "count": 1
+        "count": 6
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 575,
-    "dup_title": 305,
-    "too_old": 251,
-    "gate1_blocked": 1,
-    "gate2_blocked": 6,
-    "passed": 12,
-    "pass_rate": "4.4%",
+    "total_raw": 863,
+    "dup_title": 463,
+    "too_old": 370,
+    "gate1_blocked": 2,
+    "gate2_blocked": 9,
+    "passed": 19,
+    "pass_rate": "4.8%",
     "gate2_block_rate": "2.2%",
     "gate2_samples": [
       "Glencore Ruling Broadens Scope For Challenge Over Privilege - Law360",
@@ -121,15 +210,15 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 2 則事件，焦點為WCN、廢管相關動態：「Earnings To Watch: Waste Management (WM) Reports Q1 Resul...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "summary": "今日共 8 則事件，焦點為威立雅、廢管、WCN相關動態：「Earnings To Watch: Waste Management (WM) Reports Q1 Resul...」。主要關注主題為產業通用、財報，市場情緒中性。",
     "signals": [
       {
         "text": "Earnings To Watch: Waste Management (WM) Reports Q1 Results Tomorrow - Financ...（財報、產業通用）",
         "level": "yellow"
       },
       {
-        "text": "How Investors May Respond To Waste Connections (WCN) AI-Powered Pricing And M...（產業通用）",
-        "level": "green"
+        "text": "Rockets, Returns, Recycling: Investors Sense Geopolitical Tailwinds for Nel A...（財報、產業通用）",
+        "level": "yellow"
       }
     ]
   },
