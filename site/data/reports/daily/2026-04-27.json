@@ -1,9 +1,34 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T01:40:25.740167Z",
+  "generated_at": "2026-04-27T03:36:19.660818Z",
   "top_events": [
     {
       "rank": 1,
+      "event_id": "waste_mgmt-2026-04-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings To Watch: Waste Management (WM) Reports Q1 Results Tomorrow - FinancialContent",
+      "companies": [
+        "waste_mgmt"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNajJXanZuQ01KNEU5eVpwZmJKcWUyUnJUSU1QdG1JV2Z4Z2JEMkRtUlZxbENWalprU3h1Um44NmxtNXpiZ1k5TnhVN1VPLVM5TnRrOFY5S2FIdFhubDI5ZzZVdnRDemZlR2JLakZXU2lNV2gtTHBJeldEOXJSajNZTHVOVU1Id3Z3NGxkX1VfNEFoVEMwRlJZMDJFdlVwLTV3eFRPRzVqOUZSaWNPVVYzU0FOWlZKd2xnUjRqd242R0VTQ3RjMmc?oc=5"
+    },
+    {
+      "rank": 2,
       "event_id": "waste_connections-2026-04-27-001",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -28,6 +53,16 @@
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
       "today": 1,
       "7d_avg": 0,
       "30d_avg": 0,
@@ -40,50 +75,60 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 1,
+    "total_events": 2,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 1,
+      "neutral": 2,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "waste_connections",
         "count": 1
+      },
+      {
+        "id": "waste_mgmt",
+        "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
         "count": 1
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 287,
-    "dup_title": 151,
-    "too_old": 124,
+    "total_raw": 575,
+    "dup_title": 305,
+    "too_old": 251,
     "gate1_blocked": 1,
-    "gate2_blocked": 3,
-    "passed": 8,
-    "pass_rate": "5.9%",
+    "gate2_blocked": 6,
+    "passed": 12,
+    "pass_rate": "4.4%",
     "gate2_block_rate": "2.2%",
     "gate2_samples": [
       "Glencore Ruling Broadens Scope For Challenge Over Privilege - Law360",
       "Veolia Environnement (VIE) Status Update Summary - Quartr",
-      "Navigating PCR procurement? A new tool could help."
+      "Navigating PCR procurement? A new tool could help.",
+      "Glencore Ruling Broadens Scope For Challenge Over Privilege - Law360",
+      "Veolia Environnement (VIE) Status Update Summary - Quartr"
     ],
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 1 則事件，焦點為WCN相關動態：「How Investors May Respond To Waste Connections (WCN) AI-P...」。主要關注主題為產業通用，市場情緒中性。",
+    "summary": "今日共 2 則事件，焦點為WCN、廢管相關動態：「Earnings To Watch: Waste Management (WM) Reports Q1 Resul...」。主要關注主題為產業通用、財報，市場情緒中性。",
     "signals": [
       {
-        "text": "How Investors May Respond To Waste Connections (WCN) AI-Powered Pricing And M...（產業通用）",
-        "level": "green"
+        "text": "Earnings To Watch: Waste Management (WM) Reports Q1 Results Tomorrow - Financ...（財報、產業通用）",
+        "level": "yellow"
       },
       {
-        "text": "WCN為今日主要關注企業。",
+        "text": "How Investors May Respond To Waste Connections (WCN) AI-Powered Pricing And M...（產業通用）",
         "level": "green"
       }
     ]

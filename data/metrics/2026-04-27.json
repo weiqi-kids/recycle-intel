@@ -1,14 +1,22 @@
 {
   "date": "2026-04-27",
-  "total_events": 1,
+  "total_events": 2,
   "by_company": {
     "waste_connections": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "waste_mgmt": {
       "count": 1,
       "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "industry_general": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
       "count": 1,
       "sentiment_avg": 0.0
     }

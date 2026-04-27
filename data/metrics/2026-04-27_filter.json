@@ -1,14 +1,16 @@
 {
-  "total_raw": 287,
-  "dup_title": 151,
+  "total_raw": 575,
+  "dup_title": 305,
   "no_date": 0,
-  "too_old": 124,
+  "too_old": 251,
   "gate1_fail": 1,
-  "gate2_fail": 3,
-  "passed": 8,
+  "gate2_fail": 6,
+  "passed": 12,
   "gate2_samples": [
     "Glencore Ruling Broadens Scope For Challenge Over Privilege - Law360",
     "Veolia Environnement (VIE) Status Update Summary - Quartr",
-    "Navigating PCR procurement? A new tool could help."
+    "Navigating PCR procurement? A new tool could help.",
+    "Glencore Ruling Broadens Scope For Challenge Over Privilege - Law360",
+    "Veolia Environnement (VIE) Status Update Summary - Quartr"
   ]
 }
