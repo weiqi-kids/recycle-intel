@@ -1,0 +1,158 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T10:10:47.607117Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "boliden-2026-04-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Boliden's Q1 2026: Solid performance despite abnormal seismic activity in Garpenberg",
+      "companies": [
+        "boliden"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-04-28-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sandvik Wins Glencore Order for DR413i Drill Rigs for Argentina Copper Mine Restart - News and Statistics - IndexBox",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMmwyYlJzY0t5ZjFKRzFoekFUU1QwZGxYcF85MU95V3RmTzNJS1l0dFRvaURKT2k4ekZNSXVuZ01QUUlsMV9BN2RMTFlOb0dlY0g4bi1nakpWOTR0SzF4clBrcjlzN1kyVGJ4bmIzY0xHMW1BMkpkMnA3elZsby0tMXJDdGNWa1FMU1g0bl9mYUdFMG9fR2xFei1yck83OFJEbVRGbjRaNGtDQmlBMXQ4UFBhMm9panhNcmlmRVBVdVZ5YzEtMGRheFVaTk1XS0M1?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-04-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Article: Glencore sells Colombian rail assets - Latin Lawyer",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VVDdhbnJVZDN5N0dvTEMtZXdZUllUajU0M0RIdXN5R1BDZ1NxNVB1aEJyQWh3TTd1NDJ4WGhuZDljNDVwNmVRMHlnUlhYcm9Fbk1tNng3WWYtWldSd3pRME1YZkstZ2RYdW5OX0tHV3hXZFV0Xzk0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 2
+      },
+      {
+        "id": "boliden",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 150,
+    "too_old": 118,
+    "gate1_blocked": 1,
+    "gate2_blocked": 3,
+    "passed": 14,
+    "pass_rate": "10.3%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "Veolia Environnement (VIE) Status Update Summary - Quartr",
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+      "A year after EJScreen shut down, researchers envision better tools"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為嘉能可、博利登相關動態：「Boliden's Q1 2026: Solid performance despite abnormal sei...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Boliden's Q1 2026: Solid performance despite abnormal seismic activity in Gar...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Sandvik Wins Glencore Order for DR413i Drill Rigs for Argentina Copper Mine R...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

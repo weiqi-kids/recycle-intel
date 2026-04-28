@@ -1,0 +1,14 @@
+{
+  "total_raw": 286,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 1,
+  "gate2_fail": 3,
+  "passed": 14,
+  "gate2_samples": [
+    "Veolia Environnement (VIE) Status Update Summary - Quartr",
+    "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+    "A year after EJScreen shut down, researchers envision better tools"
+  ]
+}
