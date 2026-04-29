@@ -1,5 +1,66 @@
 [
   {
+    "id": "glencore-2026-04-29-001",
+    "date": "2026-04-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Publishes Notice for 2026 Annual General Meeting in Zug - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDh2SlhTNk1uWXBRMWp6Y2p5bXFmc0d3QlRxX1VXNmpGdEJfVnUyNDA2Q1B4NmVIVzFpaFdJbjVGcEYtbWxmOXFwMlkxUGNQakdxUTFPaVJWSWgzWnRfZnpqcEFmMDljVHVmOGU3RT",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDh2SlhTNk1uWXBRMWp6Y2p5bXFmc0d3QlRxX1VXNmpGdEJfVnUyNDA2Q1B4NmVIVzFpaFdJbjVGcEYtbWxmOXFwMlkxUGNQakdxUTFPaVJWSWgzWnRfZnpqcEFmMDljVHVmOGU3RThzaU1ZNWZ6TmNkYjB5MkozNzBsUlR3aEpYYklfU3czcm5LdExubTFTQzY3WnRNOUxwbTVpUC1PYnVvY0hkZzZKbllicy0tLVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-29-002",
+    "date": "2026-04-29",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Casella Waste Systems (CWST) Q1 Earnings Report Preview: What To Look For - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQZnBjLUROam9ORTF3d0dQbnp4YlJnbHRLMExfcHo5OENDamtnODkybng0RGpzNzh1bHREVFIwWndCLU5ZVnFzVnhJNzQwU21Ic1NlWDE1ZDNHZmpOQWcxX2k3Nk9Yb2Jab3V1N2tiOE",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZnBjLUROam9ORTF3d0dQbnp4YlJnbHRLMExfcHo5OENDamtnODkybng0RGpzNzh1bHREVFIwWndCLU5ZVnFzVnhJNzQwU21Ic1NlWDE1ZDNHZmpOQWcxX2k3Nk9Yb2Jab3V1N2tiOENPZDJ3Q1l0QjZPSVF2LUU3YlVVLTB6VnU4NVJ4ODk3UGNqcl9FT2pBZUxQSVd3SDdFNGxIbUxJVkdCSGo1Q2dTbHVDc3paWDZjRElQWmJhTDN5dDBZSVlLMDRBYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-04-29-003",
+    "date": "2026-04-29",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analysts Conflicted on These Industrial Goods Names: Waste Connections (WCN) and Moog (MOG.A) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbzFVNnA5ZDNoZnhZVTEzcmRyUUF5YllfdklhMm53X1RVT254YnpRWnk0X1gtWDdCYTliRmU2bHRTWVJYanNsamNqTW0xVnppQlpTREJ2NUdvaHR1el9ZNXF1QzgzMVkyTW9iWVQwbk",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbzFVNnA5ZDNoZnhZVTEzcmRyUUF5YllfdklhMm53X1RVT254YnpRWnk0X1gtWDdCYTliRmU2bHRTWVJYanNsamNqTW0xVnppQlpTREJ2NUdvaHR1el9ZNXF1QzgzMVkyTW9iWVQwbk1XSnRwbGlkaEtldXlEbEMyUzZiVzdrQUhjWnZKMURvQVVuME5DSzhQRlNpNW9OYnA3ZzR4RDF5a3JTQWR1NkM0UE5DZ1dMNWJfOFlRa0YydjFZcXBlamVtb193YThHQ282dmVPc1FuNFpiNXd2UWJYbzBaaldlQzdfS29UUkRUUmdsdV9RVm9QWEJsOTg1UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "boliden-2026-04-28-001",
     "date": "2026-04-28",
     "companies": [
@@ -49,6 +110,271 @@
       {
         "name": "glencore",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMmwyYlJzY0t5ZjFKRzFoekFUU1QwZGxYcF85MU95V3RmTzNJS1l0dFRvaURKT2k4ekZNSXVuZ01QUUlsMV9BN2RMTFlOb0dlY0g4bi1nakpWOTR0SzF4clBrcjlzN1kyVGJ4bmIzY0xHMW1BMkpkMnA3elZsby0tMXJDdGNWa1FMU1g0bl9mYUdFMG9fR2xFei1yck83OFJEbVRGbjRaNGtDQmlBMXQ4UFBhMm9panhNcmlmRVBVdVZ5YzEtMGRheFVaTk1XS0M1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boliden-2026-04-28-004",
+    "date": "2026-04-28",
+    "companies": [
+      "boliden"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Communiqué from Boliden's Annual General Meeting",
+    "summary": "Boliden's Annual General Meeting was held on April 28, 2026 live in Askersund/Zinkgruvan and through postal voting.\n\n\n\nBoard of Directors\n\nThe…",
+    "sources": []
+  },
+  {
+    "id": "glencore-2026-04-28-005",
+    "date": "2026-04-28",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Merafe Resources says Q1 attributable ferrochrome production from Glencore Merafe Chrome Venture 3kt - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM2tFTWl3M04tcEFCRTc2Y0pDTXJJVnl0QnBGb29Qd3FYeDVwNE9ZTDdrRzFPSG81Vkl4c2wxS2l3dG1xNnc4bW5SUURVM09Pam1Hb0pZM3NoRm1mVDhzM2wtQmFocTN4Y19KT2J0Vz",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM2tFTWl3M04tcEFCRTc2Y0pDTXJJVnl0QnBGb29Qd3FYeDVwNE9ZTDdrRzFPSG81Vkl4c2wxS2l3dG1xNnc4bW5SUURVM09Pam1Hb0pZM3NoRm1mVDhzM2wtQmFocTN4Y19KT2J0VzU4Y2pJUEJhZnFmTUVxeHlYM21wWG9hQXBzWnJEVW1nT0ZUWlJSWWh5YUp1d2lqOUZTRnBVLWllZmczcWwtSkVTNzlLRDFUa1F1YjRWaldhOWo3ZEw5VGhtb05lM0tJT2VLdVhGc3gwcjJUTEYtV0F2cWJnbllsVWJM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_mgmt-2026-04-28-006",
+    "date": "2026-04-28",
+    "companies": [
+      "waste_mgmt"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "WM Announces First Quarter 2026 Earnings",
+    "summary": "Strong Performance Drives Cash Flow from Operations 24% Higher to $1.5 Billion The Company Reaffirms its Full-Year Financial Outlook WM Completes Three Recycling Facilities Adding Key Capacity in Grow",
+    "sources": [
+      {
+        "name": "waste_mgmt",
+        "url": "https://investors.wm.com/news-releases/news-release-details/wm-announces-first-quarter-2026-earnings",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-04-28-007",
+    "date": "2026-04-28",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "plastic_recycling",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Final Trades: Apple, Waste Connections, Synopsys and Coca-Cola - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3AxN2VQN1Nxby15SlRBbTZ0V2lQVTJxZFBNS1oyNzhqOXViYVdUM3lCVnFEU2N3dUFhQ2hYM2dIak1La0pGTXRIekNfQS1oT2xhZHBjbEo4TGN4UEg0aFJ5bGpGYjdMTmVyWGRQcV",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3AxN2VQN1Nxby15SlRBbTZ0V2lQVTJxZFBNS1oyNzhqOXViYVdUM3lCVnFEU2N3dUFhQ2hYM2dIak1La0pGTXRIekNfQS1oT2xhZHBjbEo4TGN4UEg0aFJ5bGpGYjdMTmVyWGRQcVMxa1ZNVTZtaF9PeVJMY0Q1RTlXaF9WUmxENHFMZDRpeTVCM2RXWk0tV0ppeFpBOVBiUU9iaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-04-28-008",
+    "date": "2026-04-28",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Stock Gains 3.2% Since Q1 Earnings Beat - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOWlFVclROVnFya2xYQWVJa1ExT2NpQU1DZVk1NTZWRVYyc29tN2doc1RCbjdvTU1tNkViOHVWcHY5ODdaQUJ0czNxZ1FrallLbE5FTjRwV24zVEVKS29PY1NjRUY1WE16YjZtdi1oQV",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWlFVclROVnFya2xYQWVJa1ExT2NpQU1DZVk1NTZWRVYyc29tN2doc1RCbjdvTU1tNkViOHVWcHY5ODdaQUJ0czNxZ1FrallLbE5FTjRwV24zVEVKS29PY1NjRUY1WE16YjZtdi1oQV9LcGVxQjZuYWRnXzlrQXJJWFFsMklaQk9kbVM0Y1hKeWhaRkdia0d2TE9GLWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-04-28-009",
+    "date": "2026-04-28",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vanguard Group Inc. Sells 422,453 Shares of Waste Connections, Inc. $WCN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQVzZFWkZGRG52RW5CYmZ6RHJERXpOM1RvMmdkY0kyZHdxcGY5blktNUd6VG93WWdRU3VLODdlRmJyUzd2akxKT1oxNkFCWlFPRlAzc2JtWDFLOVBKNUt6TDdZaUc5SjN0MlE5a1VLSG",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVzZFWkZGRG52RW5CYmZ6RHJERXpOM1RvMmdkY0kyZHdxcGY5blktNUd6VG93WWdRU3VLODdlRmJyUzd2akxKT1oxNkFCWlFPRlAzc2JtWDFLOVBKNUt6TDdZaUc5SjN0MlE5a1VLSGFWQVNRUG9aUGl2dER0RndvMV84d0ZGZ2ZwUjRBUUdZa0ZsRGpnQ2V0cEtQbEJHVnNITGJVc1htbkxiX29hZGFUcllGeTRKVF9ZdDI5VW9OWUZBbmFmd0NR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-04-28-010",
+    "date": "2026-04-28",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vanguard Capital Management (NYSE: WCN) reports 19.9M shares, 7.78% - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQMXlJNG1TSEk2LU1uczZuaksyQzIzbzJ3d3pBTk16RmNrNVhPU1VHdXRsUXVLTzBlNkpVU0VUaGJkRlVYMU1URjhpalhzUkxwbzlLZTdEMktsVGJqTUhXYVlyTWJtVUJXWlJSSXpZUl",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMXlJNG1TSEk2LU1uczZuaksyQzIzbzJ3d3pBTk16RmNrNVhPU1VHdXRsUXVLTzBlNkpVU0VUaGJkRlVYMU1URjhpalhzUkxwbzlLZTdEMktsVGJqTUhXYVlyTWJtVUJXWlJSSXpZUl9rOGhJM3JReWZPXzZVdmV6em1VXzc3ajRkS3JVTWVWazh3aGJ1czhjMVhBVjZxcXEwYnZveVNOVWFEZGRMTE5oN0ZVMEJrNmppS3pnNUNqSi0xUHQ2SGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-04-28-011",
+    "date": "2026-04-28",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "R Squared Ltd Has $727,000 Stock Holdings in Waste Connections, Inc. $WCN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYUxRQ2lWd3RQYVBuTHdWcWxueG8yZms2djRKQ3ZXeG9SNU5TWmMzVUhfVW4tZjFtUzdPY1B6Zmxtd3RyX080TW1NU2c2TjYyRWJMbnBjZ1pqNkZrWEQxNGEyQ2h1cEpMVXkzTG9ha2",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYUxRQ2lWd3RQYVBuTHdWcWxueG8yZms2djRKQ3ZXeG9SNU5TWmMzVUhfVW4tZjFtUzdPY1B6Zmxtd3RyX080TW1NU2c2TjYyRWJMbnBjZ1pqNkZrWEQxNGEyQ2h1cEpMVXkzTG9ha2F5eXp1bmgyMzQ1NmJONk5TcF9fcTlhWHZRUTdfa2dHdDZ3clFlbWNBT3BwNkFDa0hBN29wdklJNE51LXoydHE4UG9IbkMyMnQzOVVQZ1ZsNm5SZlJYb0dXUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-04-28-012",
+    "date": "2026-04-28",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia to develop reclaimed-water systems for cooling data centers with Amazon - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxNMlRQdGhnZDNwQkt5a0VTWTJ2Ry1uazZTeXpqRHVnNlFub0ZtXzQtQklGZnFQQkFVamhSa1Q1RzI2YUgyOUhySnBFd0dmLTk4V0xSZnB4M2hZV3BvNzB6TndySmZ4U1hrQUVSSUNCbV",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNMlRQdGhnZDNwQkt5a0VTWTJ2Ry1uazZTeXpqRHVnNlFub0ZtXzQtQklGZnFQQkFVamhSa1Q1RzI2YUgyOUhySnBFd0dmLTk4V0xSZnB4M2hZV3BvNzB6TndySmZ4U1hrQUVSSUNCbVM4Z1hwNF83RG5aOEl5cS1NUzdWWTM2cHlvNEMtSlYwSjlySW1FWENZUmhTU28yam56QTRaT0JwRXQ4NllYbnBPRVZEMHp1cm0ya1BBRWJocnV4UDV6MTdtaDd6YVhtVnhoUnVyVzJtSExoSVdjeUFjcFhFVFB5UGtzUGZYOUJfd0h2MWM0TTR1Ykw2d1NwNGl4NXlIRVV6UjdGSjZmNVlGTFpDYmZ3SHJVMFdPYlBrZ3lSTFlCUXVFZnppaFE2ZlZkcFpQZnZLM3BiSzZaLWZIQTdTeklzQXdzYVp5SDFGVi1MVDhQaVRWNw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boliden-2026-04-28-013",
+    "date": "2026-04-28",
+    "companies": [
+      "boliden"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Boliden AB stock (SE0022415691): Why copper demand surge matters more now for metals investors? - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0pzRW9Hc1FCS05Va1JoU21qSWhDRmJWbDZZTml2LUFkZm9lSlh3WnhQLTREZGVYNDFVZDlmaWo0MFp5QmhfSGZCX05iSm1WUXpoZmw4TldMckNDNFBzMEh6YTctOGV5Q1VDZ2dCb1",
+    "sources": [
+      {
+        "name": "boliden",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0pzRW9Hc1FCS05Va1JoU21qSWhDRmJWbDZZTml2LUFkZm9lSlh3WnhQLTREZGVYNDFVZDlmaWo0MFp5QmhfSGZCX05iSm1WUXpoZmw4TldMckNDNFBzMEh6YTctOGV5Q1VDZ2dCb1Zla241SllpOW5vVFVtLTgyZG1xMWpRR0Z3WkVhbzRKckJuVng1cWI1TkNPU2tuN3RVcWpoaVZLVEZCME50SDlSLUlDc0tXdnlGc2FvR3lNWmJ4dHQwa1dwZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "republic-2026-04-28-014",
+    "date": "2026-04-28",
+    "companies": [
+      "republic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Republic Services planning major increase in organics processing",
+    "summary": "<p>Spurred by regulations and customer enthusiasm, the company is growing its operations in California and Colorado. Chris Seney, Republic&rsquo;s organics program director, said the waste giant is re",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/republic-services-organics-processing-infrastructure-growth-california-denver/818678/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-28-015",
+    "date": "2026-04-28",
+    "companies": [],
+    "topics": [
+      "circular_economy_policy",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Trade Industry Drives Sustainability, Circular Economy, and Global Resource Efficiency - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPc3hYclpVcEZuSTM0VXF0aFBDU0JNd0RDZU81bDhIMUkycUxDb25vRFZ6bVBrYkUtLWFMMGo4Z0ZLaWljS1lndGswZnBWdGlnaFRZNlNpM0xYampQQ2dvMkVHbzJNd2xnUGtKMExLRH",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc3hYclpVcEZuSTM0VXF0aFBDU0JNd0RDZU81bDhIMUkycUxDb25vRFZ6bVBrYkUtLWFMMGo4Z0ZLaWljS1lndGswZnBWdGlnaFRZNlNpM0xYampQQ2dvMkVHbzJNd2xnUGtKMExLRHBmdDlmOWh3ZW81UzF0V3ZlRDJKaDRpMmY3eU9xSXY3aXRYYl9tbGFzbmRQRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-28-016",
+    "date": "2026-04-28",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EV Chasm Traps Battery Recycling Industry in Harsh Restructuring - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaEwzQm42MWNKTkVIV0twbXlUYlc2cmIxYm1lVGZlQWlNV0FMNE9MeWpuSHA2ZnQ2NTBHVm5vdmR6NFlWUExMaW1vWmsyeHpONms0Vko0Tm05RWg1RjdoR2pWZVZEdG9WbHRGSDN6X0",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaEwzQm42MWNKTkVIV0twbXlUYlc2cmIxYm1lVGZlQWlNV0FMNE9MeWpuSHA2ZnQ2NTBHVm5vdmR6NFlWUExMaW1vWmsyeHpONms0Vko0Tm05RWg1RjdoR2pWZVZEdG9WbHRGSDN6X0FLRkNZT2VmRXVtY2VhRDIxczJkSktkOVJt?oc=5",
         "type": "rss"
       }
     ]
@@ -378,6 +704,105 @@
     ]
   },
   {
+    "id": "tomra-2026-04-27-017",
+    "date": "2026-04-27",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Arctic cuts Tomra price target to NOK 130 (150), reiterates Buy - BN - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQdW1TNVB4V296NDViaC13R0xyOTAzLTNhVGZGNVYtU1FzME1nZjQwX2VoVHZlcHRGYkIyWVRhamttbnVCTlRIQ2JQeDJUZWdKUzFHOURLYTR1WDFRYjFzMl9JbnJ1dlVBOXRJLXlBdV",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdW1TNVB4V296NDViaC13R0xyOTAzLTNhVGZGNVYtU1FzME1nZjQwX2VoVHZlcHRGYkIyWVRhamttbnVCTlRIQ2JQeDJUZWdKUzFHOURLYTR1WDFRYjFzMl9JbnJ1dlVBOXRJLXlBdVQ0TnB2MEtiRF96a2RwZkdNbzhzeDhuWlB5R09aZUdjNkc1WjRaanhleEJOUldTaFh2VG1wUU0zMkVZYmxLNlktYUhwTlptczg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-018",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A massive landfill in a tiny town: Miami-Dade County to send its trash to Central Florida by train - WESH",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0k1akdzeWhSM1cyWmtBd0ZlZWEyWFpMRWhNazlfOTZWaDNrSlozZVVLQ3dUR3lma1Y3WlBPWnAxejRLWExQZzctV3ZoYXotYnhsRk5Fc2JNbFM1YzA4RE5IaHQ1Ti1DbWItbHhaRk",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0k1akdzeWhSM1cyWmtBd0ZlZWEyWFpMRWhNazlfOTZWaDNrSlozZVVLQ3dUR3lma1Y3WlBPWnAxejRLWExQZzctV3ZoYXotYnhsRk5Fc2JNbFM1YzA4RE5IaHQ1Ti1DbWItbHhaRkgtMDN1MzEtQ2U3bF9tSFRPNVI3Rzkza0htd2x5MDhpd2M4OHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_mgmt-2026-04-27-019",
+    "date": "2026-04-27",
+    "companies": [
+      "waste_mgmt"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Earnings To Watch: Waste Management (WM) Reports Q1 Results Tomorrow - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOcTl6cGYzT3lFeFVmb2Z4UVBZVVZPQUMwVURvdmh1V1Q5dHoxQXBxN1pmRjA4N0swRGhqMkhZVk9xVmphbUhPSFcyS0ZnazR3aGw2cXVrWlVVb1REWjdKZTJhVDBxRF9VRkdSc1ktbk",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcTl6cGYzT3lFeFVmb2Z4UVBZVVZPQUMwVURvdmh1V1Q5dHoxQXBxN1pmRjA4N0swRGhqMkhZVk9xVmphbUhPSFcyS0ZnazR3aGw2cXVrWlVVb1REWjdKZTJhVDBxRF9VRkdSc1ktbkZtWjRPaEdGT3dMckpqOW1XdmItazlmeDctTG1ITE5PNmM5N0NiZ2R4aWNRVlJxZWc4d0dyMzYwcVVLbkV0MkQyQ1d1d0hfa3doczVURw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-020",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FR001400SG71 Bond Analysis — Key Metrics - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9QcmgzNXMwcDI0alVJNXIxdWQ2NHFLUkVPNXZkZXNKamdwbGwxUGFKYjgtWDI1MVd6S3pSLUhZaXRYcEZxZjM1aVp0N2ZmWS1TVEU5Mm9USGZha2JwLUxTNXFlR0tZaHpqcnhyN0VDYn",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QcmgzNXMwcDI0alVJNXIxdWQ2NHFLUkVPNXZkZXNKamdwbGwxUGFKYjgtWDI1MVd6S3pSLUhZaXRYcEZxZjM1aVp0N2ZmWS1TVEU5Mm9USGZha2JwLUxTNXFlR0tZaHpqcnhyN0VDYnBXdGZUNUItSjd0Yw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-04-27-021",
+    "date": "2026-04-27",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia and Amazon to use reclaimed water in Mississippi data centers - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRUFUQ3Q1RjNZN0NLX21aV3pfbjNRVzZURmlUazZjMmE3TTJPbVk2d21vaDhDZHdKS0RVWEpCRXNHMVRzOGdzQmFEa3VRQ3d5Zng4RXdwX3dSRW11azFNTWJYY1U0cl9qZG85WWJPOU",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRUFUQ3Q1RjNZN0NLX21aV3pfbjNRVzZURmlUazZjMmE3TTJPbVk2d21vaDhDZHdKS0RVWEpCRXNHMVRzOGdzQmFEa3VRQ3d5Zng4RXdwX3dSRW11azFNTWJYY1U0cl9qZG85WWJPOUROWmpiVk1vR2RudGxRby1lT3U4VkVUcmR4ZWVmLWo0cFFGcEphZ3hRcVJXcmRUTXJ6RXZZUU5IZFIyd3RRRFlqQTZKNGsxWGdfVm9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-04-26-001",
     "date": "2026-04-26",
     "companies": [
@@ -559,6 +984,26 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQl9kdHFDaGN2T1ExZThSYVRjMUtpMzluWjRGRmFFaGtENVp3Sm1GS0tBMThZaFlieHlLSUM3a1AtaU1JRlg1SDZNU0djT1NxMDlRMmd4djcxMHdoOWsyQ296M21rMTE0aEZ6R19iRDdIUDhCbUdEaERrc3lLaDkyQWJ0Z0c0M1JITzRIamcwVER0bGo3aVVCQzJLd2Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-04-26-010",
+    "date": "2026-04-26",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Inc (WCN) Stock Price, Trades & News - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SUTh6U2ZudlNDUkJyb1IyNWVUaVBMUmFJd05NM3lkdWhnNXozUDdiSzE0Xzg1dGVuQzAxanJ5czRxRGdwY2NFaW9TZTJjWTRmanlJc1RR?oc=5\" target=\"_blank\">Waste Conne",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SUTh6U2ZudlNDUkJyb1IyNWVUaVBMUmFJd05NM3lkdWhnNXozUDdiSzE0Xzg1dGVuQzAxanJ5czRxRGdwY2NFaW9TZTJjWTRmanlJc1RR?oc=5",
         "type": "rss"
       }
     ]
@@ -1499,6 +1944,27 @@
       {
         "name": "waste_connections",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR3Y5ZjBreGJKekJXemp4WFlRdFlIemRzcFBRQUV5dmhrYWt6SkphNF9ycE9FRnBtSVZVUmV3bDRWLXl2YlNwdVlPQ2tZcjhGc3Rmd3pZZWlPMTBMUmtDV3pFcURTWnZOTk9fLVpXNkY5Q2RDYnBHdUEwaVBSaklvT3BsTXBhSXh0dDBLVU5YaXo3OGRSaWVydlJUVEk3VmQzbmd3Tzc3LUJjZGlIOHZxME96X3h1cGNJR0xPRVpB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-04-24-043",
+    "date": "2026-04-24",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Tomra Systems reports 35% profit miss on recycling weakness By Investing.com - Investing.com South Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMVhIUTV3SGdlYWo4eWFyMDhHU2c2WGY3VGthWVhOczJvOGU3VFVTa0w3UGYwUkVGU0hLVGZjdHhkdktXRk0yNzJsU0Y5WHA5WENidkJhNEZQbU9zX1k1WHdmQnZSUzBBTXhsN0RleH",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMVhIUTV3SGdlYWo4eWFyMDhHU2c2WGY3VGthWVhOczJvOGU3VFVTa0w3UGYwUkVGU0hLVGZjdHhkdktXRk0yNzJsU0Y5WHA5WENidkJhNEZQbU9zX1k1WHdmQnZSUzBBTXhsN0RleHlKUHlYakxxV29vX0pSdmhIbEtjTElCaTVpQnJhdkhvbmJIbkNUSkxyem1jQjB0QU1ZYmxEUjdGNXVHU1VWdkcxVFNNREdhU0JUX2lZ?oc=5",
         "type": "rss"
       }
     ]

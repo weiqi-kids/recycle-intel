@@ -1,0 +1,14 @@
+{
+  "total_raw": 286,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 0,
+  "gate2_fail": 3,
+  "passed": 23,
+  "gate2_samples": [
+    "Veolia Environnement (VIE) Status Update Summary - Quartr",
+    "The US wants to shore up critical mineral supplies. A new tool aims to measure it.",
+    "A year after EJScreen shut down, researchers envision better tools"
+  ]
+}

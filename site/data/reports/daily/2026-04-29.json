@@ -1,0 +1,161 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T10:02:17.300476Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-04-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore Publishes Notice for 2026 Annual General Meeting in Zug - TipRanks",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDh2SlhTNk1uWXBRMWp6Y2p5bXFmc0d3QlRxX1VXNmpGdEJfVnUyNDA2Q1B4NmVIVzFpaFdJbjVGcEYtbWxmOXFwMlkxUGNQakdxUTFPaVJWSWgzWnRfZnpqcEFmMDljVHVmOGU3RThzaU1ZNWZ6TmNkYjB5MkozNzBsUlR3aEpYYklfU3czcm5LdExubTFTQzY3WnRNOUxwbTVpUC1PYnVvY0hkZzZKbllicy0tLVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Casella Waste Systems (CWST) Q1 Earnings Report Preview: What To Look For - StockStory",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZnBjLUROam9ORTF3d0dQbnp4YlJnbHRLMExfcHo5OENDamtnODkybng0RGpzNzh1bHREVFIwWndCLU5ZVnFzVnhJNzQwU21Ic1NlWDE1ZDNHZmpOQWcxX2k3Nk9Yb2Jab3V1N2tiOENPZDJ3Q1l0QjZPSVF2LUU3YlVVLTB6VnU4NVJ4ODk3UGNqcl9FT2pBZUxQSVd3SDdFNGxIbUxJVkdCSGo1Q2dTbHVDc3paWDZjRElQWmJhTDN5dDBZSVlLMDRBYw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "waste_connections-2026-04-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Analysts Conflicted on These Industrial Goods Names: Waste Connections (WCN) and Moog (MOG.A) - The Globe and Mail",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbzFVNnA5ZDNoZnhZVTEzcmRyUUF5YllfdklhMm53X1RVT254YnpRWnk0X1gtWDdCYTliRmU2bHRTWVJYanNsamNqTW0xVnppQlpTREJ2NUdvaHR1el9ZNXF1QzgzMVkyTW9iWVQwbk1XSnRwbGlkaEtldXlEbEMyUzZiVzdrQUhjWnZKMURvQVVuME5DSzhQRlNpNW9OYnA3ZzR4RDF5a3JTQWR1NkM0UE5DZ1dMNWJfOFlRa0YydjFZcXBlamVtb193YThHQ282dmVPc1FuNFpiNXd2UWJYbzBaaldlQzdfS29UUkRUUmdsdV9RVm9QWEJsOTg1UQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 149,
+    "too_old": 111,
+    "gate1_blocked": 0,
+    "gate2_blocked": 3,
+    "passed": 23,
+    "pass_rate": "16.8%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "Veolia Environnement (VIE) Status Update Summary - Quartr",
+      "The US wants to shore up critical mineral supplies. A new tool aims to measure it.",
+      "A year after EJScreen shut down, researchers envision better tools"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為嘉能可、WCN相關動態：「Glencore Publishes Notice for 2026 Annual General Meeting...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore Publishes Notice for 2026 Annual General Meeting in Zug - TipRanks（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Casella Waste Systems (CWST) Q1 Earnings Report Preview: What To Look For - S...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
