@@ -1,0 +1,41 @@
+{
+  "date": "2026-04-30",
+  "total_events": 17,
+  "by_company": {
+    "glencore": {
+      "count": 15,
+      "sentiment_avg": -0.03
+    },
+    "waste_connections": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "abtc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "earnings": {
+      "count": 13,
+      "sentiment_avg": -0.04
+    },
+    "industry_general": {
+      "count": 12,
+      "sentiment_avg": 0.0
+    },
+    "commodity_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

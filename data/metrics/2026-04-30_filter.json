@@ -1,0 +1,15 @@
+{
+  "total_raw": 286,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 1,
+  "gate2_fail": 4,
+  "passed": 30,
+  "gate2_samples": [
+    "Nordea cuts Tomra price target to NOK 130 (151), reiterates Buy - marketscreener.com",
+    "Veolia Environnement (VIE) Status Update Summary - Quartr",
+    "The US wants to shore up critical mineral supplies. A new tool aims to measure it.",
+    "A year after EJScreen shut down, researchers envision better tools"
+  ]
+}
