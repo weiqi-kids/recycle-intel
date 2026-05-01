@@ -1,0 +1,16 @@
+{
+  "total_raw": 286,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 1,
+  "gate2_fail": 5,
+  "passed": 20,
+  "gate2_samples": [
+    "Veolia Environnement (VIE) Status Update Summary - Quartr",
+    "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+    "GFL defends Secure M&A plan amid strong quarter",
+    "The US wants to shore up critical mineral supplies. A new tool aims to measure it.",
+    "A year after EJScreen shut down, researchers envision better tools"
+  ]
+}
