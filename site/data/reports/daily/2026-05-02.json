@@ -1,0 +1,158 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T09:02:25.018199Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "waste_connections-2026-05-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Connections, Inc. (TSE:WCN) Given Average Recommendation of \"Strong Buy\" by Analysts - MarketBeat",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRDBhSWxkX1ZVSWVweVZSOFBZLWZoeFhMWE5va0V0R1BaRjdsOE0zU3JlZm01bEVVVXBuM29JcGl2V1djblMxcFpGY2ROQkkzakRyVXV6cDJObXc0a2pMUk9ORDhkUjFoUTZKZGFfSG1VYUdkMmdiNVFQcEJGM1pDOUZ3VFVxenpSNXFMa25jeDNEZXZxT0w5cWtQdmtnSG1lXzJycjJMV1VxR0Q0cGJ3ZmoyNEQxNnQ3U2o2NE0taGVtWVp2Q2pxYkdFc3VST05LZ0FZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "waste_connections-2026-05-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is It Time To Reassess Waste Connections (WCN) After Its Recent Share Price Pullback? - simplywall.st",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYlpSYkJRS0VnZTIzRDJ0ZDZQaVczTS1MVlg5Q3NOb1psLUdwR3ZTRWFPMGlBZy1SRTY0SWZ4SWgwajE2UmItakFtWXRoM0pIREhycEEyOWVrZ2V6ZjVfeng0V3ZrWjJSX2Rka2FCSVFGSjFfc0xoaFY0NTBzVWtsSnZVUUhHcFduY2F1b0xJS2lPb1VlZERrTDdwTDktbGdJOUJ3NlVKb010Tk9uNFUwcDRPcGR4UmZQV1J1aUxFVWptS0dVVUdMYzFEQnNQRHJPbjh3MzRnVkNnQzBl0gHiAUFVX3lxTE9sOXU1OF9mekhTRGxBb3RuUE9LZDBEUXk5bEJ6YU1ueHplWWoxMlNQQzR0SldNdzV1QlVMOU5vNl92cDlTR1MzTnFmbi0yVmFBOHNaLXFDdEZFWUFiWlJOWWlDTnJra196Ym9UTUc0Qmo3VTV3VFJ4ZThwS1hBTUlzTk5nN3FsdDR3SURvU3QzMEJoaVVpY3Q1U2hJT2hVd3JXM1h1MWVVVC1pcldXVEJXQjdYdEZTZnhDQVhRX2RyV0NDaHdfMThoc2h6WDA1OGF1M3ExVFpnWjkxa3FxMDk4Q2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "waste_connections-2026-05-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Danske Bank A S Has $35.86 Million Holdings in Waste Connections, Inc. $WCN - MarketBeat",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLWowQTU2azd2ZWdVcVJZX1pQTUVKRnFjZFhaeTZ5OGFpeGZXcEllamY0OFY4eTJIRnV6N0tNMVlZVWRDS3pLV3lmeGJqNVFxTE5LTnBsM0hnZUE1Y0UzNnVGUW8yeHBvMzRPNllaOGtocWp6RTNTcG5SdTlrWS12WnpOWVkxQm5rV01VZ0xzRkhhckIzdG90UWo1WlFvVkQ5UmhkTzloekZsMjdqWjRDMGdUYUpXRDNieklUTnc3ZHlJVEdzbnZodUV1WQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 285,
+    "dup_title": 159,
+    "too_old": 101,
+    "gate1_blocked": 1,
+    "gate2_blocked": 5,
+    "passed": 19,
+    "pass_rate": "15.1%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "Glencore (GLEN) Receives a Hold from Goldman Sachs - The Globe and Mail",
+      "Veolia Environnement (VIE) Status Update Summary - Quartr",
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+      "Former WM CFO to women: Don’t wait for perfect",
+      "GFL defends Secure M&A plan amid strong quarter"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為WCN相關動態：「Waste Connections, Inc. (TSE:WCN) Given Average Recommend...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Waste Connections, Inc. (TSE:WCN) Given Average Recommendation of \"Strong Buy...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is It Time To Reassess Waste Connections (WCN) After Its Recent Share Price P...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

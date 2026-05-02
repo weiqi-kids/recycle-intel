@@ -1,0 +1,146 @@
+{
+  "date": "2026-05-02",
+  "date_range": {
+    "start": "2026-04-26",
+    "end": "2026-05-02"
+  },
+  "generated_at": "2026-05-02T09:02:25.079937Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "waste_connections-2026-04-30-033",
+      "date": "2026-04-30",
+      "title": "Q1 earnings results for major waste and recycling companies in 2026",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 32,
+      "last_week": 19,
+      "week_over_week_change": "+68%",
+      "sentiment_this_week": -0.03
+    },
+    "industry_general": {
+      "this_week": 34,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": -0.17
+    },
+    "commodity_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "tomra": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 4
+    },
+    "waste_connections": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 2
+    },
+    "veolia": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "waste_mgmt": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "glencore": {
+      "event_count": 20,
+      "sentiment_avg": -0.02,
+      "rank": 1
+    },
+    "boliden": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "abtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 119,
+        "last": 132,
+        "change_pct": -9.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-26",
+      "event_count": 10,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 24,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 22,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 13,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 36,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 11,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-26 ~ 2026-05-02）共 119 則事件，重點為「Q1 earnings results for major waste and recycli...」。陶朗情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "陶朗",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "WCN",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "威立雅",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

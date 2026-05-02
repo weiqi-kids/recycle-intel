@@ -1,0 +1,16 @@
+{
+  "total_raw": 285,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 101,
+  "gate1_fail": 1,
+  "gate2_fail": 5,
+  "passed": 19,
+  "gate2_samples": [
+    "Glencore (GLEN) Receives a Hold from Goldman Sachs - The Globe and Mail",
+    "Veolia Environnement (VIE) Status Update Summary - Quartr",
+    "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+    "Former WM CFO to women: Don’t wait for perfect",
+    "GFL defends Secure M&A plan amid strong quarter"
+  ]
+}
