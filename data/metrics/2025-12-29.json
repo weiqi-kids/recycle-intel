@@ -1,0 +1,29 @@
+{
+  "date": "2025-12-29",
+  "total_events": 2,
+  "by_company": {
+    "boliden": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "waste_mgmt": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "circular_economy_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

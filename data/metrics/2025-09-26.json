@@ -1,0 +1,25 @@
+{
+  "date": "2025-09-26",
+  "total_events": 3,
+  "by_company": {
+    "waste_mgmt": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tomra": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

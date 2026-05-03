@@ -1,0 +1,101 @@
+{
+  "date": "2025-09-18",
+  "date_range": {
+    "start": "2025-09-12",
+    "end": "2025-09-18"
+  },
+  "generated_at": "2026-05-03T02:43:34.411850Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2025-09-12-019",
+      "date": "2025-09-12",
+      "title": "Fast fashion: EU laws for sustainable textile consumption - European Parliament",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.0
+    },
+    "circular_economy_policy": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "aurubis": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "waste_mgmt": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "tomra": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "abtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 5,
+        "last": 2,
+        "change_pct": 150.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-09-12",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-16",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-18",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ]
+}

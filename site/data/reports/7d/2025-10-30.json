@@ -1,0 +1,80 @@
+{
+  "date": "2025-10-30",
+  "date_range": {
+    "start": "2025-10-24",
+    "end": "2025-10-30"
+  },
+  "generated_at": "2026-05-03T02:43:37.620146Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "sims-2025-10-27-073",
+      "date": "2025-10-27",
+      "title": "Bucks' Jericho Sims: Limited to eight minutes - CBS Sports",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "sims": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 4,
+        "last": 5,
+        "change_pct": -20.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-10-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-27",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-29",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-30",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

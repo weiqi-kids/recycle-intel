@@ -1,0 +1,29 @@
+{
+  "date": "2026-02-25",
+  "total_events": 2,
+  "by_company": {
+    "umicore": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "veolia": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 1.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

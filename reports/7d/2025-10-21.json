@@ -1,0 +1,90 @@
+{
+  "date": "2025-10-21",
+  "date_range": {
+    "start": "2025-10-15",
+    "end": "2025-10-21"
+  },
+  "generated_at": "2026-05-03T02:43:36.763991Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tomra-2025-10-17-010",
+      "date": "2025-10-17",
+      "title": "Tomra Q3 revenue misses expectations, recycling weakness, sends shares down 12% - Investing.com",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 4,
+      "last_week": 5,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": -0.12
+    }
+  },
+  "company_7d_summary": {
+    "tomra": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 1
+    },
+    "abtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "waste_connections": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 4,
+        "last": 5,
+        "change_pct": -20.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-10-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-17",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-20",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-21",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

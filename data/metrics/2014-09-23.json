@@ -1,0 +1,20 @@
+{
+  "date": "2014-09-23",
+  "total_events": 1,
+  "by_company": {},
+  "by_topic": {
+    "ewaste": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

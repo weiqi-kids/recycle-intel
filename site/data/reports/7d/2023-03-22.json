@@ -1,0 +1,80 @@
+{
+  "date": "2023-03-22",
+  "date_range": {
+    "start": "2023-03-16",
+    "end": "2023-03-22"
+  },
+  "generated_at": "2026-05-03T02:43:28.176686Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "boliden-2023-03-21-065",
+      "date": "2023-03-21",
+      "title": "Volvo Trucks and Boliden collaborate on deployment of underground electric trucks for mining - Volvo Group",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "boliden": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 2,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2023-03-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-03-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-03-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-03-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-03-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-03-21",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-03-22",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

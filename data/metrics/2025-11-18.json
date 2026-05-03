@@ -1,0 +1,16 @@
+{
+  "date": "2025-11-18",
+  "total_events": 1,
+  "by_company": {},
+  "by_topic": {
+    "circular_economy_policy": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

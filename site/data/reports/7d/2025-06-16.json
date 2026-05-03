@@ -1,0 +1,80 @@
+{
+  "date": "2025-06-16",
+  "date_range": {
+    "start": "2025-06-10",
+    "end": "2025-06-16"
+  },
+  "generated_at": "2026-05-03T02:43:30.946896Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "waste_mgmt-2025-06-16-018",
+      "date": "2025-06-16",
+      "title": "WMW | End-of-life tyres: Advanced tyre recycling technology drives efficiency in Australia's circular economy - Waste Management World",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "circular_economy_policy": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "waste_mgmt": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 1,
+        "change_pct": 0.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-06-10",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-06-16",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

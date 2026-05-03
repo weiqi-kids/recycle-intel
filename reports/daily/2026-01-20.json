@@ -1,0 +1,55 @@
+{
+  "date": "2026-01-20",
+  "generated_at": "2026-05-03T02:43:41.797577Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-01-20-027",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Colorado EV Battery Recycling Bill Showcases Leadership - The Equation - Union of Concerned Scientists",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "battery_recycling"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "battery_recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "battery_recycling",
+        "count": 1
+      }
+    ]
+  }
+}

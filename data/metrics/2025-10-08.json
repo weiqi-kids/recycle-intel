@@ -1,0 +1,29 @@
+{
+  "date": "2025-10-08",
+  "total_events": 1,
+  "by_company": {
+    "waste_mgmt": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "boliden": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "ewaste": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

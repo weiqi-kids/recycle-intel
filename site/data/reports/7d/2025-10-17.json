@@ -1,0 +1,90 @@
+{
+  "date": "2025-10-17",
+  "date_range": {
+    "start": "2025-10-11",
+    "end": "2025-10-17"
+  },
+  "generated_at": "2026-05-03T02:43:36.339108Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "waste_mgmt-2025-10-14-078",
+      "date": "2025-10-14",
+      "title": "Sims Ltd's former UK metals business considers insolvency - EUWID Recycling and Waste Management",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": -0.1
+    }
+  },
+  "company_7d_summary": {
+    "waste_mgmt": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "tomra": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 1
+    },
+    "sims": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 5,
+        "last": 2,
+        "change_pct": 150.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-10-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-13",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-14",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-17",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}
