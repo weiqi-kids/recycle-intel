@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T10:10:29.017888Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-05-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Berenberg Updates Model for Glencore Post-Q1 Production Report; Buy Rating Maintained - marketscreener.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYlQ4eUt1Uy1EcVZTT0Nzelc2eVlSOHpRcXpKRjZRNlhYbzJ1ZXZza01tXzFodkVnMlViMjZSSGFsQUFhWHRuM0FqTVM5NkdiS1VYUkMzZXhoQU0ybkxRLU5tbTQ1TzZaLW1mWG9ZWkkyY0JNdWtYaWVhekM3UFdKbUMtS3EzSTlubWZQSUdWc3Z3VkR2YkVhdnhyWkZqRkdkbnJMWVhFVExkbm83Qkxlbl9HZFVsY1YwU2hKRURBOFN5enV4Uk9zc09mWmRRU3prM1Iw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 284,
+    "dup_title": 157,
+    "too_old": 117,
+    "gate1_blocked": 1,
+    "gate2_blocked": 4,
+    "passed": 5,
+    "pass_rate": "3.9%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "Glencore (GLEN) Receives a Hold from Goldman Sachs - The Globe and Mail",
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+      "Former WM CFO to women: Don’t wait for perfect",
+      "GFL defends Secure M&A plan amid strong quarter"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為嘉能可相關動態：「Berenberg Updates Model for Glencore Post-Q1 Production R...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Berenberg Updates Model for Glencore Post-Q1 Production Report; Buy Rating Ma...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "嘉能可為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

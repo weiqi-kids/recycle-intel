@@ -1,5 +1,65 @@
 [
   {
+    "id": "glencore-2026-05-04-001",
+    "date": "2026-05-04",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Berenberg Updates Model for Glencore Post-Q1 Production Report; Buy Rating Maintained - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYlQ4eUt1Uy1EcVZTT0Nzelc2eVlSOHpRcXpKRjZRNlhYbzJ1ZXZza01tXzFodkVnMlViMjZSSGFsQUFhWHRuM0FqTVM5NkdiS1VYUkMzZXhoQU0ybkxRLU5tbTQ1TzZaLW1mWG9ZWk",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYlQ4eUt1Uy1EcVZTT0Nzelc2eVlSOHpRcXpKRjZRNlhYbzJ1ZXZza01tXzFodkVnMlViMjZSSGFsQUFhWHRuM0FqTVM5NkdiS1VYUkMzZXhoQU0ybkxRLU5tbTQ1TzZaLW1mWG9ZWkkyY0JNdWtYaWVhekM3UFdKbUMtS3EzSTlubWZQSUdWc3Z3VkR2YkVhdnhyWkZqRkdkbnJMWVhFVExkbm83Qkxlbl9HZFVsY1YwU2hKRURBOFN5enV4Uk9zc09mWmRRU3prM1Iw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-05-03-001",
+    "date": "2026-05-03",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Look At Waste Connections (WCN) Valuation After First Quarter Beat And Reaffirmed 2026 Outlook - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOckxqNGwwSFQ0bWJrU2h3UndZODB4aEFiM29uVDB3aDg4WUtZNFZDX1J6ZWF5TG9OWDQ5d3hzd2ZLdjBxZEZiNjByTVVGY1ZHaHAzcXNNOGpzWHNiYVJJTnR1LUFZWFJudEJmTndYOV",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOckxqNGwwSFQ0bWJrU2h3UndZODB4aEFiM29uVDB3aDg4WUtZNFZDX1J6ZWF5TG9OWDQ5d3hzd2ZLdjBxZEZiNjByTVVGY1ZHaHAzcXNNOGpzWHNiYVJJTnR1LUFZWFJudEJmTndYOVhrdFJodFF4ZldlOW94NjE0ZVZzQmlOZFdia2tNeXRLVUU5R0pyOTlBS215cjNtakFKZzZVV2UtR0FTWG9ITmI5eFRKMEZLNFRNN1MwQ0NjcmxhLXcxTFJ0aVJxbDVsU05zRGx5X3NIUHVSU1cyaURJdGF30gHiAUFVX3lxTE5yTGo0bDBIVDRtYmtTaHdSd1k4MHhoQWIzb25UMHdoODhZS1k0VkNfUnplYXlMb05YNDl3eHN3Zkt2MHFkRmI2MHJNVUZjVkdocDNxc004anNYc2JhUklOdHUtQVlYUm50QmZOd1g5WGt0Umh0UXhmV2U5b3g2MTRlVnNCaU5kV2Jra015dEtVRTlHSnI5OUFLbXlyM21qQUpnNlVXZS1HQVNYb0hOYjl4VEowRks0VE03UzBDQ2NybGEtdzFMUnRpUnFsNWxTTnNEbHlfc0hQdVJTVzJpREl0YXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-03-002",
+    "date": "2026-05-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "MSN Money - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQeW5XR0txNXBxUzI4R3hKMmcwTl9XVlJaM1dfOTJsM3RpN0ZiZVZ3XzczMEpFZ3N2VHBJMlo1NWRvd29mcXZWenNsZFZOeG04M0plUmNpRWVtc0QxMlZOeGlISXViVlEyb01EckQ2Rm",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeW5XR0txNXBxUzI4R3hKMmcwTl9XVlJaM1dfOTJsM3RpN0ZiZVZ3XzczMEpFZ3N2VHBJMlo1NWRvd29mcXZWenNsZFZOeG04M0plUmNpRWVtc0QxMlZOeGlISXViVlEyb01EckQ2RmE4TTlGNFZnWjBWN1p1Ry1XSTdEM2xmamhJZXVHY2luNGVKVGwtb2U5OA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "waste_connections-2026-05-02-001",
     "date": "2026-05-02",
     "companies": [
@@ -1105,6 +1165,26 @@
       {
         "name": "waste_connections",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUHBkaXF5VjNDZVZHdmh3Y1VobGFSWXo5ZnN4Q0dSSmxuOGdyeEU0TzR6R0k5dXVuRk5wTTB5YVNkUEVkUmJFMkxQOGlTT1NYV2hjS25oeWNoa3hSVGxhcWNtNi1vU0NEdnB0ODlUdHJGRXdGdWY1a1kzUzBGVUZlUWV2NU1oTHlpaUtwNWpBNkFMd2ZpQ1AwZVpDanRzN3lPZlRpbXFLU19lb3J5eDJrZ2Nzb19sSWVTeTR2bmhOa2hVd2F1X1lTWWR6OVlqYVk0Z0lSZWxjcmZwUGhfTGg2UHJ2WG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-04-30-037",
+    "date": "2026-04-30",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "TOM.OL Forecast, Price Target & Analyst Ratings | TOMRA SYSTEMS ASA (OSL:TOM) - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBSQWVDQlNBYTNkOWJZc2xwTWZWNHlaWnJDcHBiSTRYUU54d0lmNS15Zi03SzNhZ0pNVWZlQTJYQWJyOEYyNkZ4OElvbG5RRzdPOGl3WkRNV1BBSzI0anZoNzFIZkEteS0ySlhNWQ?oc=",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSQWVDQlNBYTNkOWJZc2xwTWZWNHlaWnJDcHBiSTRYUU54d0lmNS15Zi03SzNhZ0pNVWZlQTJYQWJyOEYyNkZ4OElvbG5RRzdPOGl3WkRNV1BBSzI0anZoNzFIZkEteS0ySlhNWQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2312,6 +2392,27 @@
       {
         "name": "sims",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRUVTUFNrUnVhQ2tWQ3N0YXRGYUNQc0c3TEVYd3phbnVPMTZfVnB5MlhnTUtvX2FWbUNVbjBIS0dDSDVmbUFIcG9zYmhzR1ZZTnU3dmF2bkZzcmdMMlJFOU9uVDVkQThIQkhRMHJUOXNTbFQtRnNkcTJWNmlsTGJwanNfMF91X3l2cVVwaXhHbWtwMG5EMWlKeW15a1ptLUd6eUpJeFNQTjBfUVFJeTZ4MTYwM0ZsTXVoSDUySHpRcU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-04-27-026",
+    "date": "2026-04-27",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims Metal Management (OTCMKTS:SMSMY) Stock Price Up 10.9% - Here's What Happened - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQaDVnbXFvbEdEZ1hiOWl1NmkyS0p0cjV6RmpqRWU4aWEwVjFNLXl2aDR4S2h6RGhtR19rNm1NaVJHMUQ1SlNST2NoVzVSaDZWZXNKeGw5Wmh5SEJEU2VzS1ROS2VwclY5RFJMNzRxWU",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaDVnbXFvbEdEZ1hiOWl1NmkyS0p0cjV6RmpqRWU4aWEwVjFNLXl2aDR4S2h6RGhtR19rNm1NaVJHMUQ1SlNST2NoVzVSaDZWZXNKeGw5Wmh5SEJEU2VzS1ROS2VwclY5RFJMNzRxWUUzZHBoVUM2aE16b0xQOGtVVS1laFZRWlJGa29TOVJVZjcxN0FJMWZkeG5VcGhyOF9mMHBIWEVNa2lKM1czVWJ2c2tnRVBNUUVPMHZCWjlsZ0wwOUZEZUE?oc=5",
         "type": "rss"
       }
     ]
