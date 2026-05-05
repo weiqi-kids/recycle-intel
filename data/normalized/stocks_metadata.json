@@ -1,62 +1,62 @@
 {
   "tomra": {
-    "earliest": "2019-03-05",
-    "latest": "2026-05-04",
-    "count": 1796
+    "earliest": "2018-12-05",
+    "latest": "2026-05-05",
+    "count": 1856
   },
   "glencore": {
-    "earliest": "2019-03-05",
-    "latest": "2026-05-01",
-    "count": 1805
+    "earliest": "2018-12-05",
+    "latest": "2026-05-05",
+    "count": 1867
   },
   "waste_mgmt": {
-    "earliest": "2019-03-07",
-    "latest": "2026-05-01",
-    "count": 1799
+    "earliest": "2018-12-07",
+    "latest": "2026-05-04",
+    "count": 1860
   },
   "republic": {
-    "earliest": "2019-03-07",
-    "latest": "2026-05-01",
-    "count": 1799
+    "earliest": "2018-12-07",
+    "latest": "2026-05-04",
+    "count": 1860
   },
   "waste_connections": {
-    "earliest": "2019-03-07",
-    "latest": "2026-05-01",
-    "count": 1799
+    "earliest": "2018-12-07",
+    "latest": "2026-05-04",
+    "count": 1860
   },
   "umicore": {
-    "earliest": "2019-03-05",
-    "latest": "2026-05-04",
-    "count": 1833
+    "earliest": "2018-12-05",
+    "latest": "2026-05-05",
+    "count": 1895
   },
   "veolia": {
-    "earliest": "2019-03-05",
-    "latest": "2026-05-04",
-    "count": 1834
+    "earliest": "2018-12-05",
+    "latest": "2026-05-05",
+    "count": 1896
   },
   "aurubis": {
-    "earliest": "2019-03-05",
-    "latest": "2026-05-04",
-    "count": 1819
+    "earliest": "2018-12-05",
+    "latest": "2026-05-05",
+    "count": 1879
   },
   "boliden": {
-    "earliest": "2019-03-05",
-    "latest": "2026-05-04",
-    "count": 1795
+    "earliest": "2018-12-05",
+    "latest": "2026-05-05",
+    "count": 1855
   },
   "sims": {
-    "earliest": "2019-03-05",
-    "latest": "2026-05-04",
-    "count": 1813
+    "earliest": "2018-12-05",
+    "latest": "2026-05-05",
+    "count": 1874
   },
   "kunding": {
-    "earliest": "2019-03-06",
-    "latest": "2026-05-04",
-    "count": 1738
+    "earliest": "2018-12-06",
+    "latest": "2026-05-05",
+    "count": 1792
   },
   "abtc": {
-    "earliest": "2019-03-07",
-    "latest": "2026-05-01",
-    "count": 1799
+    "earliest": "2018-12-07",
+    "latest": "2026-05-04",
+    "count": 1860
   }
 }

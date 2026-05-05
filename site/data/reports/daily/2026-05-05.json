@@ -1,0 +1,203 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T09:59:04.631420Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-05-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore Zinc Plant in Kazakhstan Suffers Deadly Blast, Fire - Bloomberg.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3V0TFlGMGs1UzJGS3hlR3pUa3ZRV2lCR0ZYcTl6RUhhVUdpOU1JcWliUnZfZXd6LWg1ckZoX2JlX1F3bGl3dHlZU2RQeVZfWW1nckFDUk1Udk8zQ3M3WldFaGxPVnh6V2V4OHIyelpxM1I3bVR2N1pwNy1EcUIwd3g4S0tfLWN4UG5lUk04d2Z3dTNJVnlfdUhhQXl5cHJhbkg0RVhnZ09aQWZ5ME94ag?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "waste_connections-2026-05-05-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Top Waste Connections Executive Makes Notable Move With Company Stock - TipRanks",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU0lCVDIyZnZRZGZ3UVlJblRCOXB2MUJzZlBpaUwxYVRXd3Nwa2lhUGFUUUhUMDZLRG1NaHc4dzhtbUQ0a21jZUdYQXhxbHV4Tjc0Q0VlMnM5WU05UlpYWFdWb3VWbHBRSTNuUlRjdGVKUklPdURjTVY5X3A5SllCUk10Sm04Q1I0djBkSjZYZkpPZTBYUUxJM2RqNkVlUkgzb29jRWNNTGxzSndONjc0cTdNa19XU2hyVmk5YXlaYk93V29NNWIyV2tjMk1yRDh5ZGc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-05-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fire and Explosion at Glencore’s Kazzinc Zinc Plant Injure Four - ChemAnalyst",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM09fVGdXaG41Zm16TjluM0ZCVnBvaGVySHZTYVR4Z3JKQU1idFdpYnBybExoNGlMdWN0UDBNU2hQamhSS05QNTcyam5rOEdXdWlmN3JZOTZkaUlPaXpMcjJhdndoamNHbkRBbjFIYkl0ekRXdWRhako1OEwyYU9JYmZpLTEtclFEcjBmVVVfZW5SNHZJWi1OSWNUdTBMd05qZzdaWnFjdVJ0SUFHZWtJbDBweDRmWDI4YVdFNEFB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-05-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore confirms an incident occurred at the zinc smelter of the Ust-Kamenogorsk metallurgical complex - marketscreener.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPREEtQno3U1dYVUZCXzdKX2N2anp1YjMyQjNSR09OMXNRcDVaZzZYZzM3ODZBcHAza0FHWTd4SUJodXZSUkFZM3lLSmRMVHdrNjJQaVNKT2dPd3BHQklzaHZTN21mZncyMkk4aUx2NHRMNXliNUFjRWN2dGZ2TVk5UjA2YUNXWjZEcUdCTUlrUGFGMDdnRWpVaVp0X1VHbUYzRjFXMzNHblAzS01sUVFnOXV6Ri05aUhEQkU3Tk50d2c0TlRJMlN5OU5YaXphMzRTT2pDWWVrSW1zNXZhMFdUQnF6Y2VYYl93?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-05-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Explosion, fire at Glencore’s zinc plant in Central Asia - News24",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMFpLdTVGWHc3Wm9nTmNRSmtidU1MU20wbXlvRVpiWHdLU2F0elFkaFY3YjU5RS1TYlQyZFJlRWREVTgxMkF2djY5RWR6cE5OX3VmNXY5NnRvXzQyTE9JaWtDaXRWUTk4MDQxeVV6X2hqd1JWTFVHNXVib0FVbkpKSXc0bHZfNW9yZG4wZ3BPbElZOUxYbGM3dTZMdFVfdmFEa3VCbXZyT24zTjRZRkp3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 4
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 285,
+    "dup_title": 145,
+    "too_old": 115,
+    "gate1_blocked": 2,
+    "gate2_blocked": 4,
+    "passed": 19,
+    "pass_rate": "13.6%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "Glencore (GLEN) Receives a Hold from Goldman Sachs - The Globe and Mail",
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+      "Former WM CFO to women: Don’t wait for perfect",
+      "GFL defends Secure M&A plan amid strong quarter"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為嘉能可、WCN相關動態：「Glencore Zinc Plant in Kazakhstan Suffers Deadly Blast, F...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore Zinc Plant in Kazakhstan Suffers Deadly Blast, Fire - Bloomberg.com（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Top Waste Connections Executive Makes Notable Move With Company Stock - TipRanks（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
