@@ -84,6 +84,86 @@
     ]
   },
   {
+    "id": "unknown-2026-05-06-005",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Edmonton waste workers get new contract - The Alberta Worker",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9KM01aRmtKZEwxX0p4VFlQODJicXI4SlBkZ1VJMTk0dDJsRngxMW9xVzEyVWV2SzdGZzA3bzRjSFh5ZWJIMUhQOU9RZzliMVF0Z21PQlJWNEV4dGRZZzVYcFJwOWlXLVJsWE1fY3hIdm",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KM01aRmtKZEwxX0p4VFlQODJicXI4SlBkZ1VJMTk0dDJsRngxMW9xVzEyVWV2SzdGZzA3bzRjSFh5ZWJIMUhQOU9RZzliMVF0Z21PQlJWNEV4dGRZZzVYcFJwOWlXLVJsWE1fY3hIdmZhci0yeU5ncXh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-05-06-006",
+    "date": "2026-05-06",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings call transcript: Veolia Environnement Q1 2026 shows resilience amid challenges - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVXlUX3J3bE1hMVBESndIaDFRWFlaSWR5OFdvV0c4Mzd5Y1RZeTZiTEZRY0Y2dWNvQnItTFpjbnpWX0pzaTJ3UkxIZzVwV080eFRFNjdIUWxTY1BNVnk3T1hiZy1BcTRVLUFkQmpqST",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVXlUX3J3bE1hMVBESndIaDFRWFlaSWR5OFdvV0c4Mzd5Y1RZeTZiTEZRY0Y2dWNvQnItTFpjbnpWX0pzaTJ3UkxIZzVwV080eFRFNjdIUWxTY1BNVnk3T1hiZy1BcTRVLUFkQmpqSTMwSlJid0NUdEc5UUNXTWhxQlg5djZCRnYtTER6SlJsQ20tZURMWnJaM3RGcEJSd2EzcE93LU1PVURJVXV1QVFyWWE5Yk1Zb3lOck5tRWg0NlFSQ0RXRFNZLW1fd1dQOW81VTlfOWp4VElaQW02WEpBYnpIYW4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-05-06-007",
+    "date": "2026-05-06",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement SA 2026 Q1 - Results - Earnings Call Presentation (OTCMKTS:VEOEY) 2026-05-06 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMEJsdFh5RUFic1FNcXBpVm1aSE9ONmxEVlkxNkdHTzB0eERfbi1tR0xKTGZSWllrd0dvc0NjQy1xYmVLNDlienRvZk05bE9IVkdQWHlLQ3pQOVp2SjJ0aEo5R0NacnJRSVFfaGJTVD",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMEJsdFh5RUFic1FNcXBpVm1aSE9ONmxEVlkxNkdHTzB0eERfbi1tR0xKTGZSWllrd0dvc0NjQy1xYmVLNDlienRvZk05bE9IVkdQWHlLQ3pQOVp2SjJ0aEo5R0NacnJRSVFfaGJTVDMwdURYeTRnaVZKLTRFM2lBV09ocnd2S1FLVzN4dGF3eUt5OHhrbVdyYk1PdTNNQk54S1R4VFhLbnNJUG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-05-06-008",
+    "date": "2026-05-06",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Veolia Environnement: Very Good Q1 Performance with Solid Growth and Significant EBITDA Progression, in Line with Annual Guidance - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYmpSUWZyZDNYZ1VRaEhtbDFLY19VYXR2MWpITjJrZmJiSkV6M0Y4OHdyRjJaaURCNzYya2tHSWVCcm1QZm51RVNnVG1tSnpKaTRvZTZieDVWZXJyMEZhOEF0TGV1V1JzMjB4ZGtfbG",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYmpSUWZyZDNYZ1VRaEhtbDFLY19VYXR2MWpITjJrZmJiSkV6M0Y4OHdyRjJaaURCNzYya2tHSWVCcm1QZm51RVNnVG1tSnpKaTRvZTZieDVWZXJyMEZhOEF0TGV1V1JzMjB4ZGtfbGV1NXc3dzVyb01wTTBwal81V3Fwem8zZ080UzVza1N1VnVhRXh1YU5tNnVrcUo0LVlVcGlPbi1HRHhDemJIS1FTVHhrT01La2VvQ2dSZDR5bzAtY3E4OUxIemJ5Y2FmbmdCSW51OG5fN2tpRjVFek5tRnROTUMwZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-05-05-001",
     "date": "2026-05-05",
     "companies": [
@@ -361,6 +441,68 @@
       {
         "name": "waste_connections",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ3MtbldzV2Zlc2dnSV9XRmJrODRPRXFpUHJGTzhPaVMtYS1CNTQzMlp3b0NYSXp5Sm1mMjRrNVhabmRUb2trRDRvb254NEhhX1IwTmpuV1NlaDI3a3kydzNFUkN5Rk5nVHp3N01BLWJPU3VEbzhDanRVSS1GeTg1a29jQVY4MWp5SjFDSFUxVVlqR2pvMUFxazNsNENUMUlzMzU3amlLcnJ4dURBUHZKZWZ6S3o1dE9DRFBKWUpsRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-05-015",
+    "date": "2026-05-05",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Zinc Plant in Kazakhstan Suffers Deadly Blast, Fire - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3V0TFlGMGs1UzJGS3hlR3pUa3ZRV2lCR0ZYcTl6RUhhVUdpOU1JcWliUnZfZXd6LWg1ckZoX2JlX1F3bGl3dHlZU2RQeVZfWW1nckFDUk1Udk8zQ3M3WldFaGxPVnh6V2V4OHIyel",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3V0TFlGMGs1UzJGS3hlR3pUa3ZRV2lCR0ZYcTl6RUhhVUdpOU1JcWliUnZfZXd6LWg1ckZoX2JlX1F3bGl3dHlZU2RQeVZfWW1nckFDUk1Udk8zQ3M3WldFaGxPVnh6V2V4OHIyelpxM1I3bVR2N1pwNy1EcUIwd3g4S0tfLWN4UG5lUk04d2Z3dTNJVnlfdUhhQXl5cHJhbkg0RVhnZ09aQWZ5ME94ag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-05-016",
+    "date": "2026-05-05",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Blast at Glencore’s Kazzinc plant kills two, injures five - The Northern Miner",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmRpMk1JTmlyZ1RJZ2lBdkVmckdfMU11dHMtSlJYT2d3ZTJJZVVqUU5OMEtxc0I1X3YyM1F5VHJZQ2NGa2lIc0FlWlN2VTBnMGVEQUdLd05JRWVuZWE4bmRCZU54U0UtR2VqUnhMQT",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmRpMk1JTmlyZ1RJZ2lBdkVmckdfMU11dHMtSlJYT2d3ZTJJZVVqUU5OMEtxc0I1X3YyM1F5VHJZQ2NGa2lIc0FlWlN2VTBnMGVEQUdLd05JRWVuZWE4bmRCZU54U0UtR2VqUnhMQTNacWVFdnlGN19oX1VDVEVuQlUzRGNOS1pyYzVLUUZrUVk3bVRyeUk2SThwaEE2eWpYZWc0VA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-05-05-017",
+    "date": "2026-05-05",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement: Information Relating to the Total Number of Voting Rights Forming the Share Capital - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTTdvQTBEOF9qOWFXZDdGZktpOVJReEJFT3hvbVhfbGJEejlRM0hYaXdLc3ZhbHZ3Y0tfN1ZXMVZtQTdQM2NBajhjMUpWQ19td0hFb1RJQ1Y5aTFMaWNPNHcyOUlkV0tQWWJEejZJLT",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTTdvQTBEOF9qOWFXZDdGZktpOVJReEJFT3hvbVhfbGJEejlRM0hYaXdLc3ZhbHZ3Y0tfN1ZXMVZtQTdQM2NBajhjMUpWQ19td0hFb1RJQ1Y5aTFMaWNPNHcyOUlkV0tQWWJEejZJLTJfQlM0N3Mzb0FYOG0wYTdENzhDaG1kNGh5SUFKcFJ3Qy0xVzU1MkViTEl6NjNxUkFRX1FObEdhZkU5aWxxSDdEZ2xsWndfTWV4WWlvN2hBdDViMW5BU2RMUkRHZ3hxTzYxSUl6My1JMFZaY05MS0ZOUWtMcHdZR1dRR2NDQmY2VjduVG8?oc=5",
         "type": "rss"
       }
     ]

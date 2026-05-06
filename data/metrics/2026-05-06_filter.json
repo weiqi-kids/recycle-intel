@@ -1,14 +1,16 @@
 {
-  "total_raw": 285,
-  "dup_title": 151,
+  "total_raw": 570,
+  "dup_title": 310,
   "no_date": 0,
-  "too_old": 114,
-  "gate1_fail": 2,
-  "gate2_fail": 3,
-  "passed": 15,
+  "too_old": 229,
+  "gate1_fail": 3,
+  "gate2_fail": 6,
+  "passed": 22,
   "gate2_samples": [
     "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
     "Former WM CFO to women: Don’t wait for perfect",
-    "GFL defends Secure M&A plan amid strong quarter"
+    "GFL defends Secure M&A plan amid strong quarter",
+    "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+    "Former WM CFO to women: Don’t wait for perfect"
   ]
 }

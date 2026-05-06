@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T06:02:07.956431Z",
+  "generated_at": "2026-05-06T10:13:57.125598Z",
   "top_events": [
     {
       "rank": 1,
@@ -80,31 +80,58 @@
     },
     {
       "rank": 4,
-      "event_id": "glencore-2026-05-06-002",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Glencore’s Kazzinc explosion leaves two dead, more injured - Mining.com.au",
+      "event_id": "veolia-2026-05-06-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings call transcript: Veolia Environnement Q1 2026 shows resilience amid challenges - Investing.com",
       "companies": [
-        "glencore"
+        "veolia"
       ],
       "related": {
         "customers": [],
         "suppliers": []
       },
       "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVXlUX3J3bE1hMVBESndIaDFRWFlaSWR5OFdvV0c4Mzd5Y1RZeTZiTEZRY0Y2dWNvQnItTFpjbnpWX0pzaTJ3UkxIZzVwV080eFRFNjdIUWxTY1BNVnk3T1hiZy1BcTRVLUFkQmpqSTMwSlJid0NUdEc5UUNXTWhxQlg5djZCRnYtTER6SlJsQ20tZURMWnJaM3RGcEJSd2EzcE93LU1PVURJVXV1QVFyWWE5Yk1Zb3lOck5tRWg0NlFSQ0RXRFNZLW1fd1dQOW81VTlfOWp4VElaQW02WEpBYnpIYW4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "veolia-2026-05-06-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement SA 2026 Q1 - Results - Earnings Call Presentation (OTCMKTS:VEOEY) 2026-05-06 - Seeking Alpha",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
         "industry_general"
       ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
       },
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNDFmZjY2Rm5aNERZUU9pbXNjMUE5a2ZpdkpVeXF1VTlKV1ROVGh6dFNaRlBhX2daem4ybmN1b2IydGdGYjExckJ1cUs5UWVPZ1VNUU5vTWdkdGVwSWJqWjB4b2dDb2hCSE5PekdZb3NkVHY5V2ItcVpEdDhVU2xyQU56VkNuQQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMEJsdFh5RUFic1FNcXBpVm1aSE9ONmxEVlkxNkdHTzB0eERfbi1tR0xKTGZSWllrd0dvc0NjQy1xYmVLNDlienRvZk05bE9IVkdQWHlLQ3pQOVp2SjJ0aEo5R0NacnJRSVFfaGJTVDMwdURYeTRnaVZKLTRFM2lBV09ocnd2S1FLVzN4dGF3eUt5OHhrbVdyYk1PdTNNQk54S1R4VFhLbnNJUG8?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "earnings": {
-      "today": 3,
+      "today": 6,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -114,17 +141,17 @@
       "sentiment_7d_avg": null
     },
     "industry_general": {
-      "today": 4,
+      "today": 6,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.12,
+      "sentiment_today": 0.08,
       "sentiment_7d_avg": null
     },
     "guidance": {
-      "today": 1,
+      "today": 2,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -136,55 +163,57 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 4,
+    "total_events": 8,
     "sentiment_distribution": {
-      "positive": 1,
-      "neutral": 3,
+      "positive": 2,
+      "neutral": 6,
       "negative": 0
     },
     "top_companies": [
       {
-        "id": "glencore",
-        "count": 2
+        "id": "veolia",
+        "count": 5
       },
       {
-        "id": "veolia",
+        "id": "glencore",
         "count": 2
       }
     ],
     "top_topics": [
       {
-        "id": "industry_general",
-        "count": 4
+        "id": "earnings",
+        "count": 6
       },
       {
-        "id": "earnings",
-        "count": 3
+        "id": "industry_general",
+        "count": 6
       },
       {
         "id": "guidance",
-        "count": 1
+        "count": 2
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 285,
-    "dup_title": 151,
-    "too_old": 114,
-    "gate1_blocked": 2,
-    "gate2_blocked": 3,
-    "passed": 15,
-    "pass_rate": "11.2%",
-    "gate2_block_rate": "2.2%",
+    "total_raw": 570,
+    "dup_title": 310,
+    "too_old": 229,
+    "gate1_blocked": 3,
+    "gate2_blocked": 6,
+    "passed": 22,
+    "pass_rate": "8.5%",
+    "gate2_block_rate": "2.3%",
     "gate2_samples": [
       "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
       "Former WM CFO to women: Don’t wait for perfect",
-      "GFL defends Secure M&A plan amid strong quarter"
+      "GFL defends Secure M&A plan amid strong quarter",
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+      "Former WM CFO to women: Don’t wait for perfect"
     ],
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 4 則事件，焦點為嘉能可、威立雅相關動態：「FLASH: Glencore's Q1 2026 nickel pr... - Mysteel」。整體情緒偏正面，市場信心回溫。",
+    "summary": "今日共 8 則事件，焦點為威立雅、嘉能可相關動態：「FLASH: Glencore's Q1 2026 nickel pr... - Mysteel」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "FLASH: Glencore's Q1 2026 nickel pr... - Mysteel（財報、產業通用）",

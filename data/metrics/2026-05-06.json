@@ -1,27 +1,27 @@
 {
   "date": "2026-05-06",
-  "total_events": 4,
+  "total_events": 8,
   "by_company": {
     "glencore": {
       "count": 2,
       "sentiment_avg": 0.0
     },
     "veolia": {
-      "count": 2,
-      "sentiment_avg": 0.25
+      "count": 5,
+      "sentiment_avg": 0.2
     }
   },
   "by_topic": {
     "earnings": {
-      "count": 3,
+      "count": 6,
       "sentiment_avg": 0.17
     },
     "industry_general": {
-      "count": 4,
-      "sentiment_avg": 0.12
+      "count": 6,
+      "sentiment_avg": 0.08
     },
     "guidance": {
-      "count": 1,
+      "count": 2,
       "sentiment_avg": 0.5
     }
   },

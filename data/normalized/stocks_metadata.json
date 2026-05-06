@@ -1,62 +1,62 @@
 {
   "tomra": {
-    "earliest": "2018-09-06",
-    "latest": "2026-05-05",
-    "count": 1920
+    "earliest": "2018-06-08",
+    "latest": "2026-05-06",
+    "count": 1985
   },
   "glencore": {
-    "earliest": "2018-09-06",
-    "latest": "2026-05-05",
-    "count": 1931
+    "earliest": "2018-06-08",
+    "latest": "2026-05-06",
+    "count": 1995
   },
   "waste_mgmt": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   },
   "republic": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   },
   "waste_connections": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   },
   "umicore": {
-    "earliest": "2018-09-06",
-    "latest": "2026-05-05",
-    "count": 1959
+    "earliest": "2018-06-08",
+    "latest": "2026-05-06",
+    "count": 2024
   },
   "veolia": {
-    "earliest": "2018-09-06",
-    "latest": "2026-05-05",
-    "count": 1960
+    "earliest": "2018-06-08",
+    "latest": "2026-05-06",
+    "count": 2025
   },
   "aurubis": {
-    "earliest": "2018-09-06",
-    "latest": "2026-05-05",
-    "count": 1942
+    "earliest": "2018-06-08",
+    "latest": "2026-05-06",
+    "count": 2007
   },
   "boliden": {
-    "earliest": "2018-09-06",
-    "latest": "2026-05-05",
-    "count": 1919
+    "earliest": "2018-06-08",
+    "latest": "2026-05-06",
+    "count": 1984
   },
   "sims": {
-    "earliest": "2018-09-06",
+    "earliest": "2018-06-08",
     "latest": "2026-05-06",
-    "count": 1939
+    "count": 2002
   },
   "kunding": {
-    "earliest": "2018-09-07",
+    "earliest": "2018-06-11",
     "latest": "2026-05-06",
-    "count": 1855
+    "count": 1918
   },
   "abtc": {
-    "earliest": "2018-09-10",
+    "earliest": "2018-06-12",
     "latest": "2026-05-05",
-    "count": 1923
+    "count": 1985
   }
 }
