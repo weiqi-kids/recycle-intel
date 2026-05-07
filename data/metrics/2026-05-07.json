@@ -1,0 +1,41 @@
+{
+  "date": "2026-05-07",
+  "total_events": 7,
+  "by_company": {
+    "glencore": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "abtc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "industry_general": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "battery_recycling": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "circular_economy_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

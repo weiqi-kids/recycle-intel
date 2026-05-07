@@ -1,0 +1,137 @@
+{
+  "date": "2026-05-07",
+  "date_range": {
+    "start": "2026-05-01",
+    "end": "2026-05-07"
+  },
+  "generated_at": "2026-05-07T10:21:43.041137Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "glencore-2026-05-05-011",
+      "date": "2026-05-05",
+      "title": "Vale and Glencore, leading Sudbury employers, record profits - Sudbury Star",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 15,
+      "last_week": 43,
+      "week_over_week_change": "-65%",
+      "sentiment_this_week": 0.1
+    },
+    "industry_general": {
+      "this_week": 21,
+      "last_week": 30,
+      "week_over_week_change": "-30%",
+      "sentiment_this_week": 0.02
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.5
+    },
+    "battery_recycling": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "circular_economy_policy": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "glencore": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "waste_connections": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "veolia": {
+      "event_count": 6,
+      "sentiment_avg": 0.25,
+      "rank": 2
+    },
+    "abtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 85,
+        "last": 170,
+        "change_pct": -50.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-01",
+      "event_count": 11,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 8,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 14,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 18,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 24,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "event_count": 7,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-01 ~ 2026-05-07）共 85 則事件，重點為「Vale and Glencore, leading Sudbury employers, r...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "嘉能可",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "WCN",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "威立雅",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

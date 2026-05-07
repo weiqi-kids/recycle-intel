@@ -1,0 +1,14 @@
+{
+  "total_raw": 284,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 4,
+  "gate2_fail": 3,
+  "passed": 25,
+  "gate2_samples": [
+    "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Gains? - Y",
+    "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Rise? - si",
+    "Former WM CFO to women: Don’t wait for perfect"
+  ]
+}

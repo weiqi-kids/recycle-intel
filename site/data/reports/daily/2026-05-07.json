@@ -1,0 +1,236 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T10:21:42.971320Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-05-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FLASH: Glencore produces 5,800-tonne cobalt in Q1 2026 - Mysteel",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdXBCQlF4NlF3MWVISjVhTzdkYUZQRHZlVjJDaVR0TjFSV092d2pmY2pSNXNuWGs0RlROSGhieVd4Ym5Pd0UxdGFBeU5obTNhVW0yV3BOb3FyRXVsQWlYTk1TT09lakdySk1pLUJkZ0JJdzZEU1A5eE9oQzh4ZzB0WFNiY3R4QTYzQzVVYWpfd0lUQW5y?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "veolia-2026-05-07-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement Signals Resilient Growth in Earnings - TipRanks",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcnVuSDJSQW91bmphM2gwZGpCazktLXF4V1otZlhtY1dMeWpEbl9OSGVNV19mbTN1dDF1X3JhQ29xb1pod0ZMRUk1NmhUdEJqYlpmZjFBTjFXMEo5WWlMOEZzazR3dmJka3FpTnk4Rnd4eXZjU05FTnV6NFBFQkllVVN6NFg5UTZFSE5aQ0xZdFQwOHY4c29NeWYtNWYxOWxhSkpmd0tqSG5US0FJMWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "abtc-2026-05-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Battery Technology (ABAT) Projected to Post Quarterly Earnings on Thursday - MarketBeat",
+      "companies": [
+        "abtc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNHl0bUFEMERLVFdESlF4eWxDODFjOGQzVEpUeHAwUzhtYmdOM0N5TVczM1lLQ0pxZTRJSmZEMWlQMDgtX1dXSDllQWx6dkZ3alNSenB3ZEJxeksySGwtY1N4RXRrYVpvY01KT2NlZjA1SUh0LWd1WDNqUGlZdm54TS1iS1F3X25ncmRWUXF4a1hGNFBoZ2Vyd1VScERGd0V1Z0RuMVc0RHVpbXB3WDVVSTlwdnhVQTZrN0pNSmJGRFA4WmFsbGxQT2NRX1liTExU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-05-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore Plc Leads Stock Performance with 126.73% Return Over Past Year - Markets Mojo",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZS13cWxUNGczVnBoVzItLTdaLUo2TWpoUzh0RjRwNTYtdnRQaTh1aVNJeUZxNUlCdUNCNm9Md0NfM0tvNEl0ODY5b0t0OGlnTDZMVEx5Mk5oUFdDTGRuLTN1N0JLcmNVOE1aX3ZLTk5CRk5hN0YzaDV5QmNtbnZTYUFGMXNvT3VMS0pJY0FORldaY0RqVDdCOXI0MFhwWENfbTN4dWRYTDBMX3ZqZjFwYmNYZzVSR0lCYUo5RUJLWU1sRmxRN25R?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-07-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ensuring European plastics waste is recycled in Europe - Plastics News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWxqblFzMnE5dFVERzZkVDVaUlVtSUF6WjZNcmZkd1RvWG5kanplWVdnLXoyWGIwc3cwak82MjJxVUJOczhCLUFHRjdtQVp2YmF3LUtCYVEyQXFIYTR4bFdCU19ab0g4RkMtUkduaHAtenU4SXNFNkR1RDFGMFJnTTlSWE1jSkdKNXd6dGx6X3EydXBLQmlldUFwalFiMUNXZWJjbHo0ZF8wREk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "battery_recycling": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "circular_economy_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 2
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "abtc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "battery_recycling",
+        "count": 2
+      },
+      {
+        "id": "circular_economy_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 284,
+    "dup_title": 145,
+    "too_old": 107,
+    "gate1_blocked": 4,
+    "gate2_blocked": 3,
+    "passed": 25,
+    "pass_rate": "18.0%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Gains? - Y",
+      "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Rise? - si",
+      "Former WM CFO to women: Don’t wait for perfect"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為嘉能可、威立雅、美國電池相關動態：「FLASH: Glencore produces 5,800-tonne cobalt in Q1 2026 - ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "FLASH: Glencore produces 5,800-tonne cobalt in Q1 2026 - Mysteel（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Veolia Environnement Signals Resilient Growth in Earnings - TipRanks（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
