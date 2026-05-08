@@ -1,0 +1,119 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T09:14:42.090975Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-05-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore : 2025 Payments to Governments Report - marketscreener.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcllWd0lyeDdjdzV0SFRVSGZEN2IxNmhINWxyRmc0QkhibTViZlppZEhpcEppLS13bWtpV2ZtUk05U01EdGI1ZGZ1QURRVk9TZ1JsY2Q2ckczQnNKY2hIT3dHandOY3BfUnFZQmI0NmVReUo3elp0WlBJNm9raU5jMk0wTGd3TTdOV3dMRVdQMkV2cjlUaHdWczhYRnBvZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "veolia-2026-05-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "VEOLIA ENVIRONNEMENT To Go Ex-Dividend On May 11th, 2026 With 1.65525 USD Dividend Per Share - Moomoo",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1hsWUhiTkllUmt2UVJDUVppVC1SN2xGRzVDUjRjTWM4bUhBM054dFgwdGozZGY4NVRMU3VzRm9sYmlTQy12MFZKcE5hd0RMSVN2YWZlRGdTTnN3aWtlM0ZsMWFEcFpBMUVRdXNuZ256X2xwY3c0YkxmZ2tTcmhWaVFyZG5IOGpPNXNqdDBOaUhUZ3Z5TExCVE8wNzlFdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 283,
+    "dup_title": 158,
+    "too_old": 103,
+    "gate1_blocked": 2,
+    "gate2_blocked": 4,
+    "passed": 16,
+    "pass_rate": "12.8%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "Glencore Publishes 2025 Payments to Governments Report - TipRanks",
+      "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Gains? - Y",
+      "Veolia Environnement (OTCMKTS:VEOEY) Reaches New 12-Month High - What's Next? - MarketBeat",
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為嘉能可、威立雅相關動態：「Glencore : 2025 Payments to Governments Report - marketsc...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore : 2025 Payments to Governments Report - marketscreener.com（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "VEOLIA ENVIRONNEMENT To Go Ex-Dividend On May 11th, 2026 With 1.65525 USD Div...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
