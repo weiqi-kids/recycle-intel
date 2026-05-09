@@ -1,0 +1,159 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:15:48.269510Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-05-09-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Glencore ferrochrome output plunges 95% in Q1 - Mysteel",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDZDOWlvM2dLTVl4TEdNb0Q4dTcwRTVJVEhNSHZOT2xVTXNSVHdaRUJRSG1fTm9kV09FeVlKZWhQd2t0SjU0alFMZDJBVnBvMWtQS1ZWR2tSa3lFLUxwZDdSVjY3UjZxbkFyZUZGY2phUzBDM3lkaFE3WVFmY0V1WHExSk1nRDVk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-05-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Antofagasta and Glencore Lead Stocks with Over 120% Returns - Markets Mojo",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX3lLcm9vSjJ1MHNTUzZBaXlCc1FJVy1LMmZNeE9YUDlRZVZkWGhmWC03anNZc2pSdW5LSjlxQzl2a1hwNzEzb2tZVFVTWWowT1JhYWhRV2RSal9NdTZGYTVwQ3RYODBKUVB3ZkpUemxFZUtGZm5VQXN3aTZrRzhDWEtrUEs2MGxFeGZlWXl4LXNkZDZoZDBvdjFpNUpoRHBOa1p4b1pRaFowMk4tdEtQNGpKTnYyODRE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-05-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore Plc Leads Six-Month Stock Returns with 57.83% Gain - Markets Mojo",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDRPNy1fQnpCNk9mVUo3SEx0VjdFVS1KcWhkOWhXVXZFVjNXQWVsd2MybEpxY1pDeEE2SW5rTFN6NEN6R2NScmlLYU1HeFZmVE5tX1BVR253OHZzdm80SXRzaGRBVHg2TEVhMHVuaFEwbWlLUWp1TmVLcGs4NWg3V3hqbjZIdHVURE1ySXlrcGlYYmdXTW94NDlRYlFKUkhUNmZ0UDhqNlEzYWZzQUg0SlpERWRaR1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 284,
+    "dup_title": 146,
+    "too_old": 110,
+    "gate1_blocked": 3,
+    "gate2_blocked": 5,
+    "passed": 20,
+    "pass_rate": "14.5%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "Glencore Publishes 2025 Payments to Governments Report - TipRanks",
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+      "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Gains? - Y",
+      "Veolia Environnement (OTCMKTS:VEOEY) Reaches New 12-Month High - What's Next? - MarketBeat",
+      "CAA seeks to standardize responsible end market requirements"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為嘉能可相關動態：「Glencore ferrochrome output plunges 95% in Q1 - Mysteel」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Glencore ferrochrome output plunges 95% in Q1 - Mysteel（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Antofagasta and Glencore Lead Stocks with Over 120% Returns - Markets Mojo（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
