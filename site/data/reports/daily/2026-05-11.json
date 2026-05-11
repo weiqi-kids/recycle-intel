@@ -1,0 +1,240 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T10:58:11.602616Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-05-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra Systems ASA stock (NO0005668905): Handelsbanken downgrades to sell - AD HOC NEWS",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ2ZOVzBVOGxpWHRwcGJRQ3Y2Vk1UVVoxMF9WdUJfWmswZHQxb0c1NENCejR1NjdyQkVyXzlORmFONVdCa1I3eFg2MWpQOVVpTmI3STRnbjE2Y0pwS3kwNWFDdnVEMjdNU3hFZWJfWE1DZ3l2b1A3ZEY4QTc2YS1nR1Z6Um1mMHNLeEZ4OV9EUWl4NnpkMWk0cml6d200ck5pWWFGWHM1b0dWNUNXZHZTYmp0ZnRiajdmSEREUDFfT21oOXJHWVJZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-05-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Colombia’s Glencore Cerrejon Mine Closure Talks: 2026 Update - discoveryalert.com.au",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb3ZOLU1iSHQ3czBrQUF6MjdBcFUyWEE2WXdkcG5RaDlQR1U3OFN3cU1rN1hZUXJMcGVET01Ma1R2clBUSzhjNVdwV01DT2hpZ19ldGtzVkxNWFExbC1ONUpfeS1FdDdlNDZOalRVTmtXWnFUUXpIblRwMms4ZElrTU5ZWjJyLTNKaXJhZHo2ZUc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "umicore-2026-05-11-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Umicore S.A. stock (BE0974320526): Dividend of €0.50 scheduled for May 2026 - AD HOC NEWS",
+      "companies": [
+        "umicore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVHZBbjlqSncxTlA4WEJNazRhVDFIaGl6RmpfUmpPX3JJaFpWbGczb0Q2QjNTazY5X0kzazhhaUxWSWJyXzVpbEVQZFVCRmoyUDVqSjN4NllGNGJDZHFKR3k1aENNeGhhUktfZldhWDdYellSX05pVVdYazN3aXpRamc0TVEtYWM0bTlmS2hzZlV4cmJOUE9xaGdXcDBudWE3WnBUTHBhSXBiS1oyaTJnMEpGN3YyVVBEOHgyZTZmNlFSUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "aurubis-2026-05-11-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Aurubis AG: Aurubis delivers improved performance: Increased quarterly result and higher forecast - TradingView",
+      "companies": [
+        "aurubis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWUdnWDZzc0hUdjVweHRza09vTXRiZmxFTjBRTy1USDBRRHJJSl9Jd1k5NFFsRDBNT2U5TXpfQnFjOXB4YjR0OTJELUN2WFdHQ19aQzNpMWtnTkd6VzAtaUNsampSOHFfX1N2NkJ5TUM4YkxRMEFoN3VJMWg4Qm5WU0ZrQ3lpWHJSVXh6SHh1dGNzUklNcDFQLVNweGd1aERsbS1SMm9zaEJkT3hwam51cGlxaUY2N2dLZzhlcUFCMk5PeVdPd09BVjRISC1lcW0za1pjRTdROV9NSEJTVlBsZHJYVQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "veolia-2026-05-11-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Veolia Environnement S.A. stock (FR0000124141): Trading near record highs on Paris bourse - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQW9WcUt1eXNWd0RBMlN4LWxwMUhmMEhuT3VpSmFuNW5CNVFGcjA5aExid1BNLWdCTGlrbmJxZHczYzdMQWEwXzNrX0RjQ0xVd25mNVIwWXhjX1paT01YNzQwUTFPWUxzQzJzVml2ck13SUFoOF9Ib1BGVzdxRWFLdkVpa1N5a2NmaHdRLXY1QWZoS3d3RVBMTGhJNXhMNlJMWVRtb0d6WTE0VUJ0ejFYd3BYaDR0QmttUUxTbVFxaFhoNFBUX1Rj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 2
+      },
+      {
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "umicore",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "aurubis",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 161,
+    "too_old": 109,
+    "gate1_blocked": 0,
+    "gate2_blocked": 5,
+    "passed": 11,
+    "pass_rate": "8.8%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "Is Tomra Systems (OB:TOM) Now Offering Value After Its Recent Share Price Slide? - simplywall.st",
+      "Veolia Environnement: - marketscreener.com",
+      "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Gains? - Y",
+      "Veolia Environnement (OTCMKTS:VEOEY) Reaches New 12-Month High - What's Next? - MarketBeat",
+      "CAA seeks to standardize responsible end market requirements"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為嘉能可、陶朗、優美科相關動態：「Tomra Systems ASA stock (NO0005668905): Handelsbanken dow...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tomra Systems ASA stock (NO0005668905): Handelsbanken downgrades to sell - AD...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Colombia’s Glencore Cerrejon Mine Closure Talks: 2026 Update - discoveryalert...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

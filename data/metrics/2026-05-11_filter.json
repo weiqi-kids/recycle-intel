@@ -1,0 +1,16 @@
+{
+  "total_raw": 286,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 0,
+  "gate2_fail": 5,
+  "passed": 11,
+  "gate2_samples": [
+    "Is Tomra Systems (OB:TOM) Now Offering Value After Its Recent Share Price Slide? - simplywall.st",
+    "Veolia Environnement: - marketscreener.com",
+    "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Gains? - Y",
+    "Veolia Environnement (OTCMKTS:VEOEY) Reaches New 12-Month High - What's Next? - MarketBeat",
+    "CAA seeks to standardize responsible end market requirements"
+  ]
+}
