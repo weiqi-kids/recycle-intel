@@ -1,0 +1,16 @@
+{
+  "total_raw": 286,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 0,
+  "gate2_fail": 7,
+  "passed": 22,
+  "gate2_samples": [
+    "Is Tomra Systems (OB:TOM) Now Offering Value After Its Recent Share Price Slide? - simplywall.st",
+    "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Gains? - Y",
+    "Technical Analysis of Veolia Environnement [physical] Futures (EUREX:VVDPG2027) - TradingView",
+    "Veolia Environnement: - marketscreener.com",
+    "Veolia Environnement (OTCMKTS:VEOEY) Reaches New 12-Month High - What's Next? - MarketBeat"
+  ]
+}

@@ -1,5 +1,66 @@
 [
   {
+    "id": "aurubis-2026-05-12-001",
+    "date": "2026-05-12",
+    "companies": [
+      "aurubis"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Aurubis reports income increase - Recycling Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNc0ctam5kWWxVbzJ2Sm9RUnlMRjMzUWxaNDZvOVhCRmRSRVFoXzRMTVRSRDhROUpnVXlYM0R3Z3Biak9EYmdka1pwdjQ0amdaWG9wN1cwNDQxTFNrV21MdUZvVm5YT3AwOHl4YnBMak",
+    "sources": [
+      {
+        "name": "aurubis",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc0ctam5kWWxVbzJ2Sm9RUnlMRjMzUWxaNDZvOVhCRmRSRVFoXzRMTVRSRDhROUpnVXlYM0R3Z3Biak9EYmdka1pwdjQ0amdaWG9wN1cwNDQxTFNrV21MdUZvVm5YT3AwOHl4YnBMakp2WW9pbktMSDZLRmNla08tdjhGZm01VW04azg2bllZdVFnMGlmMXlkU0k1OFZiUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aurubis-2026-05-12-002",
+    "date": "2026-05-12",
+    "companies": [
+      "aurubis"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Aurubis AG stock (DE0006766504): Leading copper producer reports steady operations - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQamZIaWNYbno3TEdJYlFGQm4wVW9LUndDZWdtaTQ2a1ZONUw1VWVPcExaZHRpY0J0LW9MdG1kMndYdTVRTkx1elg5OWp4X3J3MFFuNHVtaVpBWGVQMkF1Ry1seXItS2tuc0E5S0hVZ0",
+    "sources": [
+      {
+        "name": "aurubis",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQamZIaWNYbno3TEdJYlFGQm4wVW9LUndDZWdtaTQ2a1ZONUw1VWVPcExaZHRpY0J0LW9MdG1kMndYdTVRTkx1elg5OWp4X3J3MFFuNHVtaVpBWGVQMkF1Ry1seXItS2tuc0E5S0hVZ0tDWnVqRWd2dWpHa0N0bldpbHM2Q2tsSWlIUkNmNjFLeDNUdlhqRmpnUi1KSld6WG5mN1RmWFBfbUpIdHBpQzQxWC1feUZ3R0NpcTVyMnhxb1B2b3kyY0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_mgmt-2026-05-12-003",
+    "date": "2026-05-12",
+    "companies": [
+      "waste_mgmt"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Management Market Set to Reach US$ 2.08 Trillion by 2033 | - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNb0JfWDdIaTFUUl82SXdJY1BTelZZQkFsb1MtZE1ITDhUVmRXRElITVlXUS1pcnVibXdZZzkyZnZWUDZPV0RiaUN4dk1yTElWRTB6UUVCc1ZEV3hHNG1pcTZMc1I0d0p4a1RXYzFwTG",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb0JfWDdIaTFUUl82SXdJY1BTelZZQkFsb1MtZE1ITDhUVmRXRElITVlXUS1pcnVibXdZZzkyZnZWUDZPV0RiaUN4dk1yTElWRTB6UUVCc1ZEV3hHNG1pcTZMc1I0d0p4a1RXYzFwTG04RnNLWXZ3OW90OEFsdWFLT0kyaVY3YlFoZUY1MFNRSjM0WEhObFp6V1o3T2JyZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-05-11-001",
     "date": "2026-05-11",
     "companies": [
@@ -137,6 +198,350 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/spons/when-route-knowledge-walks-out-the-door-the-hidden-risk-in-waste-collectio/818744/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-05-11-008",
+    "date": "2026-05-11",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tomra Systems ASA stock (NO0005668905): Handelsbanken downgrades to Sell - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPa0Z1bTR1ZGR5YWRRVjhjMUVyeGpnSjVIMy1jNl9PWVR2dEcxV2hPRkNtNzJ1RldtWENwMHliOTdvdmItUVBObXQtbFdZN2k2RjRhSVI5bm9fOEREV0dtVDdwUW4tNk1DOGQ4SFhIMG",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa0Z1bTR1ZGR5YWRRVjhjMUVyeGpnSjVIMy1jNl9PWVR2dEcxV2hPRkNtNzJ1RldtWENwMHliOTdvdmItUVBObXQtbFdZN2k2RjRhSVI5bm9fOEREV0dtVDdwUW4tNk1DOGQ4SFhIMGN5OWx4eDdSdk9yaV9sQ05QaUVUNnVzUnZnalcyUG1xMGEteVhYYXRKOWJZdHktdUI4YjF1UW84SlJDbXppU1hyMjVJajNqN0t0SWI3LTJjajY1eWJGdlRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-11-009",
+    "date": "2026-05-11",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Are Investors Undervaluing Glencore (GLNCY) Right Now? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ2NhX1Zzb2RuYjlVVEtVYXBqeEtwZm9BZ0FqX00xU0ppNGl0d2cwM3h0bFRFcXI1WHBieGRUMjVxVm9aeGtrb0lTamZFc0RiSG5sd1R2T2tlbG9EMUFSRERrMTlCSFBuLUQ5V1dTWX",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ2NhX1Zzb2RuYjlVVEtVYXBqeEtwZm9BZ0FqX00xU0ppNGl0d2cwM3h0bFRFcXI1WHBieGRUMjVxVm9aeGtrb0lTamZFc0RiSG5sd1R2T2tlbG9EMUFSRERrMTlCSFBuLUQ5V1dTWXZwWjNxZFNpMklubXFPLXBQZS16MlJfS1YtX2NwMHRoOVhIM0dRTENRVmxQd245N1RUWGZRVE9tenY1UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-11-010",
+    "date": "2026-05-11",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore plc stock (JE00B4T3BW64): Diversified mining giant with global commodity exposure - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQRVpVb2UweEFrTTZ5Q2NIRlRHaHpHeVRnT1hIWERRaHpCTEp1SzZaQzJOWmZIOE54UlRrZkhIRnI0M1d1cThlZ1VGRHpfdTFnblYzdmZFa0lINWtJTHNURlNKTkFzbGJMZVVldjRPRV",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRVpVb2UweEFrTTZ5Q2NIRlRHaHpHeVRnT1hIWERRaHpCTEp1SzZaQzJOWmZIOE54UlRrZkhIRnI0M1d1cThlZ1VGRHpfdTFnblYzdmZFa0lINWtJTHNURlNKTkFzbGJMZVVldjRPRVE2Y0dTeU5fLTJCbUwzX2ZwRDBwTHViUjJHamdrUVUtSUU5UjBRU0pRZ2E1bGFGSFZpY3FqX3dUN1plRnZBSkhaRlM2RTlzWVZJenNKVjNuSTFfd0lhQ1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_mgmt-2026-05-11-011",
+    "date": "2026-05-11",
+    "companies": [
+      "waste_mgmt"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "WM Announces Cash Dividend",
+    "summary": "HOUSTON --(BUSINESS WIRE)--May 11, 2026-- WM (NYSE: WM) today announced the declaration of a quarterly cash dividend of $0.945 per share payable June 18, 2026, to stockholders of record on June 5, 202",
+    "sources": [
+      {
+        "name": "waste_mgmt",
+        "url": "https://investors.wm.com/news-releases/news-release-details/wm-announces-cash-dividend-18",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-05-11-012",
+    "date": "2026-05-11",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nicholas Company Inc. Boosts Holdings in Waste Connections, Inc. $WCN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPR0VyQ2stNzF3LTFiUFl6NUFKVFlZaWZlYm91RDlTb19GSEp4SVhzUm5ydGQxZDlkMFp4dURENUdBdVlvWGNhUlpLY1RwaHk2WUdWWjBZSVprLTc2SFhjU1pNRl8yYkhYN0VBYm1lSn",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR0VyQ2stNzF3LTFiUFl6NUFKVFlZaWZlYm91RDlTb19GSEp4SVhzUm5ydGQxZDlkMFp4dURENUdBdVlvWGNhUlpLY1RwaHk2WUdWWjBZSVprLTc2SFhjU1pNRl8yYkhYN0VBYm1lSnR5ZU45UmlDZnZ1ODY3ajNab09pM1c5Mk9CTFNaQnlRQ1NuUkZSYXNuVkJnS2h6RTZaLUE1ZzBETFFINmc3aU03clhaRW1OTmxwMUlwSXFONmdFTFYx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-05-11-013",
+    "date": "2026-05-11",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ernest Wong's Top Picks: Stryker, Ind. Gross Yield & Waste Connections - BNN Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQSUg0YkhVbjZSNWlTd0twcFM3ZTdFM2hUdlNKTHhDX1B0bEtLdzd0Y2IwNkJMUjEwYnQyNjNGeXdVakVrYlJ6cG1PbW5PdGNQQlQyVm90NW5DLXFyR3pPVXVuWkNCUEtZcHFBbkpBdU",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSUg0YkhVbjZSNWlTd0twcFM3ZTdFM2hUdlNKTHhDX1B0bEtLdzd0Y2IwNkJMUjEwYnQyNjNGeXdVakVrYlJ6cG1PbW5PdGNQQlQyVm90NW5DLXFyR3pPVXVuWkNCUEtZcHFBbkpBdUlxZU1jZGxHck5fa19qRXpBaTZTOHZKcFVNdEhjd2g1UGpNT1ZGVmxDNUdjbFEwdkNRUUptTGI1ZnRZdU1mR0prVUNyR2pzcjlYaDZEMFhXSFpRQ0tOLVIw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-05-11-014",
+    "date": "2026-05-11",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections, Inc. $WCN Shares Purchased by Mirabaud Asset Management Ltd - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRHliQ3QydWZHUVFLTTR4RHQ0STlvZmVKbFlJaHNjUW1fdmtxTUM1TzZDRldLVG1nZlAyVGk0NUZicDllYnJidks1YU9YVUxWZUZSNTRzcktzUnJCX00tckJwTjhPSGJmckU2cG9CMz",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRHliQ3QydWZHUVFLTTR4RHQ0STlvZmVKbFlJaHNjUW1fdmtxTUM1TzZDRldLVG1nZlAyVGk0NUZicDllYnJidks1YU9YVUxWZUZSNTRzcktzUnJCX00tckJwTjhPSGJmckU2cG9CMzNOSXdRWUNEblNNZW5kWTJZcFk4X244cm9DMy1RUHFnb2VYcFcwa2VmV25tb1kzOURjOXBmVFVkakVVNVppZEV5N1hIV2lyci1FdDByelRIRkFDZlJXSUxvSGZwSTczZlQxM0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aurubis-2026-05-11-015",
+    "date": "2026-05-11",
+    "companies": [
+      "aurubis"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aurubis AG stock (DE0006766504): Latest company updates and market position - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNbi1PdWdqSFI0Y0JJdm1RYi1fcUphZm9vNGEwenFGZVRNU25FS2xsMi1ya2hIY2tON0FKVEJ4OEk0UllOQ2E5bEFFYzlNdlUzenRYYXZxVk55aGQxUEtGNG91NE8zWmhoZkhGOGxRWE",
+    "sources": [
+      {
+        "name": "aurubis",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbi1PdWdqSFI0Y0JJdm1RYi1fcUphZm9vNGEwenFGZVRNU25FS2xsMi1ya2hIY2tON0FKVEJ4OEk0UllOQ2E5bEFFYzlNdlUzenRYYXZxVk55aGQxUEtGNG91NE8zWmhoZkhGOGxRWEdQNGx4cThJZFdiM3RuLWIyR29ydmg1cjgzRnlYdnZ1NllSekdYd09mb0hwcDZCNXFONHZjZTFqR2dUdXVlQ1dLcnJVczJPcXlhR2h1NFVIRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-11-016",
+    "date": "2026-05-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nevada battery recycler's sales jump 64% on EV, data center waste - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQVVBLOFNhUkE5Z0s2TnFPRTFXY0FXcmpiVlVaRExsSFZOc21IUlp1Sk15YUUzRll1SzlRWmYyR0VZMGdEUGEybE1aMzRVX243clZCWWZ1UGdFZXZ6RVh6X2VJc3huWm8yXzJQNkhEOT",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVVBLOFNhUkE5Z0s2TnFPRTFXY0FXcmpiVlVaRExsSFZOc21IUlp1Sk15YUUzRll1SzlRWmYyR0VZMGdEUGEybE1aMzRVX243clZCWWZ1UGdFZXZ6RVh6X2VJc3huWm8yXzJQNkhEOTdzb240bGFCV0Z1WHJES2FqVTJ6VzVJU2FNVXp5NE80VjlRR05QMEZCV2U1SFZJbTZ3QTJxem5OVjJSM0R6Nlk5RUI4RTQ0eHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-05-11-017",
+    "date": "2026-05-11",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology (NASDAQ:ABAT) Releases Earnings Results, Misses Estimates By $0.18 EPS - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZWZHcjhMWm9kRFpfaWllWTBOMkhHR0lIeHdJTEtDaTBxdzN5NEJKRnRMWlV6TFZrT2VGWFJ1TWxtU0lSaUY2aTJGT0RCYTRkYzRoaXlYN3FYZ210Tl83ekpoa2w0YzJUdmZCUFlXNj",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZWZHcjhMWm9kRFpfaWllWTBOMkhHR0lIeHdJTEtDaTBxdzN5NEJKRnRMWlV6TFZrT2VGWFJ1TWxtU0lSaUY2aTJGT0RCYTRkYzRoaXlYN3FYZ210Tl83ekpoa2w0YzJUdmZCUFlXNjREd2dROS16Q1V4Q0ZyR242Mnp6V3BHNnBxSFJaZnhETGhVbHd6ODl0ci05aWYzeTJQSjV4ZExWcXhPZ1owMm1BYUhvUzVsektYV0d6TEdYMF8yZC1sTVJhZGxrNXJYU2Voa1R4TGowc2l1WnlqOW5j?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-05-11-018",
+    "date": "2026-05-11",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Press Release: American Battery Technology Company Announces Record Breaking Revenue and First-Ever Positive Gross Margin in Third Quarter Fiscal 2026 Financial Results - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUDRSRzNoRW9mQnRyOVBhaHJVZ1J3NzZpTFQ2MDA3cjJVQWtJclNtUE84cUJOREJVQi1teFdiRHlfTERSNXZ5eVg2bmtVcTNmQTFINEFaX2g2aWdja1VKMU52cUJQVnEzOXNKcVhIcG",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUDRSRzNoRW9mQnRyOVBhaHJVZ1J3NzZpTFQ2MDA3cjJVQWtJclNtUE84cUJOREJVQi1teFdiRHlfTERSNXZ5eVg2bmtVcTNmQTFINEFaX2g2aWdja1VKMU52cUJQVnEzOXNKcVhIcGN4U0NRTWhpSEZLMnhDTkI4WlFHUGFMY1VIZFlKekY4ei1OT3pXVlFOb1pfamZXZHN4Uy1rTkhqYzNoeTh3dmlzam9IbmpOaXBIVkF0dkw5aklyVVZ0LWZXcHBXM1Z4aU4yc2JRRV85WUQ2a2ZYVVdrS3prenQ1LTY4cUZsZDRYTnN5QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-11-019",
+    "date": "2026-05-11",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "American Battery (ABAT) Reports Record Revenue and First Positiv - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNcnZ6bjdlMzRCZnNwRk1fczlNdUNGRHQxVWkwRUR3VHBTb3VsaEhoZjhEczFFeko1ZDFUMXZhUVVlVzRXQk5UcGpZanlydDI2VEczRHVaRUFZUkZ5RVF2RzFhdWZuTnlJNm8xeUowV2",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcnZ6bjdlMzRCZnNwRk1fczlNdUNGRHQxVWkwRUR3VHBTb3VsaEhoZjhEczFFeko1ZDFUMXZhUVVlVzRXQk5UcGpZanlydDI2VEczRHVaRUFZUkZ5RVF2RzFhdWZuTnlJNm8xeUowV2JfS29Xb2RhWDBNNHdmVm9xSC1xT1d6bWNVQXR1Tm5wSDctM2xFRk8tM0RjSkVWUi1NYXo5UDRCMVpxRGkwTXhoaUVPMnlBMlg4OC1QNXQxbU9RLWg2WWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-05-11-020",
+    "date": "2026-05-11",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMERICAN BATTERY TECHNOLOGY Co 1Q 2026: Revenue $7.81M, EPS $(0.26) — 10-Q Summary - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYWpuMzZpR0tSci1XWmtyWXJ2OU50ZTMxUHdMR0RwN1RpNk03ajV5V2NJdHJYa01TLXBCM3gyTV95WWFsR2d1ZVFtTGtvc1RWZmszbTdfVHVBRE9TSDlYYUs3U2lNU1NBU2FKcm00MF",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYWpuMzZpR0tSci1XWmtyWXJ2OU50ZTMxUHdMR0RwN1RpNk03ajV5V2NJdHJYa01TLXBCM3gyTV95WWFsR2d1ZVFtTGtvc1RWZmszbTdfVHVBRE9TSDlYYUs3U2lNU1NBU2FKcm00MFNMUzQyUUdLZTZhUkV4cmNLZGpaVFNfN3cxeUJoZFdSSlc4cEw1bDF6ZXIyXzdpNkxYdkFZMGdpT1FPQl9lckI3VWRLVzZZRi1DX1YzOWVKUVRSV1dRZ280WWpRb1VNREl2WlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-05-11-021",
+    "date": "2026-05-11",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology Company Reports Earnings Results for the Third Quarter and Nine Months Ended March 31, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQblVvWG1QX3hjalYyclZYeG9jMHZ2QjlidHh6WmFPMkFlRHY2TXNMVHlrOGJRd2IxSWgyMXpWcVJzdS1HaEd5a3pVbE80REpZU3paNThxQVllaUpkcmJab3kwZkVhX0ZILVZuMWFHVk",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQblVvWG1QX3hjalYyclZYeG9jMHZ2QjlidHh6WmFPMkFlRHY2TXNMVHlrOGJRd2IxSWgyMXpWcVJzdS1HaEd5a3pVbE80REpZU3paNThxQVllaUpkcmJab3kwZkVhX0ZILVZuMWFHVkJfWEZWZ2FERHE2QXIycmY4blJrREdvelJSRG9kYm54d0hrTUhFRmY3TnQxZk9lc052SnJPQXJ4a01ZeW1PZjBlYTZyX0c0cEx6ZlhtZEJCY2tQMVFCR0RtQnZEY2dlV1pud25fMU5MdEtZNkNxSzZLaXBjTWRmU29R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-05-11-022",
+    "date": "2026-05-11",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The American battery technology company recently released its financial results for the third quarter of fiscal year 2026. - Bitget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE15WElMVFlhUkJxNU5jeS1iaUwzVEpacVpxS2c3UFk3ZzlEenFFZ2pPclBfY3lTcHRTSUhyZ0dVbklMeGhXV2dsSzllY1Y3QTR6M0hpZzIwOThVbkwyM3pMQWRvQdIBY0FVX3lxTE15WE",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15WElMVFlhUkJxNU5jeS1iaUwzVEpacVpxS2c3UFk3ZzlEenFFZ2pPclBfY3lTcHRTSUhyZ0dVbklMeGhXV2dsSzllY1Y3QTR6M0hpZzIwOThVbkwyM3pMQWRvQdIBY0FVX3lxTE15WElMVFlhUkJxNU5jeS1iaUwzVEpacVpxS2c3UFk3ZzlEenFFZ2pPclBfY3lTcHRTSUhyZ0dVbklMeGhXV2dsSzllY1Y3QTR6M0hpZzIwOThVbkwyM3pMQWRvQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-05-11-023",
+    "date": "2026-05-11",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "American Battery Technology (NASDAQ: ABAT) grows revenue but posts larger Q3 2026 loss - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSlJTcjFqZmxtamxVckpWVnV6QVJJcEZVTFp3Um1zQTl0UVotTDdGcmdaMlk4dnU3Q1REM1NzeHhYaEdGeGFKRDZxZjM5VHEyZllVVjNfU08xeldLUzZST0hBZTJGZnJYdFZCUXdpaj",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSlJTcjFqZmxtamxVckpWVnV6QVJJcEZVTFp3Um1zQTl0UVotTDdGcmdaMlk4dnU3Q1REM1NzeHhYaEdGeGFKRDZxZjM5VHEyZllVVjNfU08xeldLUzZST0hBZTJGZnJYdFZCUXdpajltbFcwRUpCbFA3b3M0RlVRTXBaZVN3QmNqekh2NEJ1MmtiY1pkTHJmTVZQZjNOSnlBVnhkOWl5SGF5Z1Z0US1WYkpSN1ZsNWdDcGJ4NnhlazI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-11-024",
+    "date": "2026-05-11",
+    "companies": [],
+    "topics": [
+      "circular_economy_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maine’s packaging EPR implementation lags",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/0OU4A4B-AUbr_rrHYKvu4MaHtm_wECcgHSMqLJ5AiGc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTQ5MzE2NzUuanBn.web",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/maine-extended-producer-responsibility-packaging-timeline/819817/",
         "type": "rss"
       }
     ]
@@ -773,6 +1178,26 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVpYdXRrb1g3Tzg0QkUxV1FoNXJyRklxRnBhOXFVVFltb3pTTzl3UjF1T1BTRXRadkZXa2psTGhsNGRhNEw3WkRJbWJua2J5cjd5dEVtRG42MHZzWWZnVmc3dG03YlFFOXBsRkFYcUZhT09uVVZrZmJzQXREOWxJV2g0OGdCVm9oLS1Wd1hVSGU1TWFBT1RSZGo0a2Y?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-05-08-014",
+    "date": "2026-05-08",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Veolia Environnement Signals Resilient Growth in Earnings - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVHRydGpqTjBhYXhwR2lwbXVKc3FQdm5IVFhUWlBObVZVMXpBaXdsU25mS0M2LS0tRTc1NzNLdjV6dnRIYktmbkJFWjdhR01qWDJvUGNKVDRCNHJ6Tkhtcy1rLVN1OHJNYm9JUXJyaF",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVHRydGpqTjBhYXhwR2lwbXVKc3FQdm5IVFhUWlBObVZVMXpBaXdsU25mS0M2LS0tRTc1NzNLdjV6dnRIYktmbkJFWjdhR01qWDJvUGNKVDRCNHJ6Tkhtcy1rLVN1OHJNYm9JUXJyaFJueTNfbWJ6bWs2bHZqeDRPWXlzcWtyZ2MxV0RuME9kQmpvLVNNdzJZYzhCc1pDM1BoV3hsbzBGUHdfTEYxYnc0SE44Wnp0aGRjcjlyOFc0ZF8wb1hSNFNVblRrdnV6RXFnWkN4ZE1uODd2WUE?oc=5",
         "type": "rss"
       }
     ]
@@ -1814,6 +2239,27 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRUtCNnNMeTh0Tjhsd0FWWi1kYjA4S1dSLUxVWENMU3BIQmRNMHpmTWJ5Z1JvT0pId2JlRkpyQmxMTDZQSnBKSThEWFBWSkhYZndOSHNzRUlFZTdlZXRGLTJBVG9id0VPRnhmTVhmQmxwSUsxc0htODlyR3o1MENsRlJEUTdScXZjRGtBYlhoODNIOWJiN2dSclprX2RTbDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-05-06-031",
+    "date": "2026-05-06",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections declares CAD 0.35 dividend - msn.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gJBVV95cUxNMEtXNGU1VTNybVZ0ZGRrMW5iTWk2STVjN2JRb3pRTmI3Umhhdk5CWkV4WHF6elZTcUotT0RMemRmcno3UWpxQm1OeHpsMDBoeEQ3R3FtS3pwY0FLVERoX1JDcGxsQ2RFV3ktajY5eU",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNMEtXNGU1VTNybVZ0ZGRrMW5iTWk2STVjN2JRb3pRTmI3Umhhdk5CWkV4WHF6elZTcUotT0RMemRmcno3UWpxQm1OeHpsMDBoeEQ3R3FtS3pwY0FLVERoX1JDcGxsQ2RFV3ktajY5eU90YUl1d2lYRmJFX01Ob2NaQXdWSjFMUk8zNFAzRE1jSm1DXzYtNWw0ZEN4NWZ2U3Y5YWlFNUVOTUlIaGwybDVSM2Jld1NYSFZPd2JWSEVzam44TXZtdncxT3VjeG1CMmhvcTFYV3VoWEVGZm5ValFNcWh3LWpSQ0FhM1h0WWpNaVhveUZSXzdpQzhqbGZFa3R5VktPUXBQLTVxNzlFSTRqeG9qck0zZGN1RkhmUUNSSV9DUkRJeGtodDVCbWdUVTVvZ1ozZ1l1NkdTVDY1RUVYM1UxUXJFTW42cHJYbGdHV1NQc2htcHc?oc=5",
         "type": "rss"
       }
     ]

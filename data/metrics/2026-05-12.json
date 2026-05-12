@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-12",
+  "total_events": 3,
+  "by_company": {
+    "aurubis": {
+      "count": 2,
+      "sentiment_avg": 0.75
+    },
+    "waste_mgmt": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 3,
+      "sentiment_avg": 0.5
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
