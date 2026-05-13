@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-13",
+  "total_events": 5,
+  "by_company": {
+    "glencore": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "waste_connections": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "aurubis": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    },
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "battery_recycling": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

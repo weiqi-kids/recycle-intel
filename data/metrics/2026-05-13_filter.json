@@ -1,0 +1,16 @@
+{
+  "total_raw": 284,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 0,
+  "gate2_fail": 6,
+  "passed": 24,
+  "gate2_samples": [
+    "Is Tomra Systems (OB:TOM) Now Offering Value After Its Recent Share Price Slide? - simplywall.st",
+    "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Gains? - Y",
+    "Veolia Environnement: - marketscreener.com",
+    "Veolia Environnement (OTCMKTS:VEOEY) Reaches New 12-Month High - What's Next? - MarketBeat",
+    "20% of US residents can now recycle paper cups, FPI says"
+  ]
+}
