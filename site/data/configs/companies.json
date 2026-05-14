@@ -1,0 +1,289 @@
+{
+  "companies": [
+    {
+      "id": "tomra",
+      "name": "TOMRA Systems",
+      "aliases": [
+        "陶朗",
+        "TOMRA"
+      ],
+      "ticker": "TOM.OL",
+      "market": "Oslo",
+      "currency": "NOK",
+      "position": "upstream",
+      "role": "分選設備",
+      "description": "全球回收分選設備龍頭",
+      "ir_url": "https://www.tomra.com/en/investor-relations",
+      "rss_url": "https://news.google.com/rss/search?q=\"TOMRA+Systems\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "waste_mgmt",
+        "republic",
+        "waste_connections",
+        "sims",
+        "renewi"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "glencore",
+      "name": "Glencore",
+      "aliases": [
+        "嘉能可"
+      ],
+      "ticker": "GLEN.L",
+      "market": "London",
+      "currency": "GBP",
+      "position": "upstream",
+      "role": "原物料貿易",
+      "description": "全球最大原物料貿易商，回收金屬供應",
+      "ir_url": "https://www.glencore.com/investors",
+      "rss_url": "https://news.google.com/rss/search?q=\"Glencore\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "aurubis",
+        "boliden",
+        "umicore"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "waste_mgmt",
+      "name": "Waste Management",
+      "aliases": [
+        "廢管",
+        "WM"
+      ],
+      "ticker": "WM",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "廢棄物管理",
+      "description": "北美最大廢棄物處理與回收商",
+      "ir_url": "https://investors.wm.com/",
+      "rss_url": "https://investors.wm.com/rss/news-releases.xml",
+      "upstream": [
+        "tomra"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "republic",
+      "name": "Republic Services",
+      "aliases": [
+        "共和",
+        "RSG"
+      ],
+      "ticker": "RSG",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "廢棄物管理",
+      "description": "北美第二大廢棄物處理商",
+      "ir_url": "https://investor.republicservices.com/",
+      "rss_url": "https://investor.republicservices.com/rss/news-releases.xml",
+      "upstream": [
+        "tomra"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "waste_connections",
+      "name": "Waste Connections",
+      "aliases": [
+        "WCN"
+      ],
+      "ticker": "WCN",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "廢棄物管理",
+      "description": "北美第三大廢棄物處理商",
+      "ir_url": "https://ir.wasteconnections.com/",
+      "rss_url": "https://news.google.com/rss/search?q=\"Waste+Connections\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "tomra"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "umicore",
+      "name": "Umicore",
+      "aliases": [
+        "優美科"
+      ],
+      "ticker": "UMI.BR",
+      "market": "Euronext",
+      "currency": "EUR",
+      "position": "midstream",
+      "role": "貴金屬回收",
+      "description": "貴金屬與電池材料回收",
+      "ir_url": "https://www.umicore.com/en/investors/",
+      "rss_url": "https://news.google.com/rss/search?q=\"Umicore\"+precious+metals+recycling&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "glencore"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "veolia",
+      "name": "Veolia Environnement",
+      "aliases": [
+        "威立雅",
+        "Veolia"
+      ],
+      "ticker": "VIE.PA",
+      "market": "Euronext",
+      "currency": "EUR",
+      "position": "midstream",
+      "role": "環保服務",
+      "description": "全球最大環境服務商，廢棄物回收與水處理",
+      "ir_url": "https://www.veolia.com/en/finance",
+      "rss_url": "https://news.google.com/rss/search?q=\"Veolia+Environnement\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "aurubis",
+      "name": "Aurubis",
+      "aliases": [
+        "奧魯比斯"
+      ],
+      "ticker": "NDA.DE",
+      "market": "XETRA",
+      "currency": "EUR",
+      "position": "midstream",
+      "role": "銅回收",
+      "description": "歐洲最大銅回收精煉商",
+      "ir_url": "https://www.aurubis.com/en/investors",
+      "rss_url": "https://news.google.com/rss/search?q=\"Aurubis\"+copper+recycling&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "glencore"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "boliden",
+      "name": "Boliden",
+      "aliases": [
+        "博利登"
+      ],
+      "ticker": "BOL.ST",
+      "market": "Stockholm",
+      "currency": "SEK",
+      "position": "midstream",
+      "role": "金屬回收",
+      "description": "北歐金屬回收與冶煉商",
+      "ir_url": "https://www.boliden.com/investor-relations",
+      "rss_url": "https://news.google.com/rss/search?q=\"Boliden\"+metals+recycling&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "glencore"
+      ],
+      "downstream": [],
+      "ir_rss_url": "https://www.boliden.com/rss",
+      "fetch_mode": "rss"
+    },
+    {
+      "id": "sims",
+      "name": "Sims Limited",
+      "aliases": [
+        "西姆斯",
+        "Sims Metal"
+      ],
+      "ticker": "SGM.AX",
+      "market": "ASX",
+      "currency": "AUD",
+      "position": "midstream",
+      "role": "金屬回收",
+      "description": "全球金屬回收與電子廢棄物處理",
+      "ir_url": "https://www.simsltd.com/investors/",
+      "rss_url": "https://news.google.com/rss/search?q=\"Sims+Limited\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "tomra"
+      ],
+      "downstream": [],
+      "ir_rss_url": "https://www.simsltd.com/feed/",
+      "fetch_mode": "rss"
+    },
+    {
+      "id": "renewi",
+      "name": "Renewi",
+      "aliases": [
+        "瑞紐威"
+      ],
+      "ticker": "RWI.AS",
+      "market": "Amsterdam",
+      "currency": "EUR",
+      "position": "midstream",
+      "role": "廢棄物轉化",
+      "description": "歐洲廢棄物轉化資源服務商",
+      "ir_url": "https://www.renewi.com/en/investors",
+      "rss_url": "https://news.google.com/rss/search?q=\"Renewi\"+waste+to+resource&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "tomra"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "kunding",
+      "name": "崑鼎投資控股",
+      "aliases": [
+        "Kunding",
+        "崑鼎"
+      ],
+      "ticker": "6803.TWO",
+      "market": "TPEx",
+      "currency": "TWD",
+      "position": "midstream",
+      "role": "廢棄物處理",
+      "description": "台灣焚化爐營運與環保工程",
+      "ir_url": null,
+      "rss_url": "https://news.google.com/rss/search?q=\"Kunding\"+waste+treatment&hl=en&gl=US&ceid=US:en",
+      "upstream": [],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "abtc",
+      "name": "American Battery Technology",
+      "aliases": [
+        "美國電池",
+        "ABTC"
+      ],
+      "ticker": "ABAT",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "電池回收",
+      "description": "鋰電池回收技術公司",
+      "ir_url": "https://americanbatterytechnology.com/investors/",
+      "rss_url": "https://news.google.com/rss/search?q=\"American+Battery+Technology\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [],
+      "downstream": [],
+      "fetch_mode": "http"
+    }
+  ],
+  "etfs": [],
+  "supply_chain_positions": {
+    "upstream": [
+      "分選設備",
+      "原物料貿易"
+    ],
+    "midstream": [
+      "廢棄物管理",
+      "貴金屬回收",
+      "環保服務",
+      "銅回收",
+      "金屬回收",
+      "廢棄物轉化",
+      "廢棄物處理",
+      "電池回收"
+    ],
+    "downstream": []
+  }
+}

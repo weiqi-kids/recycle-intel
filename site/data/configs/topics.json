@@ -1,0 +1,191 @@
+{
+  "topics": {
+    "battery_recycling": {
+      "display": "電池回收",
+      "keywords": [
+        "battery recycling",
+        "電池回收",
+        "lithium recycling",
+        "鋰回收",
+        "cobalt recycling",
+        "nickel recycling",
+        "black mass",
+        "hydrometallurgy",
+        "濕法冶金",
+        "battery materials recovery"
+      ]
+    },
+    "plastic_recycling": {
+      "display": "塑膠回收",
+      "keywords": [
+        "plastic recycling",
+        "塑膠回收",
+        "PET recycling",
+        "chemical recycling",
+        "化學回收",
+        "mechanical recycling",
+        "rPET",
+        "recycled plastic",
+        "plastic waste",
+        "塑膠廢棄物"
+      ]
+    },
+    "ewaste": {
+      "display": "電子廢棄物",
+      "keywords": [
+        "e-waste",
+        "電子廢棄物",
+        "electronic waste",
+        "WEEE",
+        "circuit board recycling",
+        "precious metal recovery",
+        "貴金屬回收",
+        "urban mining",
+        "都市礦山"
+      ]
+    },
+    "circular_economy_policy": {
+      "display": "循環經濟政策",
+      "keywords": [
+        "circular economy",
+        "循環經濟",
+        "EPR",
+        "extended producer responsibility",
+        "生產者延伸責任",
+        "waste regulation",
+        "廢棄物法規",
+        "recycling mandate",
+        "回收率",
+        "recycling rate"
+      ]
+    },
+    "carbon_credit": {
+      "display": "碳權",
+      "keywords": [
+        "carbon credit",
+        "碳權",
+        "carbon offset",
+        "碳抵換",
+        "emission trading",
+        "碳交易",
+        "carbon market",
+        "碳市場",
+        "ESG",
+        "carbon footprint",
+        "碳足跡"
+      ]
+    },
+    "earnings": {
+      "display": "財報",
+      "keywords": [
+        "財報",
+        "earnings",
+        "quarterly results",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4",
+        "營收",
+        "revenue",
+        "profit",
+        "獲利",
+        "gross margin",
+        "毛利率"
+      ]
+    },
+    "guidance": {
+      "display": "展望",
+      "keywords": [
+        "展望",
+        "guidance",
+        "outlook",
+        "forecast",
+        "預測"
+      ]
+    },
+    "commodity_price": {
+      "display": "原物料價格",
+      "keywords": [
+        "commodity price",
+        "原物料價格",
+        "copper price",
+        "銅價",
+        "aluminum price",
+        "鋁價",
+        "scrap price",
+        "廢料價格",
+        "metal price",
+        "金屬價格"
+      ],
+      "sentiment_keywords": {
+        "positive": [
+          "上漲",
+          "漲價",
+          "price hike",
+          "price increase"
+        ],
+        "negative": [
+          "下跌",
+          "跌價",
+          "price cut",
+          "price decline"
+        ]
+      }
+    },
+    "industry_general": {
+      "display": "產業通用",
+      "keywords": [
+        "recycling",
+        "waste",
+        "scrap",
+        "circular economy",
+        "reclaim",
+        "reuse",
+        "landfill",
+        "compost",
+        "回收",
+        "廢棄物",
+        "循環經濟",
+        "sorting",
+        "shredding",
+        "incineration",
+        "waste-to-energy",
+        "recyclable",
+        "sustainability",
+        "zero waste",
+        "disposal",
+        "metal",
+        "metals",
+        "mining",
+        "smelter",
+        "steel",
+        "cobalt",
+        "lithium",
+        "copper",
+        "battery",
+        "batteries",
+        "EV",
+        "oil",
+        "logistics",
+        "shareholders",
+        "shareholder",
+        "stock",
+        "shares",
+        "valuation",
+        "annual general meeting",
+        "AGM",
+        "fertilizer",
+        "environment",
+        "emission",
+        "金屬",
+        "礦業",
+        "冶煉",
+        "鋼鐵",
+        "鈷",
+        "鋰",
+        "銅",
+        "電池"
+      ]
+    }
+  }
+}

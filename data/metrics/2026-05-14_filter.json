@@ -1,0 +1,16 @@
+{
+  "total_raw": 284,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 0,
+  "gate2_fail": 7,
+  "passed": 24,
+  "gate2_samples": [
+    "Is Tomra Systems (OB:TOM) Now Offering Value After Its Recent Share Price Slide? - simplywall.st",
+    "Glencore: Remains an unmatched wartime sector favourite - marketscreener.com",
+    "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+    "Veolia Environnement: - marketscreener.com",
+    "Is It Too Late To Consider Veolia Environnement (ENXTPA:VIE) After Its Recent Share Price Gains? - Y"
+  ]
+}
