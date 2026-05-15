@@ -1,0 +1,225 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:18:41.384913Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "abtc-2026-05-15-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "American Battery Technology (ABAT) Is Up 10.7% After Q3 Revenue Jump But Deeper Losses - Has The Bull Case Changed? - simplywall.st",
+      "companies": [
+        "abtc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQjMycXdXSkVqTDhITTdJMmZ1SE9pclNBcldjamJadnpNVE5mdElmdFpsRXlWMmNURmoxTnhUbUFDMldYb1M5UFhqSzhmb2JkeFRnWmt4UG02eVIzYWxqRDNtOEJGemg4VGs3cDhrdFg5VTBPcjR5dHN5bGt6eUM4WW5wLTU2U2o3aEZXamctWnZRUTB1RF8xWThqV25iNWh2YndkVHg5M185aHc4X3h5eEowN1A5ZjgyMFZ2eHZZaFFuZ1hnWXVfYzdfeWlyY1BHZDBKWlRpMlhkQ2Z4clVF0gHkAUFVX3lxTE16UlJmN1EwNGhyQ0JEaDNWZ1ZsZ1BlWWIzZXJuaGJDNVJtMWtIQUhDZXlVUldUR3FIY25hQUtsanRHS21WRVFBME9QQmpkaW9ScjlzV3lTT1FNNG02YkxmOWtvM2lEOW9JY1ZHcV93Wm84OWJnSk9veEhpSzBPaXhldTd2NVlBRW5uXzNqZ1N0YXhzWm5ZNmFSYmZhbWNnWWNNYnBjQmlmQlRHVzZ2WUZpU2lwODFVVlJnTlhJMWtPVms3OVNYbjB1dDlXZGlWNXl2c0JzR1B1dEF2TWNTQm1TdlotcQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-05-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore confirms June capital return of $0.085 per share - Investing.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEVwT1pfZGJjd1hNMkJRTFhIUU84Wi1UZ2dsQTlialFpRGR2QnJVczhLdDVxUFgwdGNSTVk1V3JXTTNoeXF3LXo2VVFpcS1faXg5ZEt1aWNqeFNHTFBhMWNKWk92MGN4WDY2RjRJcEpjQm0wc2o2MEZDNkV2ckdQM3lZc191WHpIQ0ptb0tPbjBKMXFyd0g2V1pIZVQ4T0dxREVZbWxwRnFCMkZicl92R0pR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-05-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore Sets Multi-Currency Capital Return for H1 2026 - TipRanks",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZjlmLVdXbXhnQ2Y3cF8yeXV3ZFctTFM2eUFmUkZjS3ZJNmRSNGU5NTNHRDBvVER0emxRZW1mSDBqNXU0U0NWb1AyMFZ2MWVlVGxjVFYtZ1FxaWoyZVpnRzV3RXFoelJlMnAtMmFzYlRHdy1ELURTTnBGYkMzUWFCMWRRM1N1TTdaMVRScHNjU1c1RnBITlVHckI2RUJxMjE2elZ1M0FRbGRMS3c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-05-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A welcome expansion to legal advice privilege: Aabar v Glencore and Intra-Client Communications - Mishcon de Reya LLP",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWXhwTXFTUXE3emQxaGV1alhSaDhoc3V6T3ZEWFJNb2Q0c2d4WkhlQVUtVXRGWmQzeGIxbVFsWDd2QjdTRlJWd3RnRDNFTUF6Q3FpU3duOVlKeURrUmpiNURzdXdBNExiYmIyQW9DVDh2U0hVMG5VRVowQVZUZHFvN1g5X1FzbndWTGo5ektHMHk5aHBnb191MzBuWnFEZ2F2U3FNc0lUWFdQODhPV01WU2h0dkVVU2lyaHFyNVIyYW0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "waste_connections-2026-05-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Insider Sell: Iii Nielsen Sells Shares of Waste Connections Inc (WCN) - GuruFocus",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWUxoc0M3R19rMkdSdDNUWE80MUdseDdqeWlkWW9XSDUxM2Utd3BuVlc3YU9GUUkyYk9EUXAtYWxieU5KNXdGN1o3c2tnVTA5UjNKbUpMSTgyNHEyMWFGNXYyVVNuMTZaWDVwYmZJckh5TkxSOTBEMWJtakxUOWlITW56dzdoQ3hnRm9RQ2dKTlN5MlNzU3R0OEpDY3ZSaWZLZk94ZXUweGQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 3
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "boliden",
+        "count": 1
+      },
+      {
+        "id": "abtc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 151,
+    "too_old": 109,
+    "gate1_blocked": 0,
+    "gate2_blocked": 4,
+    "passed": 22,
+    "pass_rate": "16.3%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "Is Tomra Systems (OB:TOM) Now Offering Value After Its Recent Share Price Slide? - simplywall.st",
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+      "Enviri sale of Clean Earth to Veolia set to close by June 1",
+      "20% of US residents can now recycle paper cups, FPI says"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為嘉能可、WCN、威立雅相關動態：「American Battery Technology (ABAT) Is Up 10.7% After Q3 R...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "American Battery Technology (ABAT) Is Up 10.7% After Q3 Revenue Jump But Deep...（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Glencore confirms June capital return of $0.085 per share - Investing.com（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
