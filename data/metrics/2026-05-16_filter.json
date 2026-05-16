@@ -1,0 +1,15 @@
+{
+  "total_raw": 285,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 103,
+  "gate1_fail": 0,
+  "gate2_fail": 4,
+  "passed": 24,
+  "gate2_samples": [
+    "Is Tomra Systems (OB:TOM) Now Offering Value After Its Recent Share Price Slide? - simplywall.st",
+    "Veolia Kept at Overweight as Barclays Notes 'Positive' Data Center Cooling Exposure - marketscreener",
+    "Enviri sale of Clean Earth to Veolia set to close by June 1",
+    "20% of US residents can now recycle paper cups, FPI says"
+  ]
+}
