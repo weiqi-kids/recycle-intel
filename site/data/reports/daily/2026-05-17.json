@@ -1,0 +1,174 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T09:44:12.795037Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "waste_connections-2026-05-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Recession-Resistant Equities: Waste Connections and Brookfield Infrastructure Analysis - News and Statistics - IndexBox",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQak9iV0VWYzUwX050TDcwTkE1bkRsUkNhR0FzaTdLMDlLTXozSTRkbm1SelowQ2ZCWGY0WGlsM1FJMmRud29tTGFRZXh6aFg1UEFqMkkyc1A1M19qa1FQemlfdGtTd3B6OUF3WVhfdDc4MVBwbnllWkJiYWFZV2FBZkJCMXN4eVlVY3MwVWd3VkY2UTZIQTZYeTJhT3hYYlJM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "abtc-2026-05-17-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Bull Case For American Battery Technology (ABAT) Could Change Following First Positive Gross Margin At Nevada Recycler - Yahoo Finance",
+      "companies": [
+        "abtc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNnlLbkdpRmtnUE1FVkZFVnRDMFJsV2pDLXVGVW1McTVSaGFPeUFDNjJuOGFxWVowOUVxcktHVTlodXotNk1tYU5uYURTZU1seG5fRmtEU29hTUtRMnl2UXd5R2VHRDFsQnI4VFAwRU0zX3Zmdkl4V2x2TG5TUkFyWENncmtMM1FVYXZFcGtaVkJWazR1TEF3RzZGZVBMVFowNEdRVw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "From waste to worth: Inside PRAN-RFL’s plastic recycling system - Jagonews24.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "plastic_recycling",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95a3hNbXpkNmpidEVkSWNaNFNMVG53MDZCbFVvLW1kd3V0akd1b2hJTzNnWVJNc053V2lPR2F4VmY1dlY5a1hUSjlVSEtlWTFVczkzc0prUDFWUHVMaGfSAVBBVV95cUxONmlzblAzSXRSNWZKM0lNbUdsMU1icnNuZFVSRlVReDVzR1Fhdklfc3BvTU42eXVoTkNpTWkyOWZpQVFWTW1aM2ZMUmF4al81Yw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "plastic_recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 1
+      },
+      {
+        "id": "abtc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "plastic_recycling",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 163,
+    "too_old": 107,
+    "gate1_blocked": 0,
+    "gate2_blocked": 4,
+    "passed": 12,
+    "pass_rate": "9.8%",
+    "gate2_block_rate": "3.3%",
+    "gate2_samples": [
+      "Is Tomra Systems (OB:TOM) Now Offering Value After Its Recent Share Price Slide? - simplywall.st",
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+      "Enviri sale of Clean Earth to Veolia set to close by June 1",
+      "20% of US residents can now recycle paper cups, FPI says"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為WCN、美國電池相關動態：「Recession-Resistant Equities: Waste Connections and Brook...」。主要關注主題為產業通用、財報、塑膠回收，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Recession-Resistant Equities: Waste Connections and Brookfield Infrastructure...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "The Bull Case For American Battery Technology (ABAT) Could Change Following F...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
