@@ -1,0 +1,256 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T11:41:32.333699Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-05-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore Says Co Does Not Expect Immediate Production Impact From Chilean Tribunal Ruling On Collahuasi - TradingView",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSGY5MzlNVU82WW5IWHZraTRkd1FXWXVyMGRzNUxQWEp0Sm1NdVExNGV3TTdrZ3BRcGZLYjNfbVhSQXFibmQ2Y0laQ2FrM1M0SVluWGhiTEw2OFE2aHlKZFhrQ3BoYnVLNG44WndJWGZJYWEyY1hiU3JWdkVOSU5VUkcwWEFDd01ITFBKX0tVQ0VPTU42RjlUalc2c2pYOW1ZQ1VMYzllbXI4d2E1MFRhWFc5V2tVRXktZVJOX3RNd1otaXBiNjBLbk9VLUxyd21hdGt1bkxDaDN4angzYmpoNWlZS1pPa1NxTkJPOS16NVdoWWFvSGYzeklrMVExWE0yUUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-05-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Copper on the Rise: Investors Benefit Through Shares of Freeport-McMoRan, Power Metallic Mines, and Glencore - news.financial",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWW1ybGVCRTNqTWlFdmF6THdlQWdTeC0yNnZseHN6dTg1dTNmdDNTd0Juc0FCVXhhZzNmT3hZNkJ5ZG9kMElweXAtQkhVVUgwNE5waU5Qd183aUhQQWlwR1ZwM0Jtb2pscU1tbXpIdWZ1OEZFalBwOFF2bnFmeG5scGQwNHBnOTVBZjhLQUZmSm9EQ3psQ01aR2g1MHU3bkQ2c0dEUkRHYU5nZnktUTNkVUZyWnBKY2tXOWNBQnBOZDJScHdoOFhlV3RTMzBBZExVM3VB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-05-18-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Chile's Environmental Tribunal Sets Aside Expansion Permits for Anglo American-Glencore Copper Mine - marketscreener.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdDNlSHU4UmpoandpdVV0dE4wSTBMS25XQzF2REFESzFpczBhOEFFWm9aYTBGYkE0YWxSSkdRTnQ2TDdqdlB4dndhRXdYQnVYd05NcVo0QWdva2hCMUstQTVKeEJPbnRSNXNyM3Q4SDZoZF9SRmVJRDAyWUJqRm1KMXpsWkk2eFNlQlJRX1FSSnN4bnN2eGt5RmY5ZUNVb01BSTZLZ2pXMGNGRXpVQV9IVHNsX3o4ZnRUYUZsUG5xVGxpNE9DYVhWQzRwcGFGc2hHVzRGaFdkTDRPbUcyRkd4QjVXbkVtZk0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-05-18-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore notes Chilean tribunal ruling on Collahuasi mine - Investing.com India",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMTZxU0dhQ3pSQzZzVmVlbHlHUWhaa1o1YTFpUFBKMTJubGJQcTBzY3hCRlRZOU5xTy1LRVlpTFN1TEp3bFpncEtvVzhlTWg2UVBsS0Zxak5oWDhIZldnMjQtejlZdE56dXhGelZJQU1HM2JGc2oyYmQyTTJhaXNMcVZhaERZdkNGeUR3b3dRMkJpVU9CbnRYOTVId3Q2dEZaZTJ5b29jNHkwWXAwa0kxM0huZDVYTk8wRVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "waste_connections-2026-05-18-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DNB Asset Management AS Has $10.81 Million Stake in Waste Connections, Inc. $WCN - MarketBeat",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcTdUakg3MUd5bjRPakhqamtmMXQ3b01uNElBQ1hMRVNPS0p6Skt3ZU5pNE5JYi1vVXJIUVBsLS1YRkZobXZEMkhWT21KQXFmSEgxdEJXTkRLZ2JQZ2ZlVWhaVnhhNnJUVmVBVHFSY0dWSDdpMlBCRjd3amVrbDlSZ2IyQ2ctWUhtNms0TFFUcW5CSHdNWHlIWUVXblBCZHdjSkpmU1RGdFhOQzNlNGpUblZ5NER4RWt6YVBjQlNUSm5SaWluc2RsMDg1WGg2eVlOdGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "commodity_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 7
+      },
+      {
+        "id": "aurubis",
+        "count": 2
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "boliden",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "commodity_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 155,
+    "too_old": 107,
+    "gate1_blocked": 0,
+    "gate2_blocked": 4,
+    "passed": 20,
+    "pass_rate": "15.3%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "Veolia Kept at Overweight as Barclays Notes 'Positive' Data Center Cooling Exposure - marketscreener",
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+      "Enviri sale of Clean Earth to Veolia set to close by June 1",
+      "20% of US residents can now recycle paper cups, FPI says"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為嘉能可、奧魯比斯、WCN相關動態：「Glencore Says Co Does Not Expect Immediate Production Imp...」。主要關注主題為財報、產業通用、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore Says Co Does Not Expect Immediate Production Impact From Chilean Tri...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Copper on the Rise: Investors Benefit Through Shares of Freeport-McMoRan, Pow...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "原物料價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

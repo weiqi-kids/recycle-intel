@@ -1,0 +1,158 @@
+{
+  "date": "2026-05-18",
+  "date_range": {
+    "start": "2026-05-12",
+    "end": "2026-05-18"
+  },
+  "generated_at": "2026-05-18T11:41:32.455550Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "aurubis-2026-05-12-002",
+      "date": "2026-05-12",
+      "title": "Aurubis AG stock (DE0006766504): Leading copper producer reports steady operations - AD HOC NEWS",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 28,
+      "last_week": 29,
+      "week_over_week_change": "-3%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 27,
+      "last_week": 22,
+      "week_over_week_change": "+23%",
+      "sentiment_this_week": -0.02
+    },
+    "battery_recycling": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "commodity_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "plastic_recycling": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "aurubis": {
+      "event_count": 5,
+      "sentiment_avg": 0.4,
+      "rank": 2
+    },
+    "waste_mgmt": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "glencore": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "waste_connections": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 3
+    },
+    "veolia": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "boliden": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "abtc": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 125,
+        "last": 132,
+        "change_pct": -5.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-12",
+      "event_count": 27,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-13",
+      "event_count": 26,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 21,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 29,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 6,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 12,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-12 ~ 2026-05-18）共 125 則事件，重點為「Aurubis AG stock (DE0006766504): Leading copper...」。美國電池情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "美國電池",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "奧魯比斯",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "嘉能可",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
