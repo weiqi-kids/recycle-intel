@@ -1,0 +1,163 @@
+{
+  "date": "2026-05-19",
+  "date_range": {
+    "start": "2026-05-13",
+    "end": "2026-05-19"
+  },
+  "generated_at": "2026-05-19T10:59:27.817266Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "waste_connections-2026-05-13-003",
+      "date": "2026-05-13",
+      "title": "Waste Connections stock (CA9628791027): YTD decline of 13.9% amid M&A activity - AD HOC NEWS",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 32,
+      "last_week": 21,
+      "week_over_week_change": "+52%",
+      "sentiment_this_week": -0.06
+    },
+    "industry_general": {
+      "this_week": 32,
+      "last_week": 28,
+      "week_over_week_change": "+14%",
+      "sentiment_this_week": -0.06
+    },
+    "battery_recycling": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "commodity_price": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.17
+    },
+    "plastic_recycling": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "glencore": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "waste_connections": {
+      "event_count": 6,
+      "sentiment_avg": -0.17,
+      "rank": 2
+    },
+    "aurubis": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "veolia": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "waste_mgmt": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "boliden": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "abtc": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 8
+    },
+    "tomra": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 118,
+        "last": 140,
+        "change_pct": -15.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-13",
+      "event_count": 26,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 21,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 29,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 5,
+      "sentiment_avg": -0.1
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 24,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 7,
+      "sentiment_avg": -0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-13 ~ 2026-05-19）共 118 則事件，重點為「Waste Connections stock (CA9628791027): YTD dec...」。美國電池情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "美國電池",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "嘉能可",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "WCN",
+        "reason": "本週出現 6 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
