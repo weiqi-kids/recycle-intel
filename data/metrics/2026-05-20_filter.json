@@ -1,0 +1,15 @@
+{
+  "total_raw": 286,
+  "dup_title": 157,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 2,
+  "gate2_fail": 4,
+  "passed": 21,
+  "gate2_samples": [
+    "Anglo and Glencore hit with court ruling in Chile that threatens US$3.2 billion Collahuasi continuit",
+    "Natural Raw Pyrite Texture Market Is Booming Worldwide | Major Giants Glencore , Freeport-McMoRan , ",
+    "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+    "Enviri sale of Clean Earth to Veolia set to close by June 1"
+  ]
+}
