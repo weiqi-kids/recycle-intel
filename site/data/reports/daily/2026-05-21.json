@@ -1,0 +1,217 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T11:19:09.279014Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "aurubis-2026-05-21-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Aurubis AG stock (DE0006766504): profit warning and cyberattack keep copper group in focus - AD HOC NEWS",
+      "companies": [
+        "aurubis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORWRDTHNFV3FIVGdIdWVneWEyalNJV250Mmw4dDJHc3diR3dJTlhrZ19sYkZPZ052MGsxdWRYTDJ5YlhOSS1MZzY1OWZnUkFWaGl0M2RxM0d0WHFVbDZtQUJBZm1qV1Itb1ZRWWRRVENsa1daUDVzbXBOWnJkTE9MczlzaUVBLXNwZmVRRERHbmJUa1NCQkpwaHFKV0NBblVNMWRrOEJRYmRXRnNubHZGOGFBdElETy0xM2d6Y2Rac3RaQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-05-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Oil Production Attributable to Glencore in Cameroon Fell 14% in Early 2026 - Business in Cameroon",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOWQ2Q3VfNnNjV3praElaWDRMN3BIaFM3TGg2QzZQM3hkR2VfcjhWdzR4ZXBMd2EtQlNiUnRaU3c5WXFmWkx2cGdISVp4VGh5VFcxYkxBeEdUT0FqUWJpaGtEZ1dNb3F0OExPdzF2Q3JpNkE5WkxNQWpnanJSUDEta1ppOXJkVXp0dkFIbUY5T1VVQTVob0VPcnhRZzlUdHBrTjJ2QW9ZWVNTdm01dV9BcDRxTDdKRFZoTXFUMjYzT0dGZ3FFanF4cElRTlFHOUZfYTdB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tomra-2026-05-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tomra Systems ASA stock (NO0005668905): UK deposit return order shines spotlight on recycling specia - AD HOC NEWS",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX0JHUUVsSGpvYkpwR1h5YThmbnF5LTR3M3NaQlNwUkRWYkdCQnI2azFHSF9iWU05S1NPR1lHSGFYbFl3Sm9xVnJEMzlmXzJQbXJQRENhY1NXRnhvbXE5TUFBUmNLUzVYUFJhZ3E5al9rTWZMM1puUmJRQWdrNWdmSmt4VkN6cVJzSmZCX2Iza0RnTFcyaGtCMFFkWE9VRDNVUFd2SnF4aWFXRWt6aWpYSUdZZmtJUlk2MXJiLVViWllEQklo?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-05-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore plc stock (JE00B4T3BW64): dividend framework and fresh reports keep the commodity giant in - AD HOC NEWS",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSmJWcUZpamtveW1DV0xnNHNxNjBlcnI4QWhaTzhHdHNuWi1oT1ZxN29wZ1ktNGFrWEI0MlNQQlljT0JWVW5IdFNfTGdJSHYzRXV5Yk5GM1Q5amtqaFg4bGYyWkllNHFUTGJPRGdiOXlodlZmRzJlOXdCMkRwbGJtRkFEVFNYbHJzZTNxVUhnYy1qTlRSTnFrLUkzNzdUb2pFYlZOdk54ekp6SzRfV1d0dU9NRlV6VnZmU1d6NTFJMGwyNDNKOHc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "waste_connections-2026-05-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rathbones Group PLC Increases Stake in Waste Connections, Inc. $WCN - MarketBeat",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUw2TVN6Si1WVlhZQlZKOGhGSWZqLXU0MUxfZmZRRkNFRXFJSjc1T3FnYmVYMVlNelgyaG1MMXRlcEZXaVNQS2tXMmZJZ3BZM2xEVFpkVDllZFZDNk1IN2JvR0VlU08tOUpyaUxoVUtRaFQtby1hVmlRLXB5andpVENQVUtwNU9fSWRIS1FqMW5rWjBtVzNJbW52RWdoaXRTTnlCWXdHUHlHMEd1UHZMVmhnelh3TkNlZWdQS3ZjWHJBYXM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 2
+      },
+      {
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "aurubis",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 158,
+    "too_old": 104,
+    "gate1_blocked": 2,
+    "gate2_blocked": 3,
+    "passed": 19,
+    "pass_rate": "14.8%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "Anglo and Glencore hit with court ruling in Chile that threatens US$3.2 billion Collahuasi continuit",
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+      "Enviri sale of Clean Earth to Veolia set to close by June 1"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為嘉能可、陶朗、WCN相關動態：「Aurubis AG stock (DE0006766504): profit warning and cyber...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Aurubis AG stock (DE0006766504): profit warning and cyberattack keep copper g...（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Oil Production Attributable to Glencore in Cameroon Fell 14% in Early 2026 - ...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
