@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T00:46:28.216623Z",
+  "updated_at": "2026-05-21T09:19:25.616195Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -53,8 +53,8 @@
       "ar_prev": 11051000000,
       "ar_qoq": "+22%",
       "inventory": 32882000000,
-      "inv_prev": null,
-      "inv_qoq": "N/A",
+      "inv_prev": 29580000000,
+      "inv_qoq": "+11%",
       "alert": true,
       "quarter_date": "2025-12-31"
     },
@@ -64,12 +64,12 @@
       "ticker": "6803.TWO",
       "currency": "TWD",
       "ar": 830353000,
-      "ar_prev": null,
-      "ar_qoq": "N/A",
+      "ar_prev": 999477000,
+      "ar_qoq": "-17%",
       "inventory": 8480000,
-      "inv_prev": null,
-      "inv_qoq": "N/A",
-      "alert": false,
+      "inv_prev": 82021000,
+      "inv_qoq": "-90%",
+      "alert": true,
       "quarter_date": "2025-12-31"
     },
     {
@@ -136,9 +136,9 @@
       "ar": 1033086000,
       "ar_prev": 1024992000,
       "ar_qoq": "+1%",
-      "inventory": null,
-      "inv_prev": 78863000,
-      "inv_qoq": "N/A",
+      "inventory": 78863000,
+      "inv_prev": 71156000,
+      "inv_qoq": "+11%",
       "alert": false,
       "quarter_date": "2026-03-31"
     },
