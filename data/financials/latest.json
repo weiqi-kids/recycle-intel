@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-21T11:19:05.811399Z",
-  "quarter": "2025-12-31, 2026-03-31",
+  "updated_at": "2026-05-22T10:47:05.926817Z",
+  "quarter": "2025-06-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
       "id": "abtc",
@@ -65,6 +65,8 @@
       "inventory": 32882000000,
       "inv_prev": 29816000000,
       "inv_qoq": "+10%",
+      "inv_period": "QoQ",
+      "inventory_applicable": true,
       "alert": true,
       "quarter_date": "2025-12-31"
     },

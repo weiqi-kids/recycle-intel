@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-22",
+  "total_events": 9,
+  "by_company": {
+    "tomra": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "glencore": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "boliden": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "waste_mgmt": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": -0.07
+    },
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": -0.06
+    },
+    "circular_economy_policy": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
