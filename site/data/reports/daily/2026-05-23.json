@@ -1,0 +1,49 @@
+{
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T09:48:26.947525Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 163,
+    "too_old": 107,
+    "gate1_blocked": 2,
+    "gate2_blocked": 4,
+    "passed": 10,
+    "pass_rate": "8.1%",
+    "gate2_block_rate": "3.3%",
+    "gate2_samples": [
+      "Anglo and Glencore hit with court ruling in Chile that threatens US$3.2 billion Collahuasi continuit",
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+      "US Plastics Pact urged to remove 2 polystyrene items from ‘problematic’ list",
+      "Oregon updates responsible end markets verification process"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-05-23 無回收產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

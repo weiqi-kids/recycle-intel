@@ -1,0 +1,15 @@
+{
+  "total_raw": 286,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 2,
+  "gate2_fail": 4,
+  "passed": 10,
+  "gate2_samples": [
+    "Anglo and Glencore hit with court ruling in Chile that threatens US$3.2 billion Collahuasi continuit",
+    "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+    "US Plastics Pact urged to remove 2 polystyrene items from ‘problematic’ list",
+    "Oregon updates responsible end markets verification process"
+  ]
+}
