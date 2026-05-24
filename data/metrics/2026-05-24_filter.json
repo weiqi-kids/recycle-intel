@@ -1,0 +1,13 @@
+{
+  "total_raw": 286,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 2,
+  "gate2_fail": 2,
+  "passed": 3,
+  "gate2_samples": [
+    "US Plastics Pact urged to remove 2 polystyrene items from ‘problematic’ list",
+    "Oregon updates responsible end markets verification process"
+  ]
+}
