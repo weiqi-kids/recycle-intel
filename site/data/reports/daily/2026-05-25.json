@@ -1,0 +1,160 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T11:50:58.008674Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-05-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra Systems ASA stock (NO0005668905): AI push and recycling demand keep the spotlight on the Norwe - AD HOC NEWS",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVpQMjdWRnl1dWRGQmw2T2ZPY1cxOUhnM1RJcnA5UVRJSnZGXzJlaWJrcW5xTVd1TV8ycG93U2RTcHppWGI5am9aQ0NVZHlRUVoydG1JdlJQSDNGcy0zR2JnUTdmdkxSaHJRb2M4NUZTbWhNZ3hyV3VseTlWdlZXYUY4Q0xMWGlOaDg5S05PVmZhTVJwdEFXUVN2Vkt5a1RzazZyWi1LNkY0Q2VoZkJiOHVfdTE1VmdSMlpNVVMwNzZ5Z2E5cUVjVA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-05-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Is Glencore Stock Trending Across Mining Talks - Kalkine Media",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHh4QnBwZ0ZDSmtLRlpXd1loNEFJYjh3cTk0M1QwLWE4c2k2amtlM3VQMmdXS0hhVUxBakhnTXhiWmpscE41Z3NjbThsQ1dfQUJWX1hpVFpJaWkxQjZyYTlITmRLU2Y3ODZ3TVpoU2pRUXNuWGNmSHNNNDlEVWFZTGs5LUFwLXRUXzVCb1lsOWk5eElESk5oeWtsbUtISWFOVkF4dnJR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-05-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore Stays on Investor Radar Within Busy FTSE 100 Mining Sector Story - Kalkine Media",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEFLYUdyRkZEWGE5ajRBMWZYMUxuVHJQT3l5ekM0MmoyZkQyUFlUWnVGeUYtdTNnMGlOWXNYU1ltNUYzTVB1YS1WOW9aeFNVN2tnYmZXUW5iYWtQVWZ6VTVYcVZ4dVZkSGt4azJybC1yS05wYkVyQkpnMDcyTGNDM2lhOXlqV1I4UnZ2Z28tbExtbndzd2prXzhGbkZMd3RZX294azBoUGJJNjN3NDFScmN6LWc3WlY1TS1za3FR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 2
+      },
+      {
+        "id": "tomra",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 285,
+    "dup_title": 156,
+    "too_old": 119,
+    "gate1_blocked": 2,
+    "gate2_blocked": 3,
+    "passed": 5,
+    "pass_rate": "3.9%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+      "US Plastics Pact urged to remove 2 polystyrene items from ‘problematic’ list",
+      "Oregon updates responsible end markets verification process"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為嘉能可、陶朗相關動態：「Tomra Systems ASA stock (NO0005668905): AI push and recyc...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tomra Systems ASA stock (NO0005668905): AI push and recycling demand keep the...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Why Is Glencore Stock Trending Across Mining Talks - Kalkine Media（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

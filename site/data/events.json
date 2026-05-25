@@ -1,5 +1,88 @@
 [
   {
+    "id": "tomra-2026-05-25-001",
+    "date": "2026-05-25",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tomra Systems ASA stock (NO0005668905): AI push and recycling demand keep the spotlight on the Norwe - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVpQMjdWRnl1dWRGQmw2T2ZPY1cxOUhnM1RJcnA5UVRJSnZGXzJlaWJrcW5xTVd1TV8ycG93U2RTcHppWGI5am9aQ0NVZHlRUVoydG1JdlJQSDNGcy0zR2JnUTdmdkxSaHJRb2M4NU",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVpQMjdWRnl1dWRGQmw2T2ZPY1cxOUhnM1RJcnA5UVRJSnZGXzJlaWJrcW5xTVd1TV8ycG93U2RTcHppWGI5am9aQ0NVZHlRUVoydG1JdlJQSDNGcy0zR2JnUTdmdkxSaHJRb2M4NUZTbWhNZ3hyV3VseTlWdlZXYUY4Q0xMWGlOaDg5S05PVmZhTVJwdEFXUVN2Vkt5a1RzazZyWi1LNkY0Q2VoZkJiOHVfdTE1VmdSMlpNVVMwNzZ5Z2E5cUVjVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-25-002",
+    "date": "2026-05-25",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Stays on Investor Radar Within Busy FTSE 100 Mining Sector Story - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEFLYUdyRkZEWGE5ajRBMWZYMUxuVHJQT3l5ekM0MmoyZkQyUFlUWnVGeUYtdTNnMGlOWXNYU1ltNUYzTVB1YS1WOW9aeFNVN2tnYmZXUW5iYWtQVWZ6VTVYcVZ4dVZkSGt4azJybC",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEFLYUdyRkZEWGE5ajRBMWZYMUxuVHJQT3l5ekM0MmoyZkQyUFlUWnVGeUYtdTNnMGlOWXNYU1ltNUYzTVB1YS1WOW9aeFNVN2tnYmZXUW5iYWtQVWZ6VTVYcVZ4dVZkSGt4azJybC1yS05wYkVyQkpnMDcyTGNDM2lhOXlqV1I4UnZ2Z28tbExtbndzd2prXzhGbkZMd3RZX294azBoUGJJNjN3NDFScmN6LWc3WlY1TS1za3FR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-25-003",
+    "date": "2026-05-25",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Is Glencore Stock Trending Across Mining Talks - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHh4QnBwZ0ZDSmtLRlpXd1loNEFJYjh3cTk0M1QwLWE4c2k2amtlM3VQMmdXS0hhVUxBakhnTXhiWmpscE41Z3NjbThsQ1dfQUJWX1hpVFpJaWkxQjZyYTlITmRLU2Y3ODZ3TVpoU2",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHh4QnBwZ0ZDSmtLRlpXd1loNEFJYjh3cTk0M1QwLWE4c2k2amtlM3VQMmdXS0hhVUxBakhnTXhiWmpscE41Z3NjbThsQ1dfQUJWX1hpVFpJaWkxQjZyYTlITmRLU2Y3ODZ3TVpoU2pRUXNuWGNmSHNNNDlEVWFZTGs5LUFwLXRUXzVCb1lsOWk5eElESk5oeWtsbUtISWFOVkF4dnJR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-05-24-001",
+    "date": "2026-05-24",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Veolia Environnement S.A. stock (FR0000124141): solid Q1 growth keeps the water and waste leader in - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOLS1rNTYwTUxnWVhCTlExMnhpLUVQM2haazg3eE1fRjdrWFNOVkI3QXh4dlJ0S1puSkd4X2lOQmVPejU1VWRqamJGVlRtNFpjaXFnRHpFNXFfUHhIRk9DaFdLalpoY1NqcWhGVUNUVE",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLS1rNTYwTUxnWVhCTlExMnhpLUVQM2haazg3eE1fRjdrWFNOVkI3QXh4dlJ0S1puSkd4X2lOQmVPejU1VWRqamJGVlRtNFpjaXFnRHpFNXFfUHhIRk9DaFdLalpoY1NqcWhGVUNUVEFpNS1nS09BQ0hEdnd6N21pelg5OHRiS3QydUNaRmtiamI5SDNScFJfNjl4Qzh1Mk1tWVV6OFZsaG5ZZDBJOGFZRUtUczdpMEJ4ampmaXhKLWVZQXM3WUY4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sims-2026-05-23-001",
     "date": "2026-05-23",
     "companies": [
@@ -343,6 +426,25 @@
       {
         "name": "waste_connections",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSzh1WmhJZXZZZEtBb25BbDNROU5QNjhuTWw1WW56VlBPRDBrdkZ3VnhKREJXdHZPbE13dWY3RjdTTmN3R1p2eThZTG1obUI2UTVpMDl1OFpxdWUzXzRxTFFoNTctQ2NvS1p1aFpHOHAwMTliOTU2U21DMmxwTnl0SlM4TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-017",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Memorial Day may change Charlotte-area garbage pick up. What to know - Charlotte Observer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmMweWNiOHhRSnNocWhuWkZxVVliYnlUUFZhbkJzOHI0aGlGMjUzZEU5MVF2UW1EVEphaWJCQ3FmUHFfdGM3SVdXdFNSeWt6M1dqX2pvd3JKaGZvMjM4SC13N2V5TlVQZHNhYnA0X3",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmMweWNiOHhRSnNocWhuWkZxVVliYnlUUFZhbkJzOHI0aGlGMjUzZEU5MVF2UW1EVEphaWJCQ3FmUHFfdGM3SVdXdFNSeWt6M1dqX2pvd3JKaGZvMjM4SC13N2V5TlVQZHNhYnA0X3p2SzdTSkljVktienRuQWJRMTdwcGVLU00?oc=5",
         "type": "rss"
       }
     ]
