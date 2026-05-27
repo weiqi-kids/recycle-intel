@@ -1,5 +1,322 @@
 [
   {
+    "id": "tomra-2026-05-27-001",
+    "date": "2026-05-27",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Euronext Oslo Børs - Tomra Systems ASA - Received application for listing of bonds - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPcVNjSjJwM1o5SGhHMUNrLWw3ZE9tSmM2NUp1NFFVM2dnZ3FJeGJvVGtKU1RYdFcxcGxtN3JHSF9GRFlWNVV2UDJkZlhlYVllRzlQRU1HZWNkSDhpYUxkZVV4LVdaT3NZaE00MF9uTV",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcVNjSjJwM1o5SGhHMUNrLWw3ZE9tSmM2NUp1NFFVM2dnZ3FJeGJvVGtKU1RYdFcxcGxtN3JHSF9GRFlWNVV2UDJkZlhlYVllRzlQRU1HZWNkSDhpYUxkZVV4LVdaT3NZaE00MF9uTVpvNlhhaGJQcnI0SnltUEZtd3lKQldZZE5tU1NxZXZTaHpRUi0ycmprZEsycFI2Snc5WmU2Q2hmUnh3NGtOQUl0bEh3bnFRWVlqb1R1dGdqVWVaZFZSc3Uza3hhZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-27-002",
+    "date": "2026-05-27",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore: Some Internal Changes Warrant An Update Of Valuation (OTCMKTS:GLCNF) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQMDdEN2ZPMVZtZUpVaS1KV3EtVk1fOVVWbksxUUMxUllrMnZhM09mTlRyZ25TWDZDaS1fTHg1NC1hQXJjeFVwZjRKZG5lU1RFQTNEUVMwaXRONDdvd2hnTk5XZi1KVE9ZTU1mOXBMdG",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMDdEN2ZPMVZtZUpVaS1KV3EtVk1fOVVWbksxUUMxUllrMnZhM09mTlRyZ25TWDZDaS1fTHg1NC1hQXJjeFVwZjRKZG5lU1RFQTNEUVMwaXRONDdvd2hnTk5XZi1KVE9ZTU1mOXBMdGUyOUNzVFB3YmlkcjRpSnZjSG9PWHF5eEduSDFwczVEZ2o3Q1JOZFB5elA4d3ljRGFrMkxvMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-27-003",
+    "date": "2026-05-27",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Says Co Closes Agreement With Gécamines For Land Access At KCC - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaDdkZlpfbmZtOTVYcUhKa1dkV3JRVWhyUzRqazE2Q1gwMDF6V1NHVlFFSFloakVvR2UwTjAxVGQzN2RreTE0a3ZEWEdNQU9QVEFuUHBaMUprM0E0OVpEX3pOOTdiUHJ1NlFWX3pBaG",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaDdkZlpfbmZtOTVYcUhKa1dkV3JRVWhyUzRqazE2Q1gwMDF6V1NHVlFFSFloakVvR2UwTjAxVGQzN2RreTE0a3ZEWEdNQU9QVEFuUHBaMUprM0E0OVpEX3pOOTdiUHJ1NlFWX3pBaG96QnpvUi10R2dOcUhhTFpqdlloNzN0YkU3dXJBcWdIeWY4LXRjaTdETS1mRDFBTFdueGZFT3pQRVI4Ym15QmhqRHBZSFlvbzZvY1NaU3NkNGVLR3FnQXowZUwyNUVUVHFxTW5SN0xWRXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-27-004",
+    "date": "2026-05-27",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AustralianSuper Backs Potential Glencore ASX Listing as a Win-Win - StockInvest.us",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQYktWeWhRT3NrX181VF9Rbk04cUQyZHAxQXhMcmJUOGllQ0tpcndQLVVUY1BrNm54Zldzc0w0dGlPZzBZa1pDeTF1UWtDbXdOdFZVd1FDaDA2YzBlMVVlcFZUcXpTTDFoU29IMXZmcE",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYktWeWhRT3NrX181VF9Rbk04cUQyZHAxQXhMcmJUOGllQ0tpcndQLVVUY1BrNm54Zldzc0w0dGlPZzBZa1pDeTF1UWtDbXdOdFZVd1FDaDA2YzBlMVVlcFZUcXpTTDFoU29IMXZmcEJ6c3hsbUwtbEFvaVlOMU04MldCcEdMNVFfOWtwU2cxRnNtN1FuR3JRN1Npaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-27-005",
+    "date": "2026-05-27",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore says co closes agreement with Gecamines for land access at KCC - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWmgwcEQ5UlF4ZTdXaG9BV25DOWdtcC1LOGxTMkRKaGZiWG0tTWwzVU1scHY5TDQzci10WjFkYUdGellDbVdKcEVob0VHV2JCd0tjSm4ycnRWQWRCSk1PZ3NjVEFkX2hXRmhCckJENU",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWmgwcEQ5UlF4ZTdXaG9BV25DOWdtcC1LOGxTMkRKaGZiWG0tTWwzVU1scHY5TDQzci10WjFkYUdGellDbVdKcEVob0VHV2JCd0tjSm4ycnRWQWRCSk1PZ3NjVEFkX2hXRmhCckJENU1ScGR5ZXNQM1hIaFdVelB2ZTNMWlJYSTJEZFoyVVdhSWJoUG9kT24tNUN2LTlYY3BfazVMUEhVcmdUbk9BNTFfVHJfLTZlUEVyYWRFLUxkZTdIQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-27-006",
+    "date": "2026-05-27",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Former Glencore shipping boss joins Braemar after leaving Frontline board - Tradewinds News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDBSSlhwNHZjTF9uYUc1LXFqSnBZNzN6NkdVTFh1eFNrYW1sd2dBVG5aM2c5RW9JckJqaXd0bV84RXRUbjJtQXRySDBfUzVraFk4THJKeW1GLUpmRkRHZXBlZk1SR2VDZE9WZ2Noa0",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDBSSlhwNHZjTF9uYUc1LXFqSnBZNzN6NkdVTFh1eFNrYW1sd2dBVG5aM2c5RW9JckJqaXd0bV84RXRUbjJtQXRySDBfUzVraFk4THJKeW1GLUpmRkRHZXBlZk1SR2VDZE9WZ2Noa0ZUMVRvMzF6N0d3ZlVYWUJFd2hfR1lZczVZN1hnd0hBS0xWX3h3U3VpVFFtYV9MRC0wNXBvUzFBVWNWY1RCTC0yeGlnalM1R0NfRk92VWo5Zi1ldnZVeU9j?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-27-007",
+    "date": "2026-05-27",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AustralianSuper says it has urged Glencore to consider ASX listing - AFR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0tXU2NwY191WjdUSHJFZnExTFluanB3NS1NRGZMZm42ZTJJVWFTWUZLMlJGdU40c1JBZmp5ZU5tWU8zaHIycnRaV1RtZmM4RXdZWmkxTkQtZ095REN2ZnpTU1QtZ2JHV1BtTlU3el",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0tXU2NwY191WjdUSHJFZnExTFluanB3NS1NRGZMZm42ZTJJVWFTWUZLMlJGdU40c1JBZmp5ZU5tWU8zaHIycnRaV1RtZmM4RXdZWmkxTkQtZ095REN2ZnpTU1QtZ2JHV1BtTlU3elZ3bXhxNXlFVzZiaWwxZkNrSlRjWnJuYnZnUzBGM3VmeWpQMHlQZFhsdC1wcWxkY01sVTlSNHJSU2JRWndGanhuUC1FbmhuR1Rhb2J3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-27-008",
+    "date": "2026-05-27",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AustralianSuper says Glencore listing will be 'positive' for Australian Stock Exchange - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdWhfSmgtVVRXejRxZlBYMWl1Ni0wVzRwa1VHVDUwZUlIVTFaRjY0QWNrZ0ZGYllzR0FSS29GVl8zOHJKWTRfVnE2RkNOYS1NTlJINWhDMmJnTlNIemxWaE11OXd4dXJqaU1GOEpEWk",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdWhfSmgtVVRXejRxZlBYMWl1Ni0wVzRwa1VHVDUwZUlIVTFaRjY0QWNrZ0ZGYllzR0FSS29GVl8zOHJKWTRfVnE2RkNOYS1NTlJINWhDMmJnTlNIemxWaE11OXd4dXJqaU1GOEpEWkg0bjF0MGRnMU56YlFlb3NVR0YzMk4xVF9oWHVQVFVlem52UHItZ3lpc3ZKTk9qNjVpbHpWdnktM0pJZnloUk9CRk03QmJJQXhPY29oTzN0dm9ySXdHbkxLZloyb3F2Q1ZzS0Fr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-26-001",
+    "date": "2026-05-26",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Endeavour, Rio Tinto and Glencore lead rebounding miners as metals prices seesaw - Proactive financial news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQjFZX19VV0NibzZzeHBxVTktT0NiZFExVUYwWDM4MWdIYm56SWNfU0NISmZGY3I0ZDJFMkdFS3docjQ1OGR1SFpvZ0w0N2tzSmUxV3YteHRQTUZveW5lelpkc1NrVUNiSk5uY1RPTk",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQjFZX19VV0NibzZzeHBxVTktT0NiZFExVUYwWDM4MWdIYm56SWNfU0NISmZGY3I0ZDJFMkdFS3docjQ1OGR1SFpvZ0w0N2tzSmUxV3YteHRQTUZveW5lelpkc1NrVUNiSk5uY1RPTklSaHdDSVM1cndUTVZRc0hrdDVHdUZIVFlKZ1pQeG53YjlwYUEycHBSaWdjVkhhdWhoWUFPZHFYZFZpaGI4WktaYlo3QlZYLXQ1UnNlRGR5V0ZrRjl4T0JiUXYzeEQzZ09oUUd1QWFLNlV2XzdlQldsbE5ILUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-26-002",
+    "date": "2026-05-26",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Breakingviews - Rio Tinto has cause to revisit a pricier Glencore - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkU3cmFkR25rVkJZZ0FtWHlaZ0ZwMkcyRFNmUlMyNW9GLTEtWVN6LU42LV90Nl96alhLTGJmS3U3a2NtWWU2TXBteTVwS2hGbmFBZExTUTF5TnMyazVwUkpNSmFLVmZha2JKOXdPWE",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkU3cmFkR25rVkJZZ0FtWHlaZ0ZwMkcyRFNmUlMyNW9GLTEtWVN6LU42LV90Nl96alhLTGJmS3U3a2NtWWU2TXBteTVwS2hGbmFBZExTUTF5TnMyazVwUkpNSmFLVmZha2JKOXdPWEtkN1M5Slg2RW1WQVA1bjVYc2UweEFzMFNwbzBYQXl0QVBsUlh2QUFqbWNFQ1BUakZHOF9JdU1UX0toNGM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-26-003",
+    "date": "2026-05-26",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top Stocks by Quant Ratings: Glencore (GLNCY) and LyondellBasell (LYB) Shine - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQNTZIUVpZazlGZUZ0UlpMSWdfazUySEpVbWhKZ29jbWo3a3RDNURXTl9vcFp6aThJLWd6VU9xTTZENERfZXZ3bG5kRzE5MUljRHdJeHkyWjh3dEpWYmVoYTdiYWVuUEVtM1ZfUnMxRG",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNTZIUVpZazlGZUZ0UlpMSWdfazUySEpVbWhKZ29jbWo3a3RDNURXTl9vcFp6aThJLWd6VU9xTTZENERfZXZ3bG5kRzE5MUljRHdJeHkyWjh3dEpWYmVoYTdiYWVuUEVtM1ZfUnMxRGpkZ0JmRVl4dEIwMFROYXJoenduUHFBaGxrajVRR3d0QWNQMU1WWlBqZURCQi1IV2xlS2Q2TkJ6enRiUWJJMUY4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-05-26-004",
+    "date": "2026-05-26",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Veolia Environnement (ENXTPA:VIE) Pricing Its Essential Infrastructure Role Fairly After 21% Annual Gain? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb2c5bG9xa3RncGhHMDZKWTJzZjEyNW55cEF2ZUR6UlRsbHFxTHU1WlJwQXQ5c0gxLUtlVEVWN1p2c3lUZzdFUktzOEZOazAzcVFwQTRNZ2lVMmtnM2F0aXJINGM2MU5jbEE1MmxNTF",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb2c5bG9xa3RncGhHMDZKWTJzZjEyNW55cEF2ZUR6UlRsbHFxTHU1WlJwQXQ5c0gxLUtlVEVWN1p2c3lUZzdFUktzOEZOazAzcVFwQTRNZ2lVMmtnM2F0aXJINGM2MU5jbEE1MmxNTFRhYzlBalRseTVIWkVJdHlDeXB4MzdvSmtydVVlMlBxclY1UGg0UVhuSzVBSTVWSVBPUmc1WXhsV29TZFJ1MDRtb3VKVmNuM3ZhWi1XVEJQLVJpZk1TcHdCWTFtNVdrS0c2MmdMYjVrVnZwem41OVB0MNIB4AFBVV95cUxNb2c5bG9xa3RncGhHMDZKWTJzZjEyNW55cEF2ZUR6UlRsbHFxTHU1WlJwQXQ5c0gxLUtlVEVWN1p2c3lUZzdFUktzOEZOazAzcVFwQTRNZ2lVMmtnM2F0aXJINGM2MU5jbEE1MmxNTFRhYzlBalRseTVIWkVJdHlDeXB4MzdvSmtydVVlMlBxclY1UGg0UVhuSzVBSTVWSVBPUmc1WXhsV29TZFJ1MDRtb3VKVmNuM3ZhWi1XVEJQLVJpZk1TcHdCWTFtNVdrS0c2MmdMYjVrVnZwem41OVB0MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-05-26-005",
+    "date": "2026-05-26",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Veolia Environnement S.A. stock (FR0000124141): employee share capital increase and core business ov - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZmhmSHU4ZU9QcmozMURudDljZEd5cVd4WW5pNFh5WDc4S2o0OUpVS2R5UjB1SGZyblFNUHZKWnNNLVd4NVY4ZXVCSEdzSWI1eWpJM19JWGhWSl9KRU9sSDJ2MmM2M3hhU090a1JqVl",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZmhmSHU4ZU9QcmozMURudDljZEd5cVd4WW5pNFh5WDc4S2o0OUpVS2R5UjB1SGZyblFNUHZKWnNNLVd4NVY4ZXVCSEdzSWI1eWpJM19JWGhWSl9KRU9sSDJ2MmM2M3hhU090a1JqVlkzd0tFLVVkcm10dDlJY3NfalB1a3UybldkMG8tMVJJdXpibTVtNmo4ejVuWi1uWlQycmJOVi1pNEFhMkRHVzNDSEx3cW1aLWNfV1JlbkVja1RTa00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-006",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Community groups sue EPA to tighten its incinerator rules",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/iApYQ7k1VTLmtJVJ_U1v3g32BsOWslqzkpAxwzaTLv0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9IZW5uZXBpbl9FbmVyZ3lfUmVjb3ZlcnlfQ2Vu",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/epa-lmwc-air-emissions-petition-review-grassroots-groups/821075/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-007",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California’s SB 54 kicks off a fresh look at reuse and refill collection",
+    "summary": "<p>Source reduction reports outlined steep costs to redesign packaging and invest in new systems. While haulers weren&rsquo;t part of CalRecycle&rsquo;s study, Recology and the City of Berkeley offer ",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/california-sb-54-epr-reuse-refill-hauling-recycling-recology/820666/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-008",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Australia Battery Recycling Market 2026: EV Surge, Sovereign Capability & Black Mass Boom - vocal.media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOLVZZTEw3UE9GbFJuOWNwZDBzeEVka25ZQ09GVG5XbHIyRXlqU0JBOHpfV1RfejRLY0h5WlpKbENTWlFVMmtndFRLMWJMUzloS1FBdkJGOVQtaE5oRHNERUxoWWlta2JocnBrR2s1dX",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLVZZTEw3UE9GbFJuOWNwZDBzeEVka25ZQ09GVG5XbHIyRXlqU0JBOHpfV1RfejRLY0h5WlpKbENTWlFVMmtndFRLMWJMUzloS1FBdkJGOVQtaE5oRHNERUxoWWlta2JocnBrR2s1dXRhV1otRTV0WlJRZ3lhZWNzUmlZOVBOTXhnajkwOExxV281eVAxTFVjTFdBbFRVZDE0Y1l0ZWVtc3ZxNVNLSkZNdFpyTUdLR0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-05-25-001",
     "date": "2026-05-25",
     "companies": [
@@ -62,6 +379,67 @@
     ]
   },
   {
+    "id": "tomra-2026-05-25-004",
+    "date": "2026-05-25",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Look At Tomra Systems (OB:TOM) Valuation After Major UK Reverse Vending Contract News - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVjJ2Wnc5ODRVeTFFaGdWdHJOXzNaMnE0eC1Tc0t1aDBWYl90aHJKZUF5YmlHUmdKSlQwbEZMZWxPOXRYc0xOMWhNTVBHMzZZV2hQSVktU21YdTVPR29vWDd1bk10NjdlRTduMFpLQV",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVjJ2Wnc5ODRVeTFFaGdWdHJOXzNaMnE0eC1Tc0t1aDBWYl90aHJKZUF5YmlHUmdKSlQwbEZMZWxPOXRYc0xOMWhNTVBHMzZZV2hQSVktU21YdTVPR29vWDd1bk10NjdlRTduMFpLQVNqQmZyZHFLMnEzU19WczFxWkoyektXbDlqdUozYzh4UWIxNDhRaDRhWnVORlhtT3pDSG9NU3RfMVFXRU4xN1Y3TEI3UUp3TjlWTWlFdmpwSkNWd1U4eThUQ3hGVlJNaWFKNkdnakp30gHbAUFVX3lxTE5ydGpRUTJrcUVsQmxuUjI3Nll6V3lScWo3NE5aVVR1UEp2WFA2cUwxeDV3aFV4c2prSHJXN2xMTGIwUjBNME9aLWV0V2xtb0hwcEhXQ3N3TmNZN2UycnhBT1IzRGc0c3ZMNGxfQVR2clhtWTl2T0lEd2ptdFdYbTJJTUx0SDlXQTVreXQ2TjVzVnVMcXUybC1qa25hWkJURDRBNk51dWZIREt3RV9nNFhNQ0ptemxYbldydFRha1dqTGtIc3d0RDdMQVdaakt0UTdIVFBQaERwbFFZWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-05-25-005",
+    "date": "2026-05-25",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Inc. stock rises Monday, still underperforms market - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYkd4Wmhyc0h6VENHUjZHTzRndExoOXpVQzhVQ1llWWsxemxDekJ3QjZNUDM0TmR3Y2FYOHRKQ19vVUxYS1NqVnA4dFZwdk9JcmNrV3BCcnJybDRsczYta3lfZTZoS1Q2aUZ4R1JZZW",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYkd4Wmhyc0h6VENHUjZHTzRndExoOXpVQzhVQ1llWWsxemxDekJ3QjZNUDM0TmR3Y2FYOHRKQ19vVUxYS1NqVnA4dFZwdk9JcmNrV3BCcnJybDRsczYta3lfZTZoS1Q2aUZ4R1JZZWZhUG9ieWVGMC02UE1tV2hRT1VKSkdzeFAyR1VrTWxKbnhtSVVQYXdnaFVMTlNzQzdScXh0anAyMWlWVm1wbnJvUXZIRWhHYWdnT3FMOHNhcjFXSVNsMnRHUkNwcGFGR0xYdXNKbGlRYm4tbUZGUkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-25-006",
+    "date": "2026-05-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "The Most Explosive Volume Growth Story in American Industrial Recycling - FinancialContent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gJBVV95cUxPYmNLWnc2VjlYeGRGeEpEaVdTZl9rTWtWVms4YmhLN1RVbWFBU1d6eTNFeVEwSEZyVVR6bWpiX3FleU9lSFlWZjBMbTAzY0gySTR1bGhTSTNaNnVINWIxM3h4OWRETzVRVm00bkthRy",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPYmNLWnc2VjlYeGRGeEpEaVdTZl9rTWtWVms4YmhLN1RVbWFBU1d6eTNFeVEwSEZyVVR6bWpiX3FleU9lSFlWZjBMbTAzY0gySTR1bGhTSTNaNnVINWIxM3h4OWRETzVRVm00bkthRy1VOG1PU0stOHNRbmN0UzcyM1JETWZ0VkxIREVwZk0zVHBmX1NGMG1XbXdJWEktZC1lTjcyRDAxQmVhcGEyaVUzZDlLZ2ZOWVFWbS1RNjRMbXpId1hZd0pXaGFHT00zajc4R3BkZUQ2Nkt5Ql8tbDFWbEVKbFZTRFlUZi0xcEYtSm56a3dsa2VCUXREV0hGSlAyS3M5RlBmV3FVUDBjQmI2bUM1NWhDdFEtQjBIVm8wUVFlX2tURE1TQmZlY01DamxjZ1hxSXBDZ25RRV9yLUJjZENrRHNfTHVQOFhsdjNab1dSQmpRNmsxbjh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "veolia-2026-05-24-001",
     "date": "2026-05-24",
     "companies": [
@@ -99,6 +477,27 @@
       {
         "name": "sims",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXJVODVOZEJYMUY2QUwxSThHNkJmYmxFdXctcDlaY1k3SnRRZ08xNF8xQjhHZXJyMDVoLWNRVjVoRmxLUmFzLXFZaDViNHBFM3FKR21ONG1JdktOeENINGYzWjJwQXVZb28wMWFaaTFOYWg4QjdQdmlWbThHMWFUTnBfZFRuTTVqWjJxb3QxU3JTYXoxTU5Zd2dIaGIzYV9CWUtqSUZMMjg4RllGSWI1WHJhODIwQlVveFgtTGdNcjFBNVowMXfSAcsBQVVfeXFMUGFnRHFyZ0JEX0J2NHlGdUZBNnEzSlJZOXBTTm9jYVF6S2dESU96cWhUc1BOTE5jR09rdHcxU2R6TEtkMm9jY0JscHI2VXdyaDRxU0FhUC15cmF2M2szTTk3NG9qaXVVUzI2UjlqUHowQ0YwTWtlSzVNTnBYTkszaEJrVTVPLUlRSU82bzNfTWtVMWR3aVpnWW1MTzBzTmVQZVNUWWxBcnhvRkVKaGhiYTkxN1dZTkFnakF5bExvUlgxbUotalVGVDZSOWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-05-23-002",
+    "date": "2026-05-23",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology Company (ABAT) Stock Price | Live Quotes & Charts | NASDAQ - StocksToTrade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE82Y2Q2Z1ljeUlLRDJFM0ZfLVR4cjg3a1hUUkNNSTdWVEhMQ0tGbXpfMm1Yc0pyLWY2bzZRSkJ5Sm5ITHEweTl6TWtocXdzdw?oc=5\" target=\"_blank\">American Battery Tech",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82Y2Q2Z1ljeUlLRDJFM0ZfLVR4cjg3a1hUUkNNSTdWVEhMQ0tGbXpfMm1Yc0pyLWY2bzZRSkJ5Sm5ITHEweTl6TWtocXdzdw?oc=5",
         "type": "rss"
       }
     ]
@@ -807,6 +1206,27 @@
       {
         "name": "waste_connections",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdzRkUWhzdm5Pa21nQzVMajI0TU13V1RGaS0wYzJ3NHdqdE1tOTVZUHpoV0pJalZZYklXLWdQTE14d1NwX21iVHJ6cDVGcW9ZVDRodG1nMW8xSUlyNVp0NEhnektXV2hWeEVyb1F0T21maGg2Zk9lenM5SGd6RDEwemFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-21-019",
+    "date": "2026-05-21",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chilean Cobalt Corp. Announces Follow-on Strategic Equity Investment by Glencore and Madesal - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2RnUGF6MGxxYTJueGVXOE56eU0xUExnTUdleldDUXl1VEdBMGRNLXI5S2xxamVzYWctUVJSMlFpT1loZElDU21mQ1dGVnkyTmZMZUpDVzNwNnpvcHY2YTZXS3pUNmJzTXVnOEF5X3",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2RnUGF6MGxxYTJueGVXOE56eU0xUExnTUdleldDUXl1VEdBMGRNLXI5S2xxamVzYWctUVJSMlFpT1loZElDU21mQ1dGVnkyTmZMZUpDVzNwNnpvcHY2YTZXS3pUNmJzTXVnOEF5X3A0VDVNbDdyNU9xTVVJeTV6SkdEbDdOcTUySEdUVVhhYVhvUUl1Zk5EbTRqMDlaTjAzYnJrbDFkUQ?oc=5",
         "type": "rss"
       }
     ]
