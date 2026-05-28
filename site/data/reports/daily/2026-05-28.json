@@ -1,0 +1,131 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T11:34:50.368514Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-05-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore, BHP may benefit as China turns to Western coal - Miningmx",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVVZHTTFhSlRBTXhodV85QW9IVEFUdjFLNVdlMmZIUUpPUW5XaThpN0JlS2pwOXdJTmNJbTBPZFZrRkxzUlVySWE1MEZZanlYLXBwQ1BwMEpuNTJnYTMwa0E3cEhsVlVCYi15T181UjFQX3NXZzhmS1NpRVk5VVZmSk9BSXQwTURERUJHT1ZGTzRTazZ3cEpyc0JVRTBPQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-05-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore : 2026 AGM - presentation slides - marketscreener.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMWVvOXZ0SlZjZ3ZDVUQtZ2JXdkNGQVJYb2ZfT1RyZGgwNmNCR3U3Nnc4YWtEY3ZPTmZRX09QY0NJYU5wLW9wTnVzcWNLd3VsSlBLWTlRaFlhTWtBUnk0MEZJSnhCbVk2dTF2dFc0WGVaNkp3QUVjdG4tc3FxdDF3VGtTa0g5TzZGeThROXNJNTdFWjVi?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 153,
+    "too_old": 118,
+    "gate1_blocked": 1,
+    "gate2_blocked": 3,
+    "passed": 12,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "AustralianSuper says possible Glencore listing on ASX would be positive - Reuters",
+      "US Plastics Pact urged to remove 2 polystyrene items from ‘problematic’ list",
+      "Oregon updates responsible end markets verification process"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為嘉能可相關動態：「Glencore, BHP may benefit as China turns to Western coal ...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore, BHP may benefit as China turns to Western coal - Miningmx（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Glencore : 2026 AGM - presentation slides - marketscreener.com（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,14 @@
+{
+  "total_raw": 287,
+  "dup_title": 153,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 1,
+  "gate2_fail": 3,
+  "passed": 12,
+  "gate2_samples": [
+    "AustralianSuper says possible Glencore listing on ASX would be positive - Reuters",
+    "US Plastics Pact urged to remove 2 polystyrene items from ‘problematic’ list",
+    "Oregon updates responsible end markets verification process"
+  ]
+}
