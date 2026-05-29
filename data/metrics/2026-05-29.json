@@ -1,0 +1,33 @@
+{
+  "date": "2026-05-29",
+  "total_events": 4,
+  "by_company": {
+    "waste_mgmt": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "waste_connections": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "battery_recycling": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

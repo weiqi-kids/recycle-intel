@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T11:34:49.653395+00:00",
+  "updated_at": "2026-05-29T11:24:33.286879+00:00",
   "companies": {
     "tomra": {
       "name": "TOMRA Systems",
@@ -10,7 +10,7 @@
           "holder": "Boston Common Asset Management, LLC",
           "shares": 392905,
           "pct_held": 0.13,
-          "value": 38995821
+          "value": 38897595
         }
       ]
     },
@@ -23,25 +23,25 @@
           "holder": "Cape Cod Five Cents Savings Bank",
           "shares": 37000,
           "pct_held": 0.0,
-          "value": 21008599
+          "value": 21223199
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 1105,
           "pct_held": 0.0,
-          "value": 627418
+          "value": 633827
         },
         {
           "holder": "Ascentis Independent Advisors",
           "shares": 100,
           "pct_held": 0.0,
-          "value": 56779
+          "value": 57359
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 74026,
           "pct_held": 0.0,
-          "value": 42031961
+          "value": 42461311
         }
       ]
     },
@@ -54,61 +54,61 @@
           "holder": "Blackrock Inc.",
           "shares": 30198865,
           "pct_held": 7.52,
-          "value": 6510573194
+          "value": 6474636471
         },
         {
           "holder": "Gates Foundation Trust",
           "shares": 27642344,
           "pct_held": 6.88,
-          "value": 5959412841
+          "value": 5926518384
         },
         {
           "holder": "Vanguard Capital Management LLC",
           "shares": 25169513,
           "pct_held": 6.27,
-          "value": 5426295215
+          "value": 5396343433
         },
         {
           "holder": "State Street Corporation",
           "shares": 17501722,
           "pct_held": 4.36,
-          "value": 3773196181
+          "value": 3752369089
         },
         {
           "holder": "Vanguard Portfolio Management LLC",
           "shares": 10236665,
           "pct_held": 2.55,
-          "value": 2206922569
+          "value": 2194740913
         },
         {
           "holder": "Geode Capital Management, LLC",
           "shares": 9191350,
           "pct_held": 2.29,
-          "value": 1981563112
+          "value": 1970625383
         },
         {
           "holder": "Capital Research Global Investors",
           "shares": 8732043,
           "pct_held": 2.17,
-          "value": 1882541118
+          "value": 1872149965
         },
         {
           "holder": "Ameriprise Financial, Inc.",
           "shares": 7427407,
           "pct_held": 1.85,
-          "value": 1601274647
+          "value": 1592436015
         },
         {
           "holder": "Morgan Stanley",
           "shares": 7077170,
           "pct_held": 1.76,
-          "value": 1525767054
+          "value": 1517345204
         },
         {
           "holder": "Parnassus Investments, LLC",
           "shares": 4981578,
           "pct_held": 1.24,
-          "value": 1073978382
+          "value": 1068050292
         }
       ]
     },
@@ -121,61 +121,61 @@
           "holder": "Blackrock Inc.",
           "shares": 16879247,
           "pct_held": 5.49,
-          "value": 3470373286
+          "value": 3438133862
         },
         {
           "holder": "Vanguard Capital Management LLC",
           "shares": 13058206,
           "pct_held": 4.24,
-          "value": 2684767233
+          "value": 2659826012
         },
         {
           "holder": "State Street Corporation",
           "shares": 9793456,
           "pct_held": 3.18,
-          "value": 2013534613
+          "value": 1994829076
         },
         {
           "holder": "Price (T.Rowe) Associates Inc",
           "shares": 6300709,
           "pct_held": 2.05,
-          "value": 1295425808
+          "value": 1283391431
         },
         {
           "holder": "Capital International Investors",
           "shares": 5333574,
           "pct_held": 1.73,
-          "value": 1096582846
+          "value": 1086395701
         },
         {
           "holder": "Morgan Stanley",
           "shares": 5035178,
           "pct_held": 1.64,
-          "value": 1035232627
+          "value": 1025615419
         },
         {
           "holder": "Geode Capital Management, LLC",
           "shares": 4887337,
           "pct_held": 1.59,
-          "value": 1004836517
+          "value": 995501685
         },
         {
           "holder": "FMR, LLC",
           "shares": 4650944,
           "pct_held": 1.51,
-          "value": 956234114
+          "value": 947350794
         },
         {
           "holder": "Wellington Management Group, LLP",
           "shares": 4379806,
           "pct_held": 1.42,
-          "value": 900488140
+          "value": 892122694
         },
         {
           "holder": "Vanguard Portfolio Management LLC",
           "shares": 4229758,
           "pct_held": 1.37,
-          "value": 869638270
+          "value": 861559417
         }
       ]
     },
@@ -188,61 +188,61 @@
           "holder": "Vanguard Capital Management LLC",
           "shares": 15855163,
           "pct_held": 6.21,
-          "value": 2402691294
+          "value": 2394922419
         },
         {
           "holder": "Royal Bank of Canada",
           "shares": 12210661,
           "pct_held": 4.78,
-          "value": 1850403485
+          "value": 1844420381
         },
         {
           "holder": "Vanguard Portfolio Management LLC",
           "shares": 11135258,
           "pct_held": 4.36,
-          "value": 1687436922
+          "value": 1681980754
         },
         {
           "holder": "FMR, LLC",
           "shares": 8964650,
           "pct_held": 3.51,
-          "value": 1358503000
+          "value": 1354110409
         },
         {
           "holder": "Bank of Montreal /CAN/",
           "shares": 8135633,
           "pct_held": 3.19,
-          "value": 1232873770
+          "value": 1228887389
         },
         {
           "holder": "1832 Asset Management L.P.",
           "shares": 7113604,
           "pct_held": 2.79,
-          "value": 1077995502
+          "value": 1074509905
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 6191564,
           "pct_held": 2.43,
-          "value": 938269566
+          "value": 935235761
         },
         {
           "holder": "Capital International Investors",
           "shares": 5228050,
           "pct_held": 2.05,
-          "value": 792258661
+          "value": 789696968
         },
         {
           "holder": "Mackenzie Financial Corporation",
           "shares": 4980317,
           "pct_held": 1.95,
-          "value": 754717204
+          "value": 752276898
         },
         {
           "holder": "Wellington Management Group, LLP",
           "shares": 4935243,
           "pct_held": 1.93,
-          "value": 747886691
+          "value": 745468470
         }
       ]
     },
@@ -287,61 +287,61 @@
           "holder": "GLOBAL X FUNDS-Global X Copper Miners ETF",
           "shares": 1009648,
           "pct_held": 2.25,
-          "value": 211218358
+          "value": 218285894
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-DFA Intl Small Cap Value PORT.",
           "shares": 388748,
           "pct_held": 0.86,
-          "value": 81326080
+          "value": 84047316
         },
         {
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 386633,
           "pct_held": 0.86,
-          "value": 80883622
+          "value": 83590053
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 247595,
           "pct_held": 0.55,
-          "value": 51796873
+          "value": 53530038
         },
         {
           "holder": "American Century ETF Trust-Avantis International Small Cap Value ETF",
           "shares": 183406,
           "pct_held": 0.41,
-          "value": 38368534
+          "value": 39652376
         },
         {
           "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
           "shares": 179049,
           "pct_held": 0.4,
-          "value": 37457050
+          "value": 38710393
         },
         {
           "holder": "DFA INVESTMENT TRUST CO-The Continental Small Company Series",
           "shares": 158734,
           "pct_held": 0.35,
-          "value": 33207152
+          "value": 34318290
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Core Eqy. 2 PORT.",
           "shares": 152294,
           "pct_held": 0.34,
-          "value": 31859904
+          "value": 32925962
         },
         {
           "holder": "Goldman Sachs TRT-Goldman Sachs Intl Small Cap Insights Fd.",
           "shares": 150854,
           "pct_held": 0.34,
-          "value": 31558656
+          "value": 32614634
         },
         {
           "holder": "Dimensional ETF Trust-Dimensional International Small Cap Value ETF",
           "shares": 114674,
           "pct_held": 0.26,
-          "value": 23989800
+          "value": 24792518
         }
       ]
     },
@@ -354,7 +354,7 @@
           "holder": "Atlas Capital Advisors Inc",
           "shares": 1473,
           "pct_held": 0.0,
-          "value": 829299
+          "value": 855223
         }
       ]
     },
@@ -367,7 +367,7 @@
           "holder": "PUBLIC EMPLOYEES RETIREMENT SYSTEM OF OHIO",
           "shares": 81202,
           "pct_held": 0.04,
-          "value": 2102319
+          "value": 2177837
         }
       ]
     },
@@ -380,61 +380,61 @@
           "holder": "Blackrock Inc.",
           "shares": 10165446,
           "pct_held": 1.47,
-          "value": 36392295
+          "value": 38527039
         },
         {
           "holder": "State Street Corporation",
           "shares": 9946487,
           "pct_held": 1.44,
-          "value": 35608422
+          "value": 37697185
         },
         {
           "holder": "Vanguard Capital Management LLC",
           "shares": 5549918,
           "pct_held": 0.8,
-          "value": 19868706
+          "value": 21034189
         },
         {
           "holder": "Millennium Management Llc",
           "shares": 4427340,
           "pct_held": 0.64,
-          "value": 15849876
+          "value": 16779618
         },
         {
           "holder": "Geode Capital Management, LLC",
           "shares": 3032761,
           "pct_held": 0.44,
-          "value": 10857284
+          "value": 11494164
         },
         {
           "holder": "UBS Group AG",
           "shares": 1753256,
           "pct_held": 0.25,
-          "value": 6276656
+          "value": 6644840
         },
         {
           "holder": "Northern Trust Corporation",
           "shares": 1241377,
           "pct_held": 0.18,
-          "value": 4444129
+          "value": 4704818
         },
         {
           "holder": "Citadel Advisors Llc",
           "shares": 1277781,
           "pct_held": 0.18,
-          "value": 4574455
+          "value": 4842789
         },
         {
           "holder": "Vanguard Portfolio Management LLC",
           "shares": 1160779,
           "pct_held": 0.17,
-          "value": 4155588
+          "value": 4399352
         },
         {
           "holder": "Mirae Asset Global ETFs Holdings Ltd.",
           "shares": 957366,
           "pct_held": 0.14,
-          "value": 3427370
+          "value": 3628417
         }
       ]
     }

@@ -1,63 +1,63 @@
 {
   "tomra": {
-    "earliest": "2013-04-19",
-    "latest": "2026-05-28",
-    "count": 3286
+    "earliest": "2013-01-21",
+    "latest": "2026-05-29",
+    "count": 3348
   },
   "glencore": {
-    "earliest": "2013-04-19",
-    "latest": "2026-05-28",
-    "count": 3308
+    "earliest": "2013-01-21",
+    "latest": "2026-05-29",
+    "count": 3371
   },
   "waste_mgmt": {
-    "earliest": "2013-04-18",
-    "latest": "2026-05-27",
-    "count": 3297
+    "earliest": "2013-01-18",
+    "latest": "2026-05-28",
+    "count": 3359
   },
   "republic": {
-    "earliest": "2013-04-18",
-    "latest": "2026-05-27",
-    "count": 3297
+    "earliest": "2013-01-18",
+    "latest": "2026-05-28",
+    "count": 3359
   },
   "waste_connections": {
-    "earliest": "2013-04-18",
-    "latest": "2026-05-27",
-    "count": 3297
+    "earliest": "2013-01-18",
+    "latest": "2026-05-28",
+    "count": 3359
   },
   "umicore": {
-    "earliest": "2013-04-16",
-    "latest": "2026-05-28",
-    "count": 3355
+    "earliest": "2013-01-16",
+    "latest": "2026-05-29",
+    "count": 3418
   },
   "veolia": {
-    "earliest": "2013-04-16",
-    "latest": "2026-05-28",
-    "count": 3357
+    "earliest": "2013-01-16",
+    "latest": "2026-05-29",
+    "count": 3420
   },
   "aurubis": {
-    "earliest": "2013-04-16",
-    "latest": "2026-05-28",
-    "count": 3329
+    "earliest": "2013-01-16",
+    "latest": "2026-05-29",
+    "count": 3392
   },
   "boliden": {
-    "earliest": "2013-04-16",
-    "latest": "2026-05-28",
-    "count": 3292
+    "earliest": "2013-01-16",
+    "latest": "2026-05-29",
+    "count": 3355
   },
   "sims": {
-    "earliest": "2013-04-16",
-    "latest": "2026-05-28",
-    "count": 3322
+    "earliest": "2013-01-16",
+    "latest": "2026-05-29",
+    "count": 3384
   },
   "kunding": {
-    "earliest": "2013-04-17",
-    "latest": "2026-05-28",
-    "count": 3197
+    "earliest": "2013-01-17",
+    "latest": "2026-05-29",
+    "count": 3252
   },
   "abtc": {
     "earliest": "2016-02-24",
-    "latest": "2026-05-27",
-    "count": 2579,
+    "latest": "2026-05-28",
+    "count": 2580,
     "history_complete": true
   }
 }

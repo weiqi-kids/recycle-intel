@@ -1,0 +1,197 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:24:33.953459Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "waste_mgmt-2026-05-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Reflecting On Waste Management Stocks’ Q1 Earnings: Casella Waste Systems (NASDAQ:CWST) - TradingView",
+      "companies": [
+        "waste_mgmt"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZFJFUndXRDZJejl0QkFnMnhvLWMtVnFlRXVhVUEzRW04eXJmUHpKVHFfalN1WW5sbzZ0RFhfdjNSRU1Nb1hNTjM2dXhFUWhpR1hDY2QxV0Z1NnNzR0k2Vk9RVG1NdHBySmdldVVDR19QQzRWMDJXN1gyNTNnaFppOUVibzhXTmxPM2FlOE9pQ05QMDQtZjBRTEc2aVlmSmoyTHBrVTRpdFVfU2NKcFJXT2FENFgzV2ZYSDZ0WDEzSDd2bDJEZkJqbWVHb3duOThOdWJfNFFWb3Z3RXdq?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "waste_connections-2026-05-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Connections Inc stock (CA9628791027): steady trading ahead of valuation check on NYSE - AD HOC NEWS",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVXdGeldBTWx0Q3N4d05USGwyNm9iVFNKNXZwWTV2TG5NZ3RDZlVZLXk1YWNiWF82bXFPU0RUQUVZMVdiUmFONDVTSEVRTGQ4OU90YnRLYXVIY0JlMGV6LXh1VXhFc1FtTXFkZDRCb013R2VXN3ZSUnptNnVaaFR5dXlkQXBhZFRYVl9EZ3ZmUzBjaVZQNU4zU3RzVEN5S1JlMWU3MEk3TmI1R3F5bUdXWU1qUnctNmpYVG9MM3NIcFg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Maxvolt Unveils $73 Million Expansion Plan Across BESS, EV Batteries And Lithium Recycling - Saur Energy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "battery_recycling",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZUpHVnZQV3B5ZHJqVnZKemtwM3ZNUkhmd183SkJYM3l1U3ZoU3JUY184b0tMci1QejVDcWxPSWtIVFhHQ0F0NWVDaGZILTZ0RndOOFFzeEhpVHZ0SkdrZlk3MEFzcE5UTWN2SFIzQmI4MU1EcGhncGtOZDhveWtmTnB3VXUzNnBmMV9fbVBNTUVQdVliMTZZNnd0YmdCRG9pTFp4ODdvUG9tQWM5LVp6V1AwZnZnQjBSZWNhSlp5NGRNNzJ1VkQ3UlFtSk1KOWJVQ2Y3cVp5WURnUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "County considers closing transfer stations and raising fees for trash - The Register-Guard",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNHZqaEpfQ09yb05ZdEpGR0NkU3BvX3lJY1ZOMGplT3NfQl9NMHVvbDRBVHlXb1ZZTG45NHpGVzVsSjd2SnBFeTJfTzFRUmo0OENaSm53aTVnbjFuVUZOTURzQk1rV3RQNmZJVUlEWE5neVZSd1lWZi1XenZWWUNIT3pXbVRINDB5NTJNWnBTa0xDS2tDRDJLMnRpVG9EcUlyWWJMUEMyaUR6UkhOZjZZUjNmbHZRX2VuaTRkcmhnenI5YkE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "battery_recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_mgmt",
+        "count": 1
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "battery_recycling",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 288,
+    "dup_title": 156,
+    "too_old": 119,
+    "gate1_blocked": 0,
+    "gate2_blocked": 4,
+    "passed": 9,
+    "pass_rate": "6.8%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "AustralianSuper says possible Glencore listing on ASX would be positive - Reuters",
+      "Communities to Glencore, TotalEnergies: Pay up, end fossil fuel projects - EnviroNews Nigeria",
+      "US Plastics Pact urged to remove 2 polystyrene items from ‘problematic’ list",
+      "Oregon updates responsible end markets verification process"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為廢管、WCN相關動態：「Reflecting On Waste Management Stocks’ Q1 Earnings: Casel...」。主要關注主題為產業通用、財報、電池回收，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Reflecting On Waste Management Stocks’ Q1 Earnings: Casella Waste Systems (NA...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Waste Connections Inc stock (CA9628791027): steady trading ahead of valuation...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
