@@ -1,0 +1,134 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T09:55:53.876315Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "waste_connections-2026-05-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Look At Waste Connections (WCN) Valuation After Recent Share Price Weakness - simplywall.st",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdnN3UHVJVktseERHV3ppUEVObkp6SW5FTWJkRHdoLWNsV3pVYzItMTBmM1B1MVZxUGJoZ1FUZHlJRUlzRlhOS2JuUTdMVlRuaWRYbElXVDhJTi1JS0VlVHBsdG5NMTYtbHc0MDhXQ3dLWnFpSk10dG9XcGhyTVoxb1NYZ3NPY0RBR2xkYWJ1UnJKVmNOTXhOTlVXVnF2YVctTndfOXFNLUlYNFAtbW1Lb3YxRzhBVkl0dVJIcjY0UmJ2RVh5aHRiRTVrempwbEV4SWhCS3Y3RlYyWE5KV2pV0gHkAUFVX3lxTE1QUkdocHBONkt5dkM4OVZ3MUsyU2l6a01QWUppNWxKZTBlemdLMjdhdEcxV1REd1Y0MURmSEp4cko2Q05WNE11Q1BWbC01aUR4eXBDcDZuY0R2YU5rVnU1Q2ZNeENNR3hkY2FtUVFqckxpclEwZ3A4cjlNQm90WngxRkNaQmF0aml2Zjk3QWVIYktRWm8xdmVRenVsOG16YjgwU2RkM2tUYVNUNmhnMFcxYXB6Rjl3U3c2d0ZLbWhPQzAxRnU3ZjVtTWh2blMwNnFhZzl1VFJSRlI2WHlZeTdQMUlKRw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-05-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nersa tariff saves jobs at Glencore ferrochrome smelters - Miningmx",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazBPeERvcVh6Y3ZrblVBNGlwX2Z3dHZEekdSRVVpekxPWVVsbW9kbjhlMzAwN213NkNSNEZBTUluaElWNFVDUTI1a1FvQWZiVUh6TlYwMzBIMWpTeFdWUGY3U3c0M2RCTkREYXlIUWN0YmxtcWtpV3k1eWNBYndPMGF3ZG5PUDJTVlJKWTd6bDdLWTNnclh6TWNpRDV3M2s?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 288,
+    "dup_title": 156,
+    "too_old": 121,
+    "gate1_blocked": 0,
+    "gate2_blocked": 2,
+    "passed": 9,
+    "pass_rate": "6.8%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "AustralianSuper says possible Glencore listing on ASX would be positive - Reuters",
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為嘉能可、WCN相關動態：「A Look At Waste Connections (WCN) Valuation After Recent ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "A Look At Waste Connections (WCN) Valuation After Recent Share Price Weakness...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nersa tariff saves jobs at Glencore ferrochrome smelters - Miningmx（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
