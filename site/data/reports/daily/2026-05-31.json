@@ -1,0 +1,116 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:12:24.533012Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-31-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Over 3 million tonnes of recycled materials drive circular economy - The Peninsula Qatar",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "circular_economy_policy",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNDV5blo5MUdVT0V0T3owcVNtY0FmbE54WlNkRWNsNGxlc3o5akVJa3ZzUUZpd2Zsdmo4RGNwYTZpVzR1RF9iQUtIM3RmS3BKcldBTGVJdHJGZWR4ZGo5XzN3aVF5M2lDRFc2MTE3Wkc2aFNicUl4YldMOEV3TGUzOGxnSGd0eUlKX0xVanV6dndBVHNoWTNrbHZNbkRNVG5XTDJfTmdMS2tsVTZhQ2hNbjF1NmR2QQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "circular_economy_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "circular_economy_policy",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 159,
+    "too_old": 123,
+    "gate1_blocked": 0,
+    "gate2_blocked": 2,
+    "passed": 2,
+    "pass_rate": "1.6%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "AustralianSuper says possible Glencore listing on ASX would be positive - Reuters",
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為循環經濟政策、財報、產業通用相關動態：「Over 3 million tonnes of recycled materials drive circula...」。主要關注主題為循環經濟政策、財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Over 3 million tonnes of recycled materials drive circular economy - The Peni...（循環經濟政策、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,25 @@
 [
   {
+    "id": "unknown-2026-05-31-001",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "circular_economy_policy",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Over 3 million tonnes of recycled materials drive circular economy - The Peninsula Qatar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNNDV5blo5MUdVT0V0T3owcVNtY0FmbE54WlNkRWNsNGxlc3o5akVJa3ZzUUZpd2Zsdmo4RGNwYTZpVzR1RF9iQUtIM3RmS3BKcldBTGVJdHJGZWR4ZGo5XzN3aVF5M2lDRFc2MTE3Wk",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNDV5blo5MUdVT0V0T3owcVNtY0FmbE54WlNkRWNsNGxlc3o5akVJa3ZzUUZpd2Zsdmo4RGNwYTZpVzR1RF9iQUtIM3RmS3BKcldBTGVJdHJGZWR4ZGo5XzN3aVF5M2lDRFc2MTE3Wkc2aFNicUl4YldMOEV3TGUzOGxnSGd0eUlKX0xVanV6dndBVHNoWTNrbHZNbkRNVG5XTDJfTmdMS2tsVTZhQ2hNbjF1NmR2QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-05-30-001",
     "date": "2026-05-30",
     "companies": [
@@ -36,6 +56,27 @@
       {
         "name": "waste_connections",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdnN3UHVJVktseERHV3ppUEVObkp6SW5FTWJkRHdoLWNsV3pVYzItMTBmM1B1MVZxUGJoZ1FUZHlJRUlzRlhOS2JuUTdMVlRuaWRYbElXVDhJTi1JS0VlVHBsdG5NMTYtbHc0MDhXQ3dLWnFpSk10dG9XcGhyTVoxb1NYZ3NPY0RBR2xkYWJ1UnJKVmNOTXhOTlVXVnF2YVctTndfOXFNLUlYNFAtbW1Lb3YxRzhBVkl0dVJIcjY0UmJ2RVh5aHRiRTVrempwbEV4SWhCS3Y3RlYyWE5KV2pV0gHkAUFVX3lxTE1QUkdocHBONkt5dkM4OVZ3MUsyU2l6a01QWUppNWxKZTBlemdLMjdhdEcxV1REd1Y0MURmSEp4cko2Q05WNE11Q1BWbC01aUR4eXBDcDZuY0R2YU5rVnU1Q2ZNeENNR3hkY2FtUVFqckxpclEwZ3A4cjlNQm90WngxRkNaQmF0aml2Zjk3QWVIYktRWm8xdmVRenVsOG16YjgwU2RkM2tUYVNUNmhnMFcxYXB6Rjl3U3c2d0ZLbWhPQzAxRnU3ZjVtTWh2blMwNnFhZzl1VFJSRlI2WHlZeTdQMUlKRw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-05-30-003",
+    "date": "2026-05-30",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore plc (GLNCY) Shareholder/Analyst Call - Slideshow (OTCMKTS:GLNCY) 2026-05-30 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOUG82dVRvdUNNaWlkMUJja0NWVDFNOWFNRjVJa0lncE9BVlkzbU9PM3lEZHI2a0g4SWRqMFpGS2FVakdPSmFpcFhucjJwZ1Y0WHFmTkZrNDlrZlViUHN0dUV5bXY1dTd5U0llWU5jbW",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUG82dVRvdUNNaWlkMUJja0NWVDFNOWFNRjVJa0lncE9BVlkzbU9PM3lEZHI2a0g4SWRqMFpGS2FVakdPSmFpcFhucjJwZ1Y0WHFmTkZrNDlrZlViUHN0dUV5bXY1dTd5U0llWU5jbW9YbWNyRGRRLW5rQ3dhZEVkalAwWVkxWUpKYWVKZEpkVVo3N3lpQ0VkbXZB?oc=5",
         "type": "rss"
       }
     ]
