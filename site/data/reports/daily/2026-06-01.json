@@ -1,0 +1,216 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:33:34.486420Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-06-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore's South African smelter cancels planned job cuts after electricity deal - Reuters",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOGdFSG0yeGtnZnVVVUd3R1BQZndrS1RUbG5WSWJfT2FobUU3VFlyQ21uTVpBQnR4bXJZN3dCOEZpMm5oaWs0d09Id2pVV0IxNWg5SU95QzY4eDBTVlpJQURtdmxWWTlyLVBsc0FDWmlwYm5hZmRKbG45RmJIOGk3RjhsMGxhWVBrRS1RTGFFVTlkSTh3YV90Z1VFUGpFcGRVMDlyMEx6UExaMDB3dF9NVmFPVUxtT2V6bEtjU3V6QnAxOHVvQVlzN2Vadw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-06-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore Venture Cancels Ferrochrome Job Cuts on Power Discount - Bloomberg.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ2RWb2dmS0M4VVRCZGF2SkI3dDVJQkRpeWhIUW1ILTFDWjJQOER3MXZFeWYxRWM2emdWUEg3bWtwZUJOdnZSQUxqNUphTk4xTkNHU0dxNkQxVERVZ1JHaEd2XzZDbS16Mk01OFBGNXJJZWg5cnVLUVZyT0R0SG9hWGpCVWM0UHZWRTNLWXI3MjMzNkZwR3NFM3huaVpoVjZrN0RlQ3hRYk8yblJSX29teHlBTDc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-01-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "1 Oversold Stock Set for a Comeback and 2 That Underwhelm - StockStory",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "circular_economy_policy",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZUpjY0R5alRTeWxVWlNjYm1FYTNxcFJYSzhUTVBEMTJteTVUbXdKdWJFRm45NFFOd2JNYXhqclY5cHdNdF9yNXVmYlB6ZllMS0Nuc1otWEpRMWpmNmJPY0NhcVNKNldrM2haOGdkVTdRSmltdnh0OXoxRmNibFV2NllUMnkyQTA4WUpTQTZHQ3hTUnNaXy13UzJGNFd3dGVkNkFSdGZnMXN5SVp2ZHBjWFFhZnBPMFU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-06-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The deal that saved 1,500 Glencore jobs — and could revive South Africa’s struggling chrome industry - Business Insider Africa",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRUlQLU9xLVJwV1c3ZFd1RlJobms4Y3BRWG5fdldpcEg2cU5Zb2xscGVfZ0U2VnNsVXd1Mng3aFJwbUJnOE01R05ldTRUbHNFY19zcnRpa3R4N1J5dVFIVy1na1JFSFJpdmlHZTN0ckVHbXpBa053V2FPYnNsSEpVdkFPX205NEZJN2lUZWluNHplWi0zaURmVUNveW1Ta3d0aTJuTkJqMDFtRmJsbzRfOWs0aUNoTlRiWW1DVGNsQk5hTmRQZWQ0c2ozMWpCdWhYMlM4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-06-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore's Ferrochrome Unit Cancels Job Cuts after Securing Lower Power Tariff - marketscreener.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1FndkJxMzNaV2d4WHRfeWJTRVhIWkhpOTNXSUFpYi1lRkRWU25xM3FfWlRXM3kyc0J4LWpSTXgyMGt1eE05cHV1bHdNb1BQaGk5VWlJdjJEZllMck1lMHpUWWMxZGxUSWYxR0FfQWVheEpyQWg2VlNZNmYxUjhielVBTGFzdWIzOEtaVFNyQjdVRS1TY1hMLWlVSjJSZi0xUUtVdkNYLXJfTGVYdUN1cExwS1Z3aHB4ck56NDVVWE5PalJlRnRYMU1fRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "circular_economy_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 7
+      },
+      {
+        "id": "waste_mgmt",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "circular_economy_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 156,
+    "too_old": 113,
+    "gate1_blocked": 0,
+    "gate2_blocked": 2,
+    "passed": 16,
+    "pass_rate": "12.2%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "AustralianSuper says possible Glencore listing on ASX would be positive - Reuters",
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為嘉能可、廢管相關動態：「Glencore's South African smelter cancels planned job cuts...」。主要關注主題為產業通用、財報、循環經濟政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore's South African smelter cancels planned job cuts after electricity d...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Glencore Venture Cancels Ferrochrome Job Cuts on Power Discount - Bloomberg.com（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
