@@ -1,0 +1,130 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T12:01:29.818581Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-06-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How The Glencore (LSE:GLEN) Investment Story Is Evolving Without New Analyst Targets - Yahoo Finance",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWRVR0NmdWNWOC1SZ3RwaC1VS0JuWVcwa2dsUVhkb3htVF95X3NPdmNFQm1xcTdKcjRxRWkzSWUxX0taUnpCRmFGZFJnaDhUWEt3czlMNzJhRENiVlNFRzhNN2w0RndSSXFZOWpLNHNlUHl6Q3J3MTJkR0Y2azlJMEVjOGRUVG80UlZVTXFtSkVQSmxzQ2tzMThuLUFoV0Fw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-06-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FTSE 100 Today Watch: Why Glencore’s Story Continues to Shift - Kalkine Media",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNUhjc1hNNHQwM1RfR00wR1hxY3NyR0ZvZlpsTGd3N1psd0Jtd1g0WTdaX1E2czd0dVN0OEVYSVlPNHN5amtPTWpwd1NXSm1LZ3BqZmpTY2NIYTZCeTFHT0g3azNvLUpKd0prdkgxTmlJZDNUdGlsaGJZNmx0TkJzVDhjTWp3dVBMc2ROTkN2dkd1SWJycXhFeElIRHFFS2Qxbk9NRVBTcnVOY3VTTjd0NFF3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 155,
+    "too_old": 119,
+    "gate1_blocked": 0,
+    "gate2_blocked": 2,
+    "passed": 11,
+    "pass_rate": "8.3%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "AustralianSuper says possible Glencore listing on ASX would be positive - Reuters",
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為嘉能可相關動態：「How The Glencore (LSE:GLEN) Investment Story Is Evolving ...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "How The Glencore (LSE:GLEN) Investment Story Is Evolving Without New Analyst ...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "FTSE 100 Today Watch: Why Glencore’s Story Continues to Shift - Kalkine Media（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
