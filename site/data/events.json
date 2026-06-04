@@ -1,5 +1,58 @@
 [
   {
+    "id": "boliden-2026-06-04-001",
+    "date": "2026-06-04",
+    "companies": [
+      "boliden"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Volvo Autonomous Solutions and Boliden complete dam construction milestone with autonomous transport",
+    "summary": "Volvo Autonomous Solutions (V.A.S.) and Boliden have completed the autonomous transport project at Boliden's Garpenberg site in Sweden. The project…",
+    "sources": []
+  },
+  {
+    "id": "glencore-2026-06-04-002",
+    "date": "2026-06-04",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore plc Stock 12‑Month Price Target Raised to GBX 620.08, Implies 2% Upside - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeW5IQjBLX1BZZ25uQTNyNE5GOGZubTE0MUN3bkNGakVjR0t4UXoyVTZWQkhia1djcDNCUVRzMTlWX1cwdkpfc0lWZ1huNGtlOUdlalBrVXpqWjdyZHNjTmxpMWxVYnFVNDF1N3JBWk",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeW5IQjBLX1BZZ25uQTNyNE5GOGZubTE0MUN3bkNGakVjR0t4UXoyVTZWQkhia1djcDNCUVRzMTlWX1cwdkpfc0lWZ1huNGtlOUdlalBrVXpqWjdyZHNjTmxpMWxVYnFVNDF1N3JBWkZlbXMwNzZjMzFrR0E5dXhTVkxxNURoRllBTjMtQi1DMHl0czdtMk9ySDEtVjBRdHpUT1hmZFNGYV8zRlVhemhLXzc3b3d1MEttdFpfb1pOZDIzT0o5dndlSWpodTRTMm5aT3JyTXE4TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-06-04-003",
+    "date": "2026-06-04",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Citi turns bullish on Glencore with six uncorrelated drivers pointing to coal price upside - Proactive Investors",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaGZIcnFhell2NTJKLUNqQXRZSHAwbVUyTFQ2VkpKVkhOay1aX1VaOGhCS1BzSHVrZ0g4Y3pXLUZXSllvTEJlTXpsNkFjU1JOQmtIZjdOWmh5NEJXaVBLeWpYNlZhQUQ1V2dpeHlFSl",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaGZIcnFhell2NTJKLUNqQXRZSHAwbVUyTFQ2VkpKVkhOay1aX1VaOGhCS1BzSHVrZ0g4Y3pXLUZXSllvTEJlTXpsNkFjU1JOQmtIZjdOWmh5NEJXaVBLeWpYNlZhQUQ1V2dpeHlFSlp3ZmgwQlV4TFhhMGRrX2pmcjFWWWMyNHpzbTJkMWtwdHZ6TzRsM0lFXzJMRGFjOVRDaUE0UUdQX0FYWnoweVc1MnBCNjc1VUY1SFYtVElXanNROTNNV2JiU3BJR21GQ1hQTkN4R25XRHpyd21ITWoyRkVvVUt4c0Nnc3dTNVdHUmgyT1AxSEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-06-03-001",
     "date": "2026-06-03",
     "companies": [
@@ -78,6 +131,184 @@
       {
         "name": "abtc",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSDBYaFphVEtucjFXV1RCMjRqQXNxVC1LTVRKZzl2dWRCUURzWHhUczVCZVJkcy1mNUI5NG1Tb2J6V0l3VzItQkdEVHRIdmFEUlNSRGh1anQ3TjBWeFVwaUVRaWktZ3FJWEhpT2x6Mm9iTzd0VTkxZnRWYnA1NWdsaHNaLURERjV0RW0tR2pNczJqeGRFTEgtOTdfMU9FbU00RnhkSHVPRXU4Rm1wVkEtaGdCR2ZEcGs4UHVjQnkxU0tkWjk1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-06-03-005",
+    "date": "2026-06-03",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Glencore’s Cerrejón Closure Intensifies Strain on Colombia’s Coal Sector - ChemAnalyst",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNczhNS3lFYmIwSkdhRnRNTzFNTlNHMm9GbWlmZzlrMWFoZ0ctYXczcVNyNmo1TkJSbGx2U1g5WVlMNHpiS0ZmMnAxOEtNMXd5QzQ2VHFVVE9iWUhSd3o2TkJ3eTRlVUNjVmJnZkk1QV",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNczhNS3lFYmIwSkdhRnRNTzFNTlNHMm9GbWlmZzlrMWFoZ0ctYXczcVNyNmo1TkJSbGx2U1g5WVlMNHpiS0ZmMnAxOEtNMXd5QzQ2VHFVVE9iWUhSd3o2TkJ3eTRlVUNjVmJnZkk1QVo3ZGNCSjVtalVpRnNiMWdjbVk3cXU5Vldlb1NXR3VzTDhMbDlzUGFVUDJmS1hJa0F2NkJBbGQzR1BCX29odFdzc25JanM1cE1JeGJMQk1B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-06-03-006",
+    "date": "2026-06-03",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Communities win temporary halt to Glencore coal operations in Colombia - EnviroNews Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGxUdDVUd09FZ0tOdEZub2lONjZkZHEzR1VhWWwtTk1HOHR2d3FaQWZyQU5zWHc3SGZ6bl9YRE92dnpmU2luaTR5SzA3WGJ0TlJBSlZsZUxMWWxKUkRnREw5NEp2VmxnS0RvWjFreV",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGxUdDVUd09FZ0tOdEZub2lONjZkZHEzR1VhWWwtTk1HOHR2d3FaQWZyQU5zWHc3SGZ6bl9YRE92dnpmU2luaTR5SzA3WGJ0TlJBSlZsZUxMWWxKUkRnREw5NEp2VmxnS0RvWjFreVZOa1l6RDhTS0VRU1VYT2JhX0dqSjZWT2tHWS1vcWxJNW03QXljVTFpck82UklKS0JXWU00VV9YbnE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-06-03-007",
+    "date": "2026-06-03",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore restarts Cerrejón after rail blockade - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5lZW1YaUlTWXVHQWx1SFl3azlBR3dSUGtLQlZNMGJSMm9FUHhQdVB4MERWOHVHM0kwZk01VC1zLXVYcElzVXg0UUdETzhaeFBodTRKdE1iQjFCWlZOVzFha2ktNEdKOFYzSHdhVVI2QW",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lZW1YaUlTWXVHQWx1SFl3azlBR3dSUGtLQlZNMGJSMm9FUHhQdVB4MERWOHVHM0kwZk01VC1zLXVYcElzVXg0UUdETzhaeFBodTRKdE1iQjFCWlZOVzFha2ktNEdKOFYzSHdhVVI2QWVIN2FwSGYxM3pn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-06-03-008",
+    "date": "2026-06-03",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Fleet Data Matters More Than Ever at Waste Connections [Watch] - Heavy Duty Trucking",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1BJQUlsdlU0QktQLVY1QmJqZGZRVnFWNVJQMk12RHljUlJ5SVA5WWx3dVFlYkNWVXJSWEdhMW1iTE1RYkY1a21mcl9TVExvREVUV0x0WTZDLUt2RlRJbHk0X1RQQy1pMmZYWDEzRm",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1BJQUlsdlU0QktQLVY1QmJqZGZRVnFWNVJQMk12RHljUlJ5SVA5WWx3dVFlYkNWVXJSWEdhMW1iTE1RYkY1a21mcl9TVExvREVUV0x0WTZDLUt2RlRJbHk0X1RQQy1pMmZYWDEzRmxVc2poQkZ1LU43UkxmblppN3V1TW8tdnJMaHViQWgxbmloSDRzSXFVOEsxZmd5UE5rNkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-009",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste CEO paychecks rose again in 2025. Here’s how much they made. - Waste Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNm1QSGQ5ZGxHTGI0RV80NXlDTkFDNEI5RVEyb19nQVhjcEpPby1OU3N0X1pMbWp5MnRtMXVaTFN1eUpacUFTQ3JzenhYTFJ2MzdkZDRLeHEtTjlYWEpiWmdMdmN0R2FtTG80M3BxWU",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNm1QSGQ5ZGxHTGI0RV80NXlDTkFDNEI5RVEyb19nQVhjcEpPby1OU3N0X1pMbWp5MnRtMXVaTFN1eUpacUFTQ3JzenhYTFJ2MzdkZDRLeHEtTjlYWEpiWmdMdmN0R2FtTG80M3BxWU04bXhza1pXRW1tRDhpSGc1RGQ4aTlMREdrREVZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-06-03-010",
+    "date": "2026-06-03",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology grants 2.2M RSUs to CEO Ryan Melsert - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOaGxHV085SlZabl9aazd2MENoemRSWUhZb19TNk1xR0pobDZqbjVOMnZoTDFRT2d6N2pyTTItM2RfbU9iM1pTdzJ2cENsZldZNDZzaFdLclZxTXRJaTdQWjhkMTl2UlVWZ2FRdGYwdk",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaGxHV085SlZabl9aazd2MENoemRSWUhZb19TNk1xR0pobDZqbjVOMnZoTDFRT2d6N2pyTTItM2RfbU9iM1pTdzJ2cENsZldZNDZzaFdLclZxTXRJaTdQWjhkMTl2UlVWZ2FRdGYwdkFuVThvSWU2NGhGVU1fVHBKZE5VODVVdnVqWVhvb18yNlNpaVpTNE9JekFhTXBvai1qeDRmMnN0M2VpejdhOURvTFpNRTZpd3BlNnhmZnNSc0FiX2VE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-011",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery (NASDAQ: ABAT) links 2.2M CEO RSUs to stock price, revenue and Tonopah milestones - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2dkUDNyNFl4aUtIZWxqTzRKUHl6UFg3NUJDaXZxYmYxVFRsZDR2dFc1UTF6cU5MMldUY2JLWE9abVhUMGhBOTQtYlVLdWZvN09YR0tIOXBJWWZOdXQ4OHNnNFRPNDRmNmc2c0l4cT",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2dkUDNyNFl4aUtIZWxqTzRKUHl6UFg3NUJDaXZxYmYxVFRsZDR2dFc1UTF6cU5MMldUY2JLWE9abVhUMGhBOTQtYlVLdWZvN09YR0tIOXBJWWZOdXQ4OHNnNFRPNDRmNmc2c0l4cTYxMG5GQXJwVlV3d0xic2xCZk5LTG1TRnNac2xrdmtTcE13OGtabVdHcTlrTnJBbnNXMXpXbm8xMFNHWHhVUS0za2ZaZEgwMkFHNF9z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-03-012",
+    "date": "2026-06-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABAT (ABAT) CEO adds stock via awards and tax-withholding share delivery - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY09aWnFrZ0JfcVNsNWI3Z1JZYmt6Yk9pbklPZUxJZlNaZENyVVVPbnd6TUZtcXZ6c3NHMS1KX1BmTk41ekptWWdiMEVHVDJ1OFM3ek40SFkzX0tCNnlqS2dYMHIwU1lqbUJqdmxDal",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY09aWnFrZ0JfcVNsNWI3Z1JZYmt6Yk9pbklPZUxJZlNaZENyVVVPbnd6TUZtcXZ6c3NHMS1KX1BmTk41ekptWWdiMEVHVDJ1OFM3ek40SFkzX0tCNnlqS2dYMHIwU1lqbUJqdmxDalhScEVhSUNPM2Q0d1k3TlVCWXcwZ2tCUjU3STI2SllmYVlfdFp1YmVkZXNibXptamhwM2Ffd29neHk1T0xfcU8zY2Jtd1AzejdTOGgzWGpSMDdrdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_mgmt-2026-06-03-013",
+    "date": "2026-06-03",
+    "companies": [
+      "waste_mgmt",
+      "waste_connections",
+      "republic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste CEO paychecks rose again in 2025. Here’s how much they made.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/qTQRPp7U99qwg7LFkOEyhxer-W9GjoZVQSpAErIknws/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNjE4MF8yLmpwZw==.webp\"/></div></",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/waste-recycling-ceo-pay-2025-wm-republic-gfl/821805/",
         "type": "rss"
       }
     ]
@@ -283,6 +514,48 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/maine-passes-epr-for-vapes-2026-first-in-country/821671/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-06-02-011",
+    "date": "2026-06-02",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Glencore’s Cerrejón shutdown deepens pressure on Colombia coal - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVJfSGJDUHlIdVJXTjBBTXdfOWZ6Yl9ZNThYT1NMb3dFb2Z2aWNHUUFJbXhOdnU4VENGTDdvTGlEbG5tQ0FoazYwQjJFMUFRYTE3V3d4M01TOGctU01tLUV2V3lOaXpkaEQ4LTdCOX",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVJfSGJDUHlIdVJXTjBBTXdfOWZ6Yl9ZNThYT1NMb3dFb2Z2aWNHUUFJbXhOdnU4VENGTDdvTGlEbG5tQ0FoazYwQjJFMUFRYTE3V3d4M01TOGctU01tLUV2V3lOaXpkaEQ4LTdCOXVGRDVPMjBfNHk4MVpLRDlWajJ6dlJuamFveTRiQkhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-06-02-012",
+    "date": "2026-06-02",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections stock hits 52-week low at $148.62 By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQV1ZlblZmSWZaWUJjTkpLNXBUd3hVNXRlZEpaVXItSExfREJZTWtQTW9iel9qX1lJbVVRVU12Yzg3Vk50N2RzeENxV0k2V041d19MdUw0X0oyc0JJQ3RfbTVWNDVLbEtnUTN6aTJULV",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV1ZlblZmSWZaWUJjTkpLNXBUd3hVNXRlZEpaVXItSExfREJZTWtQTW9iel9qX1lJbVVRVU12Yzg3Vk50N2RzeENxV0k2V041d19MdUw0X0oyc0JJQ3RfbTVWNDVLbEtnUTN6aTJULVdqQnRQZlFpVEhzRkxMZTI0TVd3RFlwVDNDMGg2WERHSUhLbFZ6V3MxWXpSSTdwc0hzZm5aX01yWQ?oc=5",
         "type": "rss"
       }
     ]

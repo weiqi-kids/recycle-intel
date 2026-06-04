@@ -1,0 +1,14 @@
+{
+  "total_raw": 287,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 0,
+  "gate2_fail": 3,
+  "passed": 14,
+  "gate2_samples": [
+    "Glencore resumes operations, lifts force majeure at Cerrejon coal mine (GLCNF:OTCMKTS) - Seeking Alp",
+    "Barclays Sticks to Its Buy Rating for Veolia Environnement (0NY8) - The Globe and Mail",
+    "Maryland recyclers eye potential economic boosts"
+  ]
+}

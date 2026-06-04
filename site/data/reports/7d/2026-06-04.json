@@ -1,0 +1,133 @@
+{
+  "date": "2026-06-04",
+  "date_range": {
+    "start": "2026-05-29",
+    "end": "2026-06-04"
+  },
+  "generated_at": "2026-06-04T11:15:26.227928Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "waste_mgmt-2026-05-29-002",
+      "date": "2026-05-29",
+      "title": "Reflecting On Waste Management Stocks’ Q1 Earnings: Casella Waste Systems (NASDAQ:CWST) - TradingView",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 22,
+      "last_week": 18,
+      "week_over_week_change": "+22%",
+      "sentiment_this_week": 0.02
+    },
+    "earnings": {
+      "this_week": 13,
+      "last_week": 14,
+      "week_over_week_change": "-7%",
+      "sentiment_this_week": 0.04
+    },
+    "battery_recycling": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "circular_economy_policy": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "waste_mgmt": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "waste_connections": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 3
+    },
+    "glencore": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "veolia": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "abtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "boliden": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 68,
+        "last": 62,
+        "change_pct": 9.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-29",
+      "event_count": 15,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-30",
+      "event_count": 3,
+      "sentiment_avg": 0.17
+    },
+    {
+      "date": "2026-05-31",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-01",
+      "event_count": 19,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-02",
+      "event_count": 12,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-06-03",
+      "event_count": 13,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-04",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-29 ~ 2026-06-04）共 68 則事件，重點為「Reflecting On Waste Management Stocks’ Q1 Earni...」。WCN表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "嘉能可",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

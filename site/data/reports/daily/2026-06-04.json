@@ -1,0 +1,155 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T11:15:26.117526Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-06-04-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Citi turns bullish on Glencore with six uncorrelated drivers pointing to coal price upside - Proactive Investors",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaGZIcnFhell2NTJKLUNqQXRZSHAwbVUyTFQ2VkpKVkhOay1aX1VaOGhCS1BzSHVrZ0g4Y3pXLUZXSllvTEJlTXpsNkFjU1JOQmtIZjdOWmh5NEJXaVBLeWpYNlZhQUQ1V2dpeHlFSlp3ZmgwQlV4TFhhMGRrX2pmcjFWWWMyNHpzbTJkMWtwdHZ6TzRsM0lFXzJMRGFjOVRDaUE0UUdQX0FYWnoweVc1MnBCNjc1VUY1SFYtVElXanNROTNNV2JiU3BJR21GQ1hQTkN4R25XRHpyd21ITWoyRkVvVUt4c0Nnc3dTNVdHUmgyT1AxSEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "boliden-2026-06-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Volvo Autonomous Solutions and Boliden complete dam construction milestone with autonomous transport",
+      "companies": [
+        "boliden"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-06-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore plc Stock 12‑Month Price Target Raised to GBX 620.08, Implies 2% Upside - TradingView",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeW5IQjBLX1BZZ25uQTNyNE5GOGZubTE0MUN3bkNGakVjR0t4UXoyVTZWQkhia1djcDNCUVRzMTlWX1cwdkpfc0lWZ1huNGtlOUdlalBrVXpqWjdyZHNjTmxpMWxVYnFVNDF1N3JBWkZlbXMwNzZjMzFrR0E5dXhTVkxxNURoRllBTjMtQi1DMHl0czdtMk9ySDEtVjBRdHpUT1hmZFNGYV8zRlVhemhLXzc3b3d1MEttdFpfb1pOZDIzT0o5dndlSWpodTRTMm5aT3JyTXE4TQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 2
+      },
+      {
+        "id": "boliden",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 162,
+    "too_old": 108,
+    "gate1_blocked": 0,
+    "gate2_blocked": 3,
+    "passed": 14,
+    "pass_rate": "11.2%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "Glencore resumes operations, lifts force majeure at Cerrejon coal mine (GLCNF:OTCMKTS) - Seeking Alp",
+      "Barclays Sticks to Its Buy Rating for Veolia Environnement (0NY8) - The Globe and Mail",
+      "Maryland recyclers eye potential economic boosts"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為嘉能可、博利登相關動態：「Citi turns bullish on Glencore with six uncorrelated driv...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Citi turns bullish on Glencore with six uncorrelated drivers pointing to coal...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Volvo Autonomous Solutions and Boliden complete dam construction milestone wi...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
