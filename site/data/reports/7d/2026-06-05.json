@@ -1,0 +1,131 @@
+{
+  "date": "2026-06-05",
+  "date_range": {
+    "start": "2026-05-30",
+    "end": "2026-06-05"
+  },
+  "generated_at": "2026-06-05T11:24:06.286061Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "waste_connections-2026-05-30-002",
+      "date": "2026-05-30",
+      "title": "A Look At Waste Connections (WCN) Valuation After Recent Share Price Weakness - simplywall.st",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 20,
+      "last_week": 13,
+      "week_over_week_change": "+54%",
+      "sentiment_this_week": 0.03
+    },
+    "earnings": {
+      "this_week": 11,
+      "last_week": 10,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": 0.05
+    },
+    "circular_economy_policy": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "glencore": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "waste_connections": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 3
+    },
+    "waste_mgmt": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "veolia": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "abtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "boliden": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 62,
+        "last": 58,
+        "change_pct": 6.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-30",
+      "event_count": 3,
+      "sentiment_avg": 0.17
+    },
+    {
+      "date": "2026-05-31",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-01",
+      "event_count": 21,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-02",
+      "event_count": 12,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-06-03",
+      "event_count": 13,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-04",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-05",
+      "event_count": 2,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-30 ~ 2026-06-05）共 62 則事件，重點為「A Look At Waste Connections (WCN) Valuation Aft...」。WCN表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "嘉能可",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "威立雅",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

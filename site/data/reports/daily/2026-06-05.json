@@ -1,0 +1,134 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:24:06.173842Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-06-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia’s Stakeholders Assembly Calls for Accelerated Uptake of Water Reuse to Strengthen Water Security - Business Wire",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTkhQR2JneEtoT0paUlcwQk9rbXlJSGc3UFlLU0VtcVFHamY2VFV1QXUtSUpSY21BWkRDdUtZTks2dndONjBhRjh4RzljWTRITHdVbERLY0cyTzNUQjRMMUl1T1plRDVwNndlWkduYzhjekdyY011UHp6QUpDYzhEbUJSRjNscmtnRnVVNENHV2RabGpZVlJVUTVMMEQ5bjg1M0paSFo0Z0h1ZFlSVEY4OTJVMk5tN1NGU0p2WFFVNVl4VGZZX051VXZJU3U5ZnNaOElmM0Q2ak9qZDNEcVh2NG9HMTRiMUlOOTljVzVBdTg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-06-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Methodist churches to file complaint over HSBC’s Glencore financing - TheBanker.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zWFBYazJOaVlNeUk0UU9RdGtMb0lxWk1VaEh0YTFELUFEcFRFaWZmZURtTDdXM25FdUZCLXRud0NLZWNvSnQ5d0p6MDBrZlZGeFdvbmpyTVNKTVhDX1hFREVXT2NTVVNFYS1iMDZHVzl2cS1reE5FS1dB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 271,
+    "dup_title": 164,
+    "too_old": 96,
+    "gate1_blocked": 0,
+    "gate2_blocked": 2,
+    "passed": 9,
+    "pass_rate": "8.4%",
+    "gate2_block_rate": "1.9%",
+    "gate2_samples": [
+      "Barclays Sticks to Its Buy Rating for Veolia Environnement (0NY8) - The Globe and Mail",
+      "Maryland recyclers eye potential economic boosts"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為嘉能可、威立雅相關動態：「Veolia’s Stakeholders Assembly Calls for Accelerated Upta...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Veolia’s Stakeholders Assembly Calls for Accelerated Uptake of Water Reuse to...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Methodist churches to file complaint over HSBC’s Glencore financing - TheBank...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
