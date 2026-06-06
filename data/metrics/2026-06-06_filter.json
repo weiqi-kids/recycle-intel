@@ -1,0 +1,13 @@
+{
+  "total_raw": 288,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 0,
+  "gate2_fail": 2,
+  "passed": 10,
+  "gate2_samples": [
+    "Barclays Sticks to Its Buy Rating for Veolia Environnement (0NY8) - The Globe and Mail",
+    "Maryland recyclers eye potential economic boosts"
+  ]
+}
