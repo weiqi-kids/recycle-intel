@@ -1,5 +1,26 @@
 [
   {
+    "id": "glencore-2026-06-06-001",
+    "date": "2026-06-06",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Does Discovery Silver (TSX:DSV) Elevating Ex-Glencore Leaders Recast Its Timmins Growth Narrative? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbXNUT081Vy1Ed29MM0VEYWc0WjEwakhLdzdaanV1dWhBc2xKbEVuVjF0QmU3Q2VHenJPNnhmYXJKUWlORzdiaGtkU1VyWm9GT3RseVEwdHdUSmc3MXFiNlRwa2hzVW1pT09NZDFqSG",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbXNUT081Vy1Ed29MM0VEYWc0WjEwakhLdzdaanV1dWhBc2xKbEVuVjF0QmU3Q2VHenJPNnhmYXJKUWlORzdiaGtkU1VyWm9GT3RseVEwdHdUSmc3MXFiNlRwa2hzVW1pT09NZDFqSGdlX3dNUU10WTA0VWttWmgybXNmWER0T29HTWZBWDRaaFJ1VzFnNzR3bmw3am1temFFd19rYnZGTW5ucTMtMnAySHZxTVM4MjJhZktmSmoxR3ZUTGhOUjNfZWY2VU94S0t3UlA2WUhn0gHbAUFVX3lxTFBzNUo2S2h5MnJybTg4Sk5JVmxuRnR2TmFrTXhOZzNmUFlFMjRqSDdTaWplaVJiN0FtVDBob2hxblBuZlNHSnNJejQyTlRNMmR5aEIxd0pJR0NsRnFIQUxEVzRpVTNPeEI4TnNtbGJoNlNwTE13ajRXZU5ncFlCVjZrcUdrWlJaMVgycDhocjFGZmt1cXNjeEJKU0t6NFNacmJPN3RVcC1oNUI2SWRkMk5reFpyRW9RYUpLZnR1LWw3cE9yOUZ4OTM5THlLdlpWZ0xOcmJyVkpyVUxWRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-06-05-001",
     "date": "2026-06-05",
     "companies": [
@@ -159,6 +180,47 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/new-york-epr-packaging-2026-fails-bottle-bill-dsny/822110/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-06-05-009",
+    "date": "2026-06-05",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement (0NY8) Gets a Buy from Berenberg Bank - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS2dBQ2RES2ZlZkdiVFlLZi03MW1UVmZHcEw3R016YzlTRHV2UlBwN3Fadk5DdzktR3pDanZPenRaS0d2Tk0tYmNnNzhnSXNKWUR1bXk1aVM4QmxVTkxIbXZNb2VZU1FhZXpJb3ozM1",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS2dBQ2RES2ZlZkdiVFlLZi03MW1UVmZHcEw3R016YzlTRHV2UlBwN3Fadk5DdzktR3pDanZPenRaS0d2Tk0tYmNnNzhnSXNKWUR1bXk1aVM4QmxVTkxIbXZNb2VZU1FhZXpJb3ozM1FSRWVkU2hLbm15d0J2MVBnWHBfTTFqZ01KRkZMYVhhanEtVzUzdmVFcFVHNDRCQlZ5dTV3bzJKRHBtWGlfTVJRRVdobUlVOEdrTU53YXZNM3k0QzFBQ0VIWXhjdVlBMkM0QmdrUGR0a205dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-06-05-010",
+    "date": "2026-06-05",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia sounds the alarm on treated wastewater - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWJGLWNaakdTb0prOFJNWElma2lQSGlDeXRTQ3RiekxHaVVHd21QOFFiNWtBOXFCLWs0ZGRYNi1jNVdhbkp6VEtLS0tXTTJwM2JhQ3lERUpRYm5EVTRsOU5tT1h1YzFhMXRsQVhyYV",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWJGLWNaakdTb0prOFJNWElma2lQSGlDeXRTQ3RiekxHaVVHd21QOFFiNWtBOXFCLWs0ZGRYNi1jNVdhbkp6VEtLS0tXTTJwM2JhQ3lERUpRYm5EVTRsOU5tT1h1YzFhMXRsQVhyYVhhb3NjYUlHRy1pOTVacG9sY1hWbWYyM3hacWRzSDFCelJ3SjhtU3ZtTlZXbE56c2s?oc=5",
         "type": "rss"
       }
     ]
@@ -372,6 +434,27 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSW56X2dsSGxYU1NHZGJVN0lBbjhuYi1YQkE1VnRHS09SMjU1SEcxUDhDZFRJdGtzcktFZEZueDAyd3hVYnByQThpQTF3LUpkclp1aGpTcS1xR016cWR2OTkwcktqaEtYT192cV84TUVFUmUtZFExZVI1UHVTenpoWUNhWDBuUmtNRlZCWEtHbXlNWGRaaE9oTFlEVG0yLXh3R01BVEVTWEI5emR2SEpyZkUyM2I1Z1dkYmxXN1hkcURONzVkU3pZZGozRnZKSkwtVUM4T20xRmIxZFlnRnhZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-06-04-012",
+    "date": "2026-06-04",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology Grants CEO Performance-Based Stock Award - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT2VUaXVNLTVmMWtobDJ1MTQ1bDNabF81U01faWUxX2U5d2tRaks1aGgzdjA0TkhOckEtUk9LSk9kSUFpdW9hakFFZEh6bFNRSUNndFlNRU9fbElmUExsSzY2RThOVEFldVJxSldhYk",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT2VUaXVNLTVmMWtobDJ1MTQ1bDNabF81U01faWUxX2U5d2tRaks1aGgzdjA0TkhOckEtUk9LSk9kSUFpdW9hakFFZEh6bFNRSUNndFlNRU9fbElmUExsSzY2RThOVEFldVJxSldhYklFTUthZi1GcnN0eG53VnBxcklnb3NsdG1sREZEaF80R0Y3bWJmclZ0SHdqYmxNTWt3bWxseWtMS2c1azdQUjB3ME5pUUlJQUd3ajg1X1BwNzZYd0FoVWhzMzJoVkhURjk0SGxMdHFROERvUC1pb0wwS185aEdReTI3Z1RR?oc=5",
         "type": "rss"
       }
     ]
@@ -901,6 +984,26 @@
       {
         "name": "waste_connections",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaG5vTW1rNE5vdzVtRGFHRHYtWUo0Mm1wc3FPLVFUSV9IM1BBZ1VOeG82SmROMmJRVEhRQWZJSUVxcG56WGJSQ1FreVhwSmx4eU1ZZlNHR2dmdzJrQldCVW05SXJDZl9Vc3JoSU5veFBWQ0VzNzRtd1QyT3hJTmw5R0VnMmpJSHZMNEl6bFFUUmU4WWpVeW1MelRCM3FiaXhNcmFWdzRXbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-06-02-014",
+    "date": "2026-06-02",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections stock hits 52-week low at $148.62 - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMUg3UDZUdTFCRkpFdXhSYnhLMkNaclNCZWZIYXRnby1RblQzN1A2TXliOXp0QlAwWU9yaXgzanljNjFCblpWRGo0UFJNX2huWTlvdHAwMG5tdWpjYUpxRllFNC0xd0MwWXVxWDg0aV",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMUg3UDZUdTFCRkpFdXhSYnhLMkNaclNCZWZIYXRnby1RblQzN1A2TXliOXp0QlAwWU9yaXgzanljNjFCblpWRGo0UFJNX2huWTlvdHAwMG5tdWpjYUpxRllFNC0xd0MwWXVxWDg0aVcwU2dnX01FaUZReldMdUloZEI5UFY4Yy13UGx6LTBMbC1DOGZubS16V1Bqd21EU0FSVHNIbzExUDM?oc=5",
         "type": "rss"
       }
     ]

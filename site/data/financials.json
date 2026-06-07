@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T10:00:19.405432Z",
+  "updated_at": "2026-06-07T10:25:52.055417Z",
   "quarter": "2025-06-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -63,8 +63,8 @@
       "ar_qoq": "+22%",
       "ar_period": "QoQ",
       "inventory": 32882000000,
-      "inv_prev": 29816000000,
-      "inv_qoq": "+10%",
+      "inv_prev": 29580000000,
+      "inv_qoq": "+11%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
