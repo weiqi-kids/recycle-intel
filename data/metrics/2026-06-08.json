@@ -1,0 +1,25 @@
+{
+  "date": "2026-06-08",
+  "total_events": 10,
+  "by_company": {
+    "abtc": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 10,
+      "sentiment_avg": 0.05
+    },
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

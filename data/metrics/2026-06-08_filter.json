@@ -1,0 +1,15 @@
+{
+  "total_raw": 288,
+  "dup_title": 156,
+  "no_date": 0,
+  "too_old": 117,
+  "gate1_fail": 0,
+  "gate2_fail": 4,
+  "passed": 11,
+  "gate2_samples": [
+    "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+    "Barclays Maintains VEOLIA ENVIRONNEMENT(VEOEF.US) With Buy Rating, Raises Target Price to $47.61 - M",
+    "Barclays Sticks to Its Buy Rating for Veolia Environnement (0NY8) - The Globe and Mail",
+    "Maryland recyclers eye potential economic boosts"
+  ]
+}

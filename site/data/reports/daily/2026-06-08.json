@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T12:25:48.663375Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "abtc-2026-06-08-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Battery Technology Co. (ABAT) Surges 38.6% in Pre-Marke - GuruFocus",
+      "companies": [
+        "abtc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVctVXlXbFY1SlNYQTZ4emR3VHhSMlNZN3hQLTNhc2hkQ2NCbXQ0ZWFxYk9yeUw2cllaVDBpUXZqUGk5dmx6SmFOZXUtM0N4LXBQU1lyN1RDYnd5X1NqendDVG5yeU1LeHg5NF8zclNmRmcteV95LWM2UmRWTFBJOVIwU2hjTFFzcmlUOTBmOWZLSkxqNlJSSWo3WTNUazhmMzEwend4SG5RUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "abtc-2026-06-08-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Battery Technology Company Wins Appeal And Has Us Department Of Energy Grant Reinstated For $115 Million Project For Commercial Scale Critical Mineral Lithium Refinery - TradingView",
+      "companies": [
+        "abtc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPV1B4OUgzSDlkYVowT0lIUHlraUJyS1R2ZDIteFcwaW0yeE9tSzdyaU5mWmE5bzFtTFhhZ0lZTzg1X25FQXJXNUQ3ekN2QW9oOWt6VzN0YW1Td1V3TGNSd1Z0SHk1eWlrN0NleUp1YlZlVVpwT3A4Z09sY0w5ZUZmRWJ3OWhKeWJ2bTdJSmpoWmlZMHQ3RWxjbkEzTnM0SHIzMTNPeEZwT09TQ1FHb0ZSMUFmY3dFWS01OEFqR1FZTXNOd0NVQzZSQncyQTh6MUp2TUVlWUZTcXZwV1M0VWRKT0JILUJkRHZ6S0hJdzAxOUFXLVJTUkxIWUVGbTdsMXlpQzlveFJCLUh3NnctbEx0eWIxQzlRVnJPMi1JbWZITEZRWUowZC1LYmNFSXBkMHc0elkwclJvcEF5WXZmaEd4bnpyVjlhTjl2dEZhWWMyVEpJeHlOT3dNdmRqZVNuandyc1M0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "abtc-2026-06-08-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why is American Battery Technology stock surging today? By Investing.com - Investing.com South Africa",
+      "companies": [
+        "abtc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYVQ2enZGdkQ2Wk13cXRHdWJDTjd2VWZjbWpQRWEtc254OE85YTV2cDhsbmNMTUtzR1JwWWRGaEFKdnhueWlkZENHcGotVmRZQWU1WHBJYkg4c1lHZEJlempCa2lkZzRvRFFwS3VHajkxLTB0b1dWMk8wcGczQmt5Ri1Zb19vUkdTVFlyQmdGdGdQWmY0dU5jR2M3TXVGdVZtZ2R5ZnYzTFpEcVEtUWhTQXZHS1hmUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-08-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABAT Stock On Track For Biggest One-Day Percentage Gains In 8 Months — DOE Reverses Course On Lithium Project Funding - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNVBodkdmTmlIVVZOR0N0aEd4SDVVS2ZfY3JZNnlKTTE0VTNqUTN2a01FZFVMTU1Kd3dFUGtMMUlndzZpNXpORjVkNHRmWkJBYjhMblVSdjk2MmVqazdFb1Z4U0RDRS1XLS1kdWVUZHJqV2s4Wi1kQWVQcTNvN1Z0dHdDNGV3QmVlWkU0cVUxblE5YUpjYnhOQ19nS0p6bk5MQS0xRll3cmFwa19yT3B2T2ZPVXJWRF9qanVmNU1OS3ppOU1BejJxak1kSmFWcHVLUnduTUFwVkJTM3Y0eW81MHZad2tJMWIwRm9xZkNPMjRSZGZpbERyQnFhRl9GandtSERkejVNOA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-08-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Battery wins appeal to reinstate DOE lithium grant By Investing.com - Investing.com India",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVy10TGRLUlAzeFRiUUh0RlVqbmdDS0ExRFBGR18xeW5HQlpwT1pJeURuTjJNbktTaE5sX0JQdEhLUWFMNkdzcG5XcVFOLWlWOGM5Mm5pYUJlUHNTRWl0QV9rd1ZRb3p0RUJ2NkJtZFlQMUs3NlNXZUh6djR1T0VKdFk1aUw4Z0MyOGV1QUNLLVptTTdxN0RqamV3UlQ3OTN4VnExZkJHMnl6WThIYm5PWkJ0aGJhSjRjeUdYWHktRnNFM0FEOGZQcVFDeGU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "abtc",
+        "count": 5
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 288,
+    "dup_title": 156,
+    "too_old": 117,
+    "gate1_blocked": 0,
+    "gate2_blocked": 4,
+    "passed": 11,
+    "pass_rate": "8.3%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "VIE.PA Technical Analysis | Trend, Signals & Chart Patterns | VEOLIA ENVIRONNEMENT (EPA:VIE) - Chart",
+      "Barclays Maintains VEOLIA ENVIRONNEMENT(VEOEF.US) With Buy Rating, Raises Target Price to $47.61 - M",
+      "Barclays Sticks to Its Buy Rating for Veolia Environnement (0NY8) - The Globe and Mail",
+      "Maryland recyclers eye potential economic boosts"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為美國電池相關動態：「American Battery Technology Co. (ABAT) Surges 38.6% in Pr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "American Battery Technology Co. (ABAT) Surges 38.6% in Pre-Marke - GuruFocus（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "American Battery Technology Company Wins Appeal And Has Us Department Of Ener...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
