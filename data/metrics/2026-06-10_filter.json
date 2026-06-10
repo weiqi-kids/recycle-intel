@@ -1,0 +1,13 @@
+{
+  "total_raw": 287,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 2,
+  "gate2_fail": 2,
+  "passed": 21,
+  "gate2_samples": [
+    "Report of payments to government agencies 2025",
+    "Maryland recyclers eye potential economic boosts"
+  ]
+}

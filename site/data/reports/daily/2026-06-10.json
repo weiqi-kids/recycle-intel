@@ -1,0 +1,217 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T11:36:11.094804Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-06-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Raw Materials Are Everything: Thomson Reuters and Glencore Face Rising Pressure – Aspermont Provides Critical Data - news.financial",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObVVUTVZCYndkd1hqR1NvU1o5YnAwWmlRNW1EWnF3NGV3XzRfdU90dF8zQUVaVmZjQjhRYVhRWXVWWDRLeVJYaDdwX3ZncGhVc0FlSnRleVloZHZQcjBESWxFdE90R3hOQ2NNZzNWTTk1di1BZ2JEOWY0QWMzZFhDVm9TdVBXREpocE92d0dTczFLc05Vbi1rb1NMa0dYVnNxUENoMGhoaVpCVGZEeDRRUGF5M0wtTkhoNHd4VWt4TGZObVlrdDl1X210WGR5c082RVpnS2d4dlZobGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-06-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Larvotto lands Glencore offtake deal for NSW gold - SMH.com.au",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOREpYaWJFdDZ1bHJmdWY0c1FyX1hqRkFRT0xHR0JLc19hcDN4MXhia19qRnczMkJyb2ozU0tnYm82NW1iUE16YUNDbkJhZzY4cDhCWlp2V2w5RkZpNjFuSG01LTFIczFaV0NkUndwR3hxbHlERUFucVBJbmVDSUVGY285bXJpOUhBQ2hEZGxhSFc2ajBhYUZxLXZNaC1OdU5jU1dVNS0wZXZaM2ZxZHdPb1FB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-06-10-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ASX-listed Core Lithium finalises second Glencore fines sale - grafa.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbEpHRUlCdEFzSVd5d0NqSUpWeC1JQ0FIU0FYcU9JQkFWQ1V6MUxIMmx2TFA2b1RjdUNnbXhjeHFzR2RBT1dxejNqMUhWUXFVWnVmVkFJeS1mOWZEa0ZCX1NEUEtMenVaVS1KOXBOSW9iY3N6b1UtSW1wMTFpZE1qQ1RWNFZVUFJyM3NNTk1n?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-10-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UAE Battery Recycling Market Witnesses Strong Growth Through EV Demand - vocal.media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "battery_recycling",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelRIVE10WHNZOUpuLXlMUnRlWkU4MU9vTlROQ1FFLXppYlNzenZleVJOUmpueWpoUXNrVkJ2aU83NTBuNXZVbTlUTFk2TDVGb3NzU3dxNnl6cmsxZ1VFNmRzaTcyeC1XRjBBa2FSeXlDOFNxeDQ4NUZqaDdNVVdTWlZEUk1QSEdEMjNsOXRsZjVVYmZ3THBtVWpOZ2NMUThS?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-06-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Core Lithium Agrees To Sell 25,000 Tonnes Of Finniss Lithium Fines To Glencore - TradingView",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQd1QwQU5tRUx2RWNTSHJQSGhhc0RxQi1QOU1yMjhQTk96VEhCVHJza0x5emU4SW03NXZaWGJpS1VIeWNvbTc3Y0xEN0dGS1dEVkpKWUowVF9kb05yLWlJRnV5TjlaMDUzLU1MTU45UXJHV3EwUmxST21Ia1ZLV2JJY3BzdWkzZ2tzN0k0Z2pvT21xNUZjcEt4eXI2NlY4dEVJdXNEcWh5ZUlEWlNTRFNMNm9ZWjdEdnF1b1lpQUFaUE1hMGh2TFNGWTF0amlLTHMxc3VJN2F6emc0bUkwT095OWFn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "battery_recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "battery_recycling",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 149,
+    "too_old": 113,
+    "gate1_blocked": 2,
+    "gate2_blocked": 2,
+    "passed": 21,
+    "pass_rate": "15.2%",
+    "gate2_block_rate": "1.4%",
+    "gate2_samples": [
+      "Report of payments to government agencies 2025",
+      "Maryland recyclers eye potential economic boosts"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為嘉能可相關動態：「Raw Materials Are Everything: Thomson Reuters and Glencor...」。主要關注主題為財報、產業通用、電池回收，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Raw Materials Are Everything: Thomson Reuters and Glencore Face Rising Pressu...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Larvotto lands Glencore offtake deal for NSW gold - SMH.com.au（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

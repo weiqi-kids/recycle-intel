@@ -1,0 +1,29 @@
+{
+  "date": "2026-06-10",
+  "total_events": 5,
+  "by_company": {
+    "glencore": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "battery_recycling": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
