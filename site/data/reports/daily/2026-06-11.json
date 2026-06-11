@@ -1,0 +1,225 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T12:07:47.633151Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-06-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Larvotto (ASX:LRV) Locks In a Glencore Gold Deal and Nears Production. So Why Did the Stock Fall 15%? - Stocks Down Under",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1RUphQ3B2djZ4anFFRXJONzFiUUI2a2tMMXpaYXVHTW9Ea21ZdExwQlJjUktMZjM2ZExDTDBYNzVDcjZvaEdQMFhBTURud3hHR2FDZ2lORlk5NC1lT3hCa1A2TTRNTXFQNlFnUA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "waste_connections-2026-06-11-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Does Waste Connections (WCN) Pullback Create A Fresh Opportunity For Long‑Term Investors - simplywall.st",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRlRaLXhEaGtXc0tuVHdhSGdyWHlzejdCVFMwZVRwNUZKd1ZlamQwSDBuSGQzRUxFTEM3M1J4MFN3VE42c2hiV0duOUJFR1g1VHpUNFBpVDl0aU9VZ09XeG5OcmdhdU9MWjR2ZHh3cTktUTJkd2M4dkQ4OFk4U2ZRSVN6N2VVbkhheGNxOWRScHBlZnpLRG1ieVAwaTlIMTBQMU9kMkVnRXZYMnI3cHg0QndUNkxnRFhMOVBOaEkzcmFkTkpGUVBxWWhTcmp6NTQ1LUczWF96WFo1Mk5i0gHiAUFVX3lxTE9ZelhLbUczTm51ZmJ3bnlublBsT0dWY1hLdExQdUszQ0tyOEQxSkZramtLRjRweDRZbmw3S0lmRm9tYk44RzR5SmNRU0JXSl9xV2txYThDOXZzYW1rM3RTVHAyUXBsc1ltVm5Edndib1ljQldSUzhTa00xbXlVNU5CWkk4ZnJaZDJsSUl6ODk5MEJEellvSDdCSE1tOFlhR1ZMRFBGNkw1aGFjbTRfTGpOOFNDVVRtV2pRckNsUHhjalpLdi0xX3NPczFFUVFEcVdKY1JmUUNkTWlNd2ZoMUpPWnc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "aurubis-2026-06-11-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Aurubis AG: Aurubis Hamburg inaugurates world’s most powerful exhaust system in copper production - TradingView",
+      "companies": [
+        "aurubis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLUZ3aWxpd2VXTDU2REFRdGJHVVJZNXRJd2tCa2ZHY0RVd2dOakdidzBWS3VZTWFrajJPUnlqWEJtWVI5d29ic1ZxSkVST21RdjVNZHlWblg1RFB2UXZmbGFmZkZtQllLNzB3cUFnZENvMEhCSjFVTXRXZmRObWZ4V3M0dDFBSG1mOUNWNXdmOFZhRzFWdXRJTUVrQ1lFZDZhNHRBeU14MXBfWkl5Q1Rzb25UZkZSZDhQR05QM1M1UUFVdjI2dmZDMndLN0RMcmdEcDZJdDFlN3R0QnNmNW1Tbm52Wkk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-11-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glass recycling packaging: A powerful driver of South Africa’s circular economy - Cape Business News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "circular_economy_policy",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd2ljdmN0aU5HMnhNc0RYTkVoSFBObkFvcG9hNjJXY2c0QmVwck5DSFU2TExHTDR0RUF0ZjZCUm1XZDlBNVhDcnh3aFc5WmlabnZaYzJKTFl0TV9wWDhHTUs1Q2RUZjZPbEtiOWRtYlhpUi1OalNDNFZFeEhWVVJaejR1VmhvVWlrRnkxelotb1Q4bXJHWnhwc1pjM1NQWmo4SVhuR0YtWEJrRE1kb1g2Vno1WDdBWlFmX3hTMlBYckFJdTRCZFVpVXdmeGk3V1ZSNTd4M2FNa3BLZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-06-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Copper Super Cycle: Trouble for Nordex? Freeport-McMoRan, Glencore, and Power Metallic Mines benefit! - news.financial",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeU5ub1R5dDM4WlNzQUx3ZGxqUWowOW0tckVjYmFzR1dUYlVCV1g3QkFJT1hEbGJ2bU5OYjlsdWh2UjhVeU00VlNMMWVQU0V0bmstQVZhcFo4RW4zQzlQaXduUkYwV09lbGdIWmF2cnFzV2lEVjN0RmZrbWdGSVlHMXcxR2l6UWZuckpBUERWSDZFMWk1VFBXZGluMGlLdUlQc1VFUkc1TWlQR1V1UWVocXVhX21rOFlwZEJOMzlGb0IxdUtIdk5j?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "circular_economy_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 3
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      },
+      {
+        "id": "aurubis",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "circular_economy_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 142,
+    "too_old": 100,
+    "gate1_blocked": 2,
+    "gate2_blocked": 1,
+    "passed": 23,
+    "pass_rate": "18.3%",
+    "gate2_block_rate": "0.8%",
+    "gate2_samples": [
+      "Report of payments to government agencies 2025"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為嘉能可、WCN、奧魯比斯相關動態：「Larvotto (ASX:LRV) Locks In a Glencore Gold Deal and Near...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Larvotto (ASX:LRV) Locks In a Glencore Gold Deal and Nears Production. So Why...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Does Waste Connections (WCN) Pullback Create A Fresh Opportunity For Long‑Ter...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
