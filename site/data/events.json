@@ -142,6 +142,45 @@
     ]
   },
   {
+    "id": "unknown-2026-06-12-008",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "circular_economy_policy",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "GFL CEO Dovigi talks energy, EPR, AI and plans to double in size",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/XTFjp_yGfnhpQsz-Qxte135TD3F2pYEGIEW_gYIfEgU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNTQwODNyc3ouSlBH.webp\"/></div></",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/patrick-dovigi-gfl-stance-ai-energy-epr-policy-growth-plans/822781/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_mgmt-2026-06-12-009",
+    "date": "2026-06-12",
+    "companies": [
+      "waste_mgmt"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tech can stop battery fires, but prevention works best with education",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/J_Rhuk9Ge4AkQoY4HlisubKB0AdxMhlTtnTN9Dgco2M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMzgzM18xLmpwZw==.webp\"/></div></",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/battery-fire-prevention-education-technology-updates-waste-leadership-summit/822804/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-06-11-001",
     "date": "2026-06-11",
     "companies": [
