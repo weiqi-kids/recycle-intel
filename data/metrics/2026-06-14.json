@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-14",
+  "total_events": 2,
+  "by_company": {},
+  "by_topic": {
+    "plastic_recycling": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "ewaste": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "circular_economy_policy": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "industry_general": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

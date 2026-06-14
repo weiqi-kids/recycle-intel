@@ -1,5 +1,67 @@
 [
   {
+    "id": "unknown-2026-06-14-001",
+    "date": "2026-06-14",
+    "companies": [],
+    "topics": [
+      "plastic_recycling",
+      "ewaste",
+      "circular_economy_policy",
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Waste Shredders Market Growth Outlook to 2035: Demand Accelerates on Plastic Waste Regulations and E-Waste Recycling Expansion - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNVdSSXRLLVlMLTZGRmNVQmRqalJtTHpyY2RWU2ZEanlvakR1ODRRcUFuTEdRY3U4cWhzeEFJQWpSRkg1WmFTT0VzelllU0Y2bVRoUEl3TDJUa2Y0aXFxTGNDZ1RaU25WVWl0emQ3V0",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNVdSSXRLLVlMLTZGRmNVQmRqalJtTHpyY2RWU2ZEanlvakR1ODRRcUFuTEdRY3U4cWhzeEFJQWpSRkg1WmFTT0VzelllU0Y2bVRoUEl3TDJUa2Y0aXFxTGNDZ1RaU25WVWl0emQ3V0NfX3RqN2tMNkFEQmlKemJHWU1YNEtaTHIwcmxFVkpwV0VBcEd5RUdBOHltaDlhODY4MTFGY1lJUmdKSUlYal9wbGVuaGp5MDNEWFFhU01reW9NUmdGMFRXbTRwaEEwTmRkOFFaX3B3bW9JQW8wVFVJQ0lwQ2h3LW9yNEZ3cg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-14-002",
+    "date": "2026-06-14",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Textiles Recycling Expo Europe 2026 to showcase the future of circular materials - Textile Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOYndqamNLWFlLOHliY1RHaGxhSEVYUUFpRWUtakxCcld3Ykw5TE14dWtmOW5xa3ltZDlZWEQ3U0hmQXBSZTNEOG51TFh0TzdjaGEtVjFObzJRSURmTlFmcDhGSVRjVG52ZGtCNTIxQm",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYndqamNLWFlLOHliY1RHaGxhSEVYUUFpRWUtakxCcld3Ykw5TE14dWtmOW5xa3ltZDlZWEQ3U0hmQXBSZTNEOG51TFh0TzdjaGEtVjFObzJRSURmTlFmcDhGSVRjVG52ZGtCNTIxQmlEZ3NUUlJMWW80YzV3czhGTkQ3a3JzUHVOMmpMby1lWmxKN0ItTFlHR3FQY0d4V3l2U2RES2cwQnhVcXNJeUJHb1VB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-06-13-001",
+    "date": "2026-06-13",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections (WCN) Stock Valuation Check After Mixed Recent Returns - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQLVRJT3dTZ3FscGEtcVdSQmphMUo4R0pkTnRJb1BRbFRMcFM0eGRzUjRTSVIzZWtiWlV2ai1MbVVzbExYZHd6ZHNNYWxaY3hOVUg3Y2hIa25BcnNpQUptck9Ta0ljamRwUWRhZTUwTV",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLVRJT3dTZ3FscGEtcVdSQmphMUo4R0pkTnRJb1BRbFRMcFM0eGRzUjRTSVIzZWtiWlV2ai1MbVVzbExYZHd6ZHNNYWxaY3hOVUg3Y2hIa25BcnNpQUptck9Ta0ljamRwUWRhZTUwTVVDeW1tT2d4cUJ0cnN0bTRzamt0OEhTdGFhU3hRSTZxLXB2cWRJUHFmMUFJN2FSdDFYSmluVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-06-12-001",
     "date": "2026-06-12",
     "companies": [
@@ -176,6 +238,83 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/battery-fire-prevention-education-technology-updates-waste-leadership-summit/822804/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-06-12-010",
+    "date": "2026-06-12",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TOMRA: Mandatory notification of trade by PDMR - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGViNWhsMGFlSTVIb3l5WHYzNThkLVAyTFE4VUJRaVRZRno4R0NvVlFBWTJzWHMzRmxhcG5MamFmVDg4LU1oZi0zUlVFaDZmRjlmRHNRZzFmZHZfUVZ4dGFQM0xHbGF2bGt0b0xrUD",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGViNWhsMGFlSTVIb3l5WHYzNThkLVAyTFE4VUJRaVRZRno4R0NvVlFBWTJzWHMzRmxhcG5MamFmVDg4LU1oZi0zUlVFaDZmRjlmRHNRZzFmZHZfUVZ4dGFQM0xHbGF2bGt0b0xrUDdWLW9meTFLbldESldIOE5nQWc0WVA3V3I0NldGWEUxSy00bHdoUmF0NlhTWmU1eFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-06-12-011",
+    "date": "2026-06-12",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Horne smelter emissions spend: design and risk notes for engineers - Geomechanics.io",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSV9zbFV3XzYxOGJsdFRkSHFsT0V0RnZTVnJrbzRfT0VqMW5EWkZuOG5GSUJXNUFmV0N6aXJQbUI1b0hVNzFrUWlTUm1vZzFuTDZnUVkzQm42Ql9CbndlRncxSVF6YVhMN2YxWmtwcF",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSV9zbFV3XzYxOGJsdFRkSHFsT0V0RnZTVnJrbzRfT0VqMW5EWkZuOG5GSUJXNUFmV0N6aXJQbUI1b0hVNzFrUWlTUm1vZzFuTDZnUVkzQm42Ql9CbndlRncxSVF6YVhMN2YxWmtwcFhOTF9xT1VLYktqejBNdlZpRkdtcm5hb0lHS3g5RWtwbWtjUXkzOTdQVDNsUkx2d1dZcjd1Z3ZmOWoxYkJ6RXppbFdmQ2R1UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-012",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NWRA Waste Leadership Summit 2026: End markets critical to recycling’s viability - Waste Today -",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbk1RbXFoSWtKR0Y5d1FZZS05UGItamgzYVRKZjJNbndWYnpTQkRMSkNkMzVJX3BUS1B0M19SaGdwNXBhcEl2WmtYU3NHeEh2UnJJTF9ZOUpBYk85QjV5Um9aSjBDT081YnRsWlB5RH",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbk1RbXFoSWtKR0Y5d1FZZS05UGItamgzYVRKZjJNbndWYnpTQkRMSkNkMzVJX3BUS1B0M19SaGdwNXBhcEl2WmtYU3NHeEh2UnJJTF9ZOUpBYk85QjV5Um9aSjBDT081YnRsWlB5RHVaT21fR1FyMTBCQ0FfVzhjNlpxT0xRWm5NYTg0QVZJd2UyTUV3OHZUNVhWd2luMFdSRGhyLWxIbFBZbml4NjRJSXRnUDh1MjhEVUNZQTNJSFJBblRQRlZVa2xJZGRIRVpP?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-06-12-013",
+    "date": "2026-06-12",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Waste Connections, Inc. (WCN) A Good Stock To Buy Now? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3E4bEp4cnl0ZzZxekdoYXVrNEtCUENyeTFURWYtZUYxQUdUeHZjVTFZd001UDcwZWtaY3c4dmZqZVFxdXRkZ1UxZnZyZy03MjdDanZNU3hadHZ6UjFPSEZUSlJfRUlGWkNNYU9FMU",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3E4bEp4cnl0ZzZxekdoYXVrNEtCUENyeTFURWYtZUYxQUdUeHZjVTFZd001UDcwZWtaY3c4dmZqZVFxdXRkZ1UxZnZyZy03MjdDanZNU3hadHZ6UjFPSEZUSlJfRUlGWkNNYU9FMUpFX05tRzZpSG5pYk1Cdlo0SUdNeW00SEEtUU1jckp6SHpIT1VGMkJWVm9tbw?oc=5",
         "type": "rss"
       }
     ]
@@ -468,6 +607,44 @@
     ]
   },
   {
+    "id": "unknown-2026-06-11-015",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lithium-Ion Battery Recycling Guide: Process, Technology & Market Analysis - Benchmark Mineral Intelligence",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWw1Sjl3clFHRjRGU0cyNWhLUmxMelNzODVXMGFrOHpETmR0VEJFZTdIQ0ZxYmRCMFNqZjB4WTR3ZlVHMG1KYTRUczhiNVdhX0JTdy1jaHVaeHltM2pwNmEtMDc2QjNpem5xeExYRy",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWw1Sjl3clFHRjRGU0cyNWhLUmxMelNzODVXMGFrOHpETmR0VEJFZTdIQ0ZxYmRCMFNqZjB4WTR3ZlVHMG1KYTRUczhiNVdhX0JTdy1jaHVaeHltM2pwNmEtMDc2QjNpem5xeExYRy0yZUlnblBrdnlHRUxRbmRXeXFDN3NoQkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-016",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cornell University researchers bring ‘dead’ EV batteries back to 95% capacity without recycling them - The Times of India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUzdrUzVmN3E4a1ZLNjYxblVUbF9VMFBBdXNGUjNmMU5WN3VVUzV5LUxybTVLZUFIeGt1M3RRM2pyT2w5SlYwOWVfcnlXcUE2ZmtJbFZSRFpUU3lHU05iRjlHVkZNSTQzX2xfMFF5SX",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUzdrUzVmN3E4a1ZLNjYxblVUbF9VMFBBdXNGUjNmMU5WN3VVUzV5LUxybTVLZUFIeGt1M3RRM2pyT2w5SlYwOWVfcnlXcUE2ZmtJbFZSRFpUU3lHU05iRjlHVkZNSTQzX2xfMFF5SXExZHY0bzFXRnJMbkZpWlJhZVdSVTl6ZW1pVk5ZWGw3emxXZ0lsTTFyNlJxalBOOHNTREZKeDBPaW8zTTktQ092QWZhZ2ZrYjcxR21kdlNBSTFTLVpMdUlVV3VVemR6SjZIRU1rS1FhTXl0XzZkdGdHWTN3S1hWQlFmempyTUh4NnRKMXpyNUFyMHhITdIBgAJBVV95cUxPeHpJTkdUQnB5RDgwbUpPbVM3UWo5b3d0ZDM4aHVyb1I0cGYxLTVLLS1nRXQ2YVlSbFhuU3lTSkV0aUs5SXBndldhZTNkcGZja1lpdFJpWmxmdFdwQ2luYVBzZjNIS3hyY09aeWZ0N29mdGRrWk5GUTBVTmZBT1VZZkFIbjFQV0VheE1laE9LX1QwY3NPcDhjQ0lyT1drZVZPbF84cXAyMnJzcXlNb0EwQzljSjJDd0pCeDhQc1oxTW82Rk9XSWVrdkZMN2lGOWJ5NmhDUk9PUHdjUU1JRkhaSUlnbHhPX2ZxZjZPZnFTSjlaTWphNU1PS3NLcGk2alFP?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-06-10-001",
     "date": "2026-06-10",
     "companies": [
@@ -751,6 +928,47 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/circular-economy-investments-waste-leadership-summit-wm-clp/822464/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boliden-2026-06-10-015",
+    "date": "2026-06-10",
+    "companies": [
+      "boliden"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Boliden AB stock (SE0022415691): copper and zinc producer in focus after guidance update and CEO cha - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOYTRDb1MwcjMzMkNpYmFUWjdxTXhhOXBJa2F5bFZ6ajFLd1BzeTlZQmxyMXJsdlJOdThhVFdJVE0wcmNZY0U4ZFVDOFo1bEhjd2o1anFITUx1V0FrYnVBQmMxX2ZNaGlqaVF3NnBibE",
+    "sources": [
+      {
+        "name": "boliden",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYTRDb1MwcjMzMkNpYmFUWjdxTXhhOXBJa2F5bFZ6ajFLd1BzeTlZQmxyMXJsdlJOdThhVFdJVE0wcmNZY0U4ZFVDOFo1bEhjd2o1anFITUx1V0FrYnVBQmMxX2ZNaGlqaVF3NnBibEVDZWZFYVA4NlktTUw4aU5XeXRwUGlHTGE1YklhYXBib3ROemtFN01IN20zUGUtS0x3ZnhpQ2xkTTdENVFUZEwyV21Db0kzZjJZUm9Tb3NvVWUwaVppaTc4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-016",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Victoria's Waste to Energy Scheme - Vic Gov",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rUmpMck1hU3hTYTI3ZGp3WTlPcDdOZkI2T1dyb2pMb1Q2ajRvSmFmTjJPTkxITzZrQnVNWWlCcXI3RDZkQUJOcUNCZUxBRERyOF9TLVhfYV9KMmtRSXJyYVZB?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rUmpMck1hU3hTYTI3ZGp3WTlPcDdOZkI2T1dyb2pMb1Q2ajRvSmFmTjJPTkxITzZrQnVNWWlCcXI3RDZkQUJOcUNCZUxBRERyOF9TLVhfYV9KMmtRSXJyYVZB?oc=5",
         "type": "rss"
       }
     ]
@@ -1272,6 +1490,26 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/reuse-symbol-hit-market-portland-oregon-reusables-systems/822481/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-06-09-027",
+    "date": "2026-06-09",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Launches a New Employee Stock Ownership Plan Offered to 180,000 Group Employees - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORF9LUnIxakVUMnVPWkVybUhOVC1GMW9WZVJZaS1iYjZCeWt1ZF9pSnBDMV9ZVkdXaEp2dE42N1FSRWl2VXA0THRoZXI5WTRTYlFrSWZFMl9EUGVkaEhQZk9JOC1aakRkZ1ZRalQwSX",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORF9LUnIxakVUMnVPWkVybUhOVC1GMW9WZVJZaS1iYjZCeWt1ZF9pSnBDMV9ZVkdXaEp2dE42N1FSRWl2VXA0THRoZXI5WTRTYlFrSWZFMl9EUGVkaEhQZk9JOC1aakRkZ1ZRalQwSXMyV0tpVkUzSURNT2VQUUJhV1ZISE5xZmw4Uk5nRTRxOGpkR1FkUHBxbmthNzFaTXdfSDFSV3AwNnI?oc=5",
         "type": "rss"
       }
     ]
