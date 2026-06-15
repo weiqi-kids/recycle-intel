@@ -1,0 +1,12 @@
+{
+  "total_raw": 286,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 2,
+  "gate2_fail": 1,
+  "passed": 11,
+  "gate2_samples": [
+    "Report of payments to government agencies 2025"
+  ]
+}

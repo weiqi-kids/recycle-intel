@@ -1,0 +1,184 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T13:51:29.844292Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-06-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Larvotto Strikes Glencore Offtake as Proposed $54M Hammer Metals Deal Reshapes Growth Path - Crux Investor",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLUxKcGdfazJxSFZleDB0aTV3WWdETHlMZHp0aVZCS1Nlb0U2YUVtR0lham81SzB3azV2TUowRUdfU040cDBUWFZqR0dUTll2OTFfQThIYXVjYlRhb0p0T2xZTURzV2xqakg2bURKbjNZa21jUkp2QWtDeXh0cGRRQ19ldHhMVWFOaW5vTElQQ1BhLXlaSzRTclk0bjM0aEtPTFFTOWczdWNwNnYwVlRQckRVY1pNeGpKVU9jN1Nlby1mdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-06-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore Stock Slips as Copper Rally Tests Valuation Ahead of July Production Update - Bez Kabli",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR0RpTkNoVXNKUmsxRzJBSFFjbEFyUmJQMURveFNQMGlrR1JmbEpOUHRFTWs3WU5RalBPYW9TTzJpUzJrUEpqY0VOMndpQ0VhS2pEZ0VIdl9FNG5JOERKNEpzVmhuT1l0d0dQdUF6Q1RTaFV5U2JKLU16d3c3cExGeTZ2eG9nMDlEVm5OeEE2Zk9WVmFsbE02OGhob2Vtck1iSDM4TnJKMENCcHpiMHFV?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "republic-2026-06-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Four Republic Services Employees Named Industry's Best at 2026 National Waste & Recycling Association's Awards Gala",
+      "companies": [
+        "republic"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://investor.republicservices.com/news-releases/news-release-details/four-republic-services-employees-named-industrys-best-2026"
+    },
+    {
+      "rank": 4,
+      "event_id": "aurubis-2026-06-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EU investigates Aurubis acquisition plan in depth - SMM Metal",
+      "companies": [
+        "aurubis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVERuOGc2a1l5dXk5dXRUVFN3QXNWUlI1UEF4WV8tM1pPMlRPN2dDT21JQzh5LTVMSVY3LUlCZVFBeTByWG1YRHN1NjF6VWs5ZGtvemdFWUhlZWNFTVdWdHdZX2YyTFFTVkNBMng3ZHc4c3ljdGxlSmNzNmhXU3R2cjNDSDdBRHBuRkMtZ3lXcENORmlVTkxNdXdWVXpSdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 2
+      },
+      {
+        "id": "republic",
+        "count": 1
+      },
+      {
+        "id": "aurubis",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 163,
+    "too_old": 109,
+    "gate1_blocked": 2,
+    "gate2_blocked": 1,
+    "passed": 11,
+    "pass_rate": "8.9%",
+    "gate2_block_rate": "0.8%",
+    "gate2_samples": [
+      "Report of payments to government agencies 2025"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為嘉能可、共和、奧魯比斯相關動態：「Larvotto Strikes Glencore Offtake as Proposed $54M Hammer...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Larvotto Strikes Glencore Offtake as Proposed $54M Hammer Metals Deal Reshape...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Glencore Stock Slips as Copper Rally Tests Valuation Ahead of July Production...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

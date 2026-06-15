@@ -1,5 +1,87 @@
 [
   {
+    "id": "glencore-2026-06-15-001",
+    "date": "2026-06-15",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Larvotto Strikes Glencore Offtake as Proposed $54M Hammer Metals Deal Reshapes Growth Path - Crux Investor",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLUxKcGdfazJxSFZleDB0aTV3WWdETHlMZHp0aVZCS1Nlb0U2YUVtR0lham81SzB3azV2TUowRUdfU040cDBUWFZqR0dUTll2OTFfQThIYXVjYlRhb0p0T2xZTURzV2xqakg2bURKbj",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLUxKcGdfazJxSFZleDB0aTV3WWdETHlMZHp0aVZCS1Nlb0U2YUVtR0lham81SzB3azV2TUowRUdfU040cDBUWFZqR0dUTll2OTFfQThIYXVjYlRhb0p0T2xZTURzV2xqakg2bURKbjNZa21jUkp2QWtDeXh0cGRRQ19ldHhMVWFOaW5vTElQQ1BhLXlaSzRTclk0bjM0aEtPTFFTOWczdWNwNnYwVlRQckRVY1pNeGpKVU9jN1Nlby1mdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-06-15-002",
+    "date": "2026-06-15",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Stock Slips as Copper Rally Tests Valuation Ahead of July Production Update - Bez Kabli",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOR0RpTkNoVXNKUmsxRzJBSFFjbEFyUmJQMURveFNQMGlrR1JmbEpOUHRFTWs3WU5RalBPYW9TTzJpUzJrUEpqY0VOMndpQ0VhS2pEZ0VIdl9FNG5JOERKNEpzVmhuT1l0d0dQdUF6Q1",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR0RpTkNoVXNKUmsxRzJBSFFjbEFyUmJQMURveFNQMGlrR1JmbEpOUHRFTWs3WU5RalBPYW9TTzJpUzJrUEpqY0VOMndpQ0VhS2pEZ0VIdl9FNG5JOERKNEpzVmhuT1l0d0dQdUF6Q1RTaFV5U2JKLU16d3c3cExGeTZ2eG9nMDlEVm5OeEE2Zk9WVmFsbE02OGhob2Vtck1iSDM4TnJKMENCcHpiMHFV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "republic-2026-06-15-003",
+    "date": "2026-06-15",
+    "companies": [
+      "republic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Four Republic Services Employees Named Industry's Best at 2026 National Waste & Recycling Association's Awards Gala",
+    "summary": "National Waste &amp; Recycling Association recognized two company drivers, an operator and a technician for outstanding safety, performance and service PHOENIX, June 15, 2026 /PRNewswire/ --&nbsp;Four",
+    "sources": [
+      {
+        "name": "republic",
+        "url": "https://investor.republicservices.com/news-releases/news-release-details/four-republic-services-employees-named-industrys-best-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aurubis-2026-06-15-004",
+    "date": "2026-06-15",
+    "companies": [
+      "aurubis"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EU investigates Aurubis acquisition plan in depth - SMM Metal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQVERuOGc2a1l5dXk5dXRUVFN3QXNWUlI1UEF4WV8tM1pPMlRPN2dDT21JQzh5LTVMSVY3LUlCZVFBeTByWG1YRHN1NjF6VWs5ZGtvemdFWUhlZWNFTVdWdHdZX2YyTFFTVkNBMng3ZH",
+    "sources": [
+      {
+        "name": "aurubis",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVERuOGc2a1l5dXk5dXRUVFN3QXNWUlI1UEF4WV8tM1pPMlRPN2dDT21JQzh5LTVMSVY3LUlCZVFBeTByWG1YRHN1NjF6VWs5ZGtvemdFWUhlZWNFTVdWdHdZX2YyTFFTVkNBMng3ZHc4c3ljdGxlSmNzNmhXU3R2cjNDSDdBRHBuRkMtZ3lXcENORmlVTkxNdXdWVXpSdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-14-001",
     "date": "2026-06-14",
     "companies": [],
@@ -57,6 +139,25 @@
       {
         "name": "waste_connections",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLVRJT3dTZ3FscGEtcVdSQmphMUo4R0pkTnRJb1BRbFRMcFM0eGRzUjRTSVIzZWtiWlV2ai1MbVVzbExYZHd6ZHNNYWxaY3hOVUg3Y2hIa25BcnNpQUptck9Ta0ljamRwUWRhZTUwTVVDeW1tT2d4cUJ0cnN0bTRzamt0OEhTdGFhU3hRSTZxLXB2cWRJUHFmMUFJN2FSdDFYSmluVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-002",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Scotland disposal rates drop as waste is directed away from Rapp Road landfill - The Altamont Enterprise",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPcE92UjRNRVJTQ3A0OGJZU25ZRHdpR0JfamxLRjlVbThpR2ZXR3ZqUy12dFVkb2o5RkpFdElOWjAxb0dLdUVnd0ZEQ2dCREJvT0J1ODJhbjJMVWdjV0Q0ZWI2WDBnc0lvZEhrWEs4NE",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcE92UjRNRVJTQ3A0OGJZU25ZRHdpR0JfamxLRjlVbThpR2ZXR3ZqUy12dFVkb2o5RkpFdElOWjAxb0dLdUVnd0ZEQ2dCREJvT0J1ODJhbjJMVWdjV0Q0ZWI2WDBnc0lvZEhrWEs4NE9QTG1hZGk3bjZ5MExxVk5GRDQ5UHpTbW9oRjV2Vjg5aXZkX3A1azEwWHlMWXFpME42TVQ3RUNHNHZtemo3eVNUedIBtgFBVV95cUxNeVJSOFBmdTVBMUc1RU5XUVkzUGhDY1VNU09BZHZnLVpMMDhJOEw2aDV3NlF2VHp4eDR0MTcyeElfQWk3T0JiV1R0c1M0eVB3Q2ZWbWR3d2dwdFZ4TzYwdXBoS0VDMXlEellPQ3JKbEtKS0Exay1laWlnMEFrcHNPaHVvaUFBRk9LWFdwS05FZnJhTWZOdm12Zm5fRGdHZDhBSU9LZS1aOXYxcEt2RTU3bjQ4M1RRZw?oc=5",
         "type": "rss"
       }
     ]
@@ -315,6 +416,66 @@
       {
         "name": "waste_connections",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3E4bEp4cnl0ZzZxekdoYXVrNEtCUENyeTFURWYtZUYxQUdUeHZjVTFZd001UDcwZWtaY3c4dmZqZVFxdXRkZ1UxZnZyZy03MjdDanZNU3hadHZ6UjFPSEZUSlJfRUlGWkNNYU9FMUpFX05tRzZpSG5pYk1Cdlo0SUdNeW00SEEtUU1jckp6SHpIT1VGMkJWVm9tbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-014",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NWRA Waste Leadership Summit 2026: End markets critical to recycling’s viability - Recycling Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQSWs5MmVNdGFqVFByaldUOF9mYUd2RXBsZUpYLWlRYUVJazFxRWZYcU40a2JYVE52WkduZ0FJenVZSTFVNFZDZGVyc1I1U3ZoenNkem55ckFWYUNFY0RXUTFTMmRzOGZyMnY5akJ5Zn",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSWs5MmVNdGFqVFByaldUOF9mYUd2RXBsZUpYLWlRYUVJazFxRWZYcU40a2JYVE52WkduZ0FJenVZSTFVNFZDZGVyc1I1U3ZoenNkem55ckFWYUNFY0RXUTFTMmRzOGZyMnY5akJ5ZnhOYnRUTWMwRDhZQnNRZmJHREtQdXB0X1NqSE1ybkFRdTlvZ1g2YUpCRF80ZWtpSTRQR3hIdlRKYUFYWFg1S3NLVjlaN0xUMVdOS2xQZ0tfc0w2UXBIX0lpUHE0QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-06-12-015",
+    "date": "2026-06-12",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Inc. stock rises Friday, still underperforms market - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPN2pRMHdtTW9rZ0RDQ3huUkNEN28xdHJaVGFJVFNiMjEyaDk3Skd0Yllpb21ZV1ZtdDFsT2VjN2JyVzEza2tnNXppcUg4ODhoZ2RKSy1EbE14WTFHVmJ5MTVZWFRWX3NIWG4zNmdGbj",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN2pRMHdtTW9rZ0RDQ3huUkNEN28xdHJaVGFJVFNiMjEyaDk3Skd0Yllpb21ZV1ZtdDFsT2VjN2JyVzEza2tnNXppcUg4ODhoZ2RKSy1EbE14WTFHVmJ5MTVZWFRWX3NIWG4zNmdGbjNPU1M0TWd0VHQzc3c5QzlyRGlvejU4ZFkyektlQURXM253QjFpYlc2dkQxYkNoSnNNQUhhaW5wdU83bi1HcEdpN3VlNTRoRHk5dm1WYlZaUlhlVWJEMHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-06-12-016",
+    "date": "2026-06-12",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Waste Connections, Inc. (WCN) A Good Stock To Buy Now? - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPRkNPbW14dkZCdTlTcV9HX3k5Mms3TXF3WFZnNm1yeHFfUDVyUlRwUG9SLVJrX0IyTUNzdFA1TUxhTVB3a2dpT0lPM09idmJoZTcyLTd1bkZmQ2hETVp1bXZ1RW1jOEFJZVJETFJ0Q1",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRkNPbW14dkZCdTlTcV9HX3k5Mms3TXF3WFZnNm1yeHFfUDVyUlRwUG9SLVJrX0IyTUNzdFA1TUxhTVB3a2dpT0lPM09idmJoZTcyLTd1bkZmQ2hETVp1bXZ1RW1jOEFJZVJETFJ0Q1JEelpKSFdZWlhRSjBfc2QweFBvZVJqNkxJdEk1Z1JiYmM0MUJIcllyWmNkd2Ftbm8xSlVPMtIBpAFBVV95cUxPRkNPbW14dkZCdTlTcV9HX3k5Mms3TXF3WFZnNm1yeHFfUDVyUlRwUG9SLVJrX0IyTUNzdFA1TUxhTVB3a2dpT0lPM09idmJoZTcyLTd1bkZmQ2hETVp1bXZ1RW1jOEFJZVJETFJ0Q1JEelpKSFdZWlhRSjBfc2QweFBvZVJqNkxJdEk1Z1JiYmM0MUJIcllyWmNkd2Ftbm8xSlVPMg?oc=5",
         "type": "rss"
       }
     ]
@@ -640,6 +801,27 @@
       {
         "name": "google_news_battery_recycling",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUzdrUzVmN3E4a1ZLNjYxblVUbF9VMFBBdXNGUjNmMU5WN3VVUzV5LUxybTVLZUFIeGt1M3RRM2pyT2w5SlYwOWVfcnlXcUE2ZmtJbFZSRFpUU3lHU05iRjlHVkZNSTQzX2xfMFF5SXExZHY0bzFXRnJMbkZpWlJhZVdSVTl6ZW1pVk5ZWGw3emxXZ0lsTTFyNlJxalBOOHNTREZKeDBPaW8zTTktQ092QWZhZ2ZrYjcxR21kdlNBSTFTLVpMdUlVV3VVemR6SjZIRU1rS1FhTXl0XzZkdGdHWTN3S1hWQlFmempyTUh4NnRKMXpyNUFyMHhITdIBgAJBVV95cUxPeHpJTkdUQnB5RDgwbUpPbVM3UWo5b3d0ZDM4aHVyb1I0cGYxLTVLLS1nRXQ2YVlSbFhuU3lTSkV0aUs5SXBndldhZTNkcGZja1lpdFJpWmxmdFdwQ2luYVBzZjNIS3hyY09aeWZ0N29mdGRrWk5GUTBVTmZBT1VZZkFIbjFQV0VheE1laE9LX1QwY3NPcDhjQ0lyT1drZVZPbF84cXAyMnJzcXlNb0EwQzljSjJDd0pCeDhQc1oxTW82Rk9XSWVrdkZMN2lGOWJ5NmhDUk9PUHdjUU1JRkhaSUlnbHhPX2ZxZjZPZnFTSjlaTWphNU1PS3NLcGk2alFP?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-06-11-017",
+    "date": "2026-06-11",
+    "companies": [
+      "waste_connections",
+      "waste_mgmt"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Global Waste Management Market Expansion Aids WCN Amid Low Liquidity - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkEwWW9JU2dwRnp3aXR1TGxESXJQRWFaRTNQaWYwNEQzZ0U2Y3U5Wk43Wm96cXVJRVRtTF9mcjdwWkVmR096djViMG02YUFFbU9kQTdwSDhIWUxYX0VKRzZCbHBUWllYZ3owa3p5Um",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkEwWW9JU2dwRnp3aXR1TGxESXJQRWFaRTNQaWYwNEQzZ0U2Y3U5Wk43Wm96cXVJRVRtTF9mcjdwWkVmR096djViMG02YUFFbU9kQTdwSDhIWUxYX0VKRzZCbHBUWllYZ3owa3p5UmFtVEp5VC01N0lQT2w5eGIyWmhnTmxNQTJ6MmlFN0JJdHAzY3N3WkJlajlDWkVmSnVZdExXTzBTVDc?oc=5",
         "type": "rss"
       }
     ]
@@ -1515,6 +1697,27 @@
     ]
   },
   {
+    "id": "waste_connections-2026-06-09-028",
+    "date": "2026-06-09",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Insider Sold Shares Worth $1,171,915, According to a Recent SEC Filing - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDRYMzRpWmJiSTBUSXM2TDE0MkNYNERNemswcDcyeTZUZ2lrZjZjSDN5ZWkyMlJZUVNkMWh5R0ZNM1Q3ck1LdmU2STN3U3Z6Z1ZHeFY4ZHg3aU5DYUpsUzBwSHBvOHhjYkFhTS1MaE",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDRYMzRpWmJiSTBUSXM2TDE0MkNYNERNemswcDcyeTZUZ2lrZjZjSDN5ZWkyMlJZUVNkMWh5R0ZNM1Q3ck1LdmU2STN3U3Z6Z1ZHeFY4ZHg3aU5DYUpsUzBwSHBvOHhjYkFhTS1MaE5TeWJOODlidTFqeVpZWmowVEt1eVBmMG82cFV1X1VQVFBsbmJ2WXpEdllsSEJqc29pVldqT1ZvZEdSY0tP?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-08-001",
     "date": "2026-06-08",
     "companies": [],
@@ -2186,6 +2389,26 @@
       {
         "name": "abtc",
         "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNMlhsM2VKay1QN05TV3V1YzNudFFweVh0QUZnbkxjU29hX0I5ZXpaMWM2Mmpla2tuVVowZDE3U2FzX0JXZGFZVEd5MnlhaEcwRFlpelJmdFZpZC04N1ZpY0w2YWNDRHpfTklYdVRlbDBfLWRINlh0V3JLcm1ZUzN0N25DMXd6WVZxVmZweG5mUzQtOVI3bWJEUWZmTXBwbVllNFpTcS1UREVodHNLVEpRaHlVZmRodWlEWTRHNmFvWFk4MzUzWllrbEE1YjRQeHRtODdrYjJOOUFXSWJVU05ObnhyZHpfbzdVdl9FV1VyMGV2dVFqNDBkNEtUbmsyLWNQdE43U2tFVVVKTE1zZkV5NmFCM19XNjI3SXR3M0pqVGdxMGo5SXpYM01XMERGMk1pZGpHdEFMYm9aaHU0VEw5S3dsYkIzdTljRDlOUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-06-08-035",
+    "date": "2026-06-08",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims Shares in Focus as AI Business Draws Attention - Bez Kabli",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ1Vvd0JsdE5SQUh4cmhVcnh4M0djYzF1cjNIalZHenRvc05uLTVSeUoteFVWMmNLdFB3SkdjdkthT3lrc2pzVlVWVXBjZDJCdEhXZmI5UFJpczExaDZXbl9ob3JoZ0FGRXEtV1Vxa2",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ1Vvd0JsdE5SQUh4cmhVcnh4M0djYzF1cjNIalZHenRvc05uLTVSeUoteFVWMmNLdFB3SkdjdkthT3lrc2pzVlVWVXBjZDJCdEhXZmI5UFJpczExaDZXbl9ob3JoZ0FGRXEtV1Vxa2ppel9QYjJjTF81WksyLWxNcHE3Yw?oc=5",
         "type": "rss"
       }
     ]
