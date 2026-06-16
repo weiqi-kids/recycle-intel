@@ -1,0 +1,25 @@
+{
+  "date": "2026-06-16",
+  "total_events": 3,
+  "by_company": {
+    "glencore": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "industry_general": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

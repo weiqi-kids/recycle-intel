@@ -1,0 +1,156 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T12:49:59.874903Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-06-16-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Glencore Shares Edge Higher as Copper Holds Near Records and Coal Tightness Supports Miners - Bez Kabli",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaEFPWXJrRkFWMmgtTVo4dUNuTHZ2WU5jWHZuVlRHZWRYNl90N3pHYnRGdVZmY1Azc0sxQXhjNDhLam1DLVB4eVI1R2h0U3B5RkprZmw4TGtRMEUxWXVEUDR3M1EyQ3c0dl9Pekp4cDI4VElUSXIzYlNaaU4xOWhEcXpiNGZJc1lwWmhyMnNtWFU4UXRuX3JrZ185OXBiSzk1VVJUbXBON0lyVW9UWTJmVWZlcFVBV1Rh?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-06-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore, Trafigura Said Set to Invest in Merdeka’s HK Listing - Bloomberg",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkRtNW5vb0p2ODRsTHFQb0xEaWdMSnotX2lJTzZzblc4aWtyMnNSWHNyaTVZSEwxeExmTlo3dHpLdTg0Mk00TjRndXY0bERGd1RDQ2pnTm9TNEpmOEl4RW5Lb2tEMmdVbm91V2g4NDRMY1VUYmhNOFZXUU5LVmR0SGExamtSX0x2VmxzN3lJZ2ZqcVVpT0pBWGhQUDEyM3RjYWppb3FNeTJSelVFcFpNWUpB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Japan to solve huge EV battery problem - St George & Sutherland Shire Leader",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPak9rU05IQXoxblFBaXlacFlZMmtOSHJyVFhYX1RfakZjS3I3WFUxSzNURWN5XzZKSjFRLUd4enNIZVhPcG9qTGxtSjNRNElRVnBuZ1VYR0tIbHlsbWNLOGJPdTBxVXQ4aEZidy1hMlQ0M09KNEJPMjNvZ00tb2RMZE1aclpoaFBKSWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 152,
+    "too_old": 113,
+    "gate1_blocked": 3,
+    "gate2_blocked": 2,
+    "passed": 16,
+    "pass_rate": "11.9%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "Report of payments to government agencies 2025",
+      "Glencore, Trafigura said set to invest in Merdeka’s HK listing — Bloomberg - The Edge Malaysia"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為嘉能可相關動態：「Glencore Shares Edge Higher as Copper Holds Near Records ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Glencore Shares Edge Higher as Copper Holds Near Records and Coal Tightness S...（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Glencore, Trafigura Said Set to Invest in Merdeka’s HK Listing - Bloomberg（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

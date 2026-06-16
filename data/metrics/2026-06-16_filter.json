@@ -1,0 +1,13 @@
+{
+  "total_raw": 286,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 3,
+  "gate2_fail": 2,
+  "passed": 16,
+  "gate2_samples": [
+    "Report of payments to government agencies 2025",
+    "Glencore, Trafigura said set to invest in Merdeka’s HK listing — Bloomberg - The Edge Malaysia"
+  ]
+}

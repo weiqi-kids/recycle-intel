@@ -1,0 +1,145 @@
+{
+  "date": "2026-06-16",
+  "date_range": {
+    "start": "2026-06-10",
+    "end": "2026-06-16"
+  },
+  "generated_at": "2026-06-16T12:50:00.010719Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "waste_connections-2026-06-11-011",
+      "date": "2026-06-11",
+      "title": "Global Waste Management Market Expansion Aids WCN Amid Low Liquidity - The Globe and Mail",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 21,
+      "last_week": 15,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.07
+    },
+    "industry_general": {
+      "this_week": 25,
+      "last_week": 24,
+      "week_over_week_change": "+4%",
+      "sentiment_this_week": 0.04
+    },
+    "battery_recycling": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "circular_economy_policy": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.12
+    },
+    "plastic_recycling": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "ewaste": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "glencore": {
+      "event_count": 14,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "waste_connections": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 2
+    },
+    "aurubis": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "republic": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 73,
+        "last": 102,
+        "change_pct": -28.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-10",
+      "event_count": 17,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-11",
+      "event_count": 17,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-12",
+      "event_count": 16,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-13",
+      "event_count": 2,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-14",
+      "event_count": 2,
+      "sentiment_avg": 0.25
+    },
+    {
+      "date": "2026-06-15",
+      "event_count": 16,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-16",
+      "event_count": 3,
+      "sentiment_avg": 0.33
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-10 ~ 2026-06-16）共 73 則事件，重點為「Global Waste Management Market Expansion Aids W...」。WCN情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "WCN",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "嘉能可",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
