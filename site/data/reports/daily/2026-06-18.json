@@ -1,0 +1,212 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T11:48:34.356684Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-06-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore Price Target, Forecasts Revised as Berenberg Notes Copper Output Growth Ambitions - marketscreener.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWklGN0ZBdWY4YWVkTTNuNFpibm5qcTQ5U1FQb05xdUtoU05JVmhFV3Z0T3hMSF9aYXpmZVZYMXE1dEdpemtwc1NPTDZENjlULXhiWlBxNF9ycTV5Q0NmSWFzaHNIWW5Qbi15UU1vRGFoa3ZSdmNQMjVENTM2bXpkYWRLcVRtQ0w2ODZqam9qYm9NYkpPSmQ2cHBVUmxNX0RsaWk4WGFKUlpnS3dPbVlWV19oWkt4OW1PbXJWbVo2dlcyOERZeEkyT1VKMDR1eUhyQ0U1Vk5ReGNTdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-06-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tantalex Lithium Provides Update on Glencore Financing Arrangements and Announces Proposed Strategic Partial Divestiture of Sandstone Worldwide Ltd. - TMX Newsfile",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQQlctemxtaDBTYlR3YUJxUEtxVDNZUTJNQWhZYk44ZnVRWkJlOWtFajh6NlM4MnNGcnhEWDhsbnhmazNwa2hlXy1HcnBUcWRtaFRRSVM4UmdSVVcwTGF5cW5aRWV0T0plZDVjZjBIWTFHbENzWU1maTVVTkdDaXFZN0FHZXFtMGNXTzdCUXRfM000VkUta3V1eEJfYW1lRTJONkNtLXdtT3AzalpMY0pnRDJ3RXZ1bm81SHJPLWJ4Z1Mtc1l6XzJNd2tkZW9Ga3M0WU44UlVYc3FaVDdTdUJ5OUEyUEJmTEl1OGJ1UkM1X09IM2hYMVBWZkxab2U0UU5wRHFZcHRvNGlSek5rcTVmb0pQbnhJaUxhUkNxUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-06-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Berenberg Lifts Glencore Target Ahead Of H1 Results - Finimize",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLWVHamk0UUdCc1UxbXctTmpJNk1tNWpicnlCVXhCMVI2NGNhTGcwOWNqbkYwdEZLSDFxWjFkNnN6ZTd2U1FfYlFRbF9nbVB1c0g1UmtUUEZVX1FEVW55am5YUjM2TjI0dmJ0OVV5YWtvY1FxUkgwQjU4XzloMU5FNVNQaGhQT00?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "abtc-2026-06-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Battery Technology Co (ABAT) Valuation: PE, PB & Fair Value Analysis - TradingKey",
+      "companies": [
+        "abtc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OeVNvMnZZWkZUYVpvVVpwaEpVdVV0YjY3VmJaMzlHMHppbDNPU2laVVdLWU1xT2RtYWhyOGhhOGtDVC1Yb091YWJJb1piOENJS29UUG44TUhWZUhWNmNsQmNMWkJDTDg1TmVDdXJwekdoLUR2RG5rdG1wYw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-18-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Colorado just ruled that carmakers have to take back old EV batteries for free, a first in the US - The Cool Down",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlhCOUZqM0FEUExWbEJvQkY2SjZhLXZvUGt0OWJXcDVwRWxPVXF1dEp5NlFMd01qV2JwR3V6X004dmhqMDBmem9SaWRQVGE2WUVXLUVJc0ZkU01sdmJOS3h5TXlubFgtVThqeWs3SlJ6RHNZeWpZTUFmZHNqNG1IYnlQRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 3
+      },
+      {
+        "id": "abtc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 285,
+    "dup_title": 152,
+    "too_old": 112,
+    "gate1_blocked": 3,
+    "gate2_blocked": 1,
+    "passed": 17,
+    "pass_rate": "12.8%",
+    "gate2_block_rate": "0.8%",
+    "gate2_samples": [
+      "Why Tomra's TOMRA 5C sorter matters in quiet, high-speed packing halls - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為嘉能可、美國電池相關動態：「Glencore Price Target, Forecasts Revised as Berenberg Not...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Glencore Price Target, Forecasts Revised as Berenberg Notes Copper Output Gro...（財報、展望、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tantalex Lithium Provides Update on Glencore Financing Arrangements and Annou...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

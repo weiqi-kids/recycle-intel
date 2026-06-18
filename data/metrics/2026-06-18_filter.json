@@ -1,0 +1,12 @@
+{
+  "total_raw": 285,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 3,
+  "gate2_fail": 1,
+  "passed": 17,
+  "gate2_samples": [
+    "Why Tomra's TOMRA 5C sorter matters in quiet, high-speed packing halls - AD HOC NEWS"
+  ]
+}
