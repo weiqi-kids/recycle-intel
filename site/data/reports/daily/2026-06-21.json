@@ -1,0 +1,148 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T11:13:47.097370Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-06-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Forget Glencore shares: I’ve just bought this magnificent copper stock for my ISA - twelfthmagpie.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcHZJeEN6ZDV6T2JmSTMtVEFEM0x4SWwtQk1PUGVCVVNBTmwwZ1Ricy1UalV5dExfTXdESVByYl9XRkI1V3BoenBQSWdYUk9wTnhVRE9RUzkzZmJleHlHVTBsWksxd1Q5Q0dEbmtEall6LXFEMjZFXzlTWjhyaWwwWlJZTjRTSFg3eVdFdWlRMzdONTBvWkd4cTNrQ2dGc3ZQUkJmNDZYbDg5NWpub0d6d1VJS0FDZTZQejBCeFBR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tomra-2026-06-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tomra Stock - background and Sunday outlook - AD HOC NEWS",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOemZaM2ppdlFybUNSQktLVUY5MWJFS1BaQnFSSlZERTNkcnllMkpGcGpsMGo2SWlGSzVOTV9hNzhmUkhwamwtRWwwT2ZHWWRNR25FYmJFSnFqVTRQMmJPOGVIWHFrbk9TSEVBUHlFRk1hNEd0WWlyUllkNUQyZHNEZ1RNaDNiTUN5YnZONzczanBXd3I5YmhTTzdRekEzSmhHZVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "glencore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 160,
+    "too_old": 115,
+    "gate1_blocked": 3,
+    "gate2_blocked": 1,
+    "passed": 7,
+    "pass_rate": "5.6%",
+    "gate2_block_rate": "0.8%",
+    "gate2_samples": [
+      "What’s next for the US Plastics Pact under new leadership"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為陶朗、嘉能可相關動態：「Forget Glencore shares: I’ve just bought this magnificent...」。主要關注主題為產業通用、展望、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Forget Glencore shares: I’ve just bought this magnificent copper stock for my...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tomra Stock - background and Sunday outlook - AD HOC NEWS（展望、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
