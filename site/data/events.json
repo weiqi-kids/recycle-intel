@@ -1,5 +1,64 @@
 [
   {
+    "id": "glencore-2026-06-22-001",
+    "date": "2026-06-22",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore (LSE: GLEN) Gains Back 38% After Friday Drop, Focus on 572p Level - Bez Kabli",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNMjAtQjc4TlBvUF9SMU1HYUNRT09oaUxXSTdLbEtEbmd6YmF3VWIxZ25GYWZ3OThHYmU2Q2F1SGRCaG1sSHZVTmFZV0g2OENzbjJvUk5wWS1BM2ViN3liMmJtUmNENzhCajE2YTM5OU",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMjAtQjc4TlBvUF9SMU1HYUNRT09oaUxXSTdLbEtEbmd6YmF3VWIxZ25GYWZ3OThHYmU2Q2F1SGRCaG1sSHZVTmFZV0g2OENzbjJvUk5wWS1BM2ViN3liMmJtUmNENzhCajE2YTM5OUJfQzVsTTI3TnQwQV9VN1pSdFY1eGE1Uzl0WUlKOFczV0RKWmwwX2dHTTJDUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-002",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "plastic_recycling",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Japan Waste Plastic Recycling Market Trends, Growth and Competitive Insights 2026-2034 - vocal.media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnpKQ0gxVkZXRG1jcldFc3hNMVJGSkRtVnhtSHc2TmdnZElSU3p4SmZfOWctYVZxcVd6VFFTSmpGMU5DaURsVmFxM1NfeUhpRXpZc0dXZktrNkZKVG9kSDl5MGV1cjdsRWtyZTRma2",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnpKQ0gxVkZXRG1jcldFc3hNMVJGSkRtVnhtSHc2TmdnZElSU3p4SmZfOWctYVZxcVd6VFFTSmpGMU5DaURsVmFxM1NfeUhpRXpZc0dXZktrNkZKVG9kSDl5MGV1cjdsRWtyZTRma2ZkbkVfN25pbHFoTUwyWldCSFZQcElYcDZOZWw0VGxWNVdCUnBRenN2VldiUGZyQVhXNVhCZUJzMTZTd0ZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-003",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EV Battery Recycling Market to Reach USD 19.0 Billion by 2033, CAGR 45.0%, Creating Multi-Billion-Dollar Opportunity for Battery Recycling Companies - The AI Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUTB5c1ZxVTVtRlYwOFdYWDk4RHF0a0M2OFJ6ZW02S2xtSzVCd0lEUm1ycXVoeV9BeUI5ZW5rLUJwbmhfZEdUYmh5d05iU0ZnakNiTTFDVjJDOHFkYTNOU2tzQlFsNTJSUWN3T1E4X0",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUTB5c1ZxVTVtRlYwOFdYWDk4RHF0a0M2OFJ6ZW02S2xtSzVCd0lEUm1ycXVoeV9BeUI5ZW5rLUJwbmhfZEdUYmh5d05iU0ZnakNiTTFDVjJDOHFkYTNOU2tzQlFsNTJSUWN3T1E4X0FrV1BCSkpYazc1V3U4SndFMTdYRXp3YkNQM2o4andKc1IwQnZjV3VGd3ZUZUhOTGVrUFI3TmdfSEN2VWFDdWRZNkxVVUlmV0gwUGtCX21RdjNkZVZlVjNVWS0xY0trQm5TOVBHMDFwVzJHc3Y0UUsyOE9nQlRyejl4dVhEcmhsZVY5YkFtOFN2TEx3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-06-21-001",
     "date": "2026-06-21",
     "companies": [
@@ -259,6 +318,26 @@
       {
         "name": "google_news_recycling",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOENzVHdzYXo4SF9JNVFUZDJHY1ZhSEprTXF1RnMwdXZzSlhvSnh6SFRYVi1nRXQyZ3NZd2xfTXhKemZXV0Z0RWVXb0xCdGFBeXVqREdhTjdqaUNzZF9LS0ZiM3F6MmRfbms1NTV5OU5XWlRkTDBxRFdXOEh3T1V1cURlVjkwUWxtVlVFSHY0NFVMX21leC16c3R5OEU1VmxINEhMRFNFN3FwdlZib1E3UDBVUTI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-06-19-009",
+    "date": "2026-06-19",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Glencore (GLNCY) Remains a Strategic Copper Asset as AI and Electrification Demand Rise - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVMtekhUS3VpTFVvY04wS0RfYnhHRVpodHRqM2x3MEt4YnIwSmhOcldUVGFxLU1wVGNoZlluYi15b0Ztd2I0UFRmZFBIbTRPNmREMDVqbGRCdkd3dkh2bkgtSFZWVHMtU3NXZFNocU",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVMtekhUS3VpTFVvY04wS0RfYnhHRVpodHRqM2x3MEt4YnIwSmhOcldUVGFxLU1wVGNoZlluYi15b0Ztd2I0UFRmZFBIbTRPNmREMDVqbGRCdkd3dkh2bkgtSFZWVHMtU3NXZFNocUc1VUt3dWhOZ29oRUplZmlRWFpJS0owV3NxWFdZVGNoXzZOcTRFZ0pZaDJTMkxXQk9xWldUUGh6T3V3dw?oc=5",
         "type": "rss"
       }
     ]
@@ -910,6 +989,24 @@
     ]
   },
   {
+    "id": "unknown-2026-06-17-018",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Less Landfill, More Recycling 2035: Queensland Waste Strategy - qld.gov.au - Queensland Government",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGRVbzJvRmw2MXg3dHMwa3ZWWW93aVRNcmh2SGN0a0ZtR1pHcVBVUVpuWTVTek4tcXYzZ2hvaFZkUUtMcE81dGhyMHk5bi0xcjNfdjNPRzNLME40b3VPcTNSeWZrZUxVSlFzeXNyMF",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGRVbzJvRmw2MXg3dHMwa3ZWWW93aVRNcmh2SGN0a0ZtR1pHcVBVUVpuWTVTek4tcXYzZ2hvaFZkUUtMcE81dGhyMHk5bi0xcjNfdjNPRzNLME40b3VPcTNSeWZrZUxVSlFzeXNyMFVmdE5HVlg3bXllMFVUYnpiS1ZlUnhOOFE3UUVleENMZG93YmF3YTZQYmU1dm5VWUc3NFN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-06-16-001",
     "date": "2026-06-16",
     "companies": [
@@ -1206,6 +1303,26 @@
       {
         "name": "glencore",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObmg3T3FXa19URUdXTXBfOWlvd3FzeWZJR29qMUpvbk1CMVRESDVuQmpDMDRuOE5pQWVlNlQ4TTN3NU42b0JyM3ItNktVcXhYbkRmM1llZTljOUJfcGN4TE1kbEVCS1phQVctTmRwUGVNclBKOG9HblgzbEZzRUZGeVdmeUl1OE84VzNJUWJ2cTlNOVNrMF8ta0NobzIxeFNtdXk5YVpwRWNJUVJLME8tOFUycFVldTYyeDlxenE2ZXV3aldhNnJUbEVocGRfZG42Y09wbnRiUURPYU40ZUNpQXFvUERVak9zZmJ5UzlOQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-06-16-016",
+    "date": "2026-06-16",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore, Trafigura to invest in Merdeka’s Hong Kong listing - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVm5CTHRLcHpkeHZBdVFaS3F1M3FrdFdtRHhLLV8wdko5V0RaVG9DTnNvYVUxQklPTDVMVktuVGNEUFJyakhtcmxiRHRjS0NncFk0cWl5LVRpYjE4MXAtLURzZ0J1dV9JWDVkY3VDUH",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVm5CTHRLcHpkeHZBdVFaS3F1M3FrdFdtRHhLLV8wdko5V0RaVG9DTnNvYVUxQklPTDVMVktuVGNEUFJyakhtcmxiRHRjS0NncFk0cWl5LVRpYjE4MXAtLURzZ0J1dV9JWDVkY3VDUHl3WGlIc19LTGVaM0g5U0ppM2d0MXNpWDlsNEpz?oc=5",
         "type": "rss"
       }
     ]

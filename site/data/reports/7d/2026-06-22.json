@@ -1,0 +1,146 @@
+{
+  "date": "2026-06-22",
+  "date_range": {
+    "start": "2026-06-16",
+    "end": "2026-06-22"
+  },
+  "generated_at": "2026-06-22T13:32:11.050953Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "glencore-2026-06-16-002",
+      "date": "2026-06-16",
+      "title": "Glencore Shares Edge Higher as Copper Holds Near Records and Coal Tightness Supports Miners - Bez Kabli",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 13,
+      "last_week": 22,
+      "week_over_week_change": "-41%",
+      "sentiment_this_week": 0.07
+    },
+    "industry_general": {
+      "this_week": 22,
+      "last_week": 29,
+      "week_over_week_change": "-24%",
+      "sentiment_this_week": 0.05
+    },
+    "commodity_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "battery_recycling": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.25
+    },
+    "circular_economy_policy": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "plastic_recycling": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "glencore": {
+      "event_count": 13,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "sims": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 3
+    },
+    "waste_mgmt": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "abtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "tomra": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 66,
+        "last": 108,
+        "change_pct": -38.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-16",
+      "event_count": 16,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-06-17",
+      "event_count": 18,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-18",
+      "event_count": 15,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-19",
+      "event_count": 9,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-06-20",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-21",
+      "event_count": 2,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-22",
+      "event_count": 3,
+      "sentiment_avg": 0.17
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-16 ~ 2026-06-22）共 66 則事件，重點為「Glencore Shares Edge Higher as Copper Holds Nea...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "嘉能可",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

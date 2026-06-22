@@ -1,0 +1,177 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T13:32:10.923378Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-06-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore (LSE: GLEN) Gains Back 38% After Friday Drop, Focus on 572p Level - Bez Kabli",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMjAtQjc4TlBvUF9SMU1HYUNRT09oaUxXSTdLbEtEbmd6YmF3VWIxZ25GYWZ3OThHYmU2Q2F1SGRCaG1sSHZVTmFZV0g2OENzbjJvUk5wWS1BM2ViN3liMmJtUmNENzhCajE2YTM5OUJfQzVsTTI3TnQwQV9VN1pSdFY1eGE1Uzl0WUlKOFczV0RKWmwwX2dHTTJDUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Japan Waste Plastic Recycling Market Trends, Growth and Competitive Insights 2026-2034 - vocal.media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "plastic_recycling",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnpKQ0gxVkZXRG1jcldFc3hNMVJGSkRtVnhtSHc2TmdnZElSU3p4SmZfOWctYVZxcVd6VFFTSmpGMU5DaURsVmFxM1NfeUhpRXpZc0dXZktrNkZKVG9kSDl5MGV1cjdsRWtyZTRma2ZkbkVfN25pbHFoTUwyWldCSFZQcElYcDZOZWw0VGxWNVdCUnBRenN2VldiUGZyQVhXNVhCZUJzMTZTd0ZR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EV Battery Recycling Market to Reach USD 19.0 Billion by 2033, CAGR 45.0%, Creating Multi-Billion-Dollar Opportunity for Battery Recycling Companies - The AI Journal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "battery_recycling",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUTB5c1ZxVTVtRlYwOFdYWDk4RHF0a0M2OFJ6ZW02S2xtSzVCd0lEUm1ycXVoeV9BeUI5ZW5rLUJwbmhfZEdUYmh5d05iU0ZnakNiTTFDVjJDOHFkYTNOU2tzQlFsNTJSUWN3T1E4X0FrV1BCSkpYazc1V3U4SndFMTdYRXp3YkNQM2o4andKc1IwQnZjV3VGd3ZUZUhOTGVrUFI3TmdfSEN2VWFDdWRZNkxVVUlmV0gwUGtCX21RdjNkZVZlVjNVWS0xY0trQm5TOVBHMDFwVzJHc3Y0UUsyOE9nQlRyejl4dVhEcmhsZVY5YkFtOFN2TEx3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "plastic_recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "battery_recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "plastic_recycling",
+        "count": 1
+      },
+      {
+        "id": "battery_recycling",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 160,
+    "too_old": 117,
+    "gate1_blocked": 2,
+    "gate2_blocked": 1,
+    "passed": 6,
+    "pass_rate": "4.8%",
+    "gate2_block_rate": "0.8%",
+    "gate2_samples": [
+      "What’s next for the US Plastics Pact under new leadership"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為嘉能可相關動態：「Glencore (LSE: GLEN) Gains Back 38% After Friday Drop, Fo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Glencore (LSE: GLEN) Gains Back 38% After Friday Drop, Focus on 572p Level - ...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Japan Waste Plastic Recycling Market Trends, Growth and Competitive Insights ...（塑膠回收、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
