@@ -1,0 +1,15 @@
+{
+  "total_raw": 287,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 110,
+  "gate1_fail": 1,
+  "gate2_fail": 4,
+  "passed": 11,
+  "gate2_samples": [
+    "Glencore Sudbury INO tops Ontario mine rescue competition - Sudbury Star",
+    "Glencore team win the annual 2026 provincial mine rescue competition - Wawa-news.com",
+    "Veolia Environnement SA Convertible Issue Size EUR 400 Mln, Says Bookrunner - TradingView",
+    "What’s next for the US Plastics Pact under new leadership"
+  ]
+}
