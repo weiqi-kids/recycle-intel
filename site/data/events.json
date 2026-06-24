@@ -102,6 +102,68 @@
     ]
   },
   {
+    "id": "republic-2026-06-23-006",
+    "date": "2026-06-23",
+    "companies": [
+      "republic"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Republic Services to acquire hazardous waste assets from TD*X in Texas",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/nzhgU3uOb6LUlheJx_b9SkQ1T8VVubMJnhvIJAsEnNM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CRUxMRVZJTExFX01JX1NpdGUuanBn.webp\"/>",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/republic-services-cleared-to-acquire-hazardous-waste-disposal-firm/823502/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "republic-2026-06-23-007",
+    "date": "2026-06-23",
+    "companies": [
+      "republic"
+    ],
+    "topics": [
+      "circular_economy_policy"
+    ],
+    "impact": "neutral",
+    "title": "17 Republican AGs suing over California packaging EPR law",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/J2Q8_EiB4l3iVyyJzpakADQsab5YT5cIPi0RsbvHSCo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDkyNjY3ODQyLmpwZw==",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/state-attorneys-general-lawsuit-california-sb54-nebraska-national-association-wholesalers/823523/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_mgmt-2026-06-23-008",
+    "date": "2026-06-23",
+    "companies": [
+      "waste_mgmt"
+    ],
+    "topics": [
+      "circular_economy_policy",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "MRF upgrades in California, Minnesota, Ontario leverage grants and EPR",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/IMSBVnCnAo-o8hLFlRXrY54cXwEA9px3fDusFUkbiLQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XTV9NUkZfUmVzaXplZC5qcGc=.webp\"/></di",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/mrf-upgrades-california-ontario-minnesota-optical-sorters-artificial-intelligence/823486/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-06-22-001",
     "date": "2026-06-22",
     "companies": [
