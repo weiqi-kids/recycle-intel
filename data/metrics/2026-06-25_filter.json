@@ -1,0 +1,12 @@
+{
+  "total_raw": 288,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 122,
+  "gate1_fail": 1,
+  "gate2_fail": 1,
+  "passed": 15,
+  "gate2_samples": [
+    "WM acquires residential assets of PE-backed HBS Trash in Colorado"
+  ]
+}
