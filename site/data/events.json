@@ -20,6 +20,45 @@
     ]
   },
   {
+    "id": "republic-2026-06-25-002",
+    "date": "2026-06-25",
+    "companies": [
+      "republic",
+      "waste_mgmt"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "WM to take over Seattle recyclables processing contract in 2027",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Ah5kwK_pm2rp8kU3l9SYzqinYEYnsSHEAozrpDiswag/g:nowe:0:0/c:1062:600/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XTS1NUkYtRnJvbnRsaW5",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/wm-wins-seattle-recyclables-processing-contract-2027/823763/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-25-003",
+    "date": "2026-06-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rhode Island food waste reduction and recycling network gains momentum",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/AO8c7DPvck4PsbdUe3mbdW3gFXH9M9eJ79XCXSrWHDM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDg2NjY2MjUzUi5qcGVn",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/rhode-island-food-waste-ban-compost-schools/823344/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-24-001",
     "date": "2026-06-24",
     "companies": [],
@@ -151,6 +190,26 @@
       {
         "name": "google_news_battery_recycling",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oVFVTYkJwdjF0WURySFI4TzVuazVwUl9XX3hNRTlwbng5dndsa2xYejYzaDVLZ2JOLV8wWVFUU2NFbDdKdHcyS2hOaEgxU2RXQ29jOXh0LUxIdEZsbGc5RElUWGFuZXVGVEZF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-008",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "circular_economy_policy",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "4 EPR takeaways from the Packaging Recycling Summit",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/-E7lxHuKxvuYKXRryJB90OYxf3l2v2SVrkTMTtkURaI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wcnNfdXNmZmkuanBn.webp\"/></div></figu",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/packaging-recycling-summit-2026-epr-extended-producer-responsibility-packaging/823654/",
         "type": "rss"
       }
     ]
