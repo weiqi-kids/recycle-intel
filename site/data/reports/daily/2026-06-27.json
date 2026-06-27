@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T10:02:06.055078Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "boliden-2026-06-27-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Boliden outlines long-term metals strategy, shares tracked in Nordic mining sector - Ad-hoc-news.de",
+      "companies": [
+        "boliden"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2c3NlJ4NWtQekZ2bjRBRnFJcE5mSzUxa0o3VkZtWURqWThuOFNWelFQUUZ0bEhNdkMweFJEWHJXSGVHdDV4VmJKUWo3SVVYcDM0eUVoYkd4N0xiajk4dDdfRmF4cVBZd1huMi1qSmotaXdlWGFFaHBXQ2pFLXJRekF0NHBLNUd4Q19KVmtzTV9PV3VWU2hONmtWd1VKck9vblhjQ05WdlJVSGxZUDNNNVI1S2NQeTZ0d01PVjVKLWVUbHBq?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tomra-2026-06-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TOMRA Systems ASA Actuals & Estimates (HAM:TMRA) - TradingView",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMjdHcGhHRmZRLU5VSEpmUjhXZG0yLVNySU9pNmRCRjZXTWJILXV4NmVtS0lEX2FpcU41NDhnMDJDYkpBWEt4SzY5SWNVYVFQb0oyaU5jV2doMmphdWpSX295QnFxVFIwVUhyZ1hWbXB2LXNiWDRxNGRXeTU1S18yeV9n?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TMRA Forecast — Price Target — Prediction for 2027 - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IUm9kOXlTbDg1SHBHbWRjTGhlRVRTSEFvaHFRa1lIbk40MVcxd3gtTl80R2dFY1RTUDluMUluemFPMVhhSV9XdDR6M29lUlhpdXpmZ1BvM1hzMGZ3R05DanVSZG8yaFRsRWl4R0dfVGNTSFFqSVE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-06-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore Nikkelverk’s Second Nel Electrolyser Starmer News (R9ntpyQwCI) - Fathom Journal",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkY0hxb1RDc0ctXzBSVFpPNy1EVnVyMFpZN3psSzV4eHRETGdiRC1mOW1ma3dfUGU0U2FVaWJacHdMZjRQcEdIem1MMXAtbVpyY0VDTzl5MTBYLUhqOFItV2F5RUg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "boliden",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 141,
+    "too_old": 113,
+    "gate1_blocked": 1,
+    "gate2_blocked": 4,
+    "passed": 28,
+    "pass_rate": "19.2%",
+    "gate2_block_rate": "2.7%",
+    "gate2_samples": [
+      "TOMRA Systems ASA Actuals & Estimates (OSL:TOM) - TradingView",
+      "Enterprise value to EBITDA forward of TOMRA Systems ASA Sponsored ADR – FWB:TMR0 - TradingView",
+      "Price to sales forward of Veolia Environnement – OTC:VEOEY - TradingView",
+      "Washington eases organics contamination limit in proposed rule"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為陶朗、嘉能可、博利登相關動態：「Boliden outlines long-term metals strategy, shares tracke...」。主要關注主題為產業通用、展望、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Boliden outlines long-term metals strategy, shares tracked in Nordic mining s...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "TOMRA Systems ASA Actuals & Estimates (HAM:TMRA) - TradingView（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

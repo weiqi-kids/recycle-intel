@@ -1,0 +1,15 @@
+{
+  "total_raw": 287,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 1,
+  "gate2_fail": 4,
+  "passed": 28,
+  "gate2_samples": [
+    "TOMRA Systems ASA Actuals & Estimates (OSL:TOM) - TradingView",
+    "Enterprise value to EBITDA forward of TOMRA Systems ASA Sponsored ADR – FWB:TMR0 - TradingView",
+    "Price to sales forward of Veolia Environnement – OTC:VEOEY - TradingView",
+    "Washington eases organics contamination limit in proposed rule"
+  ]
+}
