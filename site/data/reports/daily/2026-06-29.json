@@ -1,0 +1,210 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T12:28:13.628556Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-06-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TOMRA Systems ASA Actuals & Estimates (MUN:TMRA) - TradingView",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUXNFazVMRjhEOUZ1OVR3WFN6X0lnRENKZmc3Y0VIUHVjdlRXTXNSOXdBM2h6MEFIcnNWTFlJaWt6UzExSTd0UUZoamxrcEFUSUE5NzZ1ckxNU1VlUjVEdnkydzU4UzVYeHNHVzcwQ2FmcFFJa3QyZHpTcDJ1Q3A5TUJmWkJDamFoS1JNUW9EV19nOWhYVzM0MjgzVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-06-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore lags other miners as copper tightness doesn’t boost shares - Bez Kabli",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMlJJTml3U01saWFtcDJvUWNTaW8ybmI3V2JmdTNWdkNJZHlaM3NnVXFOb3hTVVl3VGFNWUwwYXFwdDZuaTcwOFlBQWxVZUY3RXhBWHpzdWVBMHpweTlQUWg4aXpLN2hCNHg2UGZfNHpNTzF0VGk2YjAxVkVVY3JYanpFZmdUWkhyamlIaE1nREQ4OEFVUWhz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "abtc-2026-06-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Battery Technology Company(NasdaqCM:ABAT) dropped from Russell Small Cap Comp Value Benchmark - marketscreener.com",
+      "companies": [
+        "abtc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYmhxMmZTcjdsTlI0ZVlrOXJTcGVlczZHZS1jeVJnajl4Vk9HRi00YTB3SG9oYzY3bXdkZ3F2RFhhMFl5ZVhzQ3Q4MXNEODhNZldKQ1RvNFkwNlZXa3BoZlNiWmd6WjAzMGl0YjBKV2RCUjFBTFJGUTJkSTgweEg0OTJ2cTdaMFFuZGNlQkIzWEJ5Q255WWhfLXdwbG8wRDdneTFKZTFrN2gwOEVWZERTelhtMnUzeWpSTVNLbGJuNHhsRGU1ckszMDNvUkdtRHg4ZTlvUS1QWTNlTVIwUlNjTlZfZDQwenM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NWRA Waste Leadership Summit 2026: How AI is shaping company operations - Waste Today -",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHd4aDNlUTVZanF6NURadG5CLTh3VGdWSjlQZXNjUWx2RGJQTTlIQjFqNmNFek9uZG9CdlM0WHpHaVlGQk9QWXAtdFNSRFRMNHEtM2IyWDZORXlNODgwaTUzYXNxa3NuMmloV3pmbHYtSWVKaWlkZXVzLUVhMnZ3c19sbWFaUWJXMGpDX0FUU3M1WU9RallCWEQzVkg2ZnpVSDNCWC1GeUoyTmV4WTA4aw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "abtc-2026-06-29-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Battery Technology Company(NasdaqCM:ABAT) dropped from Russell 3000 Value Benchmark - marketscreener.com",
+      "companies": [
+        "abtc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWFoTEdncmI0UXBsVlVtY2dFZm4tdkxlWU5uYWZJNmdlOElJaFljazNQUE0tWFNSLVMtMm9EMmcxZmo2MUZFcnM1WWpTeXVhWVVTaHJpWnB6TnRUajNJV2xCTnF3TEtRNkhtLUpKZXB4cHM3Nk12MzZ5RGZEYWxvT1RCUFJ6blAtVEdfa1dYYUxPLWFjUW11X0FwSVUtWHR1UUllNnBKQnNLWXRfWllQVTVreGxXdk5QODF5VFo3MWNlYzBSTkV6SEVIRTJOUmdJR2cyMTFfdGVFaG1P?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "abtc",
+        "count": 2
+      },
+      {
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "glencore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 288,
+    "dup_title": 152,
+    "too_old": 113,
+    "gate1_blocked": 0,
+    "gate2_blocked": 4,
+    "passed": 19,
+    "pass_rate": "14.0%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "TOMRA Systems ASA Actuals & Estimates (LSX:A3DHA0) - TradingView",
+      "Price to sales forward of TOMRA Systems ASA Sponsored ADR – SWB:TMR0 - TradingView",
+      "Price to sales forward of Veolia Environnement SA – EURONEXT:VIE - TradingView",
+      "Washington eases organics contamination limit in proposed rule"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為美國電池、陶朗、嘉能可相關動態：「TOMRA Systems ASA Actuals & Estimates (MUN:TMRA) - Tradin...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "TOMRA Systems ASA Actuals & Estimates (MUN:TMRA) - TradingView（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Glencore lags other miners as copper tightness doesn’t boost shares - Bez Kabli（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
