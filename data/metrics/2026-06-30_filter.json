@@ -1,0 +1,16 @@
+{
+  "total_raw": 288,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 0,
+  "gate2_fail": 7,
+  "passed": 12,
+  "gate2_samples": [
+    "TOMRA Systems ASA Actuals & Estimates (LSX:A3DHA0) - TradingView",
+    "TOMRA Systems ASA Actuals & Estimates (HAN:TMRA) - TradingView",
+    "TOMRA Systems ASA Actuals & Estimates (OTC:TMRAF) - TradingView",
+    "Price to sales forward of TOMRA Systems ASA Sponsored ADR – SWB:TMR0 - TradingView",
+    "Morgan Stanley Maintains VEOLIA ENVIRONNEMENT(VEOEF.US) With Buy Rating, Raises Target Price to $44."
+  ]
+}

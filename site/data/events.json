@@ -1,5 +1,67 @@
 [
   {
+    "id": "waste_connections-2026-06-30-001",
+    "date": "2026-06-30",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ETFs Investing in Waste Connections, Inc. Stocks - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ia3NBZGRvTzFtNFF0d05UUGhWcHB0LUI2dUptSXhjcUFMVy1rcGFERG0xV3Bud09tckkxdDNNc0hRZlhnemJxRVFNcG5EblNub0NlTGw5bjZTUWtidVNV?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ia3NBZGRvTzFtNFF0d05UUGhWcHB0LUI2dUptSXhjcUFMVy1rcGFERG0xV3Bud09tckkxdDNNc0hRZlhnemJxRVFNcG5EblNub0NlTGw5bjZTUWtidVNV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-06-30-002",
+    "date": "2026-06-30",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Barclays Sees Veolia’s Q2 As A Guidance Check-In - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNSlVnLXR2NmNraWF2UW5HaE1BUklnZjVTSFBKTk9hRmpyX0VyMnp3OXYyOGZDRFo3aGFPendiNklLOEV2ODdHV0dIbm1sVkszQVl2U1FaTkVvTXlEbk1ockMtbnpUVzRydUZPTEZVSn",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSlVnLXR2NmNraWF2UW5HaE1BUklnZjVTSFBKTk9hRmpyX0VyMnp3OXYyOGZDRFo3aGFPendiNklLOEV2ODdHV0dIbm1sVkszQVl2U1FaTkVvTXlEbk1ockMtbnpUVzRydUZPTEZVSnBScU5UMUdQX0h0N1A4d282SWdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-06-30-003",
+    "date": "2026-06-30",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims announces executive leadership changes - Mining.com.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE91YlFzNWVvam9za2l1VkNWWEdVaDVRVGlaTV9GaWNwUVYwdlJONVJ6b3l0MHl2UEpQRkQyRUM3X0RhM0ZCOC05THBORVJBNHJzMzlOZjY3dk1KTEoxaU5jbFQzblRybWlqOXdPeUoxeW",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91YlFzNWVvam9za2l1VkNWWEdVaDVRVGlaTV9GaWNwUVYwdlJONVJ6b3l0MHl2UEpQRkQyRUM3X0RhM0ZCOC05THBORVJBNHJzMzlOZjY3dk1KTEoxaU5jbFQzblRybWlqOXdPeUoxeW5PbXZG?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-06-29-001",
     "date": "2026-06-29",
     "companies": [
@@ -114,6 +176,146 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/spons/why-landfills-need-treatment-strategies-built-for-long-term-environmental-p/823911/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-06-29-007",
+    "date": "2026-06-29",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MEDIA ADVISORY: Waste Connections of Canada to Celebrate - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxNcmhqTUtBYWtzOHdUVm40TlhmTnZ5LWJOcHdXaFdBWmE1NEZVMEtwZmpDeUY4bzVWSnNudUQwY1lCVGRrRUVFSHVQbmd6MDY0NVdoaEN5NTVVNlpYQjhmNzNwTmxFQVdrQUxQZTNLSU",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNcmhqTUtBYWtzOHdUVm40TlhmTnZ5LWJOcHdXaFdBWmE1NEZVMEtwZmpDeUY4bzVWSnNudUQwY1lCVGRrRUVFSHVQbmd6MDY0NVdoaEN5NTVVNlpYQjhmNzNwTmxFQVdrQUxQZTNLSU1yR1JqUzE1T0VqQThTb1p1WFptOUU0aFZZMk5pUFI2YnB4WnBwTW1neWlXRXJPb3EwZnkwSWkzbXFyM1JRVHJtMkVCT291clpCbFhZUUNYS2ZNWVdoblgyTkdnMWdNS0lZYWV4WmhLdS1BWGtyV3ludXlyMzJ3LWRXZUxwNFA2MThxRnlJN25BOWw2RDZ2bHNqSVNmTl9LNTNVaTFLQ0xhVWd2aw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-06-29-008",
+    "date": "2026-06-29",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology Company(NasdaqCM:ABAT) dropped from Russell Microcap Value Benchmark Index - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQncwRE5FQlhSbExiWFNRSTZWQlZvM3IxaW1nQldXemViZTQ2eDkxWFk3MnkwNFNYbzlvQjlzTmFDbGF4MEdzY2dmZ2N2YUp0c2t0UXdONjVYcnY4RXZuTzRaMEhVVEZpY01lejFHVW",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQncwRE5FQlhSbExiWFNRSTZWQlZvM3IxaW1nQldXemViZTQ2eDkxWFk3MnkwNFNYbzlvQjlzTmFDbGF4MEdzY2dmZ2N2YUp0c2t0UXdONjVYcnY4RXZuTzRaMEhVVEZpY01lejFHVWNlWFphV0hfbEc1QnVFbVNmV25EcHRteVJleDFzUnZKVHBNR2lpWkJ5XzhpVnUxaEJ5NEJFajZjXzFQWmhRV1pORnY4bGxNZ3pRTXF0QlFEVEd0R3VyOUVYREFaTXJCaXZUcGV5MkRMX2g3ODZNbDlEVnhOSmNQaXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "republic-2026-06-29-009",
+    "date": "2026-06-29",
+    "companies": [
+      "republic"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Waste companies weigh costs — and benefits — of PFAS Superfund rule",
+    "summary": "<p>As technology spreads, the waste industry is beginning to identify the cost of treating landfill leachate for PFAS. Republic Services and Clean Harbors are already driving revenue from treatment, w",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/pfas-contaminated-landfill-leachate-treatment-costs-technology-estimates/823977/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-010",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "circular_economy_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "More California MRFs are sorting cartons, easing recent recycling concerns",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/TWCAXVMm252U8S4FzFZMUiVPXVdIwnpHQY29zoHEZXk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DYWxpZm9ybmlhX01SRl9DYXJ0b25zLmpwZw==",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/more-california-mrfs-are-sorting-cartons-calrecycle-says/823976/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-011",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Transforming Solid Wastes from Cost to a profitable ventures in a circular-Economy strategy with Waste Resources Management Authority - Modern Ghana",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNemZHNVFjWE9HUUowNHp6LTRheFhoSVROZmxwekRkMVpOWEV2TFdyQVlJeHNONWVxRy1Ob2ZNVnVXSU5pSlM2ZmVvb25DX1diSFVTS3FTblA3aWpCNTAtQW1HcjBUREp0a0VUbjlRZ3",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNemZHNVFjWE9HUUowNHp6LTRheFhoSVROZmxwekRkMVpOWEV2TFdyQVlJeHNONWVxRy1Ob2ZNVnVXSU5pSlM2ZmVvb25DX1diSFVTS3FTblA3aWpCNTAtQW1HcjBUREp0a0VUbjlRZ3JqelF6cUZITnpoRzgxM2VvV1JpQUZZZW1vMFhoV29RbTgweVR2VjdiUFYzeHPSAZsBQVVfeXFMTWhXcjZ1ZURMYnRIMnJlWkc4ZS1aOXJMc0lVbHVpS2xJWE5PdDdveHRTU3JILThhdWlabzJYV0FZZk1UZDFtMUxFckd5ZVBBYzR6RlVwQ0N2UWxETHBmWGtiLUI2VHkzWGpwNmhBenVHcFpNc0hoTVBISXo3RXZacVQ3QlVlS19MaUZFMEFUNmJrbmxmZGY0cU9HcFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-012",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EV battery recycling market to reach $19.0 billion by 2033 - American Recycler",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOeC1MUzF4RTFiejlUc2w4VjF2WVpac3Q3SUpodHlHOXBITll1OWR2Zi1Bak4wenlZVEJaMC1weGpiSzF5UFEtRDM3MmRoTVE5SkxtVGdWSS1Mb3dGbnFWUU05NnNVNlU5OE4tUGFsRF",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeC1MUzF4RTFiejlUc2w4VjF2WVpac3Q3SUpodHlHOXBITll1OWR2Zi1Bak4wenlZVEJaMC1weGpiSzF5UFEtRDM3MmRoTVE5SkxtVGdWSS1Mb3dGbnFWUU05NnNVNlU5OE4tUGFsRFRCRjYzOHQ4N1pyclhBT05DSlZ3SUZGM2NnSm5lcE95N2Q0Y3E2czNkeFhRTGpDNW9WYnFEa0xlaTFIbXZKel9IMWU1NNIBswFBVV95cUxOeC1MUzF4RTFiejlUc2w4VjF2WVpac3Q3SUpodHlHOXBITll1OWR2Zi1Bak4wenlZVEJaMC1weGpiSzF5UFEtRDM3MmRoTVE5SkxtVGdWSS1Mb3dGbnFWUU05NnNVNlU5OE4tUGFsRFRCRjYzOHQ4N1pyclhBT05DSlZ3SUZGM2NnSm5lcE95N2Q0Y3E2czNkeFhRTGpDNW9WYnFEa0xlaTFIbXZKel9IMWU1NA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-013",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maruti Suzuki puts battery recycling with MiniMines in EV cost mix, AI stays in play - TechStock²",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQZnh4d2JvRXdGcnFGdnRSQUNZM1g1dnQ3Y2Z0LVBZYnl1Wjh4Wkw0bC1aM3pfUnpEU3dDaUJiMUkxTWdsdkFNOFpnTERiOTVGdFZ1c0VvVE1obGxlTENtNlBmdkJkV1diQlpmMzV2Ym",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZnh4d2JvRXdGcnFGdnRSQUNZM1g1dnQ3Y2Z0LVBZYnl1Wjh4Wkw0bC1aM3pfUnpEU3dDaUJiMUkxTWdsdkFNOFpnTERiOTVGdFZ1c0VvVE1obGxlTENtNlBmdkJkV1diQlpmMzV2YmtOMjZrTVZBRFNhR0Q2bUZzNFJLeFM1NzRfUUVzQ1Q3a3lObTFDWDJyMFRvbWVsam1zUFR0SWpCNA?oc=5",
         "type": "rss"
       }
     ]
@@ -367,6 +569,26 @@
     ]
   },
   {
+    "id": "veolia-2026-06-28-013",
+    "date": "2026-06-28",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to EBITDA forward of Veolia Environnement SA – EURONEXT:VIE - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVRCWEhTS0ZZcWh1el9YTXQ3cVR3N2oyeUkzeDhrMF9rdFk1aG93Yzk1cmYzSksyd3duc19XM3prUzJ5OHREcUZDdm1GaUVTUHZKRzRrem9DM0tMTEtNSThXVTB2UHMtSnh3VU8tYm",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVRCWEhTS0ZZcWh1el9YTXQ3cVR3N2oyeUkzeDhrMF9rdFk1aG93Yzk1cmYzSksyd3duc19XM3prUzJ5OHREcUZDdm1GaUVTUHZKRzRrem9DM0tMTEtNSThXVTB2UHMtSnh3VU8tYmQ5RVdaMTc5QllSOEZ4ZDFVUnhKcjU1WFVBbl9SUGdvbEZSMmxpVzlCUVJsTTFSdzhaUU8zTzA2WGpyc1p2bU5n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-06-27-001",
     "date": "2026-06-27",
     "companies": [
@@ -607,6 +829,27 @@
       {
         "name": "boliden",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2c3NlJ4NWtQekZ2bjRBRnFJcE5mSzUxa0o3VkZtWURqWThuOFNWelFQUUZ0bEhNdkMweFJEWHJXSGVHdDV4VmJKUWo3SVVYcDM0eUVoYkd4N0xiajk4dDdfRmF4cVBZd1huMi1qSmotaXdlWGFFaHBXQ2pFLXJRekF0NHBLNUd4Q19KVmtzTV9PV3VWU2hONmtWd1VKck9vblhjQ05WdlJVSGxZUDNNNVI1S2NQeTZ0d01PVjVKLWVUbHBq?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_mgmt-2026-06-27-013",
+    "date": "2026-06-27",
+    "companies": [
+      "waste_mgmt"
+    ],
+    "topics": [
+      "circular_economy_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Europe Industrial Waste Management Market Set to Reach US$ 70.84 Billion by 2033 as Circular Economy Initiatives Gain Momentum - vocal.media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ0JLYS13amZqRF9iWWp3OTdPeDJRZjh4RUUzVlEzNUJGYkx6VVZIX2RhS0dUUkoyYmpIUWVaVUJQd19CSjgyLU1zNnU4NEowcWRjdC1YaEp2Tjl6cE85VzhIMnB5RHV5enJLOG5Ea3",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ0JLYS13amZqRF9iWWp3OTdPeDJRZjh4RUUzVlEzNUJGYkx6VVZIX2RhS0dUUkoyYmpIUWVaVUJQd19CSjgyLU1zNnU4NEowcWRjdC1YaEp2Tjl6cE85VzhIMnB5RHV5enJLOG5Ea3RJTndna0tlZlNmVFB1YmNRS1N0X0FfTFhxUVZDNzl3Zm50VFgyd25PMVpfVExjcUlDMUl4N0NNamp0Ni1mVDR1QTktVE9lWDVfZWJDbm1GT2RMOGMtcGw2TE54dVZyNWN0YUJ4WjJGVXRCbjhNeHQzVV9MY3kxRzg?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,178 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T10:54:07.857935Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-06-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Barclays Sees Veolia’s Q2 As A Guidance Check-In - Finimize",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSlVnLXR2NmNraWF2UW5HaE1BUklnZjVTSFBKTk9hRmpyX0VyMnp3OXYyOGZDRFo3aGFPendiNklLOEV2ODdHV0dIbm1sVkszQVl2U1FaTkVvTXlEbk1ockMtbnpUVzRydUZPTEZVSnBScU5UMUdQX0h0N1A4d282SWdR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "waste_connections-2026-06-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ETFs Investing in Waste Connections, Inc. Stocks - TradingView",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ia3NBZGRvTzFtNFF0d05UUGhWcHB0LUI2dUptSXhjcUFMVy1rcGFERG0xV3Bud09tckkxdDNNc0hRZlhnemJxRVFNcG5EblNub0NlTGw5bjZTUWtidVNV?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sims-2026-06-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sims announces executive leadership changes - Mining.com.au",
+      "companies": [
+        "sims"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91YlFzNWVvam9za2l1VkNWWEdVaDVRVGlaTV9GaWNwUVYwdlJONVJ6b3l0MHl2UEpQRkQyRUM3X0RhM0ZCOC05THBORVJBNHJzMzlOZjY3dk1KTEoxaU5jbFQzblRybWlqOXdPeUoxeW5PbXZG?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "sims",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 288,
+    "dup_title": 158,
+    "too_old": 111,
+    "gate1_blocked": 0,
+    "gate2_blocked": 7,
+    "passed": 12,
+    "pass_rate": "9.2%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "TOMRA Systems ASA Actuals & Estimates (LSX:A3DHA0) - TradingView",
+      "TOMRA Systems ASA Actuals & Estimates (HAN:TMRA) - TradingView",
+      "TOMRA Systems ASA Actuals & Estimates (OTC:TMRAF) - TradingView",
+      "Price to sales forward of TOMRA Systems ASA Sponsored ADR – SWB:TMR0 - TradingView",
+      "Morgan Stanley Maintains VEOLIA ENVIRONNEMENT(VEOEF.US) With Buy Rating, Raises Target Price to $44."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為WCN、威立雅、西姆斯相關動態：「Barclays Sees Veolia’s Q2 As A Guidance Check-In - Finimize」。主要關注主題為產業通用、財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Barclays Sees Veolia’s Q2 As A Guidance Check-In - Finimize（財報、展望、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "ETFs Investing in Waste Connections, Inc. Stocks - TradingView（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
