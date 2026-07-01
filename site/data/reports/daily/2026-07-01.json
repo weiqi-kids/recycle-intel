@@ -1,0 +1,238 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T11:21:07.481829Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "$160m government lifeline for plant owned by Matt Canavan’s brother - AFR",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkFyRlI3Q3lXSWlESVF0aFVfdTlEYlozVFRwRW5Ld0cyTW1SZ2hSTjFNMEZwSkdRaXVfMDc2dmUzRFBMSXJiU3RwWGE3Q1F0T1JOdkxKRHB1M0ZwVC05SUdYejdrX2trWndQblYydFdLQndHZ2JKUVBnQ1FmVlNSUUVvNUs3RFlySFZEZkhtaGtRTWNsdzQ4UUp2am50cjRVd29YdVM5Q3o2bjZOQkwxbXpjbXRIdEFxN0tF?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "waste_connections-2026-07-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Connections of Canada Opens $100M Renewable Natural Gas Facility at Ontario's Ridge Landfill - iGrow News",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KQmhSQnc5THQ2aENXSndSM3Z0T0VlSE1IY25UV2d0Qk4tc1FYbk5ZY3diR0FZRVlBSDBtUW5RNXRRcW1wS2h1ODBXUVYwQVA5V0tkcnF1UWliTzF4aE5NRTBR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "waste_connections-2026-07-01-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NYSE Composite: Waste Connections (NYSE:WCN) Expands Renewable Gas Network - Kalkine Media",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXpjRGFUQ3draDdHLUxMNDE0SFJGMmJ4Rkg3V29BLTQtODI2UVdyQWxVUWVEMTc4VHQ2M0d3eU83SGU1R3VNbnFsYTNjMnFQYy1rMlIwbGdaTXdoSTJSUkt5cEQzQU4yTXFSS2FQMXFUbWRnbzJyMnpyaWZ6Nkk3clVZbmZEdHlUcXJDUGFtM2hidi1lOU1NME1TSVM0SjF5TWJ2b250cVluTWZLTkpnLVQwbzZXTE0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "veolia-2026-07-01-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia MBR Pack from Veolia Environnement - modular wastewater upgrade for US plants - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeEV5VDBjWjR4Q3YtLUVtUEduc2JoQWgwa2ZxQkZSVjFjeVlpOWItUUcxR3lzdTlXelEwcWs4c3Y5azhSRktUY1pSb3I2Q0F2djEwWWxxbEN6R0s0b3JhVmxHeVd6TW5XT0c0VFlISm9kU3ZNUHU0RmJiVDZZdktxem1JZHNybDN1andPal9IVVBETk9LWmpiTDdZdVU0MGRXQ0JhYlhuWXg5bEZqSEY0a2ZObk5FY3F1UEJkMTNDTzhBZEc4UW53bzlEZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "veolia-2026-07-01-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Hubgrade Performance from Veolia Environnement - Smart control rooms cut energy use for US cl - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSEU1OTU5NGxZZExZR05BUnJqYkt2Qmg2Q2JNR0Y3akRDeXAyWWtBcXdRVGliaDJoX2dxRF9DRFFKaFlGZXRYZzRCby04VTIxNjlvdWdwMVcxcUpGc015UmVYcHc5TzFSNDU4SzBHZ2RvS0REVW9aZm50S1lISTFQeHh1VHRabURUaVpYY1lKMmp4R3FvdjNpbG1pM1pmSm5BOEh0RzRKZ2V3Yi03bW9hNl96OURpYV9fRERHaDVXWVFvYUFQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "circular_economy_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 3
+      },
+      {
+        "id": "veolia",
+        "count": 2
+      },
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "aurubis",
+        "count": 1
+      },
+      {
+        "id": "waste_mgmt",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "circular_economy_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 288,
+    "dup_title": 151,
+    "too_old": 109,
+    "gate1_blocked": 0,
+    "gate2_blocked": 5,
+    "passed": 23,
+    "pass_rate": "16.8%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "TOMRA Systems ASA Actuals & Estimates (LSX:A3DHA0) - TradingView",
+      "TOMRA Systems ASA Actuals & Estimates (HAN:TMRA) - TradingView",
+      "TOMRA Systems ASA Actuals & Estimates (OTC:TMRAF) - TradingView",
+      "Price to book forward of Veolia Environnement SA – EURONEXT:VIE - TradingView",
+      "Washington eases organics contamination limit in proposed rule"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為WCN、威立雅、嘉能可相關動態：「$160m government lifeline for plant owned by Matt Canavan...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "$160m government lifeline for plant owned by Matt Canavan’s brother - AFR（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Waste Connections of Canada Opens $100M Renewable Natural Gas Facility at Ont...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
