@@ -1,0 +1,228 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:33:53.025186Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "boliden-2026-07-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Invitation presentation of Boliden's Q2 2026 report",
+      "companies": [
+        "boliden"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-02-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Embattled Northern Star lands new CEO with $5.6m takeover parachute - AFR",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUEVmQnFYVWhDeTBpTjl6ckxXMHZxSmN1T2hiaFE5Tms4MWQ5algxOGMySk9uakVWQTIwOVFhVzZJUTVycE91UGxVaHZFc09VRTlxWjNuMjJUSDRKM3FJUXJ6Wmh2UkRtZ2dtLUNXNEVjX19BdnU5aXQyOFk4YXlRbk0wTDlXdVJUYzVIZlQ2ZjZBa2NHOVpSVGVHU0E3TFdWV2lWWDdZdFE1VkR5cGVQQg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-07-02-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Australia's top gold miner Northern Star names Glencore executive Suresh Vadnagra as CEO - Firstpost",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVB1ejhLa2xsa2tlSGNIQUNkNXBzVTBFODU1RXlCbmlvdUxXT25FdlRDNnV5NjVnRG5YUnlOTnl1aHlqVUd0Xy1HVFBHUGxIalNrSk8zbkhYUWJ0Zmx6MjVrSm8ydm1IWFBjbU1kQUFDZDdOQ05RMEh0RkpXbXlLN0taanlnSGgzaFVOMWQ4T242VHplLVduY1AyZUt1ZU90MTFfNzVTa2xlcmVBbFZhU2ktbnpYUkNlWmh1Z1lyVUhJMEFBSDhqaGVIWUN2YmFwNXfSAdcBQVVfeXFMTlFLVXBfQl9IaWFfa0Yza3ZnLWVXZzVGZmxjR0ozVzFiNE9Vbk5kSW5RbW11TWxHYXRmX3lLUE9HMFc5eDM1N1daWlRpRGxWT3g0X0lLVENCYXdYVWdRVS1URDBENzNTenRBd2N4QVRKVUJTNUVCTmZkek1VVlc5UDR0ZlR5RGJkT2pkeTk0RFpNTWJkU0xHM3pKSWFqODNGYXo2WkZxdFA5Nk9HdXpmLXlLY3JKZnIyTGdacWhFdno4V3dETnlZN0VyZU9xQU1RSUNnYThpY1k?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-07-02-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Northern Star names Glencore’s Suresh Vadnagra next CEO - MSN",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWlpFelREYTAxcDlzUmYwT3dVckN2VTZwaGVLNkVnbUhfaEFvYTh2ZDVkaTNqNnA0SW5NX29ROUtaejBKSTVLdlRrYUlkNWdndkJncWwzMHJraGkzcGxmLWJsMDNZRFlVaEhpU2VvVW9aQkx6Z3dwNE51eXUwMHF6M1YtSVdhVU56dWJ1NVZnRmN5Z3dLZ1h0ampSWFBRRlJMYnMtU1MxZUJzLS14c0pVWkg2empWa1RqWnExSXNaSkhzY2JVdm96clR1cjQ2TXZz?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "waste_connections-2026-07-02-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Beauregard Parish opens trash contract to new bids after decade with Waste Connections - KPLC 7 News",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTR5T2VyQ2NzWXp1aWJVRE5TUTJUeDZLZ1NMcWxaWXdIOWhwNW1OYjAtNDdFYlZuX1NLOEpFcWRzM3BWS1FvVl9yUmdBMlZvTE14eVN5OWN1RDJMa0JaaTVGalBIV3Z3cWtuR1N2WGp2QmhKa2hkRnVKQUZZNmNfMVdYZF90c0gyR2VCZkc4NWJPMFRjMG1DQVJfQ0gxVVdtUnpNaVB1SzFSTXBsZXlydmhzZXZCRV9MU3lMMNIB0AFBVV95cUxNY0dsZHZFMWtmQWExcllOcDNGS20td1FDZk1DTk43RzJNWWpyZUNmaEJ4UnJod1JEUDdKQXZ4LUdOMlprNXlIbEtCeU4tQXNkSHVzZFJxcjNfM25NWWhreEtTV1k1M0dDdEUwRkNiM1gzc3NnNlAyTnlOYVJHaXNUby1rWDMzNkRxNk1CZUZSc1FETUxUYktaZlVFcDdCNjVBUEpuTXJTTHFmaTJMQVhaaXRzSkRkVHcyVFNZejljeThnWjdnSEMtRmJONUh4ay03?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_credit": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 5
+      },
+      {
+        "id": "waste_connections",
+        "count": 2
+      },
+      {
+        "id": "boliden",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "carbon_credit",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 288,
+    "dup_title": 158,
+    "too_old": 105,
+    "gate1_blocked": 0,
+    "gate2_blocked": 5,
+    "passed": 20,
+    "pass_rate": "15.4%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "TOMRA Systems ASA Actuals & Estimates (LSX:A3DHA0) - TradingView",
+      "TOMRA Systems ASA Actuals & Estimates (HAN:TMRA) - TradingView",
+      "TOMRA Systems ASA Actuals & Estimates (OTC:TMRAF) - TradingView",
+      "Price to book forward of Veolia Environnement SA – EURONEXT:VIE - TradingView",
+      "Washington eases organics contamination limit in proposed rule"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為嘉能可、WCN、博利登相關動態：「Invitation presentation of Boliden's Q2 2026 report」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Invitation presentation of Boliden's Q2 2026 report（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Embattled Northern Star lands new CEO with $5.6m takeover parachute - AFR（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
