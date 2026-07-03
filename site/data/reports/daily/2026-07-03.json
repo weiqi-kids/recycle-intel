@@ -1,0 +1,112 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T10:31:30.467041Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-07-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore completes majority stake acquisition of FincoEnergies - engine.online",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUHozdDhlUlpxWUhoVDRoaUlYMTBRcXRrRl9Kd2dzSUI4ekdJTEFEaDNJU240Y0sxM0M2TmN2dTBXWW0wRjZ1WTBaSFhIWmVYVTI5b2RERXJWUmMxWnBJci0yRlVJS1B5My1MWFp5eVB1MnhJV21RcFN5THZCNzExbktDY19lOVFOeVFoalJOcDFYNzA2dEVMZjRlQk5rLU0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-07-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore backs FincoEnergies’ biofuel growth with majority stake acquisition - Manifold Times",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzVyZXBhYWxnY1hOWG5CM1k5dklIMzZWdTFqMWk3bUxWNENiQktNdFFYQUxYdzEtd2J6MHVHMkgyWnFHX2hSRnNlczBWVVdXZnZEM09qT0JzdnNwZWxUU0Rza1Rlbm9IYVU0aDhIb1p1V2kxclJ1VTg4TzYtRXlrc2NrbWdRc0dfZVp2RlBxbGRDQ0FzWlhPZXpUMHo3V0NrYmFGY2t4UmIxbmlBOWhzRw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 288,
+    "dup_title": 151,
+    "too_old": 109,
+    "gate1_blocked": 1,
+    "gate2_blocked": 3,
+    "passed": 24,
+    "pass_rate": "17.5%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "TOMRA Systems ASA Actuals & Estimates (LSX:A3DHA0) - TradingView",
+      "Umicore business overview and strategic position in global materials markets - Ad-hoc-news.de",
+      "Price to book forward of Veolia Environnement SA – EURONEXT:VIE - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為嘉能可相關動態：「Glencore completes majority stake acquisition of FincoEne...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Glencore completes majority stake acquisition of FincoEnergies - engine.online（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Glencore backs FincoEnergies’ biofuel growth with majority stake acquisition ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
