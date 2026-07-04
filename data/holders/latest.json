@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T10:31:29.779134+00:00",
+  "updated_at": "2026-07-04T10:04:44.323715+00:00",
   "companies": {
     "tomra": {
       "name": "TOMRA Systems",
@@ -10,7 +10,7 @@
           "holder": "Boston Common Asset Management, LLC",
           "shares": 392905,
           "pct_held": 0.13,
-          "value": 38779722
+          "value": 38897595
         }
       ]
     },
@@ -23,25 +23,25 @@
           "holder": "Gamma Investing LLC",
           "shares": 1105,
           "pct_held": 0.0,
-          "value": 567196
+          "value": 567527
         },
         {
           "holder": "Ascentis Independent Advisors",
           "shares": 100,
           "pct_held": 0.0,
-          "value": 51329
+          "value": 51359
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 74026,
           "pct_held": 0.0,
-          "value": 37997544
+          "value": 38019751
         },
         {
           "holder": "Cape Cod Five Cents Savings Bank",
           "shares": 37000,
           "pct_held": 0.0,
-          "value": 18992099
+          "value": 19003199
         }
       ]
     },
@@ -255,7 +255,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 1222,
           "pct_held": 0.0,
-          "value": 25588
+          "value": 26101
         }
       ]
     },
@@ -268,13 +268,13 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 442036,
           "pct_held": 0.06,
-          "value": 16421638
+          "value": 16580769
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 39736,
           "pct_held": 0.01,
-          "value": 1476192
+          "value": 1490497
         }
       ]
     },
@@ -287,61 +287,61 @@
           "holder": "GLOBAL X FUNDS-Global X Copper Miners ETF",
           "shares": 1048179,
           "pct_held": 2.33,
-          "value": 184584328
+          "value": 189196309
         },
         {
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 475474,
           "pct_held": 1.06,
-          "value": 83730974
+          "value": 85823057
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-DFA Intl Small Cap Value PORT.",
           "shares": 388748,
           "pct_held": 0.86,
-          "value": 68458525
+          "value": 70169014
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 314922,
           "pct_held": 0.7,
-          "value": 55457766
+          "value": 56843421
         },
         {
           "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
           "shares": 180039,
           "pct_held": 0.4,
-          "value": 31704868
+          "value": 32497039
         },
         {
           "holder": "American Century ETF Trust-Avantis International Small Cap Value ETF",
           "shares": 181351,
           "pct_held": 0.4,
-          "value": 31935912
+          "value": 32733855
         },
         {
           "holder": "DFA INVESTMENT TRUST CO-The Continental Small Company Series",
           "shares": 158734,
           "pct_held": 0.35,
-          "value": 27953058
+          "value": 28651487
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Core Eqy. 2 PORT.",
           "shares": 152294,
           "pct_held": 0.34,
-          "value": 26818974
+          "value": 27489067
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 121017,
           "pct_held": 0.27,
-          "value": 21311094
+          "value": 21843568
         },
         {
           "holder": "Dimensional ETF Trust-Dimensional International Small Cap Value ETF",
           "shares": 114674,
           "pct_held": 0.26,
-          "value": 20194092
+          "value": 20698657
         }
       ]
     },
@@ -354,7 +354,7 @@
           "holder": "Atlas Capital Advisors Inc",
           "shares": 1473,
           "pct_held": 0.0,
-          "value": 772735
+          "value": 777154
         }
       ]
     },

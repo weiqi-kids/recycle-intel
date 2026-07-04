@@ -1,0 +1,15 @@
+{
+  "total_raw": 288,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 1,
+  "gate2_fail": 4,
+  "passed": 14,
+  "gate2_samples": [
+    "TOMRA Systems ASA Actuals & Estimates (LSX:A3DHA0) - TradingView",
+    "Industrial property in Miami-Dade sold for $51M - The Business Journals",
+    "Umicore business overview and strategic position in global materials markets - Ad-hoc-news.de",
+    "Price to book forward of Veolia Environnement SA – EURONEXT:VIE - TradingView"
+  ]
+}
