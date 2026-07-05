@@ -1,0 +1,216 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T10:07:22.603529Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-07-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "If You Invested $1,000 in Veolia Environnement (VEOEY) - Stock Titan",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45Q1o5ZE1NTVdFQXRUb2JyWmQtS3JtbHQxeUdWMVM0UDFzeVhVNExjdXZiemE5TWd6emZrc2lJYkRUR3g5bmtmang4T19oSVQ0YWlPZ1htNlVqS2NxcW5ka3ktQ0VDbHM1b3B0YjZqaw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "boliden-2026-07-05-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Boliden AB focuses on metals production amid shifting global demand - AD HOC NEWS",
+      "companies": [
+        "boliden"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTWpEaldfbGhraXZ3ZWZVYVZFUWFZRllxWFRPNUpFcS15QTRtVlVERl8yaTEtQ2cxMm4wMEd0YWlDSks4aDFnMEc5d3VuUTBxeVFkNVFxMzNRREFnSjE2ZTU1Nk1sWWZiWDNkS0ZadUk4U25Sb1MxMmpaX0VOaUJwVm5nN05BdTJEQWxSSzZTU0RvcDl5ZUxURlFLOTZlbS13VDJ0U2UyNnpRM29PLWwxUk43blhkcGF5Mnh6d3ZKRTJfMFpP?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tomra-2026-07-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tomra stock leans on its recycling model. Investors watch the setup. - AD HOC NEWS",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTRtdHVxb0N5Nmd2cGd2dXVzOTlCdC1CbWJPM2k4V29CX0ZWQjJ0M1M5UXVBaXFRWE9pVHdmUkFIYmQwazZndndGcVR2TkZ2ckZ1dkpHb1YxYjNwWC0tNXlwYnI2Z0lXNFFCS1Y0OFF6UFNJbGF2T0RTak9BQklsaU9INjBwdXhZQjNrbFBTOWZlME4wbTBRN19nZGIyVkh0eWtUd2IycWd1dnMydWdSREZZZVA5aGdWS2FkSWwxbDFNSHc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tomra-2026-07-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The TOMRA Reverse Vending Machine R1 - Classic deposit system gets a faster, cleaner upgrade - AD HOC NEWS",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3JPelhGUi1aQmtuck03YVlkTlc5eF9nY19NRVJSTGs3WVZjSDR4bFV2TTdXV09TODNRNDA4VjNBdTFHY1NNcjY0THpiOTBQeU1vbVVzTVVpVGpnSG9uY0h6Yy1SVlVXdS1kTy1yV1ZLSmRHOWNzWWhGVWhGOGhDYXZWZDg4Y1VxMmd3RVFodi01Ny1IMW9YOS1GMy1lMkY5MGNtbzVURnFrYmZ0T2huNEdNUHJuNktFNE04dGNjWDU2YUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "umicore-2026-07-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Umicore S.A. outlines its role in clean mobility and recycling. Investors weigh the long-term batter - AD HOC NEWS",
+      "companies": [
+        "umicore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS0xoSkVuTHV6S2NxUDI4Sm1DSGVrT0Y0NzR5QnhfSV9mVE5MaUFiNTFwcWNEU3o0bzFKNlBBNGhUdmdSNUg4elUxNW1WRHBnTjhrbHpYWE5EeWI1Z00wd0NWdDkyTy1jZFY0NzctRmMyQTFUWnFIczZuRXk0WFVyVGpncTI0S1JOWURtMjVTLUpuM25xUE5sQ0JZazZ1Sjdxa2xjbHA4b2xfdE53cld2NXRzLVpOYzdwbXFFMmlaQlpiOE9KLTNLei13?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tomra",
+        "count": 2
+      },
+      {
+        "id": "aurubis",
+        "count": 2
+      },
+      {
+        "id": "boliden",
+        "count": 2
+      },
+      {
+        "id": "umicore",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 158,
+    "too_old": 105,
+    "gate1_blocked": 2,
+    "gate2_blocked": 3,
+    "passed": 19,
+    "pass_rate": "14.7%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "TOMRA Systems ASA Actuals & Estimates (LSX:A3DHA0) - TradingView",
+      "Industrial property in Miami-Dade sold for $51M - The Business Journals",
+      "Umicore business overview and strategic position in global materials markets - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為陶朗、奧魯比斯、博利登相關動態：「If You Invested $1,000 in Veolia Environnement (VEOEY) - ...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "If You Invested $1,000 in Veolia Environnement (VEOEY) - Stock Titan（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Boliden AB focuses on metals production amid shifting global demand - AD HOC ...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
