@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-06",
+  "total_events": 10,
+  "by_company": {
+    "tomra": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "umicore": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "aurubis": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "sims": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "abtc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 8,
+      "sentiment_avg": 0.12
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
