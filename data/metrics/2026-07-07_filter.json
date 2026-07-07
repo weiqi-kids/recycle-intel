@@ -1,0 +1,14 @@
+{
+  "total_raw": 287,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 1,
+  "gate2_fail": 3,
+  "passed": 18,
+  "gate2_samples": [
+    "Industrial property in Miami-Dade sold for $51M - The Business Journals",
+    "Umicore business overview and strategic position in global materials markets - AD HOC NEWS",
+    "Casella names new COO, promotes general counsel"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-07",
+  "total_events": 5,
+  "by_company": {
+    "glencore": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "aurubis": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "boliden": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

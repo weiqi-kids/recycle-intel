@@ -1,0 +1,212 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T10:51:22.964713Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "aurubis-2026-07-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Aurubis AG focuses on copper processing. Strategic positioning supports long-term growth - AD HOC NEWS",
+      "companies": [
+        "aurubis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYmdkeU5DWEVORnJ1VnBzcnFQMWs1dXRZaGdjQ0F3VjVCWHZtejJHbUpDV2RVN1IwVHpndWhiRzZuRUtEMWM5NFk3ZG5VUHp4a1JRWmJKVC0tUWxmRk5DQ3pfY1hTRm9mVVI3T1Ezbi1tejY5dmpETEZVcG9SM1JQS0VoRnVJRDlvMGpxTUdpeHZPaDNGVUFjR2ZFSHpmWl9YeXlnc25zQ3R0SkQ0UmJFejByZzlkRU9Zb2d3V1hmYVp0LThnT3N5cg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "boliden-2026-07-07-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Boliden AB focuses on metals demand and long-term production strategy - AD HOC NEWS",
+      "companies": [
+        "boliden"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVUIwVzQtTFFjc1FlSjdLc29ONjNrSi1zUVZNQ1E0bEFMU2VvMzhqMDl3ZmVDQ1Vsa0RHLWE4czhvQTJfZ2p3T0ppbFI4SVRMYnVHaW1sSG1nWnVPdWlBRnlkczhyWWQ4SV81ZnYza0FBdjlYVDBvMkpDQTJfZlFIZE53a01zWnZWQjAxdHZzREI5cUN3T0dfZkFqS3VjMkdFRXUtYzVmbHRLNkc2S1ozYTB1UEVHOFpleV8xMjlOZ3Y0c2RpSEFz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-07-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore drops in London as Congo limits cap copper gains - Bez Kabli",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYnVnUmd2Zzdwd2hDWDhOdE9FYUtmNzctd0liMkRfclZNQXlwenhERjJNa2NraWltRnVqSUctOGlXbHRmamFXZnRHNWV6VDF0aTNLYlBkaDBlcVZEMWJOOTNDbmIxdG9tbGdxR3JNMUlRWGJPajdBbXYxNUs3MDROdEYtQnFCTWlCcFFv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "veolia-2026-07-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Veolia Environnement balances global utilities scale and sustainability ambitions - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMFBjeGJwS2FOMEtTRHpXbXZwVE05V2FfclB1WXZtc2s2d2dKazROXzVOZ3NoRFNQOUtWaW5zVGYtV2I4XzFrQzdIMjRIR25TQjF3eXlwRHFkeTZZNE9tWVdGWmYwdnYzUjFHU3lybEdQN3ZzRFNfU3QzdUdXakk0YlJsbFJBNG12WGNTc0N5Y1RDMExualFCdUdSMGp3ZkRTRzFHTkVDc0tnQk9xLWtuWlltZnJQQXc4ck8zOHFrYnhaa3lzQkRnSk5B?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "aurubis-2026-07-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New Aurubis smelter is ‘unique’ development - Recycling International",
+      "companies": [
+        "aurubis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWhRUkhTQXpLWkMwcTF6M0ZqMGR3clJoZDFCbkNkcG90ZzRVbDF2ODJaVmJOdHZVZ2F2WWFtRnZNcHViX0U0TlJGYXU1QmZiWHUzeGtNNDFHNUVFcVVvSHhZX3dVY0h6TENHN3JpMGNGQm5vZU1PSlhWcXY5dnF4SEVzR3ZTTTl5RVdzaFRFeURXUGo4M2Y5QmlkSUpRSW9kWnF4Uk1GOVpmdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "aurubis",
+        "count": 2
+      },
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "boliden",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 158,
+    "too_old": 107,
+    "gate1_blocked": 1,
+    "gate2_blocked": 3,
+    "passed": 18,
+    "pass_rate": "14.0%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "Industrial property in Miami-Dade sold for $51M - The Business Journals",
+      "Umicore business overview and strategic position in global materials markets - AD HOC NEWS",
+      "Casella names new COO, promotes general counsel"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為奧魯比斯、嘉能可、威立雅相關動態：「Aurubis AG focuses on copper processing. Strategic positi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Aurubis AG focuses on copper processing. Strategic positioning supports long-...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Boliden AB focuses on metals demand and long-term production strategy - AD HO...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
