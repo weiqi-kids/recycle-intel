@@ -1,0 +1,15 @@
+{
+  "total_raw": 287,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 2,
+  "gate2_fail": 4,
+  "passed": 13,
+  "gate2_samples": [
+    "Industrial property in Miami-Dade sold for $51M - The Business Journals",
+    "Umicore business overview and strategic position in global materials markets - AD HOC NEWS",
+    "One year after OBBBA, biogas tax credit questions remain",
+    "Casella names new COO, promotes general counsel"
+  ]
+}

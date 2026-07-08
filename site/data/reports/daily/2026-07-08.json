@@ -1,0 +1,203 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:12:40.235947Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-08-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "EV Battery Recycling Breakthrough Could Recover 99.99% of Lithium - EVTech.News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "battery_recycling",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkJqdERyZWtpcVhPSXEySlpVVFRSdV9NYndvQnpac1FRMFBZb0xBdjUyTXk4R3JtcktlanJkQzJOUVpFZy1pUU8yazRxTTBuMFdfTjBEaEQ1X213LTcxb2FaQTg1U1FNQ2dPbVRuc2ptSDh3U3A2cEVHd2dYMXUyZzYtUjZRUWY1NXlMdG02SldJbnhJWXVMN25rNWFJek1QbTRLZ1NSZGc0T2s?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tomra-2026-07-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra AUTOSORT CYBOT from Tomra - hybrid robot sorter targets higher purity - AD HOC NEWS",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZEtOSU1Hci1nNXlvUjV0VUxEQmFQTjQ5SFhzNXN5M0hpTEc2d1B1SzFGdWFZUVd4Z3J1S3kzakNSNlBjeWJuRGxkZHBIT2FCZGU5WkdHSy1uclR0N0sySmxpaU5hRktwQWo2MFJYaU44dWpGd193Q2JjS1A1SUZZUm1TWldqOUtVVU4wSjdfNWwxV1ZtdW5XZE5BTVJHVzZjRDIzYnIteTJhQk1GWk1tdjNCY3R2OEc0MXJUVGVwaVZkMTA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "waste_connections-2026-07-08-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PFAS Treatment Buildout at Anson Landfill Might Change The Case For Investing In Waste Connections (WCN) - simplywall.st",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOUhCSUhZNk92RGZBekZQM3VtaTh1ZVpGbkc1bFJLSVcwMEVkREJBY1pRM21vMXhuNmVJRW43TzhKSTV4eW1WTkx0eWtEMjZvMW1fTm5DcGpSdzhwb1hLNDVKbTBtbEhZWF9rbXBJT2xlQ3FKenZsSlZvQzNNWVBrWjk2Nkc1OHB4b0gwbWVRWEV2dFVsUDZOc0dIRXQ2V2FTOWRaTXdoeDY1S1lMMUF5eFNxZlliLVJMdVNuTUpoM1VvMnZSc3FDSXd3d1FYWm9ndGFXT2JmX0xXTHJj0gHiAUFVX3lxTE4wQUR3bXBob2JjSVh4U2FqZDFzZWhaSkN2RjdYQjI0Z3N4T014R29MZ1VOd1U0ZVlZcGNSX05BOW0tSGF0QnR4TEZoSlNicTBEWm83V2JZcE9PdlhabnJaRlhiQkRtX2tqMVpaeHpoLUdOUHF6QVZCYTE1bkEwUjBteFZqdHVKQmNxem95dS1TbWoxakN1c2JVdGc3aXlpM1NCeUN1TTVEV2R2QTktX1ZPQVlrdi05aXNTSGlLdWNWUnFKSmNIZ1VSU1RCVHpuTjByQzRlaEFGYlJLY2ZGblNWcGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "veolia-2026-07-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Veolia Environnement focuses on global water and waste services. Long-term infrastructure demand sup - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdlZhVk9lOFUxbTdLd1ZXTUJCOVEwTEFCcVJrcDVfMEx2YWtxbDExVC0xMnl5NmZwMWlFU1g5YnByZzNMSlJmbWFiM09jc3NvVHhTSlhoS1U0VnN4Q0Z4NHBZNGl3WXpSeGNkZ3NxQnJ5R01wbnRYUjk5QWZHbDhZVEMzTnhPOTR6WGxodDJBaEIyUG9BZjRMRTFZSnRUd2hURjhtQU91OHRsLUNRWV9aODBwVUVhb21keUhUZ0hCQTZNUExyMHRZXzJzQU8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "battery_recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "battery_recycling",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 159,
+    "too_old": 109,
+    "gate1_blocked": 2,
+    "gate2_blocked": 4,
+    "passed": 13,
+    "pass_rate": "10.2%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "Industrial property in Miami-Dade sold for $51M - The Business Journals",
+      "Umicore business overview and strategic position in global materials markets - AD HOC NEWS",
+      "One year after OBBBA, biogas tax credit questions remain",
+      "Casella names new COO, promotes general counsel"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為陶朗、WCN、威立雅相關動態：「EV Battery Recycling Breakthrough Could Recover 99.99% of...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "EV Battery Recycling Breakthrough Could Recover 99.99% of Lithium - EVTech.News（電池回收、財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Tomra AUTOSORT CYBOT from Tomra - hybrid robot sorter targets higher purity -...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
