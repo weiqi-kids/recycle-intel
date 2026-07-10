@@ -1,0 +1,189 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T10:49:14.918838Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-07-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Raising Glencore's FVE by 6%; We Lift Our Assumed Midycycle Thermal and Metallurgical Coal Prices - Morningstar",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRXotMGFBTTNQV0ZGdzgwTXdiam9WbmtPdkxRZlhKNEZnUG9NTzFPWVI3T1J1N2xPdGI3dVM3ekNmVC1SaENZdkZFTXc3WVhwT0RpZ1BuMXQ1aENqN0RPWU9QQzFTWVFLTEFmbHpZajJrNjdjZmgtMnZRZ25ValhCWWVmM3prYWc3dXQ1eHlKNE9uSEJKdWtLYVdBbGE2ZDE3MlZFVU1zZEVIYlFfUEs1d3dEbU80NDVHd0t6UkNiRVAxQThSSVo0cUlKSm5rYkNGanJlSkxOZ2dHa0p3X1Y0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-07-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Orion awaits Glencore’s $250m Prieska cheque - Miningmx",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa3RjOWVybmdWeFNVWXhTM0FhQ2xyRHBjQWNhMHdnNjJWUlFiVW1YcS02Z2JTWUtTb0RNTlZITzY1aXFlSkhLSW9JNlpCVzNxOWxqSzl6Mm9jWHVFOTNwRGlfeWhiRC1VdEU0QXdSa21fQU5kb3RTenpheWhwd0JxT3ZHdGR6OVRtcDZz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-07-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore stock holds steady on its trading and mining base - AD HOC NEWS",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSDJ5RllRV0RJUFB2VHFvcDdncUZJZms2VzJsMXh3cGtVQkVfTUEzVE5zbG5DVzgwTzJvNFJ0Ykk5LXlIaGpfVTNhVUhFVFNTbmxjeGJ1RmhfdmQzZElHZFZfdzVKV2U2dHl6Rk1PV1M0T01LN2ZNWlBKZ1EwNEN3aEtqYzZlVDJTWXlVT1Q4eWNSYXRVN1hXRzhiTHBMRU5kTjJIX285ZTREeDl5LUFWekV5RGE3MHlv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sims-2026-07-10-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sims (SMUPF) Gets a Buy from RBC Capital - The Globe and Mail",
+      "companies": [
+        "sims"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZy05M1JQV3N0Mk9lWUVFMWxjaFYyTm9TeUgtbmRtWU5JUndINkN2Zm1XeVBkMnRwNHJab0NsM3NFRE5YN0JacEdOT0NjemI1Qjk5dWlHQTJNVmN6bWZfUXcxOTEwQUF0YkVPQ2RPZEpwaUxoMy1LenozTmhraVdQMC1DZWdFYjE0cWE4ajRHUlAxRnlWdk5QdXp0WDl0Zm4tb0w5Zy1PdUNjVUg3bnBOR05lTEh1eXkzcnZJ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 3
+      },
+      {
+        "id": "sims",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 166,
+    "too_old": 98,
+    "gate1_blocked": 0,
+    "gate2_blocked": 4,
+    "passed": 18,
+    "pass_rate": "15.0%",
+    "gate2_block_rate": "3.3%",
+    "gate2_samples": [
+      "Lane County closes Walton site, cuts hours to fix budget shortfall - KEZI",
+      "The Capital Group Companies exceeds 5% of Veolia's share capital - marketscreener.com",
+      "One year after OBBBA, biogas tax credit questions remain",
+      "Casella names new COO, promotes general counsel"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為嘉能可、西姆斯相關動態：「Raising Glencore's FVE by 6%; We Lift Our Assumed Midycyc...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Raising Glencore's FVE by 6%; We Lift Our Assumed Midycycle Thermal and Metal...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Orion awaits Glencore’s $250m Prieska cheque - Miningmx（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
