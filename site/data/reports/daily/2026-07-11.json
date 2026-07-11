@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:23:29.342340Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-07-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GLENCORE PLC To Go Ex-Dividend On August 28th, 2026 With 0.17 USD Dividend Per Share - Moomoo",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSXhraGhGLVdoOUhXck9ONGZOc1JvcmJnWVM2eFV5bC1KR01WOUtWTmFkenVBc0puSGVpZ0ZjMU5TcXdQZjdhVjhQN1MwLUN4aGwyVGN1ZGRrQUVCV1RaWlRPZlBwNkdZZHlqam94NE1jcTAyeGtMNzVVNnpmSmZmU216dF9CREU0cnJNNHluLTFHVTRGTE1F?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 157,
+    "too_old": 102,
+    "gate1_blocked": 1,
+    "gate2_blocked": 6,
+    "passed": 20,
+    "pass_rate": "15.5%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "Congo shuts Glencore Kamoto offices in tax dispute, Bloomberg News reports - TradingView",
+      "Glencore options trading surges with focus on July calls - Investing.com",
+      "Lane County closes Walton site, cuts hours to fix budget shortfall - KEZI",
+      "The Capital Group Companies exceeds 5% of Veolia's share capital - marketscreener.com",
+      "One year after OBBBA, biogas tax credit questions remain"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為嘉能可相關動態：「GLENCORE PLC To Go Ex-Dividend On August 28th, 2026 With ...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "GLENCORE PLC To Go Ex-Dividend On August 28th, 2026 With 0.17 USD Dividend Pe...",
+        "level": "green"
+      },
+      {
+        "text": "嘉能可為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

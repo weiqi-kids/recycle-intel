@@ -1,0 +1,16 @@
+{
+  "total_raw": 286,
+  "dup_title": 157,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 1,
+  "gate2_fail": 6,
+  "passed": 20,
+  "gate2_samples": [
+    "Congo shuts Glencore Kamoto offices in tax dispute, Bloomberg News reports - TradingView",
+    "Glencore options trading surges with focus on July calls - Investing.com",
+    "Lane County closes Walton site, cuts hours to fix budget shortfall - KEZI",
+    "The Capital Group Companies exceeds 5% of Veolia's share capital - marketscreener.com",
+    "One year after OBBBA, biogas tax credit questions remain"
+  ]
+}
