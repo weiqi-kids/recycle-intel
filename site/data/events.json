@@ -1,5 +1,24 @@
 [
   {
+    "id": "unknown-2026-07-12-001",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "1500 jobs on the line in NSW coal mine battle - The Australian",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOZlhqd0ZuTjctdjhud01Ia1RDNW9iMnhhX3ZNY0lCOW02bnZaYU9rS0ZuY1VDWUZLakZ0RG5DQVJKWHdLUWdVV3d1MThKTF9DTWRuRWxNbjFsVDhjNzJfRmZrRXN4VklVdm9jOEVkM1",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZlhqd0ZuTjctdjhud01Ia1RDNW9iMnhhX3ZNY0lCOW02bnZaYU9rS0ZuY1VDWUZLakZ0RG5DQVJKWHdLUWdVV3d1MThKTF9DTWRuRWxNbjFsVDhjNzJfRmZrRXN4VklVdm9jOEVkM1FZZm1YX095OTRPMGZQVFVmaDA1Y0x1NF8zYmdBR0xqNWc5ckg0T2hDbW5zYmNyWTJKd3Rjb2ktYXFIaVY1LS14SU5wV293WllRU3dFNDQ3Z25rWkxvalNaN1cyQ1h5SkhncWxDY2VKLUZERFN0VnBaMXdfTU9zTkt0dTVFQ3F1N1IwRkZzSWlGSWo5ejZLaktONVg0TDdxc9IBjAJBVV95cUxOVnRNam15OWVSbVZhQ2Ywak0ySF9VNHBqVTJyLUotN1g1NFJEZTYyUm1YNGNCWHlRNExRTFZjYXF2clhUdUhRRDVQVk04bV9nU2RWUGtwQUVaeU40NkwyZ3NUd2dDU1NRTGdieE9xZGVVUzVWMzdmS3JiR244MnZNWXotb0VCcjd3Y2l1SVROcUsxX1J0RFRxMFpiUWZMX080OV9tNmdwcjZhdXBMWlJGZXh3Z0Z4dzFORVBmY09Pbk9aNWRhb2o4SFR6aVNzbTlMRkgxSm8yMW9VRUtYVGtJQ3czbTVmZ2prZi1vNElXUFpxUm5lS0NucUNjOUFDUXRMeDZSeFBNOGhXck5F?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-07-11-001",
     "date": "2026-07-11",
     "companies": [
@@ -13,6 +32,24 @@
       {
         "name": "glencore",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSXhraGhGLVdoOUhXck9ONGZOc1JvcmJnWVM2eFV5bC1KR01WOUtWTmFkenVBc0puSGVpZ0ZjMU5TcXdQZjdhVjhQN1MwLUN4aGwyVGN1ZGRrQUVCV1RaWlRPZlBwNkdZZHlqam94NE1jcTAyeGtMNzVVNnpmSmZmU216dF9CREU0cnJNNHluLTFHVTRGTE1F?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-002",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New York City's trash is causing a stink in this upstate town - Gothamist",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPWHZyV0dULUctbTdKcHh4cTNhRGp2d09zRDl1QjBQZmgtek5Dc1dGOHlYYUphcXo5aG01TjVzNHZ6RHdlVnQtY2Z0TUlibHh2WWpDUUZVcFQyOEMydWFEVDZpc003LUt4VGRMWUNlZW",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWHZyV0dULUctbTdKcHh4cTNhRGp2d09zRDl1QjBQZmgtek5Dc1dGOHlYYUphcXo5aG01TjVzNHZ6RHdlVnQtY2Z0TUlibHh2WWpDUUZVcFQyOEMydWFEVDZpc003LUt4VGRMWUNlZWZzd3hyZHpTT0JubnlEa1pRNXpQOWRTektManJmMDhGZF8?oc=5",
         "type": "rss"
       }
     ]
@@ -321,6 +358,26 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/mint-separate-critical-minerals-business-copper-battery-businesses/824937/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-10-016",
+    "date": "2026-07-10",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Is Maintained at Neutral by Citigroup - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQXzVuMDNfeFFKdExUMFlVMW9FYTkxWDdpd1lac2NnVDU0ZGhSd1ByT2s0Q0JEdGtYbWFDTDFFYU9KUmFXS2w4a3lVZ0s3QUVIS0YtdmsxcjhoRFhBRXlkYTBnaTd0bWMteTJiRmE4YW",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQXzVuMDNfeFFKdExUMFlVMW9FYTkxWDdpd1lac2NnVDU0ZGhSd1ByT2s0Q0JEdGtYbWFDTDFFYU9KUmFXS2w4a3lVZ0s3QUVIS0YtdmsxcjhoRFhBRXlkYTBnaTd0bWMteTJiRmE4YWVMRTIxcF91ajRkU2I3ZnFaSjU4aE1oYU5QWWxQdlJqZjR2ejdRRVM3M25JeFZodw?oc=5",
         "type": "rss"
       }
     ]

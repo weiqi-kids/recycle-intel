@@ -1,0 +1,14 @@
+{
+  "total_raw": 286,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 1,
+  "gate2_fail": 3,
+  "passed": 3,
+  "gate2_samples": [
+    "The Capital Group Companies exceeds 5% of Veolia's share capital - marketscreener.com",
+    "One year after OBBBA, biogas tax credit questions remain",
+    "Casella names new COO, promotes general counsel"
+  ]
+}
