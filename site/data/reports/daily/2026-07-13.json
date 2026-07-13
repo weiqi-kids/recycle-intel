@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T10:56:57.351003Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-07-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Congo tax raid hits Glencore copper unit - Miningmx",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcWxuLVR4Snp1dDRtUTJraWlrZ29pV1dYZHo1WTlHV1NLX250anBzaTNrblhVQnBiT3FvcmhvS0ZIZDBmYlBfMmdSVHpnejc5dW5yTVZRVk1sN3NmMDBqUDZKeDZ0YnlFUTJxZVlPOWRlZVdLQzh1empFNGhmZVRLU21BcGtfYmpT?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-07-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DR Congo Seals Glencore Unit Offices in Tax Dispute - Dabafinance",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10OFpWM2QwTzcyT1BBT2FJV3pYeV9FZnNLNVFwcFQxaDlFdmxKWlE3bWVmcGs3Vk95dWdVWTFKVDU5TXI1STFFUllCTURIRzV1RW85NzBrZThEZXAway1OSjJ0WGYzTThUdVJoTGl3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "umicore-2026-07-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Umicore stock holds steady as the materials group navigates the energy transition - Ad Hoc News",
+      "companies": [
+        "umicore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX2RYTVI4d3lGZVh0dHprS3RFNXVOSG5pakc1US1KSVFMRWJvekR3N0lPTm5VSXltaHk1Y0hSTjVQeDB6YzdYanV1M29tZzJ4NzMtMTd3OUtPbzIwMW10Ujh0ZGhzbVlDSDJ2STB4LWdtMHZ1R1R2ZUg0UjZ5aV9NMjM2a09WZE1IOHplbXpYbVlhczBySk5BSUZZazVhMG1aSnR4dXBsY1lHRXZPTVRKYXRhSGQxRllfdlBxUHNwNXpDLXQtNENrcA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 2
+      },
+      {
+        "id": "umicore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 162,
+    "too_old": 107,
+    "gate1_blocked": 2,
+    "gate2_blocked": 4,
+    "passed": 11,
+    "pass_rate": "8.9%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "Lane County closes Walton site, cuts hours to fix budget shortfall - KEZI",
+      "The Capital Group Companies exceeds 5% of Veolia's share capital - marketscreener.com",
+      "One year after OBBBA, biogas tax credit questions remain",
+      "Casella names new COO, promotes general counsel"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為嘉能可、優美科相關動態：「Congo tax raid hits Glencore copper unit - Miningmx」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Congo tax raid hits Glencore copper unit - Miningmx（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "DR Congo Seals Glencore Unit Offices in Tax Dispute - Dabafinance（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,15 @@
+{
+  "total_raw": 286,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 2,
+  "gate2_fail": 4,
+  "passed": 11,
+  "gate2_samples": [
+    "Lane County closes Walton site, cuts hours to fix budget shortfall - KEZI",
+    "The Capital Group Companies exceeds 5% of Veolia's share capital - marketscreener.com",
+    "One year after OBBBA, biogas tax credit questions remain",
+    "Casella names new COO, promotes general counsel"
+  ]
+}
