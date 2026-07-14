@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T09:53:38.159305Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FR1321041 Bond Risk Profile - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xUzJraWc1c0c5cXM5bW1VRWpVcm9vQUlWYkY0TzZIY2NDSmFYWmdQQ3VJX205eFdFbHBxT0N3U2FRZ1lGODd1d05jRHlyZ2JNTUhNdjNLTHZVTGFUZWZVdlQzS1E3ak85SFQtaGlidlMwdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FR14010IP Bond Coupon Profile — Rate & Payments - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tTVo3T0ExQ2JvYnN0SmJVYVBGSFVSOWF5dko1M3ZCa2hjTVpSWGFCNmxocjlQRkw3Z2pJMENwWWlYZVZKMG9PMjd2Y2k5RGlXY2c3WjNESUljV3VSc0RmZjlvQVIzc0NXXzVhb0lxeUlfSFE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-14-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ather Announces Partnership for End-of-Life EV Battery Recycling - Autocar India",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "battery_recycling",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDVTenoyQmFkY3dZMWV6bFgzU3V0V0tkTWFlZDUydGd0RUs3VDFsUzBfVGdneTlPQzdMaS04OWk5ZkhLMlJXcXRlUktib3oxcHlJY3ozRE4ybnMtTUF5Z2hZNVJkX1QtajNMbDJZSVZobktaWDJnbW1WM0xEbXRQemlYbGM5MlRLbFZUajZNY1l6emJKZWlHak52S1FpbS1sZ1pBUVI2Vmp0cFN0TE9V0gG0AUFVX3lxTE9KcHNaWC1pV2IyNlZvSmc0c2pxRVM2QlNmSW1XLVd6dktKYlJhb3Q3dnBsLVNTMWhmU2wxdDZ1LTFab3dsek5jYnFNNlVnU1hLWV9wLUJuSzlhNVJveUNmYkVkYXFtVHRqLUJBUnB2YU83VWcxa082THZDNkVobTRsM2VQVWt5UjQ2c1QtMDRCZk5kZ2NNb1ZQRVNlMVc3T2Q4OWs1UHRnVVBrTTVIZkdReEZiRg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "battery_recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "battery_recycling",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 152,
+    "too_old": 109,
+    "gate1_blocked": 4,
+    "gate2_blocked": 2,
+    "passed": 19,
+    "pass_rate": "14.2%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "Glencore options trading surges with focus on July calls - Investing.com",
+      "EPA proposes ending DEF derates, easing heavy-duty truck requirements"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為財報、電池回收、產業通用相關動態：「FR1321041 Bond Risk Profile - TradingView」。主要關注主題為財報、電池回收、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "FR1321041 Bond Risk Profile - TradingView（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "FR14010IP Bond Coupon Profile — Rate & Payments - TradingView（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

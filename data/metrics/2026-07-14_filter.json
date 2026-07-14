@@ -1,0 +1,13 @@
+{
+  "total_raw": 286,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 4,
+  "gate2_fail": 2,
+  "passed": 19,
+  "gate2_samples": [
+    "Glencore options trading surges with focus on July calls - Investing.com",
+    "EPA proposes ending DEF derates, easing heavy-duty truck requirements"
+  ]
+}
