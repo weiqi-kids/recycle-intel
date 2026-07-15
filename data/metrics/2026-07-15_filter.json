@@ -1,0 +1,15 @@
+{
+  "total_raw": 285,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 6,
+  "gate2_fail": 4,
+  "passed": 15,
+  "gate2_samples": [
+    "What's Putting Anglo American and Glencore Back in Focus? - Kalkine Media",
+    "Congo Tax Agency Seals Glencore Mine Offices In Payment Dispute- Bloomberg News - TradingView",
+    "RBC Capital Remains a Buy on Veolia Environnement (0NY8) - The Globe and Mail",
+    "EPA proposes ending DEF derates, easing heavy-duty truck requirements"
+  ]
+}

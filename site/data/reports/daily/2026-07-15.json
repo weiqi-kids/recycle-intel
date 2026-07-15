@@ -1,0 +1,158 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T09:57:55.644780Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-07-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement (ENXTPA:VIE) Renews Octave Deal, Is Enough Upside Already Priced In? - simplywall.st",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWW4wNTVVSnpGVDdLVHNTa2cxN2ZHU09PdGEzeWctaG1iX09Tb21VTGdxWTZLdkRpd1ZCU3NwM1c5WkFoNkVlektrM1k4S2lSdVhnbW5JVGV3Q3k2NmZMaEhpSE11RFM5SWhJc1E2VHpaZXVmNVY2aWZSNlhlWlN3dTU3QWItY3BKblo2NkRrNk1Ddm5kSUxLY2JfakZ2WFVfbW1YVUFxT18ydnhaSkJ4cjdrWlUxSTBrMk1OMzZQRWFqakFnVDltZDRKR1lPTVBZaG5ZOWxwMTJOMWpLQ0NN0gHfAUFVX3lxTFBZbjA1NVVKekZUN0tUc1NrZzE3ZkdTT090YTN5Zy1obWJfT1NvbVVMZ3FZNkt2RGl3VkJTc3AzVzlaQWg2RWV6S2szWThLaVJ1WGdtbklUZXdDeTY2ZkxoSGlITXVEUzlJaElzUTZUelpldWY1VjZpZlI2WGVaU3d1NTdBYi1jcEpuWjY2RGs2TUN2bmRJTEtjYl9qRnZYVV9tbVhVQXFPXzJ2eFpKQnhyN2taVTFJMGsyTU4zNlBFYWpqQWdUOW1kNEpHWU9NUFloblk5bHAxMk4xaktDQ00?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "aurubis-2026-07-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Aurubis (XTRA:NDA) Opens Hamburg Recycling Plant, Is The Stock Fully Priced? - simplywall.st",
+      "companies": [
+        "aurubis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSWhscmd6MFJwQ0x1YVRuOEw0X09mMU9lUkxjckIyR3c0V0JfeTRDQ2VkSHNQdzhXVUh5dW9EUkt0ZFE2MjdGeVIwd0psZl9ZMG5lN0tPckxPUm5YU3hMVm5hb1BCOUo5Z2g0cnBsZ0hiSUhUWk04TDh3Y3dlS1VWNW1HZ1AtLVR4SkNVNWEzdlh3WElrQnR1WEJFbE1rc0xfSTUtYlhvUENuLTg5aVVoRHdEaDlTOHRmY0NsYURlcFZ5YVBhbGo0VUJB0gHPAUFVX3lxTE40Nll2Z2Nnenl2Q2RzeGo0M3FXV2tXQ2RIZTdIQ1NIYnd1N2VBekZRT0pCZzUzSWJFMVNGWldLLS01cTNCRVRRQnJ3Nm1JeEdDbHluZnRPNE4xYWpHVjNxRktZZXc1NDNRdEozSFFNcVdTbnl6Rjc4cjdDOEFxZ3V0cTRZYU96TzQ1Z0I5MEZsRXJWTFc3QllYREV2ZU5IY3djNXZnZ0RIZGtmQklBZWs0cGxzbEZPVmhneThza1JnYnMzbzlUSVRMM0JaWlU2VQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A4ES36 Bond Coupon Profile — Rate & Payments - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Jd0ItT0pZSWxWaFFCaUFVVndTN3FZdGZQTERoRWprNnE4VFh3WFhQV3VoeEhHWFdneVVrZEVYZGFGYndKS1JWVVBFRTBjYU5oS0tuSlhGb1VDdXljenc3WS1wQ0RfS0ozZEJCaFBEdkxTdkU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "aurubis",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 285,
+    "dup_title": 151,
+    "too_old": 109,
+    "gate1_blocked": 6,
+    "gate2_blocked": 4,
+    "passed": 15,
+    "pass_rate": "11.2%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "What's Putting Anglo American and Glencore Back in Focus? - Kalkine Media",
+      "Congo Tax Agency Seals Glencore Mine Offices In Payment Dispute- Bloomberg News - TradingView",
+      "RBC Capital Remains a Buy on Veolia Environnement (0NY8) - The Globe and Mail",
+      "EPA proposes ending DEF derates, easing heavy-duty truck requirements"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為威立雅、奧魯比斯相關動態：「Veolia Environnement (ENXTPA:VIE) Renews Octave Deal, Is ...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Veolia Environnement (ENXTPA:VIE) Renews Octave Deal, Is Enough Upside Alread...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Aurubis (XTRA:NDA) Opens Hamburg Recycling Plant, Is The Stock Fully Priced? ...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

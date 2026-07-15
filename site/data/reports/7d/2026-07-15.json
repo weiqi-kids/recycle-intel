@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-15",
+  "date_range": {
+    "start": "2026-07-09",
+    "end": "2026-07-15"
+  },
+  "generated_at": "2026-07-15T09:57:55.772296Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "glencore-2026-07-09-002",
+      "date": "2026-07-09",
+      "title": "Goldman Sachs upgrades Glencore to Buy on copper, zinc outlook - Investing.com",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 19,
+      "last_week": 31,
+      "week_over_week_change": "-39%",
+      "sentiment_this_week": 0.05
+    },
+    "earnings": {
+      "this_week": 17,
+      "last_week": 19,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": 0.03
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "battery_recycling": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "glencore": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "umicore": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 3
+    },
+    "veolia": {
+      "event_count": 6,
+      "sentiment_avg": 0.17,
+      "rank": 2
+    },
+    "aurubis": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "sims": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 89,
+        "last": 134,
+        "change_pct": -33.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-09",
+      "event_count": 29,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-07-10",
+      "event_count": 22,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-11",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-12",
+      "event_count": 2,
+      "sentiment_avg": 0.25
+    },
+    {
+      "date": "2026-07-13",
+      "event_count": 19,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-14",
+      "event_count": 11,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-15",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-09 ~ 2026-07-15）共 89 則事件，重點為「Goldman Sachs upgrades Glencore to Buy on coppe...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "嘉能可",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "威立雅",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
