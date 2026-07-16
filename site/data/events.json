@@ -1,5 +1,65 @@
 [
   {
+    "id": "glencore-2026-07-16-001",
+    "date": "2026-07-16",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jameson Cell could help unlock potential of AI-driven advanced process control, Glencore Technology says - International Mining",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYmtkZW5Zc0dOWGl2M2tjLVZqdWtFOGR4T3VFc2xHazExczlXTldNQ3pnamJwcmhzaDlFUGRub1k1b3hhRWRTUkJoYTZYTEN2YjI4eGRmcGdFTHBjWUpmMDBsYmFvbUZuWmZrUGJhdU",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYmtkZW5Zc0dOWGl2M2tjLVZqdWtFOGR4T3VFc2xHazExczlXTldNQ3pnamJwcmhzaDlFUGRub1k1b3hhRWRTUkJoYTZYTEN2YjI4eGRmcGdFTHBjWUpmMDBsYmFvbUZuWmZrUGJhdUE3WFhxTzVmR21NYUVPZUJlZ2FxOVdRNDM3OTVhVU96R0lDVUJMaENjTlFOUVg2TDdMdU4zWXlwUV9jVlNuYlJkRUVMS21RN201R19qX0JpRHpRaWJSZGV2c1Zmdy04TFE0NHRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-07-16-002",
+    "date": "2026-07-16",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "How Are China Slowdown Concerns Weighing On Rio (LSE:RIO) And Glencore (LSE:GLEN)? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHIzMzBaN1l6MmlsVW1wNk9LU205QzFaRjlONDhXRzhOSVR4cl9CQUlHTnJXTGJnWE9KN292U0lrcGdxMnBZY1dxcGdTRXJIOU55LWZTUFRZREZaOUZ1My1fdkd5bnhPTVprclU5Z0",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHIzMzBaN1l6MmlsVW1wNk9LU205QzFaRjlONDhXRzhOSVR4cl9CQUlHTnJXTGJnWE9KN292U0lrcGdxMnBZY1dxcGdTRXJIOU55LWZTUFRZREZaOUZ1My1fdkd5bnhPTVprclU5Z0JfQ0RWOHdIaEh5TXV4S3lQb3dKRnVFSkZSU1NzLVpjN0pFbE45M2RfOUhMQzNxamtlbHlFX0QwZmxtZGtqenItX3ZPVzI1UGltVWo3MXR3RjdqUGRlZFpj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boliden-2026-07-16-003",
+    "date": "2026-07-16",
+    "companies": [
+      "boliden"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Boliden stock reflects the Scandinavian miner’s long term positioning - Ad Hoc News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOMkE5WkhwbndJbFdsZDFESUZXZllCbVphRHRmNmpxNEU5RnYyYmN3QUpRRVh4aDVGMTNfRFNrN1VHYTdJQjhRQlFhX3NkdzVpYlpfYnlrNnpYR3poQXk0TDNKY2xuOGh2RDhDT1htNn",
+    "sources": [
+      {
+        "name": "boliden",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMkE5WkhwbndJbFdsZDFESUZXZllCbVphRHRmNmpxNEU5RnYyYmN3QUpRRVh4aDVGMTNfRFNrN1VHYTdJQjhRQlFhX3NkdzVpYlpfYnlrNnpYR3poQXk0TDNKY2xuOGh2RDhDT1htNnRYWTJCZk9mNHJ5NG1PMktidnpGQnJ2ZklKV3BXN0ZWV3RNVVJXYUlYYUpuOXVvYnBiS0RpR3EwU05UY0kzcEp5NVpPaU00d0g2V2pkQ1lfVzFNZE5ZWlpJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "veolia-2026-07-15-001",
     "date": "2026-07-15",
     "companies": [
@@ -54,6 +114,159 @@
       {
         "name": "aurubis",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSWhscmd6MFJwQ0x1YVRuOEw0X09mMU9lUkxjckIyR3c0V0JfeTRDQ2VkSHNQdzhXVUh5dW9EUkt0ZFE2MjdGeVIwd0psZl9ZMG5lN0tPckxPUm5YU3hMVm5hb1BCOUo5Z2g0cnBsZ0hiSUhUWk04TDh3Y3dlS1VWNW1HZ1AtLVR4SkNVNWEzdlh3WElrQnR1WEJFbE1rc0xfSTUtYlhvUENuLTg5aVVoRHdEaDlTOHRmY0NsYURlcFZ5YVBhbGo0VUJB0gHPAUFVX3lxTE40Nll2Z2Nnenl2Q2RzeGo0M3FXV2tXQ2RIZTdIQ1NIYnd1N2VBekZRT0pCZzUzSWJFMVNGWldLLS01cTNCRVRRQnJ3Nm1JeEdDbHluZnRPNE4xYWpHVjNxRktZZXc1NDNRdEozSFFNcVdTbnl6Rjc4cjdDOEFxZ3V0cTRZYU96TzQ1Z0I5MEZsRXJWTFc3QllYREV2ZU5IY3djNXZnZ0RIZGtmQklBZWs0cGxzbEZPVmhneThza1JnYnMzbzlUSVRMM0JaWlU2VQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-15-004",
+    "date": "2026-07-15",
+    "companies": [
+      "waste_connections",
+      "waste_mgmt"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Q1 Waste Management Earnings Review: First Prize Goes to Waste Connections (NYSE:WCN) - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOOXVsRVNGSXZIN2dQVVNKNnN0WkZCSmw2VUl5UGh0RGFEbnRWNkdOd2RaMlpVb0tEYzd2X1J5ZUJMMU13ZzJrRVR4NUo2YVk4dWhySHJpVl9CczUwck1oOEo2R0lyTUI5akNpaDlmam",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOXVsRVNGSXZIN2dQVVNKNnN0WkZCSmw2VUl5UGh0RGFEbnRWNkdOd2RaMlpVb0tEYzd2X1J5ZUJMMU13ZzJrRVR4NUo2YVk4dWhySHJpVl9CczUwck1oOEo2R0lyTUI5akNpaDlmam5BWjgtaEZ3Ry1iT0RCZ2dhU3VzbzByZFUtUnlrUXNoT3VuWUQ1Vm5aME1haktTdHA2aHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-15-005",
+    "date": "2026-07-15",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Inc. stock rises Wednesday, still underperforms market - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZnl3NmxJd1BnUUZxdGo5dFF3YjFDQmtuXzRBX3Fpa3NaOVpGRXRvVTdYZXJsNzVHNXBQTko0M0R6b2Y5LXBITXp5eG5IWTJHN0RCRlAyUHRET1NTeEpDUUpjdnZlcEtfeDViVnFVWD",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZnl3NmxJd1BnUUZxdGo5dFF3YjFDQmtuXzRBX3Fpa3NaOVpGRXRvVTdYZXJsNzVHNXBQTko0M0R6b2Y5LXBITXp5eG5IWTJHN0RCRlAyUHRET1NTeEpDUUpjdnZlcEtfeDViVnFVWDVKdjJRWEc5cF9PMllMemI0azhZeGlVOGlrdnVBVWI4TTVhOHlvVHFjVEdTV0pZMmhSTWpzRFd6TDlNQkM5RE5XVHNZYTVRQ1JXUmg2ODNTZU5jNnphXzdqNDVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-006",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BIN5254561 Bond Profile — Key Metrics - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5ueWRuQkNrVV8xSC11MzRyalFldjZfYzJyZWt0WGp4TklGaGNtaG5pNGxnQ2NoNTFhYy1Db3JTdlRpOTNCdWVsZkZfaS1mMms0ejJ1bktBRF94MDVrRjBubjN5eWtqSko1TkphSDd5QT",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ueWRuQkNrVV8xSC11MzRyalFldjZfYzJyZWt0WGp4TklGaGNtaG5pNGxnQ2NoNTFhYy1Db3JTdlRpOTNCdWVsZkZfaS1mMms0ejJ1bktBRF94MDVrRjBubjN5eWtqSko1TkphSDd5QTQzTlY2NTlWb3hn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-007",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VEVAE Bond Coupon Profile — Rate & Payments - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1SWXpraWlaWS1hWWVYWEItM25zUnlueW1RcC1PX1ZUV09DR2luWE93V1RWZktMQkc0RVhyYUd0SzlQUy1WOGhKd3FGYUJlakg0NjRhc3dQRTV2QjVWcTJ4M0ZkTFIxRldKX1RVeDRfOW",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SWXpraWlaWS1hWWVYWEItM25zUnlueW1RcC1PX1ZUV09DR2luWE93V1RWZktMQkc0RVhyYUd0SzlQUy1WOGhKd3FGYUJlakg0NjRhc3dQRTV2QjVWcTJ4M0ZkTFIxRldKX1RVeDRfOW5keFJz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-008",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FR1266316 Bond Coupon Profile — Rate & Payments - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5OUmpaTXl6VkVtNUNTT0F6WUhSU2NublNyTTNKeXBkX1Q3X21raVJoN01LZktYZ00tZUFNendGWXNBeFVucmNBY2NnVGdsR1VwdXdYeTkwemZ4RTZQRk5iaFl4c2h0eWlWOWtiaWU0cW",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OUmpaTXl6VkVtNUNTT0F6WUhSU2NublNyTTNKeXBkX1Q3X21raVJoN01LZktYZ00tZUFNendGWXNBeFVucmNBY2NnVGdsR1VwdXdYeTkwemZ4RTZQRk5iaFl4c2h0eWlWOWtiaWU0cW9vSHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-009",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "circular_economy_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Recycling Partnership names new CEO",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/J2Q8_EiB4l3iVyyJzpakADQsab5YT5cIPi0RsbvHSCo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDkyNjY3ODQyLmpwZw==",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/the-recycling-partnership-names-new-ceo-greg-saxon/825348/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-010",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Biochar is booming. Could waste fuel its future?",
+    "summary": "<p>Production capacity for the material, which is created by treating organic matter at high temperatures, nearly doubled in two years. The American Biochar Institute projects even faster growth by 20",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/biochar-industry-growth-report-waste-biosolids-fuel/825285/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-011",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japan Hits 90% Lithium Recovery From Dead EV Batteries - Gadget Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNTkt1bUdFdm50T1pxRnJ0d1dPMmkyOER5dE5ibG45ZUhneWFYUjhYQTZWOFltQ3dlbE1QNFZuT2xoclVWZlI2SHc1cnAtczNGbkE4bnQxajVFWHJDOWRpQlpKZmNRbndCdF9TWkI4ek",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTkt1bUdFdm50T1pxRnJ0d1dPMmkyOER5dE5ibG45ZUhneWFYUjhYQTZWOFltQ3dlbE1QNFZuT2xoclVWZlI2SHc1cnAtczNGbkE4bnQxajVFWHJDOWRpQlpKZmNRbndCdF9TWkI4ekFrbUEyeERmaDMtb2VGaE11QThpeG96Wm5TM3c?oc=5",
         "type": "rss"
       }
     ]
@@ -642,6 +855,24 @@
       {
         "name": "umicore",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX2RYTVI4d3lGZVh0dHprS3RFNXVOSG5pakc1US1KSVFMRWJvekR3N0lPTm5VSXltaHk1Y0hSTjVQeDB6YzdYanV1M29tZzJ4NzMtMTd3OUtPbzIwMW10Ujh0ZGhzbVlDSDJ2STB4LWdtMHZ1R1R2ZUg0UjZ5aV9NMjM2a09WZE1IOHplbXpYbVlhczBySk5BSUZZazVhMG1aSnR4dXBsY1lHRXZPTVRKYXRhSGQxRllfdlBxUHNwNXpDLXQtNENrcA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-020",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "E360S enters US market with acquisition of Marcotte Disposal",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/wBhNEMJjGME7gEErF1X3DVIhSTEXJM2aBsBDAnxrfK8/g:nowe:0:9/c:1920:1084/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aHVtYm5haWxfSU1HXz",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/canada-e360s-enters-us-market-acquisition-marcotte-disposal/825024/",
         "type": "rss"
       }
     ]

@@ -1,0 +1,14 @@
+{
+  "total_raw": 285,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 115,
+  "gate1_fail": 8,
+  "gate2_fail": 3,
+  "passed": 12,
+  "gate2_samples": [
+    "RBC Capital Remains a Buy on Veolia Environnement (0NY8) - The Globe and Mail",
+    "WM, Amp, Reju celebrate expanded facilities",
+    "EPA proposes ending DEF derates, easing heavy-duty truck requirements"
+  ]
+}

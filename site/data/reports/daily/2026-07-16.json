@@ -1,0 +1,158 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T10:03:59.668316Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-07-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Jameson Cell could help unlock potential of AI-driven advanced process control, Glencore Technology says - International Mining",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYmtkZW5Zc0dOWGl2M2tjLVZqdWtFOGR4T3VFc2xHazExczlXTldNQ3pnamJwcmhzaDlFUGRub1k1b3hhRWRTUkJoYTZYTEN2YjI4eGRmcGdFTHBjWUpmMDBsYmFvbUZuWmZrUGJhdUE3WFhxTzVmR21NYUVPZUJlZ2FxOVdRNDM3OTVhVU96R0lDVUJMaENjTlFOUVg2TDdMdU4zWXlwUV9jVlNuYlJkRUVMS21RN201R19qX0JpRHpRaWJSZGV2c1Zmdy04TFE0NHRR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "boliden-2026-07-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Boliden stock reflects the Scandinavian miner’s long term positioning - Ad Hoc News",
+      "companies": [
+        "boliden"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMkE5WkhwbndJbFdsZDFESUZXZllCbVphRHRmNmpxNEU5RnYyYmN3QUpRRVh4aDVGMTNfRFNrN1VHYTdJQjhRQlFhX3NkdzVpYlpfYnlrNnpYR3poQXk0TDNKY2xuOGh2RDhDT1htNnRYWTJCZk9mNHJ5NG1PMktidnpGQnJ2ZklKV3BXN0ZWV3RNVVJXYUlYYUpuOXVvYnBiS0RpR3EwU05UY0kzcEp5NVpPaU00d0g2V2pkQ1lfVzFNZE5ZWlpJ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-07-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Are China Slowdown Concerns Weighing On Rio (LSE:RIO) And Glencore (LSE:GLEN)? - Kalkine Media",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHIzMzBaN1l6MmlsVW1wNk9LU205QzFaRjlONDhXRzhOSVR4cl9CQUlHTnJXTGJnWE9KN292U0lrcGdxMnBZY1dxcGdTRXJIOU55LWZTUFRZREZaOUZ1My1fdkd5bnhPTVprclU5Z0JfQ0RWOHdIaEh5TXV4S3lQb3dKRnVFSkZSU1NzLVpjN0pFbE45M2RfOUhMQzNxamtlbHlFX0QwZmxtZGtqenItX3ZPVzI1UGltVWo3MXR3RjdqUGRlZFpj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 2
+      },
+      {
+        "id": "boliden",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 285,
+    "dup_title": 147,
+    "too_old": 115,
+    "gate1_blocked": 8,
+    "gate2_blocked": 3,
+    "passed": 12,
+    "pass_rate": "8.7%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "RBC Capital Remains a Buy on Veolia Environnement (0NY8) - The Globe and Mail",
+      "WM, Amp, Reju celebrate expanded facilities",
+      "EPA proposes ending DEF derates, easing heavy-duty truck requirements"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為嘉能可、博利登相關動態：「Jameson Cell could help unlock potential of AI-driven adv...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Jameson Cell could help unlock potential of AI-driven advanced process contro...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Boliden stock reflects the Scandinavian miner’s long term positioning - Ad Ho...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
