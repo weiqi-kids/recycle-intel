@@ -1,0 +1,13 @@
+{
+  "total_raw": 285,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 9,
+  "gate2_fail": 2,
+  "passed": 25,
+  "gate2_samples": [
+    "WM, Amp, Reju celebrate expanded facilities",
+    "EPA proposes ending DEF derates, easing heavy-duty truck requirements"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2026-07-17",
+  "total_events": 8,
+  "by_company": {
+    "tomra": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
