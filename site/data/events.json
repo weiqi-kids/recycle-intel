@@ -1,5 +1,48 @@
 [
   {
+    "id": "glencore-2026-07-18-001",
+    "date": "2026-07-18",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore (GLEN) Receives a Buy from RBC Capital - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOdi1DcXdaR1FwRVFUUlRaS1JhcGFrQXY3ZzIyTEFZU2tGQTRLT0I3dGJFOTVUT0ZLTk40aVpRZk9wNGRxUzVjNjd5Q3owVl9GemF4V3JfLWxWMmtockpaYnBjT1NFbUlmMUxmNlBiU3",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdi1DcXdaR1FwRVFUUlRaS1JhcGFrQXY3ZzIyTEFZU2tGQTRLT0I3dGJFOTVUT0ZLTk40aVpRZk9wNGRxUzVjNjd5Q3owVl9GemF4V3JfLWxWMmtockpaYnBjT1NFbUlmMUxmNlBiU3Itb0JxRW9GU0FqRFp1VXZTbE5qYkxGUUVwSlZJdUFRS2czNjZKMVktVi1uM3MwY3ZCV1Z4aUczWGJiaHR5VVd6LXlvaThwY0RhbEVJWEV1VjdxeWJUcnFzMi1MQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aurubis-2026-07-18-002",
+    "date": "2026-07-18",
+    "companies": [
+      "aurubis"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aurubis stock trades near multi-month high as copper recycler lifts earnings outlook after strong fi - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQc3AyaVNPanRlT0lPMjJkejQ4S25GbFVPNUlIa0t3SW5COGlHU2lDR3BUZnA5TnIzdk1PVEltaDZRU0g5SGhuVEo1QWpvSk5HYnY4TVhwMERXT2d0NWNPWWVQeTdfSFcxQVBDaVhBUn",
+    "sources": [
+      {
+        "name": "aurubis",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc3AyaVNPanRlT0lPMjJkejQ4S25GbFVPNUlIa0t3SW5COGlHU2lDR3BUZnA5TnIzdk1PVEltaDZRU0g5SGhuVEo1QWpvSk5HYnY4TVhwMERXT2d0NWNPWWVQeTdfSFcxQVBDaVhBUndFME9oZE52UjhJaWlUcFBpOUloc3NuWElQam10UGE4QU5TdXR4UHJLbS1BajBaVDdoTTFPa01jNnRhR3Nra3lmQkU0eHlHQnR5SVRxRlZ3VWdjbFBv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-07-17-001",
     "date": "2026-07-17",
     "companies": [
@@ -160,6 +203,205 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObTZ5SU9oS2p2c3Y2c1otcExyYVZpRzBPbnBsY2xCZThpVFJYbVlLX0o3MjJ4VFVBZ3JPanNrZ21zbVk1V0JwQjF3dGpLd2VTbFJqdGRoY24tdzNFX2x3T3ZjWmthbWgtREllVXU3QjhnY3ZIaHpvSVhLcHR1ZXFQTFlETEpCT1hURG55dE9HNWVvVngxZmZGNGU2NUpZTWNnN1hsM3RGSU9xV3BaaVRVUTMwQnlPemY2NFk1MDZJSDBJLXJlQkV2TUhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-07-17-009",
+    "date": "2026-07-17",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Tomra says recyclers delay investment despite looming EU deadlines - 1470 & 100.3 WMBD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQQWJ0cGRVblA2eVNXN1ZqQmtienZXQUtKZ3dZUEZDVXI2SDlRNTZIU1ktLVhVVEdtUFBRdWVzMl9VaVl3NjlWdm05ZVhHVzNPZ3QyNmJXc2Qwbnpsa1NYenNHMnhXLUZFUU5kbnhyZU",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQWJ0cGRVblA2eVNXN1ZqQmtienZXQUtKZ3dZUEZDVXI2SDlRNTZIU1ktLVhVVEdtUFBRdWVzMl9VaVl3NjlWdm05ZVhHVzNPZ3QyNmJXc2Qwbnpsa1NYenNHMnhXLUZFUU5kbnhyZU1heTEyc2hnZWNUbmVrS2EwRkdQNU1xdTlxY1dCT1VHbFhvMmVZaGE0SjVYVVVuQnpuU2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-07-17-010",
+    "date": "2026-07-17",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tomra Systems ASA 2026 Q2 - Results - Earnings Call Presentation (OTCMKTS:TMRAY) 2026-07-17 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOTHBaUkpUU0lPQW1jSVpXdmN4X1BuMVVCU3pxUkhveWhoZlo0NnE0QXEwMjdybnAxY0RRUWZtbUNmeDk1Vk5oWGt0djBrVUloM09EOTZMb0ItUHdZNGFlZ280RWVFNWx4TWgyUVp0bH",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTHBaUkpUU0lPQW1jSVpXdmN4X1BuMVVCU3pxUkhveWhoZlo0NnE0QXEwMjdybnAxY0RRUWZtbUNmeDk1Vk5oWGt0djBrVUloM09EOTZMb0ItUHdZNGFlZ280RWVFNWx4TWgyUVp0bHBzSnBQa3BEUGstdE53aThad25TbFdhQXRUeUNxdTc5SDlkZzZpS1F6Mk54UG9uS1pDeWJj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-07-17-011",
+    "date": "2026-07-17",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tomra Systems ASA Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ3ZRV2NNNG43OE83bzVTbmNIUDQ3UXBWRUozTlNQdUU4YTI1NkZoQm54MVdLX3FXREUxS1NaOU9ieXgzRjRfcVBkUlY5YlFncWZVQ1NPdEdRdW00akIzQlh5Z0VoalJWWXpSLXd5ck",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ3ZRV2NNNG43OE83bzVTbmNIUDQ3UXBWRUozTlNQdUU4YTI1NkZoQm54MVdLX3FXREUxS1NaOU9ieXgzRjRfcVBkUlY5YlFncWZVQ1NPdEdRdW00akIzQlh5Z0VoalJWWXpSLXd5ckN0cFFXTzBSN1k1NGw4dVR1YzNiQkJWcGtzeHhjUUZYelA2clR4d1NTQkNvN3lUWTNTOG8zSnlUSFNmMnRLZ0pRR19LTXA3TVM0WVJLWWI1SGQ0THJNTEJ6Mk5ZcWxUR1QxRnVWcTItLTBFUW9zUmhpX2RtWTIwckU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-07-17-012",
+    "date": "2026-07-17",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Q2 2026 Tomra Systems ASA Earnings Call Transcript - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ncEs3c0ZxMDNmNmR3Y3BYVFBPZC13QmhpN1FWaktsaGt2Vm9kQ1NJV2ZzeHdPMFpqdmhSTUdsZVlDZUlLbFdzaVVmZlIzNzdMT0VGT2UxaTVPenZKWDhBUGVrVEx6REwt?oc=5\" tar",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ncEs3c0ZxMDNmNmR3Y3BYVFBPZC13QmhpN1FWaktsaGt2Vm9kQ1NJV2ZzeHdPMFpqdmhSTUdsZVlDZUlLbFdzaVVmZlIzNzdMT0VGT2UxaTVPenZKWDhBUGVrVEx6REwt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-07-17-013",
+    "date": "2026-07-17",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Announces Amendment And Restatement Of Convertible Facilities Agreement With Tantalex Lithium Resources Corporation - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxQZnZOejlCeFA1UWJYb2xmNkdVNjc2RVdxZVg2ZmNLMWk3QUszbkJ5aE04eFRDQVFMUFkzeklFR2R5aXFrSlRsaUVUREJsd3dpczFvUjVwVV82WTJuT0s2N0ppeWpZVG91MW5ZanNuOG",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQZnZOejlCeFA1UWJYb2xmNkdVNjc2RVdxZVg2ZmNLMWk3QUszbkJ5aE04eFRDQVFMUFkzeklFR2R5aXFrSlRsaUVUREJsd3dpczFvUjVwVV82WTJuT0s2N0ppeWpZVG91MW5ZanNuOGxvSUF6TXJYNkFUY2R3MnNRSC1BZGZ4cjVuT0U2QnM0aUZFeWJNSVJ4Mm5tRnVRRFM0aDhyMUtGY2VWd3JZZzVDZWpFZ1VsR3BIMk5SWHlvajIwT2FfeFY2RWtxVmZNbHEtaENLQnRrTGVfVWliSHowOFdGeTRMdXpIcGlyVEtQc1JjUnhISWZoU1F4SzhsbmtLWHhXWVgtLUlrXzlFUzJoNWgweTViYW9QdFBoU1o2bw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-07-17-014",
+    "date": "2026-07-17",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Announces Amendment and Restatement of Convertible Facilities Agreement With Tantalex Lithium Resources Corporation - Toronto Star",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwJBVV95cUxNWHZ6V2Q3ZEU0MlprM3plNXJpY0pMZnJkZE1oZ2w2WFdWci0wZk5fQWFsVDVDN05yZ01Jald3TXRxel8wTFdnck1VS1paVzhUVldyLXUzVDVmYzdCY3NaNFJiek52V1FxUnYxQlRvSH",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNWHZ6V2Q3ZEU0MlprM3plNXJpY0pMZnJkZE1oZ2w2WFdWci0wZk5fQWFsVDVDN05yZ01Jald3TXRxel8wTFdnck1VS1paVzhUVldyLXUzVDVmYzdCY3NaNFJiek52V1FxUnYxQlRvSHd2aXNUalNreU9FZnIyclhQc3JTbDNVem9UTS04NkRjSzZNU0M2Zi1WODRLLVVYNkJJTnZwTGdfTWF3VTNMNDQ4S0tzVldHa0lkZkR5c3Q5UzNLTVA5ZHpHZndPOG96cHFhcFVYTHpJSXRwZ0VvYzB0S1ZoaEo2bXhBNE9fVFFCUTF1a2N4SEVBS0VsZ3V4bERaazh2STEzY0k1Qks0TUZfVUtaaEZ3cEtuU0ZCZjdvN3hRbzBFWld5RURnS1NpZWQ1eFA0MGhfSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-17-015",
+    "date": "2026-07-17",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "The Bull Case For Waste Connections (WCN) Could Change Following Its Q1 Earnings Beat And Peer Outperformance - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVmYyUGpXZDVSMGZib1BUQnlpcUx2Zk5xOFYycEhXNVo4cldMQ1FQSllPU25acHp4emJRUjcxbEp6MzhHSnk5SHN2R0lnNXJIS3FMam1oMTBmR0Z2UEpjd2dkSFhIWndrUVRoNFBmS1",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVmYyUGpXZDVSMGZib1BUQnlpcUx2Zk5xOFYycEhXNVo4cldMQ1FQSllPU25acHp4emJRUjcxbEp6MzhHSnk5SHN2R0lnNXJIS3FMam1oMTBmR0Z2UEpjd2dkSFhIWndrUVRoNFBmS1lSS3FjZnNiMmR0dWs2aGMyYTNkLTM4MlNaTl9vU2E1QTFxWDBhWUt4WWJSRHRUazJPWTU3Rk0wa3dYQnlselJSbk9acWpsQmRNc2pWbGdWY1FMMGlXbHo0bzNlcjFJb0hxM3NvX3p2MU5FblhpbktYd2NUdi3SAeQBQVVfeXFMTVZmMlBqV2Q1UjBmYm9QVEJ5aXFMdmZOcThWMnBIVzVaOHJXTENRUEpZT1NuWnB6eHpiUVI3MWxKejM4R0p5OUhzdkdJZzVySEtxTGptaDEwZkdGdlBKY3dnZEhYSFp3a1FUaDRQZktZUktxY2ZzYjJkdHVrNmhjMmEzZC0zODJTWk5fb1NhNUExcVgwYVlLeFliUkR0VGsyT1k1N0ZNMGt3WEJ5bHpSUm5PWnFqbEJkTXNqVmxnVmNRTDBpV2x6NG8zZXIxSW9IcTNzb196djFORW5YaW5LWHdjVHYt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-17-016",
+    "date": "2026-07-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A2832U Bond Risk Profile - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1BakVTREJzNG1VX3lKUXFlaVM3S3ZIN2ZscF9RQ215NUQ0NTZ2dTMzZHFSYm1fYWVROW45SUw1aWViWjdXd1dTNi1aRGNwYjlFdVpycG0ta2o0dkJ4QnlVWVJnUFZ3SFppYWJOZmgyd0",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BakVTREJzNG1VX3lKUXFlaVM3S3ZIN2ZscF9RQ215NUQ0NTZ2dTMzZHFSYm1fYWVROW45SUw1aWViWjdXd1dTNi1aRGNwYjlFdVpycG0ta2o0dkJ4QnlVWVJnUFZ3SFppYWJOZmgyd0dldw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_mgmt-2026-07-17-017",
+    "date": "2026-07-17",
+    "companies": [
+      "waste_mgmt"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Texas county sues to close WM landfill; Amarillo investigates landfill fire",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/bvR1u28zzGfEOgz1gWdjx63_0iEfBhJj1a7x38wS8nQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDg1NTcxMzQ5LmpwZw==",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/houston-texas-hawthorn-landfill-lawsuit-amarillo-fire-roundup/825534/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-17-018",
+    "date": "2026-07-17",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Federal critical minerals bills target battery recycling, EPA strategies",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/eNaRvu2dYmwZbRUe8WGb1zwQIVwwvA1vP7iXrBCf8MY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NTU1fZjFiZGNlNzRhZi5qcGc=.webp\"/></di",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/critical-minerals-federal-battery-recycling-bills-epa-strategy/825535/",
         "type": "rss"
       }
     ]
@@ -479,6 +721,47 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/commodity-experts-track-trade-tariff-impacts/825402/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-07-16-017",
+    "date": "2026-07-16",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tomra wins order for 1,200 deposit-return machines in the UK - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3ozc1l3UklYUlV2RkozSGRlVG1kV3Z6d1hjVW0wY1QwZHZONUk5ZFdPMEl5Um4wUE5aWVNld3JkY2RnWTVJbGZ1ZnpjTVR0bWFCRmpnMDdudGt2U0xRWDlCUDNmSFRpRkRfV19QbU",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3ozc1l3UklYUlV2RkozSGRlVG1kV3Z6d1hjVW0wY1QwZHZONUk5ZFdPMEl5Um4wUE5aWVNld3JkY2RnWTVJbGZ1ZnpjTVR0bWFCRmpnMDdudGt2U0xRWDlCUDNmSFRpRkRfV19QbU14LVE4b2Q3Ykp2UlNfVjRvUXNsdWh1aVBYMC1YVjhMdHJKQmx5UlZiVUwtdXN1MlctTkxKRFB5Z0w2SVdZVWhkbnlTNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-07-16-018",
+    "date": "2026-07-16",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia (VIE) AGM 2025 Summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mV1NJbzV0YVM4SnJJc0N1OUV1b0xVQTliVDV1eFlyZF9aaDczZ0c3T2U1c2Yyd2FzQUtJRzFZSXRDbUFnZ2t2S2h2Ti1zVmNoQ19UbE1EYmxwSXVTRnFoVGVQRTE?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mV1NJbzV0YVM4SnJJc0N1OUV1b0xVQTliVDV1eFlyZF9aaDczZ0c3T2U1c2Yyd2FzQUtJRzFZSXRDbUFnZ2t2S2h2Ti1zVmNoQ19UbE1EYmxwSXVTRnFoVGVQRTE?oc=5",
         "type": "rss"
       }
     ]
@@ -921,6 +1204,26 @@
       {
         "name": "google_news_battery_recycling",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZFNtU2Z3bWpVdGNhcHVQQmc5TWE1RzZ5VlJIYmFPUjQ5SWpPU2ZWaWFUeFNGUFFOdERwaWhLajk5UExpLVp5V3FIeHNTRWdRNC1jOE9MS1ZrbHpsZ1paZ2dOYUNxa2o0S3VKSC1xVFE2V0NMdXAtQktqMlpwVTdsUkt3S2FkeFFrYkRFMkNIZW9NV0c2RlBnbHRQRkRGbUVqQkdtRg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-07-14-013",
+    "date": "2026-07-14",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dutch court rejects Glencore bid to buy back logistics unit at discount - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQNUxpOXBseFlyQXRqREUxUWFYUkxoTXl5eFZVRHFkbFRMenBXeXJLNE0xcFJUa1R3b0kwMjkyUjNjeWJVOHlmbUNZV3FLSkFZYjdVWXo2RmprVnE1d01uWUVCWEQwRFJ4SXNMbjlkST",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNUxpOXBseFlyQXRqREUxUWFYUkxoTXl5eFZVRHFkbFRMenBXeXJLNE0xcFJUa1R3b0kwMjkyUjNjeWJVOHlmbUNZV3FLSkFZYjdVWXo2RmprVnE1d01uWUVCWEQwRFJ4SXNMbjlkSTZkeUxUUVZjZlo2dG5kYzRKWnZ3YUNkM2wtSTg3czNGUnRXeWZ5X1BxakR2NVVxeTRfSTI5b2JxZF81QUlQaWJMc01OY1pRd3JsV1hzNWRR?oc=5",
         "type": "rss"
       }
     ]
