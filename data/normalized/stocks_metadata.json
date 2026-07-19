@@ -1,8 +1,8 @@
 {
   "tomra": {
-    "earliest": "2000-10-16",
+    "earliest": "2000-07-18",
     "latest": "2026-07-17",
-    "count": 6523
+    "count": 6587
   },
   "glencore": {
     "earliest": "2011-05-19",
@@ -11,34 +11,34 @@
     "history_complete": true
   },
   "waste_mgmt": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "republic": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "waste_connections": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "umicore": {
-    "earliest": "2000-10-11",
+    "earliest": "2000-07-13",
     "latest": "2026-07-17",
-    "count": 6619
+    "count": 6683
   },
   "veolia": {
-    "earliest": "2000-10-11",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6617
+    "count": 6676
   },
   "aurubis": {
-    "earliest": "2000-10-12",
+    "earliest": "2000-07-14",
     "latest": "2026-07-17",
-    "count": 6579
+    "count": 6643
   },
   "boliden": {
     "earliest": "2001-12-05",
@@ -47,9 +47,9 @@
     "history_complete": true
   },
   "sims": {
-    "earliest": "2000-10-11",
+    "earliest": "2000-07-13",
     "latest": "2026-07-17",
-    "count": 6550
+    "count": 6614
   },
   "kunding": {
     "earliest": "2010-05-27",

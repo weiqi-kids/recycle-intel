@@ -1,0 +1,12 @@
+{
+  "total_raw": 285,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 6,
+  "gate2_fail": 1,
+  "passed": 11,
+  "gate2_samples": [
+    "WM, Amp, Reju celebrate expanded facilities"
+  ]
+}

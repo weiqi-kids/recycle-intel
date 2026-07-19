@@ -1,0 +1,246 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T09:48:30.352433Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "umicore-2026-07-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Umicore stock trades steady as recycling and battery materials shape earnings outlook - ad-hoc-news.de",
+      "companies": [
+        "umicore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLWsxZlctQlpZTTN1R3UxN1czcFcxS2JaZ19uaEhfRTRPM0gwbE9OWGptOVpRdTNlb3FTalJ6VVMyNS1GMmF6RWNWZjE4SEh4aTBqUnI3U2FzUDJHYjdzWk5XQ2hycjY5ZTNoTGRzRnY3NXBOWVJLOFhFT3lEVjNNeFNrMzBiMkM2Q2c0d1I3ZTVsS3NXWGpFUFNfd3VrdUVSbG8tVVk0OXFucmVuZ3g0QW9fVmlacWNVaVktbFBhanRKckplWXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "aurubis-2026-07-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Aurubis stock trades steady as copper recycler highlights earnings resilience and investment program - ad-hoc-news.de",
+      "companies": [
+        "aurubis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkJvTTV1alZRc2d5UVRibXRfZDllQmVkMWhiVjllRzdnSHdBNWhzZUpDSW1CamdwWjMtUFpRTkxac3dDNEQySmpTSEJXT19Tc3hiLVlTUVV0cGY4R0FpVU9YdGlIYXJIc2RYVVdyTWsya3k3aVZoYlNzaklGX2tEMWpOOUZxNU5tM1BjZUNmZUZPQVdEZzJ6dDV5R29QQXFxM21WSnJobi1PZjRBX2JhWnhMMVRYWTFFWWx6UDdlMHBGVnM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Zambia's Japan-Backed E-Waste Project Could Power Green Jobs and a Circular Economy Future - Devdiscourse",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ewaste",
+        "circular_economy_policy",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLV9GbVg4NFp0UlkzY3diWUF6aGowOTRiQjNVeHNzQ2E0SGFJaTE2ejZOdHVGUmF5Vkg0UURVZk5KZ0hzYmxQRV9VaXR3c3NONFdTWUk4M2xxTm40eDZfOXBGMzNMNF85SWVCc3Vja1BpMnFMcm9jWFdkcXJ5alNEaTUxbHNSY2VZdkpoV0hBMWdMcjQ2eVNnVmNQNm96bUlVcW9TMzhRRTRlOFVBdmVhNktJZ2FUaWxKSkY4VGZhZ0JGRDN3LVBzbVEwR2JnNkQtOWY0Qzl4ZFFHQXFW0gHiAUFVX3lxTE1WWlhxSjhxN3o4SUVNTXNIbEFZOHBUcU91aWtmMzVxMVQ5RGhOaHcyM09jeWpPTFNuM0xMbEdhUkVNQVBKXzA4YmM3NS0tTkRoRDNHeFpwSHV6dlA5Vm9QVmw1WnhZMGY5MVhWMnpBMXYyTUwzbzZvTzkxbHFwT2ZHUGxseWFKejlNZTVEUUZzbWdSSnpPS1Y2dVVOM2ExaW5ibURhU2lzZnd0MzUwVW5NWlZjbVRGZ0V2S3RaRXZhZUFVMExHSk1rYTF2OU43d0dsY0RWdV9STVBhT3htcGhRenc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-07-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore stock steadies as commodity prices shape outlook - ad-hoc-news.de",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance",
+        "commodity_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa1hmZDlUc0NnNFI1cEFfNWJlNXZab2FYZ1JZbWE4dU5hWXJvYnZzUDBwV1hJRDR6Qk1qRjR0cVRFSzRyeUtmRUZZbjNlNzlWT2t2SlhDWUptajNGLWZmLXdvMVRubEdNWjRlMFJKMXcwckVZdVBFcl9sV2pURzVCS2dGWV9EcllxU0ZJLWZiZldzOWpZTmtZc3lYNkhHUjdCR0lLbk9KRE83Zkpka1RzY2FzSFB6OGs?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "commodity_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ewaste": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "circular_economy_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "umicore",
+        "count": 1
+      },
+      {
+        "id": "aurubis",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "commodity_price",
+        "count": 1
+      },
+      {
+        "id": "ewaste",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 285,
+    "dup_title": 160,
+    "too_old": 107,
+    "gate1_blocked": 6,
+    "gate2_blocked": 1,
+    "passed": 11,
+    "pass_rate": "8.8%",
+    "gate2_block_rate": "0.8%",
+    "gate2_samples": [
+      "WM, Amp, Reju celebrate expanded facilities"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為嘉能可、優美科、奧魯比斯相關動態：「Umicore stock trades steady as recycling and battery mate...」。主要關注主題為產業通用、財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Umicore stock trades steady as recycling and battery materials shape earnings...（財報、展望、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Aurubis stock trades steady as copper recycler highlights earnings resilience...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "原物料價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

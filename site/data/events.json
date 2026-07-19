@@ -1,5 +1,91 @@
 [
   {
+    "id": "glencore-2026-07-19-001",
+    "date": "2026-07-19",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "guidance",
+      "commodity_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore stock steadies as commodity prices shape outlook - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNa1hmZDlUc0NnNFI1cEFfNWJlNXZab2FYZ1JZbWE4dU5hWXJvYnZzUDBwV1hJRDR6Qk1qRjR0cVRFSzRyeUtmRUZZbjNlNzlWT2t2SlhDWUptajNGLWZmLXdvMVRubEdNWjRlMFJKMX",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa1hmZDlUc0NnNFI1cEFfNWJlNXZab2FYZ1JZbWE4dU5hWXJvYnZzUDBwV1hJRDR6Qk1qRjR0cVRFSzRyeUtmRUZZbjNlNzlWT2t2SlhDWUptajNGLWZmLXdvMVRubEdNWjRlMFJKMXcwckVZdVBFcl9sV2pURzVCS2dGWV9EcllxU0ZJLWZiZldzOWpZTmtZc3lYNkhHUjdCR0lLbk9KRE83Zkpka1RzY2FzSFB6OGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "umicore-2026-07-19-002",
+    "date": "2026-07-19",
+    "companies": [
+      "umicore"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Umicore stock trades steady as recycling and battery materials shape earnings outlook - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQLWsxZlctQlpZTTN1R3UxN1czcFcxS2JaZ19uaEhfRTRPM0gwbE9OWGptOVpRdTNlb3FTalJ6VVMyNS1GMmF6RWNWZjE4SEh4aTBqUnI3U2FzUDJHYjdzWk5XQ2hycjY5ZTNoTGRzRn",
+    "sources": [
+      {
+        "name": "umicore",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLWsxZlctQlpZTTN1R3UxN1czcFcxS2JaZ19uaEhfRTRPM0gwbE9OWGptOVpRdTNlb3FTalJ6VVMyNS1GMmF6RWNWZjE4SEh4aTBqUnI3U2FzUDJHYjdzWk5XQ2hycjY5ZTNoTGRzRnY3NXBOWVJLOFhFT3lEVjNNeFNrMzBiMkM2Q2c0d1I3ZTVsS3NXWGpFUFNfd3VrdUVSbG8tVVk0OXFucmVuZ3g0QW9fVmlacWNVaVktbFBhanRKckplWXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aurubis-2026-07-19-003",
+    "date": "2026-07-19",
+    "companies": [
+      "aurubis"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aurubis stock trades steady as copper recycler highlights earnings resilience and investment program - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkJvTTV1alZRc2d5UVRibXRfZDllQmVkMWhiVjllRzdnSHdBNWhzZUpDSW1CamdwWjMtUFpRTkxac3dDNEQySmpTSEJXT19Tc3hiLVlTUVV0cGY4R0FpVU9YdGlIYXJIc2RYVVdyTW",
+    "sources": [
+      {
+        "name": "aurubis",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkJvTTV1alZRc2d5UVRibXRfZDllQmVkMWhiVjllRzdnSHdBNWhzZUpDSW1CamdwWjMtUFpRTkxac3dDNEQySmpTSEJXT19Tc3hiLVlTUVV0cGY4R0FpVU9YdGlIYXJIc2RYVVdyTWsya3k3aVZoYlNzaklGX2tEMWpOOUZxNU5tM1BjZUNmZUZPQVdEZzJ6dDV5R29QQXFxM21WSnJobi1PZjRBX2JhWnhMMVRYWTFFWWx6UDdlMHBGVnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-19-004",
+    "date": "2026-07-19",
+    "companies": [],
+    "topics": [
+      "ewaste",
+      "circular_economy_policy",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Zambia's Japan-Backed E-Waste Project Could Power Green Jobs and a Circular Economy Future - Devdiscourse",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLV9GbVg4NFp0UlkzY3diWUF6aGowOTRiQjNVeHNzQ2E0SGFJaTE2ejZOdHVGUmF5Vkg0UURVZk5KZ0hzYmxQRV9VaXR3c3NONFdTWUk4M2xxTm40eDZfOXBGMzNMNF85SWVCc3Vja1",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLV9GbVg4NFp0UlkzY3diWUF6aGowOTRiQjNVeHNzQ2E0SGFJaTE2ejZOdHVGUmF5Vkg0UURVZk5KZ0hzYmxQRV9VaXR3c3NONFdTWUk4M2xxTm40eDZfOXBGMzNMNF85SWVCc3Vja1BpMnFMcm9jWFdkcXJ5alNEaTUxbHNSY2VZdkpoV0hBMWdMcjQ2eVNnVmNQNm96bUlVcW9TMzhRRTRlOFVBdmVhNktJZ2FUaWxKSkY4VGZhZ0JGRDN3LVBzbVEwR2JnNkQtOWY0Qzl4ZFFHQXFW0gHiAUFVX3lxTE1WWlhxSjhxN3o4SUVNTXNIbEFZOHBUcU91aWtmMzVxMVQ5RGhOaHcyM09jeWpPTFNuM0xMbEdhUkVNQVBKXzA4YmM3NS0tTkRoRDNHeFpwSHV6dlA5Vm9QVmw1WnhZMGY5MVhWMnpBMXYyTUwzbzZvTzkxbHFwT2ZHUGxseWFKejlNZTVEUUZzbWdSSnpPS1Y2dVVOM2ExaW5ibURhU2lzZnd0MzUwVW5NWlZjbVRGZ0V2S3RaRXZhZUFVMExHSk1rYTF2OU43d0dsY0RWdV9STVBhT3htcGhRenc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-07-18-001",
     "date": "2026-07-18",
     "companies": [
@@ -38,6 +124,66 @@
       {
         "name": "aurubis",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc3AyaVNPanRlT0lPMjJkejQ4S25GbFVPNUlIa0t3SW5COGlHU2lDR3BUZnA5TnIzdk1PVEltaDZRU0g5SGhuVEo1QWpvSk5HYnY4TVhwMERXT2d0NWNPWWVQeTdfSFcxQVBDaVhBUndFME9oZE52UjhJaWlUcFBpOUloc3NuWElQam10UGE4QU5TdXR4UHJLbS1BajBaVDdoTTFPa01jNnRhR3Nra3lmQkU0eHlHQnR5SVRxRlZ3VWdjbFBv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-07-18-003",
+    "date": "2026-07-18",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tomra Systems (OB:TOM) Wins UK RVM Contract, Is The Stock 17% Undervalued? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxObXliblBqUFdfTVZmMGVTQW5TZUhJbzdfOTZ6SXk2VzZydmNCcnpzT2FEVllZbXhhUjJnUlF0THdhbzRUc2F2UWxZWGhSWmdBcWM4Q3FDNlc2cWpRRERvQkdZa3h5SWtEaFBXLTBDNm",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObXliblBqUFdfTVZmMGVTQW5TZUhJbzdfOTZ6SXk2VzZydmNCcnpzT2FEVllZbXhhUjJnUlF0THdhbzRUc2F2UWxZWGhSWmdBcWM4Q3FDNlc2cWpRRERvQkdZa3h5SWtEaFBXLTBDNmRlYThpTFpXRTV1R3oyNGdmS0NOUVJhamhYcXNhSWVxalMxNXJfcWI4LWZfSFYxbmNNSnFDWjlIbWQyQmx5NFZLMzBKcFhZazkyMnlPaEg2MlpiY21rQ1BWd3hVQ2NKQllCaU1hY2ZDX1BfcGfSAdsBQVVfeXFMTm15Ym5QalBXX01WZjBlU0FuU2VISW83Xzk2ekl5Nlc2cnZjQnJ6c09hRFZZWW14YVIyZ1JRdEx3YW80VHNhdlFsWVhoUlpnQXFjOENxQzZXNnFqUUREb0JHWWt4eUlrRGhQVy0wQzZkZWE4aUxaV0U1dUd6MjRnZktDTlFSYWpoWHFzYUllcWpTMTVyX3FiOC1mX0hWMW5jTUpxQ1o5SG1kMkJseTRWSzMwSnBYWWs5MjJ5T2hINjJaYmNta0NQVnd4VUNjSkJZQmlNYWNmQ19QX3Bn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-07-18-004",
+    "date": "2026-07-18",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tomra stock trades near recent highs as recycling revenues grow and margins hold - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ0syNlZ6M1pGZ3lCREhOTk0xcTB3Uk02MFJpQV9RakROMVdOY0k2Q211emluMUpIZmtibnBITU9xcFFkem1EWUFkLU9aX2V3YTUyVlZvNWRNNExtV2R0NGp0RWdNckwxVlhaWUQ3Zk",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ0syNlZ6M1pGZ3lCREhOTk0xcTB3Uk02MFJpQV9RakROMVdOY0k2Q211emluMUpIZmtibnBITU9xcFFkem1EWUFkLU9aX2V3YTUyVlZvNWRNNExtV2R0NGp0RWdNckwxVlhaWUQ3ZkYyNGF4MXY4cGVaUjM2TkNKZTlaMDZrT3dITTA5QU5HQnpscXBjNFNUd0FnVTBRT1d0QTRZSVA4Q0NJZGV2b2VOYm9nb1JOSl9WX0l6NldocGRHWi1R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-18-005",
+    "date": "2026-07-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VEVAC Bond Coupon Profile — Rate & Payments - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBTT2lJLWhzUmgwSHNtWHhTWEdFVzZQUEl6SjEzSXo4cnk4bUs0b245R3hHcVBKRWJFUFNVUWN5RHNXWnZCZlNncEVvNjdOSE1oQjlaZjV0V3IxNWZtTFlsd2MzM19xZ1hwdE9CQXQyQU",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTT2lJLWhzUmgwSHNtWHhTWEdFVzZQUEl6SjEzSXo4cnk4bUs0b245R3hHcVBKRWJFUFNVUWN5RHNXWnZCZlNncEVvNjdOSE1oQjlaZjV0V3IxNWZtTFlsd2MzM19xZ1hwdE9CQXQyQU1JZGQy?oc=5",
         "type": "rss"
       }
     ]
@@ -402,6 +548,66 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/critical-minerals-federal-battery-recycling-bills-epa-strategy/825535/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-07-17-019",
+    "date": "2026-07-17",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Norway's Tomra Systems Q2 revenue up 25% on Collection unit growth - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMWNmNEV3RnJCWkUteTgxTGMxMml6dGdzNkRyTTUzWUF3Rl9BX2Q5MURvcTVrQTdMVWNkWEctWTVTa0RscGowN0VXWnBSaWlhWWE3Y1AwZGZ5dWp1dTFGZ3FLdnV0UzZoTERRQUhDbF",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMWNmNEV3RnJCWkUteTgxTGMxMml6dGdzNkRyTTUzWUF3Rl9BX2Q5MURvcTVrQTdMVWNkWEctWTVTa0RscGowN0VXWnBSaWlhWWE3Y1AwZGZ5dWp1dTFGZ3FLdnV0UzZoTERRQUhDbFJJWXNTNkFIUmM5UnB3Q1BqdkUzdHpLSVR2ZVAtd09QQVdRN2ZhcTVKT2FPYUt4emQ0dnhvVFQyZkdRdmsxeF9GTVJFVjdLMFZPME82S3ZQMy1iaGxFRzVMYnRIamVHcFhK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-07-17-020",
+    "date": "2026-07-17",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Q4 2025 Tomra Systems ASA Earnings Call Transcript - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFA0NE8tM05YMVJILVJrTlF4TFRmRElRUEx0LW9hVkI1Mzc0MHBnRlNnZGhTeFFoVnRsTmtCTXVvMnNrOWNTWFAwLXBIWDVmUFlvZHFTSHRYeWotSGVuN3VQVU1lamFlWkI5ZERxd2V3?o",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0NE8tM05YMVJILVJrTlF4TFRmRElRUEx0LW9hVkI1Mzc0MHBnRlNnZGhTeFFoVnRsTmtCTXVvMnNrOWNTWFAwLXBIWDVmUFlvZHFTSHRYeWotSGVuN3VQVU1lamFlWkI5ZERxd2V3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-17-021",
+    "date": "2026-07-17",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BIN4962257 Bond Risk Profile - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE80RGVza0FUeV9aNFFETDBDRnVodl9Qa1JsQUxLSzdRaXAyZEhlNm1vX1d0UEN6RGFBaW9kSkNFejdLeE1Zd2RHbWxETGR2cDdsS1ZDSmZjU3FEa2JsUm9obllDc3pmQ3FodVFaeE9UdH",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80RGVza0FUeV9aNFFETDBDRnVodl9Qa1JsQUxLSzdRaXAyZEhlNm1vX1d0UEN6RGFBaW9kSkNFejdLeE1Zd2RHbWxETGR2cDdsS1ZDSmZjU3FEa2JsUm9obllDc3pmQ3FodVFaeE9UdHVlUzI4alE?oc=5",
         "type": "rss"
       }
     ]
@@ -974,6 +1180,24 @@
       {
         "name": "google_news_battery_recycling",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTkt1bUdFdm50T1pxRnJ0d1dPMmkyOER5dE5ibG45ZUhneWFYUjhYQTZWOFltQ3dlbE1QNFZuT2xoclVWZlI2SHc1cnAtczNGbkE4bnQxajVFWHJDOWRpQlpKZmNRbndCdF9TWkI4ekFrbUEyeERmaDMtb2VGaE11QThpeG96Wm5TM3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-012",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FR14017P1 Bond Coupon Profile — Rate & Payments - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5kUHRIRDRJUUNmb2ZlYnlQRlN2eVdZYWVwbWFaZHFCRjRVZVBkTjI5UmNiNFN6Vks3ZWQtWlAzQk95MmJsWlh4ZzNHMDgtcms1dk9xV1RzTEJqb3pyM1l2U0lPSGFxTmowTC0tLXQ0Tm",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kUHRIRDRJUUNmb2ZlYnlQRlN2eVdZYWVwbWFaZHFCRjRVZVBkTjI5UmNiNFN6Vks3ZWQtWlAzQk95MmJsWlh4ZzNHMDgtcms1dk9xV1RzTEJqb3pyM1l2U0lPSGFxTmowTC0tLXQ0TmMyN0E?oc=5",
         "type": "rss"
       }
     ]

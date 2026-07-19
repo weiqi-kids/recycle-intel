@@ -1,0 +1,49 @@
+{
+  "date": "2026-07-19",
+  "total_events": 4,
+  "by_company": {
+    "glencore": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "umicore": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "aurubis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "commodity_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "ewaste": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "circular_economy_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
