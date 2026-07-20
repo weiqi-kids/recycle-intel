@@ -1,5 +1,81 @@
 [
   {
+    "id": "unknown-2026-07-20-001",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Weekly Recap: 2026 guidance H2 margins >40% and Q2 beat, 16% stock surge - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSjlzcWg3ckp5YklGTF9sVmE1X3VWV1dIcnVEaU1FTVpHakJST3BXX0R5dHVHcC1TQVM0WktnVWRpcEtyRnNMMmplLUM4RnlkZUJKbVVwbnVIeXpOTGQ2WnhjdjNlWmM0dTNPeUVVMG",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSjlzcWg3ckp5YklGTF9sVmE1X3VWV1dIcnVEaU1FTVpHakJST3BXX0R5dHVHcC1TQVM0WktnVWRpcEtyRnNMMmplLUM4RnlkZUJKbVVwbnVIeXpOTGQ2WnhjdjNlWmM0dTNPeUVVMGtQQXVjSUUzSDhQZ2dTbUYzczZCVFF3djFjZFRoX19mUm96OVpqY0lPQVlIRTA0UDFjOUp2eGd0T2RTUnBfTTZ2TmhXaFFxY0JVZGVpRlFPMWhXaG44d1hTcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-002",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A4EB61 Bond Risk Profile - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBOWFJaVEtrRWJUbG53eV9tNXZ2MzBXVEpGY3dCQnJQX2xuT216MGRvVl9kaXVMUG82MXh3UHJEMjdnUGpqbXBkTzNYLWtfU29UcEVKZUw3bXhYbDdZeE5JOHpiZExQUG9jN0FnTkhEbl",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOWFJaVEtrRWJUbG53eV9tNXZ2MzBXVEpGY3dCQnJQX2xuT216MGRvVl9kaXVMUG82MXh3UHJEMjdnUGpqbXBkTzNYLWtfU29UcEVKZUw3bXhYbDdZeE5JOHpiZExQUG9jN0FnTkhEblNLZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-003",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A4EB61 Bond Profile — Key Metrics - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBBbkNZTGRidHdsMW5mTDFWN1pRckRqMmhTaVZlVTJ2RmVBVFJ0UmV5VEpaeEg4NlZqS0Fkc0ZzcVVUcjhweDJWeV9nWmJ5LWppRS1XVHk5NDdTLXNTa1Q3bjN2WEJoWFRIbGJwZ3p1Nz",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBbkNZTGRidHdsMW5mTDFWN1pRckRqMmhTaVZlVTJ2RmVBVFJ0UmV5VEpaeEg4NlZqS0Fkc0ZzcVVUcjhweDJWeV9nWmJ5LWppRS1XVHk5NDdTLXNTa1Q3bjN2WEJoWFRIbGJwZ3p1NzlLM08yUHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-004",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Power Lithium Battery Recycling Market Growth to Accelerate by 2035 Amid Rising EV Battery Retirements - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWk8tR0tkSVpCaE1tSDFWTVFLc251b090S19CQXJob016SXZ2ZXl6RllWc3VnR2l1NHpyb3J2NmM5SkI3d2c1dndYbzZLOFN0QXc3NWhtTkl5Szh3dlVZSVJoZzBYc2dHZldHRXNNSX",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWk8tR0tkSVpCaE1tSDFWTVFLc251b090S19CQXJob016SXZ2ZXl6RllWc3VnR2l1NHpyb3J2NmM5SkI3d2c1dndYbzZLOFN0QXc3NWhtTkl5Szh3dlVZSVJoZzBYc2dHZldHRXNNSXA2RzJTRTZvNG9UN1ZpbjRwS2lwS3Noem9vU09GT1NQNlEzNlJsMlMtRWdtbWhtTVQ5c3ZqZVNfODk0bzFWWXVXMl81aTZ0dzJOQS1QY3VRSGNMTU9zMllKdUc1SXJfRHA0QnI3UTFxcWVtdVhZaF9jOHpIOHp3N0M5YS1UemZkcHhidw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-07-19-001",
     "date": "2026-07-19",
     "companies": [
@@ -81,6 +157,24 @@
       {
         "name": "google_news_recycling",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLV9GbVg4NFp0UlkzY3diWUF6aGowOTRiQjNVeHNzQ2E0SGFJaTE2ejZOdHVGUmF5Vkg0UURVZk5KZ0hzYmxQRV9VaXR3c3NONFdTWUk4M2xxTm40eDZfOXBGMzNMNF85SWVCc3Vja1BpMnFMcm9jWFdkcXJ5alNEaTUxbHNSY2VZdkpoV0hBMWdMcjQ2eVNnVmNQNm96bUlVcW9TMzhRRTRlOFVBdmVhNktJZ2FUaWxKSkY4VGZhZ0JGRDN3LVBzbVEwR2JnNkQtOWY0Qzl4ZFFHQXFW0gHiAUFVX3lxTE1WWlhxSjhxN3o4SUVNTXNIbEFZOHBUcU91aWtmMzVxMVQ5RGhOaHcyM09jeWpPTFNuM0xMbEdhUkVNQVBKXzA4YmM3NS0tTkRoRDNHeFpwSHV6dlA5Vm9QVmw1WnhZMGY5MVhWMnpBMXYyTUwzbzZvTzkxbHFwT2ZHUGxseWFKejlNZTVEUUZzbWdSSnpPS1Y2dVVOM2ExaW5ibURhU2lzZnd0MzUwVW5NWlZjbVRGZ0V2S3RaRXZhZUFVMExHSk1rYTF2OU43d0dsY0RWdV9STVBhT3htcGhRenc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-19-005",
+    "date": "2026-07-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "0UWA Bond Profile — Key Metrics - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1VcUpPV2lrdnpzZkVoLXFYU0V6UE9Zc1lHXzB1cnEtT2djQnRBYjBneTJZLVBBUVhXNzMydmJNcENuRUZrbjVuVEluMVF5VHBGSjV4LXRLLXJrN2pHSzBNVEJTQ2J6Ry11b2tiSU1tMA",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VcUpPV2lrdnpzZkVoLXFYU0V6UE9Zc1lHXzB1cnEtT2djQnRBYjBneTJZLVBBUVhXNzMydmJNcENuRUZrbjVuVEluMVF5VHBGSjV4LXRLLXJrN2pHSzBNVEJTQ2J6Ry11b2tiSU1tMA?oc=5",
         "type": "rss"
       }
     ]
@@ -968,6 +1062,27 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mV1NJbzV0YVM4SnJJc0N1OUV1b0xVQTliVDV1eFlyZF9aaDczZ0c3T2U1c2Yyd2FzQUtJRzFZSXRDbUFnZ2t2S2h2Ti1zVmNoQ19UbE1EYmxwSXVTRnFoVGVQRTE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-16-019",
+    "date": "2026-07-16",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Goldman Sachs Maintains Waste Connections(WCN.US) With Buy Rating, Maintains Target Price $211 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHdTZTV4VEFaeEJyd1hPNjVsRXhBRHdFcUlMV21FdDA2YlNGN2t5WkhyYzJMLVRaTGtCOXppbW00MGlKNncybWloS3JwUm9DZVN0cWZCdzZvc0tLLTd5cWxQVnY2ay1zWjFIYWRudH",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHdTZTV4VEFaeEJyd1hPNjVsRXhBRHdFcUlMV21FdDA2YlNGN2t5WkhyYzJMLVRaTGtCOXppbW00MGlKNncybWloS3JwUm9DZVN0cWZCdzZvc0tLLTd5cWxQVnY2ay1zWjFIYWRudHphaXRvQ2NxWDQ4d0REYjBQVTFwcWY3bG1rRFplc0NXRXJscDlqNUEzSF9GbEQyeEZsQlA5VlQ5WFZOcV9SbmhQQVhJbEJJQQ?oc=5",
         "type": "rss"
       }
     ]

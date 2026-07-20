@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-20",
+  "total_events": 4,
+  "by_company": {},
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "battery_recycling": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
