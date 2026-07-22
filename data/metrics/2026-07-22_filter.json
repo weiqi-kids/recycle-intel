@@ -1,0 +1,13 @@
+{
+  "total_raw": 285,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 2,
+  "gate2_fail": 2,
+  "passed": 12,
+  "gate2_samples": [
+    "Bottle recovery rates dropped in 2024, but other plastic rates rose",
+    "WM, Amp, Reju celebrate expanded facilities"
+  ]
+}

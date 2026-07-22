@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T10:21:40.608089Z",
+  "updated_at": "2026-07-22T10:21:36.250456Z",
   "quarter": "2025-06-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -41,17 +41,17 @@
       "name": "博利登",
       "ticker": "BOL.ST",
       "currency": "SEK",
-      "ar": 5391000000,
-      "ar_prev": 5558000000,
-      "ar_qoq": "-3%",
+      "ar": 4805000000,
+      "ar_prev": 5391000000,
+      "ar_qoq": "-11%",
       "ar_period": "QoQ",
-      "inventory": 27043000000,
-      "inv_prev": 24078000000,
-      "inv_qoq": "+12%",
+      "inventory": 32262000000,
+      "inv_prev": 27043000000,
+      "inv_qoq": "+19%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "glencore",

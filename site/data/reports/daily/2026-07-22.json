@@ -1,0 +1,267 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T10:21:39.511316Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-07-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra stock holds after latest earnings update - Ad-hoc-news.de",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd0NGWU5SSzQ0MGdWOFdkRHlPazRlSXpYRlVKS3lWZFZycWpXaG8ycnhjSWVUUGJGV1U4aUdSSmxVSDRUdHV4TFZnZUJyanZuT3hONm8zbWlqNVBlVXF4bzNhT2FwQklUOG1kZTVBUE9sMFYxVmdxeGVHRUJfVWJqNmpQLTQ1SmdFUWdxX29nTlhIdXd3TkhZazRBb1hGWWFYbXN0aVBtdlU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-07-22-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AIC Mines appoints Glencore executive as new managing director and CEO - Australian Mining",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZlBOeWRfajB0LUZkSktOTGdUWjZuR1p1eXdWU1p1LTlnUDd0cjVaMVY3ZlJVQkI1dmNZWDZrSlFiNFhyektVVW9IMmYyWml2Q3F5YWpyNmJJbmRFSTNtekE4cFdQejE5aUZWRy1SbGhIVkFWeHFINGpyLTZZXzg5WTR0U2VNZzZnd3Y0STIzbzFlLVhHTG5PelJrXzR3Vm84?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "veolia-2026-07-22-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia stock trades steadily as recent earnings highlight margin resilience - Ad-hoc-news.de",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVFJ6X2VMZGQ1SHlsRDJrN0MzUmJFS2dDWWplMC0xamhNLVRWWDFwZzFVNTU1SmFwcmgwQnBTN0ctYjAyeUtVRzVvODBuRXQwUVhVdXRkeng3LUd4ajJRSVlJb3ZPLV8yOFRRR3hmdGRoajJ0a201WDdwZHBkMTFGWmNQSG1uZlJNS3NtMTg3djFjYzBBM3hvY0JGaUNXYTMwOGhjM3pLRzBoNklYODBQWTVHU1VjZUlLMU9YN01VdkE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "boliden-2026-07-22-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Boliden stock trades steady as metals prices and recent earnings shape outlook - Ad-hoc-news.de",
+      "companies": [
+        "boliden"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3pVY1pKdmZBMmM0SEtIV0NtTm1hNDdtTVk4ZEQxbGIxWjVEZUhBM1VObm43YVJOc21aWTBsUkUwczhLSWhoYmhrS3ZIbVNOZWpscFRWakIwZ0ZaeGk4aWxwNXZzOEpIY2t3WUhhUDJRSzE2THVLblVxdU5iSlFYWUhxWGJqMURWM3hUM1VKTW1nbm53WUw5YVJNRWtOZEV5VDBDaEhYdkREMGFWY05ocnZwX1Z5RkJ5RkkxeXZ0bDNfNEx5bmNZUA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-22-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Circular Economy Act: EU eyes e-waste to secure critical raw materials - euractiv.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ewaste",
+        "circular_economy_policy",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeTgwVmhNUWNwVENQdDlOVzMzTUxsRmM1dGZfOS1BczFCZ3cyWldvWTY1SGFJZFNrQjdoVVpfbEVUaHRRQXB6eHFfWnU4LW1qWV9Ua0FpZGY2Rl9NbkplNDZyN1RvemIyLXJEN1hzQ2ZkRERqcVEwTnZvSUhfdmpxbDlTWC1qWHRHWkJ2VS1jSkt1N29FQUFUa0d5YmRuREliVVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ewaste": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "circular_economy_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 2
+      },
+      {
+        "id": "veolia",
+        "count": 2
+      },
+      {
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "boliden",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "ewaste",
+        "count": 1
+      },
+      {
+        "id": "circular_economy_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 285,
+    "dup_title": 171,
+    "too_old": 98,
+    "gate1_blocked": 2,
+    "gate2_blocked": 2,
+    "passed": 12,
+    "pass_rate": "10.5%",
+    "gate2_block_rate": "1.8%",
+    "gate2_samples": [
+      "Bottle recovery rates dropped in 2024, but other plastic rates rose",
+      "WM, Amp, Reju celebrate expanded facilities"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為嘉能可、威立雅、陶朗相關動態：「Tomra stock holds after latest earnings update - Ad-hoc-n...」。主要關注主題為產業通用、財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tomra stock holds after latest earnings update - Ad-hoc-news.de（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "AIC Mines appoints Glencore executive as new managing director and CEO - Aust...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "電子廢棄物話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
