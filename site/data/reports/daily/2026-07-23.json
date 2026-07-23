@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T10:15:58.846605Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "waste_connections-2026-07-23-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Connections exceeds revenue expectations in Q2 - Recycling Today",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2ZNZFIyVXMya2JYd3dvb2NIRkxFZEhfUGpZZWNMUXBpb21VM05nNUZmSjlhLWgxZzZrVGZyemFHU2htRFdTODVhaVVUQkVlVnQ3Y0RjQWV4bEVRb3RpOVg2NUxINDVTR1ZiYUdNd3pralMxNjRtQjRsWkUtUzlDckxJVWZCLVVlbDJiblg5dUJDZld1T21weDEyT1RmRGFfdF9LNGlUSWs?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "waste_connections-2026-07-23-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Connections Q2 FY26 net income rises 2.1% to USD 296.4 million; revenue climbs 6.4% to USD 2.56 billion - Bitget",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95eGRZS3VFN2RWZDV2N0ttYU1kRFZXR2ZBYkRyNnBYRGxoMk0xejFDUE5JcGZfazBzTjh6Qy1nNGVlaDVxRU50U1lROFN1RlZaaThFMnFIU2Y3TWN0RzF6cm92WdIBY0FVX3lxTE95eGRZS3VFN2RWZDV2N0ttYU1kRFZXR2ZBYkRyNnBYRGxoMk0xejFDUE5JcGZfazBzTjh6Qy1nNGVlaDVxRU50U1lROFN1RlZaaThFMnFIU2Y3TWN0RzF6cm92WQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 152,
+    "too_old": 103,
+    "gate1_blocked": 2,
+    "gate2_blocked": 1,
+    "passed": 29,
+    "pass_rate": "21.5%",
+    "gate2_block_rate": "0.7%",
+    "gate2_samples": [
+      "Bottle recovery rates dropped in 2024, but other plastic rates rose"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為WCN相關動態：「Waste Connections exceeds revenue expectations in Q2 - Re...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Waste Connections exceeds revenue expectations in Q2 - Recycling Today（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Waste Connections Q2 FY26 net income rises 2.1% to USD 296.4 million; revenue...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,47 @@
 [
   {
+    "id": "waste_connections-2026-07-23-001",
+    "date": "2026-07-23",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections exceeds revenue expectations in Q2 - Recycling Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2ZNZFIyVXMya2JYd3dvb2NIRkxFZEhfUGpZZWNMUXBpb21VM05nNUZmSjlhLWgxZzZrVGZyemFHU2htRFdTODVhaVVUQkVlVnQ3Y0RjQWV4bEVRb3RpOVg2NUxINDVTR1ZiYUdNd3",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2ZNZFIyVXMya2JYd3dvb2NIRkxFZEhfUGpZZWNMUXBpb21VM05nNUZmSjlhLWgxZzZrVGZyemFHU2htRFdTODVhaVVUQkVlVnQ3Y0RjQWV4bEVRb3RpOVg2NUxINDVTR1ZiYUdNd3pralMxNjRtQjRsWkUtUzlDckxJVWZCLVVlbDJiblg5dUJDZld1T21weDEyT1RmRGFfdF9LNGlUSWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-23-002",
+    "date": "2026-07-23",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Q2 FY26 net income rises 2.1% to USD 296.4 million; revenue climbs 6.4% to USD 2.56 billion - Bitget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE95eGRZS3VFN2RWZDV2N0ttYU1kRFZXR2ZBYkRyNnBYRGxoMk0xejFDUE5JcGZfazBzTjh6Qy1nNGVlaDVxRU50U1lROFN1RlZaaThFMnFIU2Y3TWN0RzF6cm92WdIBY0FVX3lxTE95eG",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95eGRZS3VFN2RWZDV2N0ttYU1kRFZXR2ZBYkRyNnBYRGxoMk0xejFDUE5JcGZfazBzTjh6Qy1nNGVlaDVxRU50U1lROFN1RlZaaThFMnFIU2Y3TWN0RzF6cm92WdIBY0FVX3lxTE95eGRZS3VFN2RWZDV2N0ttYU1kRFZXR2ZBYkRyNnBYRGxoMk0xejFDUE5JcGZfazBzTjh6Qy1nNGVlaDVxRU50U1lROFN1RlZaaThFMnFIU2Y3TWN0RzF6cm92WQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-07-22-001",
     "date": "2026-07-22",
     "companies": [
@@ -139,6 +181,527 @@
       {
         "name": "google_news_recycling",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeTgwVmhNUWNwVENQdDlOVzMzTUxsRmM1dGZfOS1BczFCZ3cyWldvWTY1SGFJZFNrQjdoVVpfbEVUaHRRQXB6eHFfWnU4LW1qWV9Ua0FpZGY2Rl9NbkplNDZyN1RvemIyLXJEN1hzQ2ZkRERqcVEwTnZvSUhfdmpxbDlTWC1qWHRHWkJ2VS1jSkt1N29FQUFUa0d5YmRuREliVVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-07-22-008",
+    "date": "2026-07-22",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore plans large LME lead withdrawals after stocks surge, sources say - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZGJaeXJRV3ExV2VjNjhXLVNKMjZiMVlMeWdVVkNhSGhXRlIzZmVjMHVhczVIYkdCcklsblI1TFNTdk53aGpac3hOeHR5WUZKZ1FSZDc5aUVxSEpxZ1JjSDliaUtnWUdXM2Rqeno5SV",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZGJaeXJRV3ExV2VjNjhXLVNKMjZiMVlMeWdVVkNhSGhXRlIzZmVjMHVhczVIYkdCcklsblI1TFNTdk53aGpac3hOeHR5WUZKZ1FSZDc5aUVxSEpxZ1JjSDliaUtnWUdXM2Rqeno5SVdrSTZwTnBFaFlua0lRa0JKMmdiV2xsOE55OVliN3kyLWxzT2lCSE5ENnROa1hBYmx3OXppREpEc3ViZllCbng0dU91UmZmS0NQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-07-22-009",
+    "date": "2026-07-22",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore plans large LME lead withdrawals after stocks surge, sources say - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQazVoYVhtbEN4bnB6eEJMdHNSbjZhakRFRGJSV00zcGY3c2k4OGtKOXltLXlvTUZCUGNmRWJ2VnhVWkRXMnFSb3BoZWYydk5KUHZ5d0NMd1hYWUJkQVFpMDFHYkFpZ1RnTGxEOTlhaH",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQazVoYVhtbEN4bnB6eEJMdHNSbjZhakRFRGJSV00zcGY3c2k4OGtKOXltLXlvTUZCUGNmRWJ2VnhVWkRXMnFSb3BoZWYydk5KUHZ5d0NMd1hYWUJkQVFpMDFHYkFpZ1RnTGxEOTlhaHV2eGVKT3NXb0hpRE9GbmprN2kzX0pYb1NRZ0gtTE81LVBqTU1fWFg3R3NsSW16TGxhQ2djUU9PQ1dMQVhzN0VvaGdUWFN6TjI3NkRyS2pGR0JtSlBqQ0FJaFpYNXZiajd5R2ZnRVZ2Mmk1QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-22-010",
+    "date": "2026-07-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Waste Connections (WCN) Surpasses Q2 Earnings and Revenue Estimates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVBrOHoxbDlVZ3Vyanc1NTZzbEt3MEFyV0dxbUVHSDlDSDh3RUpKT2VtOTN1UlBGUk5Mczd0TlVsWUlJVWFlZmJmbUFqNHZXWW9aY3ZJMF9hZEF1Wm1JMjJ6ZmhWeWg1dkNTdnh3bE",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVBrOHoxbDlVZ3Vyanc1NTZzbEt3MEFyV0dxbUVHSDlDSDh3RUpKT2VtOTN1UlBGUk5Mczd0TlVsWUlJVWFlZmJmbUFqNHZXWW9aY3ZJMF9hZEF1Wm1JMjJ6ZmhWeWg1dkNTdnh3bEV0QnhuRVM1RjA0cEhHN3dSVWppWHl3a3AwSnZvU3BkZ3duWU1CSlcxSTNXSWxiR2ls?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-22-011",
+    "date": "2026-07-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "circular_economy_policy",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections: Q2 Earnings Snapshot - kare11.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdTVnaExFaHhTZWdEUnk3RWFhM21ocjFRLWFLWUNGU3QzOWoyWnNpLTFkd1RnY25FN0l5RHlDSDNYLVRqZkw3d0k4QlctekNMZlFrbG9ab1lqMFVIUC1nbEprWk50OGxOQjRjMG9jWn",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdTVnaExFaHhTZWdEUnk3RWFhM21ocjFRLWFLWUNGU3QzOWoyWnNpLTFkd1RnY25FN0l5RHlDSDNYLVRqZkw3d0k4QlctekNMZlFrbG9ab1lqMFVIUC1nbEprWk50OGxOQjRjMG9jWnpCaDR4NFBKdmY2a3RBN1k1bWQ5RUQ3MVIwSHJPOE93SExUZlEzYk1DYUE3QVZ4VXFFT2RwdzdWd09PdGNJblJvY2VmcVB3X0REc3I1c1NqckhrNXJwaXBRQi0zY3RVTE4xb2NPLQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-22-012",
+    "date": "2026-07-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Waste Connections tops Q2 estimates, raises outlook as margins expand (WCN:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQTRjdElCNEpTWUl0Qy0teUh2R0toTWZRaW1sMDU5R0JmUGctVmxJdzNwZmQxc09FM1AyQ2lmYzVLMUVnMjROb1Y0Q2tpY3JtRzMxSGgxN3l1NXk1aU9RRGdjVkdUb3M3QmRUdnhPUX",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQTRjdElCNEpTWUl0Qy0teUh2R0toTWZRaW1sMDU5R0JmUGctVmxJdzNwZmQxc09FM1AyQ2lmYzVLMUVnMjROb1Y0Q2tpY3JtRzMxSGgxN3l1NXk1aU9RRGdjVkdUb3M3QmRUdnhPUXNfM3dxMWREcW4zYy1zUWZoTVcxWUZWY19BQmtoelNZZ0gzZW5rbG9zQnYtVllMclBXeFp6UG91UllOUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-22-013",
+    "date": "2026-07-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections (WCN) Releases Q2 2026 Earnings: Revenue Up 6.4%, EPS Grows 4.5% - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNUENJbGMzenVpTzZoSkpCMWRuc0lPa0NEdGhTd3d2T1RoeHE4bFZkU2lfdE1IUkNrSUhLUnZZM040OEdlRnVBUVRrczUzN0Z4dGlIWlg0eUNQYm9FWHpnXzFOemY1c3d3emFEcWRvV0",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUENJbGMzenVpTzZoSkpCMWRuc0lPa0NEdGhTd3d2T1RoeHE4bFZkU2lfdE1IUkNrSUhLUnZZM040OEdlRnVBUVRrczUzN0Z4dGlIWlg0eUNQYm9FWHpnXzFOemY1c3d3emFEcWRvV0E1ZVJjal9Pa0xsNHNObGcyRWRuY24xdzc2V3lFNy1UV3Yta1BDOW8wNXBWSGtudjJPYkpnX1ZnQnpEVG5IYmpTbVB6d3dXRWMxZjdwUFRaYl9nZTNUYWNYUFZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-22-014",
+    "date": "2026-07-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Lifts Revenue Outlook After Higher 2Q Profit - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRzNZbnd2OUlnOURheTRHY1lJRFdCNlFJdVM5RFYyUTFwb0s4UEk3cF9MUDlKanoyeTBRVXhNNzR5bWhQMWdULWpwVzdOQjVuOEFrSkhDT0JHU19Da093MnhMNzZtZE1zX1pJbThzel",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRzNZbnd2OUlnOURheTRHY1lJRFdCNlFJdVM5RFYyUTFwb0s4UEk3cF9MUDlKanoyeTBRVXhNNzR5bWhQMWdULWpwVzdOQjVuOEFrSkhDT0JHU19Da093MnhMNzZtZE1zX1pJbThzelMxa1laZHRFaWRrcFZmaW9YUjRvNE1fQjRLR25ScUR6WEdoQUt1VkpqczBZM2RMbVdhQXhSaVFYUGxsWlNVZVJBTm1GMnlZUDdmR18yczR1RUI3WjRTSUkzLTZyTTJoNWxvc2RveWtR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-22-015",
+    "date": "2026-07-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections, Inc reports results for the quarter ended June 30 - Earnings Summary - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLV9rUkU2RjlJZklmWllNR2E4QXNveUJlUlNmb05MX2VvdjUwZ0dSVUEyVV91bVNlRGNzLTUzQjdicndYZ0xBMjFtb2U0LWtjclN5VGpSNm1aaFpMc2tvZ3MtVEZ6OTlWZkc1aGU2SG",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLV9rUkU2RjlJZklmWllNR2E4QXNveUJlUlNmb05MX2VvdjUwZ0dSVUEyVV91bVNlRGNzLTUzQjdicndYZ0xBMjFtb2U0LWtjclN5VGpSNm1aaFpMc2tvZ3MtVEZ6OTlWZkc1aGU2SGFxNlg0NFpLSnFxb2xYemhvc2lxV2NzZS1KVFdNVElUdW10VDRwWHgwekJjRk1RS2VmcXRUa1ZTWmprRGtrRDZYWEhLSDhrRlc5TGxweUZwQmIyNXFCcTF5c0hEM0JhVlRjZ2pVZHBLOUdtc2E0bEgyWnJpZzdOd0RKSHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-22-016",
+    "date": "2026-07-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections earnings beat by $0.14, revenue topped estimates - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxORUhtbHc4OWYzZms1dGpkZkZLTFlFWnVDQklaenZfNnYycjYtdzVkajg1SzZBekxaUzladnhORlI3dy1kbzZWWXpQSk5CdjhWZkZqU3pYYVp2SkNKc1RMNXhXa2o5ODhtQnY4SmZhd0",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORUhtbHc4OWYzZms1dGpkZkZLTFlFWnVDQklaenZfNnYycjYtdzVkajg1SzZBekxaUzladnhORlI3dy1kbzZWWXpQSk5CdjhWZkZqU3pYYVp2SkNKc1RMNXhXa2o5ODhtQnY4SmZhd0o2dk9NbDREVW1qaUdZY1g0LVFBU0I2LVF2US1PaXIzeWRraEI3MllzbExjZzZ5dDFfaUtPbU1xX0VzalIyNVM0TA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-22-017",
+    "date": "2026-07-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Waste Connections Repurchased a Record $614.5M in Shares - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWRDN1VIWXdvVVJodXNBaWtKRDhRS29LM1VFWnNxQUU2SDl5Z2w1ZVZ4NGxxRnFjTUhlZmttODhhMkV4LUlRdm9jMzNESmlsXzNUOHQzWmhjaXNjbHI4U3hBcDRSZ3BKTFk5QUZTaV",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWRDN1VIWXdvVVJodXNBaWtKRDhRS29LM1VFWnNxQUU2SDl5Z2w1ZVZ4NGxxRnFjTUhlZmttODhhMkV4LUlRdm9jMzNESmlsXzNUOHQzWmhjaXNjbHI4U3hBcDRSZ3BKTFk5QUZTaVhzeENZcm0yNmVTNzFhMGxhaUhkeGthZ3p2LVNaQkJGSVN0RGZ2OUd2dnBvZ3EwNXBQTlhIN3NpbmNUVllKZ3NIdmdPMFdWQ0JSLXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-22-018",
+    "date": "2026-07-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Lifts Revenue Outlook After Higher 2Q Profit - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZVpGaUl2Q1NOX3NWLUIyU2ZSLVByekJzb3JiNW0zMU1EcVhISXpqdlBHajExNDJRRXZuLVJrT0NraXBqWGJrQnl6LXJpWlV4c1hMeUg3VHd6VjNMY2dDQVRQbzdQLU4ycnBIU0hKeH",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZVpGaUl2Q1NOX3NWLUIyU2ZSLVByekJzb3JiNW0zMU1EcVhISXpqdlBHajExNDJRRXZuLVJrT0NraXBqWGJrQnl6LXJpWlV4c1hMeUg3VHd6VjNMY2dDQVRQbzdQLU4ycnBIU0hKeHlWMHpvMFlRRDZ6SE9qb1hzSkNNR29MM25NUWdoS09kVzZFSjFyY1YtQWQ3anZ5WFU4UWZHcmI2SE96RU9WTnQ4dW92Y2I3UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-22-019",
+    "date": "2026-07-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Announces Regular Quarterly Cash Dividend - FinancialContent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOMUxDdGpURHl6UURzSHhCaFZlb081eThnb0lmQ0ZGQnBDTEVzc3QxM1JaYkZIMmxOSlc5d1o1cEM1djJaRGxyVUVheUlMajN5MDNDWEFBMS1NLUxab0NxV2pYaHBYSFZzYUdPYTF0aT",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMUxDdGpURHl6UURzSHhCaFZlb081eThnb0lmQ0ZGQnBDTEVzc3QxM1JaYkZIMmxOSlc5d1o1cEM1djJaRGxyVUVheUlMajN5MDNDWEFBMS1NLUxab0NxV2pYaHBYSFZzYUdPYTF0aTAwaW5ZVnZxUWRTdjV1RHN6bXRpcGhQWUNqb3hIVU9jaks4c0VFaTltVUxsemMtLVRmVERMZ2VSX1BLMXNJWWdYSkRweEJYbWx1d3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-22-020",
+    "date": "2026-07-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Posts Higher Q2 Adjusted Earnings and Revenue; 2026 Outlook Updated - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSHVfUkVzY3hoQnJJTEtBTE9fZmFxUE1CcjVCLV9kZnBHZUpjMWRtN2F5VXBsblFvSnBtSlhETnFRenpaOE1xenM1QjhLVVlZZ2dmVUhJRjJQcERDZHR1ZzdaMFpvY3dwLUgxTFNfdE",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSHVfUkVzY3hoQnJJTEtBTE9fZmFxUE1CcjVCLV9kZnBHZUpjMWRtN2F5VXBsblFvSnBtSlhETnFRenpaOE1xenM1QjhLVVlZZ2dmVUhJRjJQcERDZHR1ZzdaMFpvY3dwLUgxTFNfdE5yNjdmb1hHUW95NVJWS1IyRkxrT3hHWFBsRVVKbEJKNVY3OW9ud1VsbUZjY0VNc3F5UE9OSWlBak50R0w0OFNfRUs5Q3gtUXY5R0NnS01YQkZKNWNwS2hZa0M0ZXpjZ28xT0MwSjlaaGFuZ2xwaVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-22-021",
+    "date": "2026-07-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Posts Higher Q2 Adjusted Earnings and Revenue; 2026 Outlook Updated - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYnJZY0d5NnlHeFVxTFp2SlE0OE5wNUJsWWtJNkt5S0lNNWlVUklOMFp0OXg5b2FoQzRNN29VdTgzSUVRTGpyTjJpRWxDUHlmWW03UFZFMXI0Vl9nMGpLWEFHc0dtNmhVMExCbzZKSD",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYnJZY0d5NnlHeFVxTFp2SlE0OE5wNUJsWWtJNkt5S0lNNWlVUklOMFp0OXg5b2FoQzRNN29VdTgzSUVRTGpyTjJpRWxDUHlmWW03UFZFMXI0Vl9nMGpLWEFHc0dtNmhVMExCbzZKSDNpTjFtTS1UZk5WSm1kLTBDczdjYVB2c0R4VXpmYVFBc0JNVEVNY0pZcUFJSmN0cVQ1MUp1SlFFRUlfOFduYXRxUEFTUVc3MC1Ec05MQjBJTGs1a0JWenc4MThsek5yaGE3dUI4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-22-022",
+    "date": "2026-07-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections (NYSE: WCN) raises 2026 guidance after Q2 results above expectations - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGFUS2tPSU9jSG13akQycDhjMncwQk1KUjNyU0hxN19LWXBHLTFxalZKRURUS2lLT0JYMVE1NDM5NkVpdC1yT0lBMzViWDlBT1luNFQ4bXFpM1pZMU1qaWlHSWxWeU1xWURBbF9tc2",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGFUS2tPSU9jSG13akQycDhjMncwQk1KUjNyU0hxN19LWXBHLTFxalZKRURUS2lLT0JYMVE1NDM5NkVpdC1yT0lBMzViWDlBT1luNFQ4bXFpM1pZMU1qaWlHSWxWeU1xWURBbF9tc2JDT0I1VC1GWkRtaTBjdjhPWU9rZFNqZ0RCLUMxV3ppN25KU09NUzBoWGFqY3lucmRETzEzMEhVVkZpeC03Smc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-22-023",
+    "date": "2026-07-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections declares $0.35 quarterly dividend By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOYy11UGRjTFNBLTNjV0hPWHpQOGE3RmFHTEVlWWhrZHFkbnp1SFV2Ynk4TlNidldjY0lFamhkUEc4NWFWLXdWTm12VlpONWFZREtOdVptdTR1YVFYLW5lY0ZzbGpZZ3RzTmozZ0gxTk",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYy11UGRjTFNBLTNjV0hPWHpQOGE3RmFHTEVlWWhrZHFkbnp1SFV2Ynk4TlNidldjY0lFamhkUEc4NWFWLXdWTm12VlpONWFZREtOdVptdTR1YVFYLW5lY0ZzbGpZZ3RzTmozZ0gxTk9iYTNRbDZGUmtGVG9xR1ZTdURXaDJ0YVlVMVZWOW9qU2h2NEctR3NGU2ZvZ3VoY1hnazZ6RXZDeGJMOHpzazhJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-22-024",
+    "date": "2026-07-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections, Inc. Raises Earnings Guidance for the Full Year 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ194eWl1LWRYTEpWR2xRbUxxVmVNQWJmbWdJS1lESVJVTXJoWHlzWVVjSi13Sno4TVNkMXdQR1Q5WWZhaVZsRTloV1pHWVAtU3lDT1lQNDJ4MVo4dUtQTFRnX1ZtQkx3NkJ4bWQ5R2",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ194eWl1LWRYTEpWR2xRbUxxVmVNQWJmbWdJS1lESVJVTXJoWHlzWVVjSi13Sno4TVNkMXdQR1Q5WWZhaVZsRTloV1pHWVAtU3lDT1lQNDJ4MVo4dUtQTFRnX1ZtQkx3NkJ4bWQ5R2tlUlE4bU53ODJaaUhucktvYW9KN2FYWDZyeEswZFZ5cDZSQThjSHJhR1U2dGkyVHQ2RnUyQVc2dlF0cDZ1dXFGa2h2S0VNWGZ4elZCVUk4bw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-22-025",
+    "date": "2026-07-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Flash (WCN) Waste Connections, Inc. Posts Q2 Adjusted EPS $1.50 per Share, vs. FactSet Est of $1.36 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWm4xYXlSN2RaRnpLZVRQLTR5Zk0wRXZ0Qld5bUNKWV80QVZOWHRGcWNKYkJGcFhSS1VLcGUxR09kZXludm85RV9VZWx1Si1NM3ZoVDZkUVgteVVKTFlsRk9zZ2JOaERKcWcyMFd3V1",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWm4xYXlSN2RaRnpLZVRQLTR5Zk0wRXZ0Qld5bUNKWV80QVZOWHRGcWNKYkJGcFhSS1VLcGUxR09kZXludm85RV9VZWx1Si1NM3ZoVDZkUVgteVVKTFlsRk9zZ2JOaERKcWcyMFd3V1Z0aEQwN2pXUlBSRmJRd0pybllvbDlPa1Zvck1WUDhNc05wcmRGSHZRYk03cVJYRjlFWUlaOHlpbkxGVGY3UmpRRFZwVGkzdjhPcXNJMXU2ajQ5NC1jdXBhOGFiYzFUWC1xMTl2MEF6STZuQi1qUFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-22-026",
+    "date": "2026-07-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tranche Update on Waste Connections, Inc.'s Equity Buyback Plan announced on July 24, 2025. - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa19iUFdnTkxBYzdYcmdPeXhIZy1IeDRDYnFJOWNadXBmWXJQNXFpVE5CWTRRM0szSE41NzBJSk1xRXRCRnJWYjlDNmNyQU5mZXgwbUoxTFRxN01vVWo4b2FibXN4ZGxlaWZMN05FSU",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa19iUFdnTkxBYzdYcmdPeXhIZy1IeDRDYnFJOWNadXBmWXJQNXFpVE5CWTRRM0szSE41NzBJSk1xRXRCRnJWYjlDNmNyQU5mZXgwbUoxTFRxN01vVWo4b2FibXN4ZGxlaWZMN05FSUlXbE9hSW9JTU1oeThUbjRHTDFDclZlbXpTZFZaWVBZblc4eTlvTUpnM2UtcXJ4UGdsemdrOE5LdFJIOWg4eE9MTVJZS1ZYZHN5dGpIdHI4TDItck41dE93MTV4TzV6dWc5cy1lVXBVMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-07-22-027",
+    "date": "2026-07-22",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology (NASDAQ: ABAT) grants 8,334 shares to ex-officer - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnNQQ0Zlc2l5a3FXUlA3dEhXa054bUZSaGVLTklHNGNvTHR0UXNuTDJWN2huSktSOElPRkFfMmNaNUxidFRyVEhWOElRcWEzcVBSZ25GcFZGWVU2NHBaaDRXbVFscmV0X3lvY0o5RE",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnNQQ0Zlc2l5a3FXUlA3dEhXa054bUZSaGVLTklHNGNvTHR0UXNuTDJWN2huSktSOElPRkFfMmNaNUxidFRyVEhWOElRcWEzcVBSZ25GcFZGWVU2NHBaaDRXbVFscmV0X3lvY0o5REljXzR0T1IwamVVQk5aajBrWF9nb2UtdTQ4NjdZdUYwdTZlY2R1U3VHVHRabG4tUWlDckxOMDR0SUVtWFpXN3JRU3V3ZmltNFV6cjVyR0JWdHZldw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-07-22-028",
+    "date": "2026-07-22",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Form 4 American Battery Technology Co For: 22 July By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2d1V3p3TXpiLWZaSEhFV3dFak1uMTIwWGNLTVJ3dHExSW5iSWJZamF3amdiRk0tTzlEUXlrTmhqcWpUa21SZjVHcjFiUHVBMy1sWHBVWjYyRlRGbnQ1cjRFa3pRWldMWDFUOFdsWH",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2d1V3p3TXpiLWZaSEhFV3dFak1uMTIwWGNLTVJ3dHExSW5iSWJZamF3amdiRk0tTzlEUXlrTmhqcWpUa21SZjVHcjFiUHVBMy1sWHBVWjYyRlRGbnQ1cjRFa3pRWldMWDFUOFdsWHBRSFg4enF6ZWZNRzNtbmlaVm9xUzZqUXFudU53ZXFsSGZXa3VCaHJjQksxUWJVZ1NMeXBxeFpEM0hyRUU3VHZN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-07-22-029",
+    "date": "2026-07-22",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology Co (ABAT) CEO gets 20,834-share award, sells 7,780 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX3lUUE80T3VEc29UWkZISnl5LWROWXY4TXJwQXlDcVFud0pxeG4wUXMxMUNvdUhkV1JPd2JvUWQ4bm9JZ0NpWkdGQnBlSDU1ejJxZWNnVWUxV2FCN1hOUnBJTjNKMzBueHNMSE9LS3",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX3lUUE80T3VEc29UWkZISnl5LWROWXY4TXJwQXlDcVFud0pxeG4wUXMxMUNvdUhkV1JPd2JvUWQ4bm9JZ0NpWkdGQnBlSDU1ejJxZWNnVWUxV2FCN1hOUnBJTjNKMzBueHNMSE9LS3AyYTdZQnpHVHl1WG9qdldpdnE3RFRMdG5KWXlvS3psWEFMYWhPXzdFZlZNNTMzTUtyaXFJYUlGM0dCWkNYNDNvbWc5VzU5UFBxRVZCWXVFZmVQUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-030",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ontario weighs new support for WTE amid disposal capacity questions",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/-SFHixHaEJ7DtLUMqVKoxwT4W1dt8Vh99SGDiVu3GxQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9WZW9saWFfQnVybmFieV9tYXNzX2J1cm5fcnN6",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/ontario-renewable-energy-from-waste-incineration-proposal-reaction/825872/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-031",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "OCC price increases evoke divergent effects across value chain",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/U1WLbrSwpw9OoBsxgXxbqZrldW6C8eSkpp2M3q_MwJw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTcyMDQ5NjUyXzIuanBn",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/occ-price-increases-evoke-divergent-effects-across-value-chain/825886/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-032",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Colorado Thinks It Found The Answer To EV Battery Recycling's Biggest Challenge - Engadget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5mazNoZExuaFZGSFlVUnF5aWNROFF1NjlCZVNmNGhFZ3g0eDgxX18wWk1SaW5TbmlPSnM1Q2RjbHhnZXlBaTMxWGdoYmQxMHVKaWc2SjVXbk10OElOQlNsX0Zjel9jbXZkVkJkQU5iaU",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mazNoZExuaFZGSFlVUnF5aWNROFF1NjlCZVNmNGhFZ3g0eDgxX18wWk1SaW5TbmlPSnM1Q2RjbHhnZXlBaTMxWGdoYmQxMHVKaWc2SjVXbk10OElOQlNsX0Zjel9jbXZkVkJkQU5iaURTRTNjc0E?oc=5",
         "type": "rss"
       }
     ]
@@ -798,6 +1361,25 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTT2lJLWhzUmgwSHNtWHhTWEdFVzZQUEl6SjEzSXo4cnk4bUs0b245R3hHcVBKRWJFUFNVUWN5RHNXWnZCZlNncEVvNjdOSE1oQjlaZjV0V3IxNWZtTFlsd2MzM19xZ1hwdE9CQXQyQU1JZGQy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-18-006",
+    "date": "2026-07-18",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VIEAD Bond Coupon Profile — Rate & Payments - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1tTmJNUHNUUUk4YmFMVTlxQ3NSSmJ1ekx5bWtTVkwtQmtWeVdyanhZeUVrOE1LQmRFZ0hlcmFUdnpUUUIzTXF2a2huclpZVnpYb1BsTnBzN1lvQmYyRWU2Q2JXUS1nTE9MRDVoNXpaMz",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tTmJNUHNUUUk4YmFMVTlxQ3NSSmJ1ekx5bWtTVkwtQmtWeVdyanhZeUVrOE1LQmRFZ0hlcmFUdnpUUUIzTXF2a2huclpZVnpYb1BsTnBzN1lvQmYyRWU2Q2JXUS1nTE9MRDVoNXpaMzVLaGJo?oc=5",
         "type": "rss"
       }
     ]
@@ -1665,6 +2247,27 @@
       {
         "name": "boliden",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMkE5WkhwbndJbFdsZDFESUZXZllCbVphRHRmNmpxNEU5RnYyYmN3QUpRRVh4aDVGMTNfRFNrN1VHYTdJQjhRQlFhX3NkdzVpYlpfYnlrNnpYR3poQXk0TDNKY2xuOGh2RDhDT1htNnRYWTJCZk9mNHJ5NG1PMktidnpGQnJ2ZklKV3BXN0ZWV3RNVVJXYUlYYUpuOXVvYnBiS0RpR3EwU05UY0kzcEp5NVpPaU00d0g2V2pkQ1lfVzFNZE5ZWlpJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-07-16-021",
+    "date": "2026-07-16",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Tomra Systems ASA (TMRAY) Reports Strong Q2 Earnings with 24.6% Revenue Growth - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVU5xZWo5ZFl2RGVtcjFLWFhCN25Ka1hrVzlkX3dVMXY3MHBVRFZlN1ZQVkh5V0N3STg3clJackNUMkpoX0c4VzVkNXhHLTdPNGRJRzdybkhSWl91RHVBRGtoOFhlQVVUWVQ2WHlsZE",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVU5xZWo5ZFl2RGVtcjFLWFhCN25Ka1hrVzlkX3dVMXY3MHBVRFZlN1ZQVkh5V0N3STg3clJackNUMkpoX0c4VzVkNXhHLTdPNGRJRzdybkhSWl91RHVBRGtoOFhlQVVUWVQ2WHlsZElBMjlLejYwZHlvS2JRM21FRmhTblBNMmt3d1RoWGw4TUFfM1hDak90bTNJaENocGIxVlFkQ2xhTmJRSnlzSG4xMHBkOXZnRFN2eUdYR19LMWZlTnRjMGtuT2Z2ZWhkSUNxM2JaRVh0UGVhTl9JRDlRMm9uTHc5dllVRUZyNEh1bFlyRXlYV0hPcUhNQ0Y1WXJiQ2cxTk5Nc3ROeU9WWVVXOXpPN043TG1aWnI5U01janN0YWNUYVRMU2N2aS0xc05XejJKb25FWTExVXpvbFV1ZVVQeWZSbVJOT2JrNHVOV19JRlhockE?oc=5",
         "type": "rss"
       }
     ]
