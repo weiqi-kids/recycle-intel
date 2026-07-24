@@ -1,0 +1,12 @@
+{
+  "total_raw": 286,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 1,
+  "gate2_fail": 1,
+  "passed": 22,
+  "gate2_samples": [
+    "Bottle recovery rates dropped in 2024, but other plastic rates rose"
+  ]
+}

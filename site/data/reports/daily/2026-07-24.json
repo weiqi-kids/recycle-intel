@@ -1,0 +1,176 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T10:12:33.026543Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "waste_connections-2026-07-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Connections Q2 Earnings Call Highlights - Yahoo Finance",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNnlmaE5PR0Z0RzQzMmljanBkQWxueFo5bnI3MmdjMzFBNUNzVVFoOVVTS2pDRlZLNk5XeUl4ZjRkUm1pazFFYTZPRWl6RzhOQlYzWDlhWHdyb3JCRV9YbC1mTi1fSldTdzA3cVh4dkwyb1NPYjhVTjZtY1RmWXhIN2stZXJ0cEtkeS1iSzA5MWU1cU1QcV9KcEFidjlJMU5H?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "waste_connections-2026-07-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Connections (WCN) Raises Full Year Outlook After Better Than Expected Q2 - simplywall.st",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU1dYNGdpd0I4dml2YmNMNlI4aXFCcXMyajJqeXhFY1JVZTV5bXpzVEtQT2Rnd0VQQlMxajVBeGt3QUJpNlVHWGxUSG96ZmJuTUR5R0pid1VrY1JKZjRPMkxOQ2ZJcy1HLWhoLTV3RDdpcjR5U3dNV3ZpVmhnX1pOLXh2WjF5Ukd2alVvemxvU3l0cS1KckY2elgwTW16alhwQUEwUlJLdWl6cmE2V0tVenVOOVl4bFlWVTBYQ0xVNnBUNzdSQWZrMkdNeGxQaXE5dFE2TlM0RGtBekHSAeABQVVfeXFMUFNGU2NxZ2sxN1NpY29TN3hxQk90ZzFUak9yZ2NMSkpGS1VJSjZieDhkb2ZabmpEWThiR08zbW9UOWJRVGRRem05S0dnNVZsOHZCTWhsR1YzQTl5SmZyVXJPZ1hHeDlFSUxrWXN1bS1UcVdRWG5XVUllenFzcE5Mbk5JTmhYOERId2UtMmd2UGVFQUJYcUtjcFR5Q1VXOXVtdGZFSzlsS1htN2N6TElfaW9Uazk3TVEtaTgzMEp4Q0lodTk0QUlGUXpBdHI0alVRZGNRX1pLdGM4czEwMWhVWVk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "veolia-2026-07-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Veolia Recycling Box - Veolia Environnement bets on smart textile returns - Ad-hoc-news.de",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOalkwYnVmeWpCaEQ3OXNMd0ltbXRGX2JSaERsQjVWQ2dvcFAxcmFUMHhORHRJMTl1cXJNamRNNnNnRktvOGVkTEt4QkQyTVZ1c01qNi1qUWE1SnNwQUNBWHpTM2xSV041YWM4cHdQNFh1LWJ5eF9aOTg1Wld4SzRBdzFRV1BVTnFQdVJxQmtfVkJscktsR3NLT0Z0U1p6cWlyWUpCYW9JRngxMWgxWnJWOHV5aFgyMk1fcXlHek1UU1ZZbV9SeFRKSg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 2
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 162,
+    "too_old": 100,
+    "gate1_blocked": 1,
+    "gate2_blocked": 1,
+    "passed": 22,
+    "pass_rate": "17.7%",
+    "gate2_block_rate": "0.8%",
+    "gate2_samples": [
+      "Bottle recovery rates dropped in 2024, but other plastic rates rose"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為WCN、威立雅相關動態：「Waste Connections Q2 Earnings Call Highlights - Yahoo Fin...」。主要關注主題為財報、產業通用、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Waste Connections Q2 Earnings Call Highlights - Yahoo Finance（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Waste Connections (WCN) Raises Full Year Outlook After Better Than Expected Q...（財報、展望、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
