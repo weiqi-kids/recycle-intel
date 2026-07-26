@@ -1,0 +1,107 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T09:55:09.065671Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "waste_connections-2026-07-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Waste Connections Inc (WCN) Undervalued After Q2 Earnings Bea - GuruFocus",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRXhlMmZmcmZDRlVfZXlKS1dqZ0J4WUF3SWRyd2k4XzdYWld5TFJpejduVG1XaUJqWDlWcUdBUi1ITTdDSk93X2thVnprUC15UVlOSGhyNTVFN1JJYXpHaGt6NjFHbnJZM3RkTElGN1phOFBSVnJLaUtFc21FVzliUmcxMzVUMF83VEtQY3JMa3FaLS1YamxKakVhbHczX3JZZ21mRS1fcUdiaml2SE9fMzhYTzViNUF2Y1F1eXlmcXZnY3dXRF9hVHNEME4wbm5SeUs2bDdfNkg3d29iMXo5c211ajdlUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 288,
+    "dup_title": 170,
+    "too_old": 109,
+    "gate1_blocked": 1,
+    "gate2_blocked": 1,
+    "passed": 7,
+    "pass_rate": "5.9%",
+    "gate2_block_rate": "0.8%",
+    "gate2_samples": [
+      "Bottle recovery rates dropped in 2024, but other plastic rates rose"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為WCN相關動態：「Is Waste Connections Inc (WCN) Undervalued After Q2 Earni...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Is Waste Connections Inc (WCN) Undervalued After Q2 Earnings Bea - GuruFocus（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "WCN為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
