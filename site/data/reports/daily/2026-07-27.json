@@ -1,0 +1,183 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T11:15:31.544632Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-07-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Kinshasa Stock Exchange: Will Glencore, Gécamines or Mutanda ring the opening bell? - The Africa Report",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTFRWRVBlWDUteWxETjdBcHhqWFJLekV4dm9wY3FWdktVSnA2Zm9KeXZIMFZzb1ZWaEV1SUNoWUtFNWdjLTU0OXo3dmxHQ0dWUGxOT3dUN1M0anRKREFNbjVlaUdaSXFqWFY1SEdTaUd5LVh6aTZXTF9ZZ0l3amZka0NZcGJabkI3UXBtSWxzdHNuTG1iN2w5a2FJZnRYSUJQbkhNYXU2NThXb0RLejQ1czhodERadHp0TEpuVg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-07-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RBC Says Glencore Could Gain From Tighter Gas Markets - Finimize",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEV4LVRzcjJJdC1YYXczdmNIMXpiWEpwNzJOY2FaSVIzTE5VR2N5RGI5MElSX1hVODgwY0t2WVk0bkZ0ZzFqeUhRMG13YUtzeF9qRmQ2aGRib3lsanktdXpqUGtRX0M5R0MtRlpzMFV5d2RNMUZUdWRIZmtFTWxDM0lzU3IxTk4yeGc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "waste_mgmt-2026-07-27-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Management Earnings: What To Look For From WM - TradingView",
+      "companies": [
+        "waste_mgmt"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVhBWWtqR2FiUnJ1Wlo1ZzgzeTVwZHZhMEtLQmU1VEgySzVZek1BeTR3ZVpDZDB0QWlORFJleGJ6S2JzaVNzRHU0cC1Sa0dUMGZWRVhLR0VUdzhuTi1xNndBUVhUUUZIWEd2LXM4TlQ3TjZmamFOc1hrejFwRUNyaVJ4Tlg3N3lhM2IyS0EyRXRhVXAwZmlwM3daeTgwQVR1UHczSXJ6cW50UGR0Wk9tbQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-07-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Weekly Recap: DRC 10% Local Ownership Deadline and Glencore Lead Pullout - TradingView",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUk93aE90VW9BRFdwbFBsME5TNm9paEVMZXF4YXhQcG1yUWY0cF9Pb3hVLTlJQW5OWmMzVGN1V3FtcGIyVUJpWmtPV3E1V3pzSTVLa3pwcHlSWE1fODcxMi0wRS1OdmhlSFhlNWpkOXhuVTVJRUJ3eUtleVhSSHBsNlBzaEhxRHBOLUJROUhXbm5nVDRkTDc5M1BUUDhaVWxubEEyYWZDemQybjRVNmJTaFg1elJOR3lQRzd5UmxYdjM1c253eWNDN2xuNm8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 3
+      },
+      {
+        "id": "waste_mgmt",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 164,
+    "too_old": 108,
+    "gate1_blocked": 0,
+    "gate2_blocked": 1,
+    "passed": 14,
+    "pass_rate": "11.4%",
+    "gate2_block_rate": "0.8%",
+    "gate2_samples": [
+      "Bottle recovery rates dropped in 2024, but other plastic rates rose"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為嘉能可、廢管相關動態：「Kinshasa Stock Exchange: Will Glencore, Gécamines or Muta...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Kinshasa Stock Exchange: Will Glencore, Gécamines or Mutanda ring the opening...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "RBC Says Glencore Could Gain From Tighter Gas Markets - Finimize（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
