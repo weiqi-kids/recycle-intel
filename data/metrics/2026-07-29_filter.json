@@ -1,0 +1,12 @@
+{
+  "total_raw": 285,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 0,
+  "gate2_fail": 1,
+  "passed": 33,
+  "gate2_samples": [
+    "Glencore: Trading made a killing in H1; attractiveness remains intact - marketscreener.com"
+  ]
+}
