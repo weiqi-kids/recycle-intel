@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T10:21:03.007877Z",
+  "updated_at": "2026-07-31T10:34:10.499786Z",
   "quarter": "2025-06-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -194,17 +194,17 @@
       "name": "廢管",
       "ticker": "WM",
       "currency": "USD",
-      "ar": 3372000000,
-      "ar_prev": 3435000000,
-      "ar_qoq": "-2%",
+      "ar": 3495000000,
+      "ar_prev": 3372000000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 235000000,
-      "inv_prev": 225000000,
-      "inv_qoq": "+4%",
+      "inventory": 232000000,
+      "inv_prev": 235000000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     }
   ]
 }

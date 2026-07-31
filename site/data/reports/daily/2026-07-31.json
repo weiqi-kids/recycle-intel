@@ -1,0 +1,198 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T10:34:13.737696Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "abtc-2026-07-31-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABAT|American Battery Technology Co|Price:2.045|Chg%:-0.005 - TradingKey",
+      "companies": [
+        "abtc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCSnNrNkhiSk1nVldTWWg1cEJfcE12TnViZDdFNFVyTzV0WXd6aDN6c0hvXzJVNnhSOXRhN1hDaEhIWkROVDV2ajVCYjBEQ2J5X2FlUVhnVGVrZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-07-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Orion Minerals expects first tranche of Glencore prepayment facility to be available end-Aug - Mining Weekly",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNE5mTlF2MkUyNDJCVzRZMjZmWHVWUy01NHRvbE1wN3E1MEVoMjJYZjZXdGh5MGZEUUFzdkpHNGphWi00Y3ZqcldfRlM5aVdwWVhaYlFvNm1jU25WRndYM05kektKbEZpZlhnTk5rSXJmcnhPd3RUTWRxdW52NU5pSjUxZUNPejdtQmpDRmRhbzJrYW9XN2RzejlCRkZwSVRhZG1VR05oSXZhREhDelNFTktYTWpxam10S21mUk5waHl0Ql92c25YNG1TUktqdHdEU0wwY0t6RQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "waste_connections-2026-07-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Waste Connections (WCN) Insider Sells 2,811 Shares: SR VP, Deput - GuruFocus",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzZoWUFfUkpjMDhpc0lUenZjWHczcXRKa0lidlNCWVlGMXlvb0JSS3hzcUpVRm1xMGZIdzFKcXNLV1FuODlBZ01xOVl2UzlXOEhqVVJlbDhsODZEQkcxNU84N0Y5bzEyZ2djRW1MM3FhaUtEV3NGVGVVWXhzVklyU0NZLUhaU1lpaXJhSHZNMVZ1eUpqSVd4cWlMcEh0OEs1OUthYW0zWjZoVU14ZlBrVXU3WkZ1LTRZM1VWS2puM19yY3NTU1RKOFVnTDByNkF5WjFKOTMza1dBanJJRjlN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "umicore-2026-07-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Umicore rises as metals prices lift H1 beat, higher outlook boosts shares - Investing.com",
+      "companies": [
+        "umicore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMWZ5c1M3RHlzOXZIUzQxOHVzWFowN3FHb19SYkJEMGY4RHh4dUozN0FOanhFYndUUDlUQUNud1Zkak1OMWZVUWxEcWtYeW1RUHZ0VlpQSWs1VmdKZU5Xc25MdmJveWMxbTk4Y0RURHduNXh1cEJsSzJSQnNqUXhLdFk1U1FXQzNmM1hlNEVLVGh6MjRiaEE4TGd6ZU92Qm9XSnU1a3g0SnpjTENaT0hxSVYwbHFyWnV1dXpsLWRrZTdEUXFMeXJV?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      },
+      {
+        "id": "umicore",
+        "count": 1
+      },
+      {
+        "id": "abtc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 140,
+    "too_old": 119,
+    "gate1_blocked": 1,
+    "gate2_blocked": 0,
+    "passed": 26,
+    "pass_rate": "17.8%",
+    "gate2_block_rate": "0.0%",
+    "gate2_samples": [],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為嘉能可、WCN、優美科相關動態：「ABAT|American Battery Technology Co|Price:2.045|Chg%:-0.0...」。主要關注主題為產業通用、展望、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ABAT|American Battery Technology Co|Price:2.045|Chg%:-0.005 - TradingKey（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Orion Minerals expects first tranche of Glencore prepayment facility to be av...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
