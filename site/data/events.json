@@ -82,6 +82,24 @@
     ]
   },
   {
+    "id": "unknown-2026-07-31-005",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "circular_economy_policy"
+    ],
+    "impact": "negative",
+    "title": "NAW files lawsuit challenging Colorado EPR law",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/8Oqaf7cZF9ztxsvFb3WzOOohXDHlT49-oXjIr6Sqjus/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODMyNzI0NTAuanBn.web",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/naw-files-lawsuit-challenging-colorado-epr-law/826698/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "veolia-2026-07-30-001",
     "date": "2026-07-30",
     "companies": [
