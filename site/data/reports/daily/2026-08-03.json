@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T11:17:56.752997Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Coal miner dies after on-site truck crash in NSW Hunter Valley - ABC News & Headlines – Australian Broadcasting Corporation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeHg3eW9MMmVhcFBGZTctUXd1alZya0xSUTVRZ19fVlFKaGREVkNUTDFzM2t5U2wxOHlMb3hnRFVJUjJlX1lzWVV2MkVuTTRDVlhhNE5KdEllejh6WFIzbzZUQ29CX251bklPTC02aHhkOEVCc0VKdWRrazYxUTY3Z2RQMWRNS211ZFVjMTM1YzY4azQ0Wjc2dWNkMWM1WktTclI5Rg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-08-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Orion Moves Closer to Glencore Funding at Prieska - NAI500",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZS1qRHFabHp5RU82cmNpMjRQNEt0WENycUhfTlVPeVJhRDRJRUtySmJYS05OWkNSYU1HMFNDMGNYT1pQVmJfcnRMTTlkZ29zQXBCd2s2ZUsyTDh0UWFlbU5ReDJqYmZXNnhIYnA3Z0k2MDZYdFBxWXNlSjVMVXY0b3B6Z0d5d2I0SGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 143,
+    "too_old": 119,
+    "gate1_blocked": 2,
+    "gate2_blocked": 2,
+    "passed": 20,
+    "pass_rate": "14.0%",
+    "gate2_block_rate": "1.4%",
+    "gate2_samples": [
+      "Vitol, Cargill, Glencore cut ties with Radiant World - report - reuters.com",
+      "Veolia Environnement : 2026 first-half results - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為嘉能可相關動態：「Coal miner dies after on-site truck crash in NSW Hunter V...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Coal miner dies after on-site truck crash in NSW Hunter Valley - ABC News & H...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Orion Moves Closer to Glencore Funding at Prieska - NAI500（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

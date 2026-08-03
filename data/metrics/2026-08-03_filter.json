@@ -1,0 +1,13 @@
+{
+  "total_raw": 286,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 2,
+  "gate2_fail": 2,
+  "passed": 20,
+  "gate2_samples": [
+    "Vitol, Cargill, Glencore cut ties with Radiant World - report - reuters.com",
+    "Veolia Environnement : 2026 first-half results - marketscreener.com"
+  ]
+}

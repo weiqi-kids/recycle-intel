@@ -1,5 +1,44 @@
 [
   {
+    "id": "unknown-2026-08-03-001",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Coal miner dies after on-site truck crash in NSW Hunter Valley - ABC News & Headlines – Australian Broadcasting Corporation",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQeHg3eW9MMmVhcFBGZTctUXd1alZya0xSUTVRZ19fVlFKaGREVkNUTDFzM2t5U2wxOHlMb3hnRFVJUjJlX1lzWVV2MkVuTTRDVlhhNE5KdEllejh6WFIzbzZUQ29CX251bklPTC02aH",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeHg3eW9MMmVhcFBGZTctUXd1alZya0xSUTVRZ19fVlFKaGREVkNUTDFzM2t5U2wxOHlMb3hnRFVJUjJlX1lzWVV2MkVuTTRDVlhhNE5KdEllejh6WFIzbzZUQ29CX251bklPTC02aHhkOEVCc0VKdWRrazYxUTY3Z2RQMWRNS211ZFVjMTM1YzY4azQ0Wjc2dWNkMWM1WktTclI5Rg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-03-002",
+    "date": "2026-08-03",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Orion Moves Closer to Glencore Funding at Prieska - NAI500",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZS1qRHFabHp5RU82cmNpMjRQNEt0WENycUhfTlVPeVJhRDRJRUtySmJYS05OWkNSYU1HMFNDMGNYT1pQVmJfcnRMTTlkZ29zQXBCd2s2ZUsyTDh0UWFlbU5ReDJqYmZXNnhIYnA3Z0",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZS1qRHFabHp5RU82cmNpMjRQNEt0WENycUhfTlVPeVJhRDRJRUtySmJYS05OWkNSYU1HMFNDMGNYT1pQVmJfcnRMTTlkZ29zQXBCd2s2ZUsyTDh0UWFlbU5ReDJqYmZXNnhIYnA3Z0k2MDZYdFBxWXNlSjVMVXY0b3B6Z0d5d2I0SGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "waste_connections-2026-08-02-001",
     "date": "2026-08-02",
     "companies": [
@@ -15,6 +54,66 @@
       {
         "name": "waste_connections",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2tjbGh0VFl0TmJrVmhWVW05aW1fZ3NBZTI5aGZLS0EwTVVqS0lteThtOGVHOEhEM0NRZWtoWUtIOHo0bGxTdGVYdjI3dl8yS1dUNHFXYmNxVUxlLVJ0cjlmM1JlZjJEYUpBVWJzMWZ1eWE1eGFUUVNhZ3dMWVZKYlRwWWRmMmZnYkNsMg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-02-002",
+    "date": "2026-08-02",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections (WCN) Prices Senior Notes As Investors Ask If The Stock Is Fully Valued - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkV2em5mZG1QWTdpUXRfT3l4Vjk1Ry1KUGI2WkFsN25jM1pLSkdVMnNGOVRRV2VoSjRGQmdzR2FOMzRPTFVyZng0NXpyU3lCTU9TeDlwM0Rpb3h0UGlWMFRZU1hPR3cxOXZtRS05dk",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkV2em5mZG1QWTdpUXRfT3l4Vjk1Ry1KUGI2WkFsN25jM1pLSkdVMnNGOVRRV2VoSjRGQmdzR2FOMzRPTFVyZng0NXpyU3lCTU9TeDlwM0Rpb3h0UGlWMFRZU1hPR3cxOXZtRS05dkJZUDBpQy1mTURIeGY1R0ktdjJrbkRZS3FodDg0ODUtNTdoZWNiZnQ0UUdvT29ROGUzV0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-02-003",
+    "date": "2026-08-02",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections, Inc. Revenue Breakdown – NEO:WCN - tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5RY1hCcGdVLXgyOEg1VjNRUDZub3RyQUhPUnFtYl9VSlAwQVdnUVJsYmoxalBYZDZuemJnVWVlQjVLb3VEMEMweVlFVFFSOVdMczZPN0NkUjZKZE5mdWVDQjZpU2RwdVVWeWU4dEV5Z2",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RY1hCcGdVLXgyOEg1VjNRUDZub3RyQUhPUnFtYl9VSlAwQVdnUVJsYmoxalBYZDZuemJnVWVlQjVLb3VEMEMweVlFVFFSOVdMczZPN0NkUjZKZE5mdWVDQjZpU2RwdVVWeWU4dEV5Z2FmQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-02-004",
+    "date": "2026-08-02",
+    "companies": [],
+    "topics": [
+      "circular_economy_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Circular economy key to turning waste into resources: BUILD - Bangladesh Sangbad Sangstha (BSS)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KRUp4NnprYms0M2hoSnFMa29vMmZoTUVHQmU1dmwtX1Vpa2FKUG12dEo1Q0VMSzlrM2NLcnhUdXpFN3N0QlFsRGRsemRHUmRH?oc=5\" target=\"_blank\">Circular economy ke",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KRUp4NnprYms0M2hoSnFMa29vMmZoTUVHQmU1dmwtX1Vpa2FKUG12dEo1Q0VMSzlrM2NLcnhUdXpFN3N0QlFsRGRsemRHUmRH?oc=5",
         "type": "rss"
       }
     ]
@@ -149,6 +248,42 @@
     ],
     "impact": "neutral",
     "title": "China’s EV problem: What happens when millions of batteries die? - dailykos.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelJ3OHVBakJOenhLZWQtcXdzcGZVejZhMFIzUVVBMDdqWHdSQVZveFpjZDRjVXdnTmF4TEJrbEgzNThVSWhiWDVhdHBuZVZfUjBWbjB6VlpMaWRNNjVFaFpRNFdTTE9pUlgxcmlpUU",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelJ3OHVBakJOenhLZWQtcXdzcGZVejZhMFIzUVVBMDdqWHdSQVZveFpjZDRjVXdnTmF4TEJrbEgzNThVSWhiWDVhdHBuZVZfUjBWbjB6VlpMaWRNNjVFaFpRNFdTTE9pUlgxcmlpUUczNnhzUVpaUnIzYzF4ZmJ3MTlPclBZYlpuTm5lUk1TdzBJS0RLY3pHT204ellIdTR1UkVvdTNCZXhDR0RQQkNwREVUclZzUGd2UzU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-01-008",
+    "date": "2026-08-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FR1400SG7 Bond Risk Profile - tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9ESjZBUUhBZENWOGI0WF96d3dJTlpWdVlnRmdteDNEVy00ekdibmppTWFzUFRneTlDZmxfNzc2TzUtU0J2c1lOZmVmQUlzclVpaXdBUmRVek5jdTNiSHA3aWxPSFJsaXM5QjlxbE5WXz",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ESjZBUUhBZENWOGI0WF96d3dJTlpWdVlnRmdteDNEVy00ekdibmppTWFzUFRneTlDZmxfNzc2TzUtU0J2c1lOZmVmQUlzclVpaXdBUmRVek5jdTNiSHA3aWxPSFJsaXM5QjlxbE5WXzNMZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-01-009",
+    "date": "2026-08-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China’s EV problem: What happens when millions of batteries die? - Daily Kos",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelJ3OHVBakJOenhLZWQtcXdzcGZVejZhMFIzUVVBMDdqWHdSQVZveFpjZDRjVXdnTmF4TEJrbEgzNThVSWhiWDVhdHBuZVZfUjBWbjB6VlpMaWRNNjVFaFpRNFdTTE9pUlgxcmlpUU",
     "sources": [
       {
@@ -416,6 +551,127 @@
       {
         "name": "google_news_battery_recycling",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMkdiOEJ0bHNRaGpOMTRzTE51YXlFRk9YQjI0TGVwRmF5S09YMGkyeTYyWmMxSHNIMXcyQmt3SWdMVkN0T2ZYWEpUMk1YYkhVSGJDR083QWpENVlOa3p5cDVybnZxa201YVIxek9lQ19zcTJZOEk0a3NIWGJaT04wZDFjMVdJU25wVjlTYkY5SDFpbUdtNDFfdnp3WmRCVnFxZlRxbkxsblVDckU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-07-31-014",
+    "date": "2026-07-31",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tomra board member buys shares worth nearly 0.2 million Norwegian kroner - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcmdPczJwWk1KSXdXZE1TSGREM25USkJfNTVYT1pEWUNfbzNHUTdfbkdBQ3FVdGZVbUVnTWZVTllIekQ5c1FGRWo3Y2lsUkJfX2pIQ25KdWRJODQtVm1ONmZka1Jmb1l4MWk0Yi1xcU",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcmdPczJwWk1KSXdXZE1TSGREM25USkJfNTVYT1pEWUNfbzNHUTdfbkdBQ3FVdGZVbUVnTWZVTllIekQ5c1FGRWo3Y2lsUkJfX2pIQ25KdWRJODQtVm1ONmZka1Jmb1l4MWk0Yi1xcUluSGp0ZWFrc2xvclRCNTl0MEVYUGw3bVFvN0RMU0VOT3hYMG5Lb0MybWd6YnN1ZWswYnlsTUV3V0lVMXNvWm9uZFByYTdfVGpvTFlXbGhRQjVNX2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-07-31-015",
+    "date": "2026-07-31",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vitol, Cargill, Glencore cut ties with Radiant World, Bloomberg News reports - tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNenpteTAyUVp2UFV0cjF5dXJIYWM1cGU4Wl9LZE1JOEVnNE9qdHlfdHlnb1Z6Yk1KSlBrd0tKR1ZWNkFkakZ6UlNMQ2pFVHlKRWlQNWdvNHZBVTJhMjIyQWRmc2pCRUk5RW96dXRmVE",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNenpteTAyUVp2UFV0cjF5dXJIYWM1cGU4Wl9LZE1JOEVnNE9qdHlfdHlnb1Z6Yk1KSlBrd0tKR1ZWNkFkakZ6UlNMQ2pFVHlKRWlQNWdvNHZBVTJhMjIyQWRmc2pCRUk5RW96dXRmVEt3Zm1fbVlLbzlyeDFUbTE1NENjMS1tRi1zbTV4c3dxd3Y5TTkwZDA3em5ibmlJdUZ1a1ozVzI3YVYzY0Yya2Vwell5RTNlQ01qUDBFbnVINnZ3cWJHTnhqZGU5UEFSeXk5T0FuMDM3ZjRWbEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-31-016",
+    "date": "2026-07-31",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections (NYSE: WCN) SVP sells 300 shares at $173.10 - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPa3BrSnFhYl9CMnNNYUltMkVUWGFmemg0SkVnaVdjaEozRGF2VWFGTnBzQTJOa2dxemJhSWRjZnRDR3hreFloSEtwWDhLenl5anh4MlN6eEQzT08wTTR1QTRfaTJEcmJwM1JLc1N5NV",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa3BrSnFhYl9CMnNNYUltMkVUWGFmemg0SkVnaVdjaEozRGF2VWFGTnBzQTJOa2dxemJhSWRjZnRDR3hreFloSEtwWDhLenl5anh4MlN6eEQzT08wTTR1QTRfaTJEcmJwM1JLc1N5NVpxSUNqRXRCemM5ZDZMbmdhTWdjNFlORnAxdXdNMEdSR2libGQtQ0NpdFlDVmhld2JSc3U3OV96WUtjdml6NmVOeTV6SEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-017",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FR14012S0 Bond Coupon Profile — Rate & Payments - tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1DTTdLUGFNN1M4bEl2dnp3UHhLT2RfRzhXWjhmc0VCYVo3eVlUMzlVOGVRYmhQTWxwQ3BFc3dqcUw3Zk1ZZS1NY1ZZZktOLVZueXVKdC1NRFkzUE9OOFNVb1hXa3JYejZjX2RHa0kxSj",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DTTdLUGFNN1M4bEl2dnp3UHhLT2RfRzhXWjhmc0VCYVo3eVlUMzlVOGVRYmhQTWxwQ3BFc3dqcUw3Zk1ZZS1NY1ZZZktOLVZueXVKdC1NRFkzUE9OOFNVb1hXa3JYejZjX2RHa0kxSjMyU1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-07-31-018",
+    "date": "2026-07-31",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sims (I8M) Q4 2024 Earnings Report - Results, Call & Slides - tipranks.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE55TWowRWJQQUtMSWZQQnJFYWFDMUJqUmE1aUVzN3U3S3BfX29JQnJNRUFHSE8yYU5NZXdyTzhKbFBYN2tYQUViRkV5OVc2TkYwcHNrNFlDYTdCaUh0dEQ4ZlIyZzB1WFBkZG1RYmtmOA",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55TWowRWJQQUtMSWZQQnJFYWFDMUJqUmE1aUVzN3U3S3BfX29JQnJNRUFHSE8yYU5NZXdyTzhKbFBYN2tYQUViRkV5OVc2TkYwcHNrNFlDYTdCaUh0dEQ4ZlIyZzB1WFBkZG1RYmtmOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-07-31-019",
+    "date": "2026-07-31",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology Co - google.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQa1dnNUVGaVNGWW04X25JVWdsOEw3Z1RvZzhpeHVpSS1MRWM1QTJNdjh2WEhtcmtzZFhFaXJnQUc0TThUN1JxYkVmMHlzbVZ3dUZmTlFzQ0pQYzFO?oc=5\" target=\"_blank\">Ame",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQa1dnNUVGaVNGWW04X25JVWdsOEw3Z1RvZzhpeHVpSS1MRWM1QTJNdjh2WEhtcmtzZFhFaXJnQUc0TThUN1JxYkVmMHlzbVZ3dUZmTlFzQ0pQYzFO?oc=5",
         "type": "rss"
       }
     ]
@@ -955,6 +1211,88 @@
     ],
     "impact": "neutral",
     "title": "Sims Ltd (SMSMY) Stock Price & News - Google Finance - Google",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LTlg3ZmlwM0haQkg0ZXYwc0VkbnA4Zl9KbF9rSGFpZl82VzJxY1FoTXhMS0ZmVzgwQTBlSGU2VklfdWEtMG5KcVlGZThPY1dhZjZBZUNERTFMM1M4Ynpz?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LTlg3ZmlwM0haQkg0ZXYwc0VkbnA4Zl9KbF9rSGFpZl82VzJxY1FoTXhMS0ZmVzgwQTBlSGU2VklfdWEtMG5KcVlGZThPY1dhZjZBZUNERTFMM1M4Ynpz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-07-30-028",
+    "date": "2026-07-30",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TOMRA Systems ASA Revenue Breakdown – OSL:TOM - tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9IWGJ6c3FUYkVkTjFOdWNSZDdZTUN4R1FDTnd2NFJxWWY2WW9qZDBCZG5WUHctYjNPRFl6WmlFTm82U29veDFEM1U1Z0c2VWhjUXd3eF81ekhJU1pSU08wTTlsSDRfeW1obUlaMF9QRU",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IWGJ6c3FUYkVkTjFOdWNSZDdZTUN4R1FDTnd2NFJxWWY2WW9qZDBCZG5WUHctYjNPRFl6WmlFTm82U29veDFEM1U1Z0c2VWhjUXd3eF81ekhJU1pSU08wTTlsSDRfeW1obUlaMF9QRUdZdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-07-30-029",
+    "date": "2026-07-30",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore wins processing contract for Germany's Wilhelmshaven oil refinery - reuters.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZkZKeFJSMkhzZ2xRV1dGNV85M090TXRCWHJhOHgwWjBRdmcwamExQWVETXFWcHpCTHpHOWNXZHctbTM2UDM3akpEV1FzMDN6ekRDSmV6eWZzRWcwOUdQNHNKWnJpMkRadW9reE0yNG",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZkZKeFJSMkhzZ2xRV1dGNV85M090TXRCWHJhOHgwWjBRdmcwamExQWVETXFWcHpCTHpHOWNXZHctbTM2UDM3akpEV1FzMDN6ekRDSmV6eWZzRWcwOUdQNHNKWnJpMkRadW9reE0yNGhZQjNCMnNQREkzYlBEMXg3bzZ3YlkzbFhnRl9kMTRzLWVRb2R6cmg5aDdvWU1IamFrVC1pWnE5Y0xNU0VkRXJoNkF5RnhQQUpOU0R2R3Bn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-30-030",
+    "date": "2026-07-30",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections (WCN) legal executive sells 2,811 common shares - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTJsVC1FZjVGdFVtWlU1Q1YyWTBCZm8yalVnOWUzeVNkVU11ZlR6dEEwZXJ6WmltdDkzeDFQSXMwY1JSYXpnWk00d0lPY3RqNVBrZzhhREZYZHBZdEhmVFIybUxGZ2dUbDVIUHI4em",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTJsVC1FZjVGdFVtWlU1Q1YyWTBCZm8yalVnOWUzeVNkVU11ZlR6dEEwZXJ6WmltdDkzeDFQSXMwY1JSYXpnWk00d0lPY3RqNVBrZzhhREZYZHBZdEhmVFIybUxGZ2dUbDVIUHI4emhUMjc1ZlhORXFlbHJGbTF5bzNTX1RzdVJyVG1vSEFqeENIZEx5ZTBaaXNfUC1NcXJ4YnZfZnJJNWlzVXM3V2tFS0Ryd0I?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-07-30-031",
+    "date": "2026-07-30",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims Ltd (SMSMY) Stock Price & News - Google Finance - google.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LTlg3ZmlwM0haQkg0ZXYwc0VkbnA4Zl9KbF9rSGFpZl82VzJxY1FoTXhMS0ZmVzgwQTBlSGU2VklfdWEtMG5KcVlGZThPY1dhZjZBZUNERTFMM1M4Ynpz?oc=5\" target=\"_blank\"",
     "sources": [
       {
@@ -1899,6 +2237,45 @@
     ]
   },
   {
+    "id": "unknown-2026-07-29-047",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Breakingviews - Rio results are a pre-M&A roadshow - reuters.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1haRnJLZ0Q2Z1VvR0wtUmNLNEptYkVRVndlNmNfQXY5dGRDVndKRWlKa2xKa05jQS1iQTl2T0ttMUt0X0xScjAxZGxEdWpobWNCeUN6dlFLNklPSjk5OXhRRmhpekNXTWc5a1FyZU",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1haRnJLZ0Q2Z1VvR0wtUmNLNEptYkVRVndlNmNfQXY5dGRDVndKRWlKa2xKa05jQS1iQTl2T0ttMUt0X0xScjAxZGxEdWpobWNCeUN6dlFLNklPSjk5OXhRRmhpekNXTWc5a1FyZURRQl8tUU5BRWthcklEQmtCa2Vpd0RfOXRld25vbjczQjVOV29kMHdv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-07-29-048",
+    "date": "2026-07-29",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement SA Revenue Breakdown – BMV:VIE/N - tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1iWk9PLW5nVUJycWpNeUZ5bktMOU5Nb1JjbjJhYTFoU18zTl9pcW9QOWZvb1pjcTljVk5SWmRSWU9MNy1LMHlEYXhDMlhUNGVOQkFSRHhmSHJGbGRQbktVVlpDQTZjUFNULWNNUGJJTl",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iWk9PLW5nVUJycWpNeUZ5bktMOU5Nb1JjbjJhYTFoU18zTl9pcW9QOWZvb1pjcTljVk5SWmRSWU9MNy1LMHlEYXhDMlhUNGVOQkFSRHhmSHJGbGRQbktVVlpDQTZjUFNULWNNUGJJTlY2aXB0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-07-28-001",
     "date": "2026-07-28",
     "companies": [
@@ -2710,6 +3087,26 @@
       {
         "name": "glencore",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbE1ZUFpKUUg4SGlmQktjbk5JTTlDNTFUM1VWWUZPeTl6bnBBWXZtQVRaeHhtclBOZEZ6WWc4Q0dDMWVKQ2dxSG54MW5wektKaS1MRzdBdTN5Z2phQlhmaTJvdGpQWXpmQVNlSmEzY3c1ejlUUjhZaTB6Ny1HcnJhLUp6UVItU2x5blhmOQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-07-27-020",
+    "date": "2026-07-27",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "How Waste Connections Is Using AI to Expand Margins and Future Growth - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQclc3dzhyREhUZDZVVjNRLWtsWDRDQm5Oa1lRcW95Uldtcm9TX0ZhVnpSOG1lMlJOYTk0ZWE0eEpiSVQwbDdKQzlWRWZGXzNMZ0ROdnUtQWJyaGNuYm42TGU4OWJpZjdGUTU4UWxrUW",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclc3dzhyREhUZDZVVjNRLWtsWDRDQm5Oa1lRcW95Uldtcm9TX0ZhVnpSOG1lMlJOYTk0ZWE0eEpiSVQwbDdKQzlWRWZGXzNMZ0ROdnUtQWJyaGNuYm42TGU4OWJpZjdGUTU4UWxrUW9oUDFRbXhTakd3UmZuZ1FpbWliVkwta2RpTWh2LUJJbXF2aUFRWFdfcTVpamE1QQ?oc=5",
         "type": "rss"
       }
     ]
