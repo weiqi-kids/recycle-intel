@@ -1,0 +1,14 @@
+{
+  "total_raw": 287,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 116,
+  "gate1_fail": 3,
+  "gate2_fail": 3,
+  "passed": 13,
+  "gate2_samples": [
+    "Rio Tinto to Cease Advances on Glencore Amid Reorganization - marketscreener.com",
+    "Vitol, Cargill, Glencore cut ties with Radiant World - report - Reuters",
+    "Veolia Environnement : 2026 first-half results - marketscreener.com"
+  ]
+}
