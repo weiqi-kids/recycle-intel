@@ -1,0 +1,223 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T10:30:53.202221Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-08-05-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Glencore Profit Jumps on Trading Boom and Record Copper - Bloomberg.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZkplS1ZFb3B0M1hDb3hFUnZoS290THZfQzM5enRMSi1LSFhpR0ZLd3pQQkFnamY1eVpmXzVBR0JlN1g2MkhuRlRURTFYY2lmQjNXZGtzTjZSU0hjLUktcGM0aS0wWS1xMW05TFBwTDBRVzI1UWF1cm0xektXWkRBUjU1cmdqV1VjUUllWVFYajlFUHhrNXFtRVdhQURicDVfSTdFX3FabFhiUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-08-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore Suspended Price Risk Limits as War Upended Oil Markets - Bloomberg.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1ZNUWVtejdSM25qaDJiNFdTMGc5OEdkU19DSzFxM3Y1VUc4bHQ3enJlMXRZTS0ybUgta2tGR1JJaTBLNTk5MHFRc3dQX2Vkb0VuOTNtUU1iclNLTVpILXcxS0x6bGtkVDBxcFJENGhQUUI5OXRaYkh5MW5KU243eU8tYzRoWEhUYXMyNE1QRFh1MmVEWk5mQnhKMFhoMFpueUQwZWRQR2wyYTZ4SGlpdFFPQzM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-08-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FTSE 100 Live: UK Stocks Rise as Glencore, Next Rally on Earnings - Bloomberg.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPc0dBWW5UTWV3S3ZIWjFjbXdNMzhxYTV2Sk9hbE5rTzRMNHFrbzhsLTVRcHNIaDlCcWdxSERnc0NxQm1XMzUxRlY5b2dybHY0SnpETS1RUjRHaXpFbXBKNmJYME83M3d5b3VVaUpGcEhab25ZR19uWExXckxETi1HWk9FZDgyc0RLU0Q2aG5SMkZ5UkdsdTVMeEtwT09GWW1saG1WUk5JRmxDSDMydUo5UWdua0dZc2V5RjBQMFc4R1dsaDZNc0JIbktadTBGTnpVZzlJMjloTG12VG1menJqd1NBQmJNTElNNHloeFdMdU8tVHY2TGl0NFhjLXVPX0lPNnh5Zmk1SFA4RmszaFpqbnNuOHE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-08-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore plans secondary listing in Australia - Financial Times",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ0U3STdpSTRULUNsbnBnQzhlNjJfdi1KbnhvQWZZMFFoVXBidzBLeUtIQ3A0OXRRVm4tVE1wQjZRRXpOYV9Lc1RTbk5MVnBOSGQtNnZWLVhoMG9GYkVvTU1iLXNpWk9RS29HWkF3WmxDbXBBUU9XSkxDWEVpOGkyRXZFZ3g?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-08-05-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore takes provision on Radiant World, says exposure not material - Reuters",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSDVoNmNQODRad3NCNFhtcnVuLVg0bWdyamJabUpaNnBfaU5xSGxoQU90RjZjYXlWbmxFbUZnYndqQ3N4REd0QktodG5IVTk2OGp3VWg3d3VDZzk4VE5jd083Z1g3b09uZDFwZlI0TDhJeUJndTlBUXF3R0tpRHdTaUl5bGtMejVJRlhPUVhDZ25KNU53NFdValFjRlc2M3cwRWg2M0c4OTgtSlY2RXd3UGoxX1ppLWN2?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 15
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 145,
+    "too_old": 108,
+    "gate1_blocked": 2,
+    "gate2_blocked": 3,
+    "passed": 29,
+    "pass_rate": "20.4%",
+    "gate2_block_rate": "2.1%",
+    "gate2_samples": [
+      "Glencore targets ASX listing to unlock value and tap super funds - AFR",
+      "Vitol, Cargill, Glencore cut ties with Radiant World - report - Reuters",
+      "Veolia Environnement : 2026 first-half results - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為嘉能可相關動態：「Glencore Profit Jumps on Trading Boom and Record Copper -...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Glencore Profit Jumps on Trading Boom and Record Copper - Bloomberg.com（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Glencore Suspended Price Risk Limits as War Upended Oil Markets - Bloomberg.com（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

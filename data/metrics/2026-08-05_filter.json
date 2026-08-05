@@ -1,0 +1,14 @@
+{
+  "total_raw": 287,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 2,
+  "gate2_fail": 3,
+  "passed": 29,
+  "gate2_samples": [
+    "Glencore targets ASX listing to unlock value and tap super funds - AFR",
+    "Vitol, Cargill, Glencore cut ties with Radiant World - report - Reuters",
+    "Veolia Environnement : 2026 first-half results - marketscreener.com"
+  ]
+}
