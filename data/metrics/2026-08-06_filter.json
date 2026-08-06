@@ -1,0 +1,12 @@
+{
+  "total_raw": 286,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 1,
+  "gate2_fail": 1,
+  "passed": 24,
+  "gate2_samples": [
+    "Bolivia fails to set aside Glencore arbitration award over alleged illegality - Latin Lawyer"
+  ]
+}

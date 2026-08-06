@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T10:34:29.860511Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-08-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore’s energy trading profits soar on Iran war - KITCO",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTGNaUUc5WUQwSGRueV9iRHhIbmQ3dVZHSlVmay1YT0lUYUFMX3M5cHZZaXhTS3ZScV9LTjU1QkdWUmg0dy01Skk4TXlpTUNVOWg3YXRjZWpfV3ZFOGJ0Q3ZER3ViS0NURndpQ3FuNGhidXBVTkNvSzdGMVJ0U0NUNFIxN2I2OVhKRHB3R3Y2ZjNHd0g4TFcycVFiSmxLQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-08-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Middle East conflict propels Glencore’s profits as energy costs rise and freight capacity tightens - TradeWinds News",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbU42OTNaTnhiMzlDUlpqWUhQMVRnUGZYaDZMSXZwR0szbER6OVFFOThoRGM2UmZaUW81d2tYRGNFSjIxWTV0QmswYnlWcDdxQ1hXNjlUMUoxXy10RngwSFdlUlZaZ1pIQjNxNTZiYmVzY0ZXZXQzSXl0bk9WQmpTQXB3aHFqX3pxRy1SR1BiZ05wMU5NTmxCcnlDNllxeXptYzB4MnB2MkFVR0NER1VpcGhVOTZsVTlfZm92ZWdwUjJHYmZDMjdaUG5nME9FQ3g2WUR3NjNGb3lFS0RCLW5TNmZmOA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-08-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore Eyes Australia Listing to Tap $3.1 Trillion Pension Pot - Bloomberg.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVdvNUotWDliSFFsMlBXZjlGUm04Qk5HNHZ1MXBTYXdHVE9EcmlQU1NBRUlrR1dLMUljMEVWbjFHVXBZVDJlZE5VeWdKS3lVY2JPNU1POVFzWmxIRnM3RWNPVGxLNDMtN3U5Mndsb0pNYkxlNlNaWFdIeTk4TkllS1ZKSTBkUF9EbWRPN2IyWmlPTW9UbVl6Sjk4cFNNMDBfSW9ocjc4NllaT3FLdExCQlUyTkY?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "[SMM Flash] Belgium-based materials technology and recycling company - Shanghai Metals Market",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRjhsZnExRVBzSmRPSmdFMnhFWjNrWGFXZjZqSnU0MDNHS2ZXWjMxMjdpOHhkSWJfcXdiWjR0T2FPTjN2RDh2SGx3elNuTDdFc1RRYl94WkdwdDFKZERzOXY1YU1ieXliVTVhdG42aVBtbG5UcG1VVW9xM0cyVkNNcGhsQThNc01DLTEzZGZpTXM4eGpwb2hQbTdUY29hSGpRN1dHZ054QmNOakR3V1pUTWZlT2E1Rmg1VFAtbGNfZUVDd0c2SU1n?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 148,
+    "too_old": 112,
+    "gate1_blocked": 1,
+    "gate2_blocked": 1,
+    "passed": 24,
+    "pass_rate": "17.4%",
+    "gate2_block_rate": "0.7%",
+    "gate2_samples": [
+      "Bolivia fails to set aside Glencore arbitration award over alleged illegality - Latin Lawyer"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為嘉能可相關動態：「Glencore’s energy trading profits soar on Iran war - KITCO」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore’s energy trading profits soar on Iran war - KITCO（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Middle East conflict propels Glencore’s profits as energy costs rise and frei...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
