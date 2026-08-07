@@ -1,0 +1,171 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T08:53:28.118485Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "waste_connections-2026-08-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Connections (WCN) On Chiquita Canyon Lawsuit And A Fair Value Debate - simplywall.st",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN3p6TjdxU0hnUnRrcEQ3bHU1RzZpdTBZclNPUGZucFNLY2x3U2h5MnZHU2JvWTc2ZHZJY0hIYnh3aHJhelVBXzdMTUlfa0hkd1ozeGUxVHl5TXc2b0p6MTJNOVV1S1pHdE5iZ1FKZkNTZmhtWE05eENSSU5FNFB6bEJTNGJvWWZ3R01JOTZUM0twd0JkeTRQSDJaazI4UlNRUUJlSG9GZUhRSVkxUGh3UXpHakhNY09tMTMzckZWUFYzeFVuMmZJckpQV3hpQkp5bGsyOGZ2NTNXSE1GVUpIVdIB4AFBVV95cUxQN3p6TjdxU0hnUnRrcEQ3bHU1RzZpdTBZclNPUGZucFNLY2x3U2h5MnZHU2JvWTc2ZHZJY0hIYnh3aHJhelVBXzdMTUlfa0hkd1ozeGUxVHl5TXc2b0p6MTJNOVV1S1pHdE5iZ1FKZkNTZmhtWE05eENSSU5FNFB6bEJTNGJvWWZ3R01JOTZUM0twd0JkeTRQSDJaazI4UlNRUUJlSG9GZUhRSVkxUGh3UXpHakhNY09tMTMzckZWUFYzeFVuMmZJckpQV3hpQkp5bGsyOGZ2NTNXSE1GVUpIVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "aurubis-2026-08-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Aurubis predicts H2 2026 profits - Recycling Today",
+      "companies": [
+        "aurubis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcFlsMnVWSHVQMVZINWFETDNLaXJVOTRqRUJ0bGZMeVNtZk9VeUFlVUI4ckh3dW4zYThwWWVmTG13WmkzSU1MRFNYS1VYZmc5R19pcW9Yc0p1QUUyVktBZnZYa1ZaamxiTy1BWVY5U01nS0dRbS1zYVJwRUZEU0FSM2FQVjJ5TjF4RjRIOXRCRkZucE82dEY3MnE2SmpOV3l4RFdHZk1XYnc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trade, climate ministries partner to boost EV battery recycling - The Korea Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "battery_recycling",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSHhEWGVOaWpwa1BOb0pNQnJyZGhKWmRPLW9QVFIyanRsUTc5OXNOLWsxcTFTRGJ0RmVlRThaUFNSQzZ1M0tjZjVCQVV4RFhCQndGaTJWYXRiRDFTUWdtOE5pZEZkeTUtSWcyLVVvaTVoZE1hUGFLLWFLb1FfWGdwUkRNTHo3UUkzX09kV0JHT2E1VXN2M2k2dlk1SEJPS191eUlrR3NNTjI2aFhob1h3ZFN1QkYzMWExTjFEeTBEU0xDZUZfb3lDUEFwRTBsWENk0gHQAUFVX3lxTFBIeERYZU5panBrUE5vSk1CcnJkaEpaZE8tb1BUUjJqdGxRNzk5c04tazFxMVNEYnRGZWVFOFpQU1JDNnUzS2NmNUJBVXhEWEJCd0ZpMlZhdGJEMVNRZ204TmlkRmR5NS1JZzItVW9pNWhkTWFQYUstYUtvUV9YZ3BSRE1MejdRSTNfT2RXQkdPYTVVc3YzaTZ2WTVIQk9LX3V5SWtHc01OMjZoWGhvWHdkU3VCRjMxYTFOMUR5MERTTENlRl9veUNQQXBFMGxYQ2Q?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "battery_recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 1
+      },
+      {
+        "id": "aurubis",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "battery_recycling",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 131,
+    "too_old": 127,
+    "gate1_blocked": 2,
+    "gate2_blocked": 1,
+    "passed": 25,
+    "pass_rate": "16.1%",
+    "gate2_block_rate": "0.6%",
+    "gate2_samples": [
+      "Glencore targets October secondary listing on ASX - FinanceAsia"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為WCN、奧魯比斯相關動態：「Waste Connections (WCN) On Chiquita Canyon Lawsuit And A ...」。主要關注主題為產業通用、財報、電池回收，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Waste Connections (WCN) On Chiquita Canyon Lawsuit And A Fair Value Debate - ...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Aurubis predicts H2 2026 profits - Recycling Today（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
