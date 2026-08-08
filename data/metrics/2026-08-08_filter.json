@@ -1,0 +1,13 @@
+{
+  "total_raw": 286,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 0,
+  "gate2_fail": 2,
+  "passed": 16,
+  "gate2_samples": [
+    "Guinea Picks Glencore as Offtaker for State-Owned Bauxite Miner - Bloomberg.com",
+    "What’s next as Hawai’i enacts clean fuels program; Biogas news from Waga, Convertus"
+  ]
+}
