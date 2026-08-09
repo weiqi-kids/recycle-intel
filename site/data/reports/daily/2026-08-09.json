@@ -1,0 +1,92 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:37:05.948024Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-08-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rio Tinto signals no rush to revive Glencore deal as standstill ends - AOL.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zM2dITGYxTHIxOVFUQVIwcWJNdlh4dmRLTi0wSElOaS1UZGJRRDl0VkI4Zk9rVFhER1R0R0ctQnkxazBiOXZSTWgxcUl0ZlFTWm9CbEtNblk4LUZESlV4NmItNGlKMW5GQWcxelduVXIxU0pVY2hEMg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 152,
+    "too_old": 114,
+    "gate1_blocked": 0,
+    "gate2_blocked": 3,
+    "passed": 17,
+    "pass_rate": "12.7%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "Fearnley raises Tomra price target to 124 Norwegian kroner (118), reiterates buy - BN - marketscreen",
+      "Guinea Picks Glencore as Offtaker for State-Owned Bauxite Miner - Bloomberg.com",
+      "What’s next as Hawai’i enacts clean fuels program; Biogas news from Waga, Convertus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為嘉能可相關動態：「Rio Tinto signals no rush to revive Glencore deal as stan...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rio Tinto signals no rush to revive Glencore deal as standstill ends - AOL.com（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "嘉能可為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

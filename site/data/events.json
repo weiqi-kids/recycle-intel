@@ -1,5 +1,68 @@
 [
   {
+    "id": "glencore-2026-08-09-001",
+    "date": "2026-08-09",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rio Tinto signals no rush to revive Glencore deal as standstill ends - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE0zM2dITGYxTHIxOVFUQVIwcWJNdlh4dmRLTi0wSElOaS1UZGJRRDl0VkI4Zk9rVFhER1R0R0ctQnkxazBiOXZSTWgxcUl0ZlFTWm9CbEtNblk4LUZESlV4NmItNGlKMW5GQWcxelduVX",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zM2dITGYxTHIxOVFUQVIwcWJNdlh4dmRLTi0wSElOaS1UZGJRRDl0VkI4Zk9rVFhER1R0R0ctQnkxazBiOXZSTWgxcUl0ZlFTWm9CbEtNblk4LUZESlV4NmItNGlKMW5GQWcxelduVXIxU0pVY2hEMg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-08-001",
+    "date": "2026-08-08",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "circular_economy_policy",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore H1 Earnings Rise Sharply As Energy Market Volatility Boosts Performance - DirectorsTalk Interviews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTFfRUp3TGM5RWZkdENPdVBoeF9hWDhuazl5YmNoV21tRTRpUG83VWNNUVFMYkxYSUhBenRmREprRXJObjI4VXVBNHlybFNKLUQzZjZnT1FDWVpqVFh3cjVHTERxTG1JWmZ0a1BHc2",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTFfRUp3TGM5RWZkdENPdVBoeF9hWDhuazl5YmNoV21tRTRpUG83VWNNUVFMYkxYSUhBenRmREprRXJObjI4VXVBNHlybFNKLUQzZjZnT1FDWVpqVFh3cjVHTERxTG1JWmZ0a1BHc2g3OU5MbFlWZWxWeVJfQ3lET05RRl96dTR1WVJzaDlOaXVRbFVIUnZQWExrazl2WU51a1JFaG1FajlnUTEzb3N2T2g4Mm5DRnAycEUxRjh6T1RPLWpsR1FhQkYzTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-08-002",
+    "date": "2026-08-08",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gradient Investments LLC Cuts Stock Holdings in Waste Connections, Inc. $WCN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQV0wzUW5UaGpXMFNFWjNQc3hnQ3hlYU56d000SG0xSkxqMUVyR1RIaTdCRjdvTC1jbEdRb0hXVjdiZE9QeGJLd2k2NFJoWVp5N2hER2pkakZtenBvZ2ZXbWpvaVpDaWtLSDh4QnI0LW",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV0wzUW5UaGpXMFNFWjNQc3hnQ3hlYU56d000SG0xSkxqMUVyR1RIaTdCRjdvTC1jbEdRb0hXVjdiZE9QeGJLd2k2NFJoWVp5N2hER2pkakZtenBvZ2ZXbWpvaVpDaWtLSDh4QnI0LWN1RTRXUmhheF9vQkxXdkw4NUVPT0NRM2ttdnpsaEVYZzQ1OVFZWTZ6cGMxZ0hpYUE1NWxKSV9fOV9IOXVkN0lqOGE0cXlLb2g4OEdOQ1pfeUNaajdSZ2ZwS0xoYUVVU1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "waste_connections-2026-08-07-001",
     "date": "2026-08-07",
     "companies": [
@@ -218,6 +281,108 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/republic-services-q2-2026-results-improved-commodity-prices-polymer-center-performance/827291/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-08-07-012",
+    "date": "2026-08-07",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Svenska Handelsbanken Upgrades Tomra Systems to Hold, Boosts PT - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNQkt2dXNIYjJJUXJsQnNlUG8zd1I1blJ3bC1QXzhaS3ppS3NHQkVmakNxUjRqQ1o1cDE2eUtjWElISDhrNDlXRkhmb01ZYjE0WmxRR2NCVXBJRTIyRGF5b25sN0lMMFE2V2I3WnFhUT",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQkt2dXNIYjJJUXJsQnNlUG8zd1I1blJ3bC1QXzhaS3ppS3NHQkVmakNxUjRqQ1o1cDE2eUtjWElISDhrNDlXRkhmb01ZYjE0WmxRR2NCVXBJRTIyRGF5b25sN0lMMFE2V2I3WnFhUTBpTHUtUjhwREM4S1FmUVc5UHBwUy11YzdLWW9RZzlPYTF1RlZudFZYZWx5b3BLTElCcXBXOTZXNkVRUFI1cVFvVWpVRjJMUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-08-07-013",
+    "date": "2026-08-07",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Handelsbanken raises Tomra to hold (sell), target price 115 Norwegian kroner (90) - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcXRmRDdnWnJsT0lHeXZnREw4TWpQVmxLRnFNRUhIRlc1UWhDU3liNEpmbFdRWnl3R0owMFJfR3o5bWU4eWVZWE8yZUJzZ2FqTkJ3QS1TQ1ZQLXlScksxZ2w2dWZIRjNZQ1JmVXAtaW",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcXRmRDdnWnJsT0lHeXZnREw4TWpQVmxLRnFNRUhIRlc1UWhDU3liNEpmbFdRWnl3R0owMFJfR3o5bWU4eWVZWE8yZUJzZ2FqTkJ3QS1TQ1ZQLXlScksxZ2w2dWZIRjNZQ1JmVXAtaW5LOG1sQmhFZEFTbTRxN0l6QVVOTlVzN0tQT3kxalc5TDBHbHUwb0RyOG1LZTIyWU5xTVk1Z0VxLTZEVV9xckdaM3RiMjhwTTRDTThHbDQzczhHWVJTSi1IdQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-07-014",
+    "date": "2026-08-07",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Guinea picks Glencore as offtaker for State-owned bauxite miner - Mining Weekly",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPQk5ZM2ZJbUJCa0Rpb1gtZXd1d3NZSF85bzBMaE9ZSlpFT0xyMWVqUDNIXzJya3lDYldIRXdpOUt4WHB1YWtGZm4zclpmNmxTVVZIajBjYmgxMnlKVDJubWVMNFZVV1NRdUxIV1ZOal",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQk5ZM2ZJbUJCa0Rpb1gtZXd1d3NZSF85bzBMaE9ZSlpFT0xyMWVqUDNIXzJya3lDYldIRXdpOUt4WHB1YWtGZm4zclpmNmxTVVZIajBjYmgxMnlKVDJubWVMNFZVV1NRdUxIV1ZOalRHX3EycnpQSzNiZUFIVDJjaWVaU3NnU3h3ZnVmRjZ3Y1VhYVRIT3J3d191U0JJSE1YVk5VR21rYlItb1FCNHNYTw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-07-015",
+    "date": "2026-08-07",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "WASTE CONNECTIONS INC (WCN.NE) Analyst insights, Price targets and Recommendations - Yahoo Finance - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5kU0ZKckhSbGRaN2FDWnMtbmZ4T1dsYVRzMFlyc0cwQlhDQzRYeC00ZmNuZ1J3ZDBxNHE0ajFvb3ZNQlpTLUdDM3FiOGt3UEdiRzJ4dW9iVS1BZ3VqSnJWU2k2eWt2UHBjNHZB?oc=5\"",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kU0ZKckhSbGRaN2FDWnMtbmZ4T1dsYVRzMFlyc0cwQlhDQzRYeC00ZmNuZ1J3ZDBxNHE0ajFvb3ZNQlpTLUdDM3FiOGt3UEdiRzJ4dW9iVS1BZ3VqSnJWU2k2eWt2UHBjNHZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-07-016",
+    "date": "2026-08-07",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "circular_economy_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections, Inc. announces an Equity Buyback for 12,578,462 shares, representing 5% of its issued share capital. - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQajR5Z2VrRkdld3NiTUoyTXZjQUpXWW9Ia0xPUVlpOWlkRFg3bVRWa2gyU3ZmUGxJcDZMcEgxS2xuZjhwWlAwTGwzMW16aDcxSVJ0d0I5b1R0cE5vY3lrUDdJZlZIMEpiVndtYUhTbn",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQajR5Z2VrRkdld3NiTUoyTXZjQUpXWW9Ia0xPUVlpOWlkRFg3bVRWa2gyU3ZmUGxJcDZMcEgxS2xuZjhwWlAwTGwzMW16aDcxSVJ0d0I5b1R0cE5vY3lrUDdJZlZIMEpiVndtYUhTbndZNzZ2dGZOVDRuR2pLYkd6ZWwtY0N6NWEyM3dwcWI4ZHlGeU1Scnk3TXR0V2JRbmJzZEN1eEJXRk5CMm9RclZCdU1NMlJmOWE3N2NYQkVMaTBaWWsyUzNKVU44OHFjaGc0M2RPRHNFT1JwR1hhbkNnSGF6SQ?oc=5",
         "type": "rss"
       }
     ]
@@ -555,6 +720,149 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/bp-announces-sale-process-archaea-energy-rng/827195/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-06-018",
+    "date": "2026-08-06",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore: What We Think of the Stock After Earnings - global.morningstar.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOWk5LUUI1MThsVU9JNUV1emxNVVQ1eXFkMWVmelJtVW5lZ0Q4encyZ1BGNlM4MTJWTmJfZXNOVUFEbkhYYjBVUEdEOG1MWTRnVlloaVhRV1lXeF84SDE1dlpvWENPaUk1UHF6UllCY2",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWk5LUUI1MThsVU9JNUV1emxNVVQ1eXFkMWVmelJtVW5lZ0Q4encyZ1BGNlM4MTJWTmJfZXNOVUFEbkhYYjBVUEdEOG1MWTRnVlloaVhRV1lXeF84SDE1dlpvWENPaUk1UHF6UllCY2xxQXl4d3Btc0I1Vk5BRFhGV25aS0pNUzc5X2FCZzk2a1Y?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-06-019",
+    "date": "2026-08-06",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Abcourt Announces Proposed US$10M Increase to Debenture Financing with Glencore - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNUTFydkNXcUpZMWhZRUFDNTFmcmZkZThpSE5HQnJkNDRCMjJ6a3dXLTJ2cXNqajRTbFYyM0RkUUhPZ3VYN1ZfSjczQ1dqYUFLT2hGYTNXbDRULVVYOUxlbURiN0NLZkttSEtTZnlKNk",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUTFydkNXcUpZMWhZRUFDNTFmcmZkZThpSE5HQnJkNDRCMjJ6a3dXLTJ2cXNqajRTbFYyM0RkUUhPZ3VYN1ZfSjczQ1dqYUFLT2hGYTNXbDRULVVYOUxlbURiN0NLZkttSEtTZnlKNkJMbWV4eU82d3owS2ZOZlZRdnBmVnBnVzNPblhUb1lsY05qZGNyQV9WcUJZdzQ3bDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-06-020",
+    "date": "2026-08-06",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Eyes Australia Listing Within Months to Tap Pension Pot - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVdvNUotWDliSFFsMlBXZjlGUm04Qk5HNHZ1MXBTYXdHVE9EcmlQU1NBRUlrR1dLMUljMEVWbjFHVXBZVDJlZE5VeWdKS3lVY2JPNU1POVFzWmxIRnM3RWNPVGxLNDMtN3U5Mndsb0",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVdvNUotWDliSFFsMlBXZjlGUm04Qk5HNHZ1MXBTYXdHVE9EcmlQU1NBRUlrR1dLMUljMEVWbjFHVXBZVDJlZE5VeWdKS3lVY2JPNU1POVFzWmxIRnM3RWNPVGxLNDMtN3U5Mndsb0pNYkxlNlNaWFdIeTk4TkllS1ZKSTBkUF9EbWRPN2IyWmlPTW9UbVl6Sjk4cFNNMDBfSW9ocjc4NllaT3FLdExCQlUyTkY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-06-021",
+    "date": "2026-08-06",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections, Inc. (WCN) Stock Forecasts - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGp5R0Q0RDRDaVpTTHBjZ01SdWs1TkkzLXVWSGdyUHVmQVRJd2htWW8tNGdhTE5VQXh3NmZiZWRQNlI3VHk3YUczNlZqSUFQODNuOWpYNHZwOWZBR0ctSGotZ3NVWm56M0dqTHpjM2",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGp5R0Q0RDRDaVpTTHBjZ01SdWs1TkkzLXVWSGdyUHVmQVRJd2htWW8tNGdhTE5VQXh3NmZiZWRQNlI3VHk3YUczNlZqSUFQODNuOWpYNHZwOWZBR0ctSGotZ3NVWm56M0dqTHpjM2NYSXhIZlpfU2k4MGRkV1p0MUJtYzBhQTFVRWVTSEQxTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-06-022",
+    "date": "2026-08-06",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections, Inc. authorizes a Buyback Plan. - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOVUlobnBMd1R1WWc2MkF2Q2NLZ1VrT2xHMml4SW9EZzNaaUJDZjZKUFRDLXJmQlNCU3ZWR0VUU1U0SnFtME44T2czWFJBWVQzeGh5bzlVeEk2UlpXaTJ3ZnJjRkh3UTJseUtjdkxrSW",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVUlobnBMd1R1WWc2MkF2Q2NLZ1VrT2xHMml4SW9EZzNaaUJDZjZKUFRDLXJmQlNCU3ZWR0VUU1U0SnFtME44T2czWFJBWVQzeGh5bzlVeEk2UlpXaTJ3ZnJjRkh3UTJseUtjdkxrSWhCaUZBalhYdWFwelBLcHhHcGN5aE5QelZKUXJaeTR3eGVLel9QT3Rtd25Ca29ieGFoNmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-023",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "[SMM Flash] Belgium-based materials technology and recycling company - news.metal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTFJtVE9OaFFWN1F6TE9nYzhZaGtmSldtLVF3dFowbzI2TjNpQ0dfLXFndUhTMGdtbkFzYUh4Wlo5ei13YTF3dk9acmxHVW9JR0ItU0czRDRiWERmNE1TVEExdEU4cDJTbFk5NGFuaW",
+    "sources": [
+      {
+        "name": "umicore",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTFJtVE9OaFFWN1F6TE9nYzhZaGtmSldtLVF3dFowbzI2TjNpQ0dfLXFndUhTMGdtbkFzYUh4Wlo5ei13YTF3dk9acmxHVW9JR0ItU0czRDRiWERmNE1TVEExdEU4cDJTbFk5NGFuaWxjcDdCRjQ3NG5uMVpVdkpUOWhKd19GeWlJRjJXRjVGWHlpOWljZ0d0MDdPbXhySWEyVGY4T0dZamdMSURHRkluV2ZNMWNYRFRkQ3h1U2FDTjN5R1c4Nlc2VmxycnV4SDBjSTZPUXFfNVN2UG9Wemc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-08-06-024",
+    "date": "2026-08-06",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology (ABAT) Institutional Ownership 2026 - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9iVmpsVEE1ekdTUV9CUFRESzZBelNLdjl0YkNoQ25nMW8xUVJLZXB2eVlkMXd2ZHh0MlY5M0JSNm42ZkRmTl81cXdLUmNsOV9tS0t4OG5wQ3ljLXhiY3Ixa2NvTXNPbDdpZjFsb2oyS1",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iVmpsVEE1ekdTUV9CUFRESzZBelNLdjl0YkNoQ25nMW8xUVJLZXB2eVlkMXd2ZHh0MlY5M0JSNm42ZkRmTl81cXdLUmNsOV9tS0t4OG5wQ3ljLXhiY3Ixa2NvTXNPbDdpZjFsb2oyS1B5S0NNYlkwdHRR?oc=5",
         "type": "rss"
       }
     ]
@@ -1516,6 +1824,45 @@
       {
         "name": "waste_connections",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUIwVkEyUl9SeTQtYTJGbzMzMGFMd0NIQ0tBWVJpcVkwbHJMY040M201UEhvVjlDbjMwcWpIMXBBSUtaTjh5VkhLNmoxS3hscmg3MmFDT185YUZrcGpLXzR5aWdURGotVV9GUkxyMExsQ0hkRVNEYUNPaml0VVMxeUdVZGlBWk5uZ1BwY0o1XzdiY3hsT1p2SW9kdnQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-08-05-049",
+    "date": "2026-08-05",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Veolia Environnement: After the accumulation, an upward acceleration ? - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHlJeXdiRGxHekp3aE16RlF5RXZZR1JQSEJmVWRYOGYwNW9CeDVBS045cVN4MWJNV21UeUk2Y19uUEdUQUlhYkMtajVUdXhfbDZnaFpDOUdLNXBTN2J4MmZBdzRBRHZfX3MwNHJxSW",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHlJeXdiRGxHekp3aE16RlF5RXZZR1JQSEJmVWRYOGYwNW9CeDVBS045cVN4MWJNV21UeUk2Y19uUEdUQUlhYkMtajVUdXhfbDZnaFpDOUdLNXBTN2J4MmZBdzRBRHZfX3MwNHJxSWVwMmozUnExVWdPUUQzTk12Qkkwa0hkZ0trT2llZ1NwMXJDcEdLN2RhVXJSZXZKS1gy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-08-05-050",
+    "date": "2026-08-05",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology (NASDAQ:ABAT) Trading 8.4% Higher - What's Next? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMTE2NHRUNkdmWlZWS2szWHg3VUhXMk5ISUx1TjFVWjkxOG92VndzdUhTMjNRY1JyVmlWWl9zLWVHRXdMemN0T0xGZ0l5c09PRDNreG9VZEo4MlZxMmhzQzE1NUxRMkI4alo0R0Q1Xz",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMTE2NHRUNkdmWlZWS2szWHg3VUhXMk5ISUx1TjFVWjkxOG92VndzdUhTMjNRY1JyVmlWWl9zLWVHRXdMemN0T0xGZ0l5c09PRDNreG9VZEo4MlZxMmhzQzE1NUxRMkI4alo0R0Q1XzBFSlBzMjByb2hzcHg0YVlRdlpEVjhMeWZZay1zNW5LSF9nWnpYZllXN0hNVWQxSTdUQ1FmSWhTdzlzX21tbTdmdkpMYTJucW9mN0M4dFZR?oc=5",
         "type": "rss"
       }
     ]
