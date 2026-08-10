@@ -1,0 +1,129 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T09:15:01.780781Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Recap: Debt down to $10.2B and US$0.085/share payout - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOVR3Zno0S2VoVkJyYnBQdnM1eGh0c3JlWlFWaWY3ZVlOaHotLVBuMzJVeURfNDBITHZCRWYwa3dwN00xNXNmZGdPQ1Y5ZXJiNElOTHYtbGxMb2NXTVlYRGYyckNCaWJZdDBPRHh0OVJ4dlJNWVh4MVZmWEREaGY5cDJ3VTlYamxfZWY1RHN1aXNhWmxXVzljVzBJcXJQTlp2bmE2T3Bib1U0Y2J5VE1YNWxGLTE2RW5NRTA4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-08-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Guinea signs bauxite mining deal with Nimba Mining, finance support by Glencore confirmed - alcircle.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbG1SZFlMN0IycDBzOENjSGdUQjUtN1pFVUpLVkVFRmRQaTcyLUg1ZGYteWdUYkJPUHpJRjJLTmNTUkEwWGJpT3V5bFB6el9lNzlsdmxZelZXYThvUlA4dk1YTWZ0SmJxVEZET3R2Q2R0by13MGJMRU9iNkNnQXA0MUxCNXMtY2ZFRlVlY2xWdWpZSGQtRmJMRHpQYmpzN2V5aUxJMzRnUWpnMFFzSEsyRWh0NXNnUDRPWVU5WnRWMmVpbDg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 285,
+    "dup_title": 159,
+    "too_old": 114,
+    "gate1_blocked": 0,
+    "gate2_blocked": 1,
+    "passed": 11,
+    "pass_rate": "8.7%",
+    "gate2_block_rate": "0.8%",
+    "gate2_samples": [
+      "What’s next as Hawai’i enacts clean fuels program; Biogas news from Waga, Convertus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為嘉能可相關動態：「Weekly Recap: Debt down to $10.2B and US$0.085/share payo...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Weekly Recap: Debt down to $10.2B and US$0.085/share payout - TradingView（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Guinea signs bauxite mining deal with Nimba Mining, finance support by Glenco...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

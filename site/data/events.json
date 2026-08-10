@@ -1,5 +1,44 @@
 [
   {
+    "id": "unknown-2026-08-10-001",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Weekly Recap: Debt down to $10.2B and US$0.085/share payout - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOVR3Zno0S2VoVkJyYnBQdnM1eGh0c3JlWlFWaWY3ZVlOaHotLVBuMzJVeURfNDBITHZCRWYwa3dwN00xNXNmZGdPQ1Y5ZXJiNElOTHYtbGxMb2NXTVlYRGYyckNCaWJZdDBPRHh0OV",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOVR3Zno0S2VoVkJyYnBQdnM1eGh0c3JlWlFWaWY3ZVlOaHotLVBuMzJVeURfNDBITHZCRWYwa3dwN00xNXNmZGdPQ1Y5ZXJiNElOTHYtbGxMb2NXTVlYRGYyckNCaWJZdDBPRHh0OVJ4dlJNWVh4MVZmWEREaGY5cDJ3VTlYamxfZWY1RHN1aXNhWmxXVzljVzBJcXJQTlp2bmE2T3Bib1U0Y2J5VE1YNWxGLTE2RW5NRTA4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-10-002",
+    "date": "2026-08-10",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Guinea signs bauxite mining deal with Nimba Mining, finance support by Glencore confirmed - alcircle.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbG1SZFlMN0IycDBzOENjSGdUQjUtN1pFVUpLVkVFRmRQaTcyLUg1ZGYteWdUYkJPUHpJRjJLTmNTUkEwWGJpT3V5bFB6el9lNzlsdmxZelZXYThvUlA4dk1YTWZ0SmJxVEZET3R2Q2",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbG1SZFlMN0IycDBzOENjSGdUQjUtN1pFVUpLVkVFRmRQaTcyLUg1ZGYteWdUYkJPUHpJRjJLTmNTUkEwWGJpT3V5bFB6el9lNzlsdmxZelZXYThvUlA4dk1YTWZ0SmJxVEZET3R2Q2R0by13MGJMRU9iNkNnQXA0MUxCNXMtY2ZFRlVlY2xWdWpZSGQtRmJMRHpQYmpzN2V5aUxJMzRnUWpnMFFzSEsyRWh0NXNnUDRPWVU5WnRWMmVpbDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-08-09-001",
     "date": "2026-08-09",
     "companies": [
@@ -15,6 +54,48 @@
       {
         "name": "glencore",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zM2dITGYxTHIxOVFUQVIwcWJNdlh4dmRLTi0wSElOaS1UZGJRRDl0VkI4Zk9rVFhER1R0R0ctQnkxazBiOXZSTWgxcUl0ZlFTWm9CbEtNblk4LUZESlV4NmItNGlKMW5GQWcxelduVXIxU0pVY2hEMg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-08-09-002",
+    "date": "2026-08-09",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology hosts community meet-and-greets for Tonopah Flats lithium project - Bitget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA3ZXFmbTM4OVZiZEJnekZ4N3lBX2pYUjNJSUVmNlhsYXNUUWdLMlFrbDdqS2RiVzRiS3AxTE94VndrY3RFcDNZbEYzVFJvVHhNQ1d2TXdpSUlvTU1EZk1HMXFrcW1wRnduN0HSAWpBVV",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3ZXFmbTM4OVZiZEJnekZ4N3lBX2pYUjNJSUVmNlhsYXNUUWdLMlFrbDdqS2RiVzRiS3AxTE94VndrY3RFcDNZbEYzVFJvVHhNQ1d2TXdpSUlvTU1EZk1HMXFrcW1wRnduN0HSAWpBVV95cUxQN2VxZm0zODlWYmRCZ3pGeDd5QV9qWFIzSUlFZjZYbGFzVFFnSzJRa2w3aktkYlc0YktwMUxPeFZ3a2N0RXAzWWxGM1RSb1R4TUNXdk13aUlJb01NRGZNRzFxa3FtcEZ3bjdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-08-09-003",
+    "date": "2026-08-09",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology : to Host Tonopah Flats Lithium Project Community Meet-and-Greets - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb2x4STNYSlUyY01uaV9aYUU1b3Y1NTZtaUdadXc2UDY1M0FzMXZRNVhIWnpYdlRKN3hvMW5WUzE2RzdPdHlvbC02bVpTcmVTU2tsY3Y2VmptR2VTSE54bzY4Vnlwdk5BRW5JUHVXM3",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb2x4STNYSlUyY01uaV9aYUU1b3Y1NTZtaUdadXc2UDY1M0FzMXZRNVhIWnpYdlRKN3hvMW5WUzE2RzdPdHlvbC02bVpTcmVTU2tsY3Y2VmptR2VTSE54bzY4Vnlwdk5BRW5JUHVXM3l1c2xhU2RuVzU4T2ZMX09VWFdZajJIazBkbDJnNEFmOHE3eDNXVXJpZjJFVDJvMzB4NnVVRkFyVWs2eVNpMlpmZVRaR0lMcUhlcUJqcVVadzZoLUR6SGplZkk3cW4wMkJ4Z01SczlvQ1V2dTNk?oc=5",
         "type": "rss"
       }
     ]
@@ -383,6 +464,65 @@
       {
         "name": "waste_connections",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQajR5Z2VrRkdld3NiTUoyTXZjQUpXWW9Ia0xPUVlpOWlkRFg3bVRWa2gyU3ZmUGxJcDZMcEgxS2xuZjhwWlAwTGwzMW16aDcxSVJ0d0I5b1R0cE5vY3lrUDdJZlZIMEpiVndtYUhTbndZNzZ2dGZOVDRuR2pLYkd6ZWwtY0N6NWEyM3dwcWI4ZHlGeU1Scnk3TXR0V2JRbmJzZEN1eEJXRk5CMm9RclZCdU1NMlJmOWE3N2NYQkVMaTBaWWsyUzNKVU44OHFjaGc0M2RPRHNFT1JwR1hhbkNnSGF6SQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-017",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Guinea gives exclusive rights of its most precious mineral to the world’s largest mining company - africa.businessinsider.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQXhHdXQ5dlhmaHQwVVhBQWo3QlRVbUwzSGNMNGZCRGJTaDdqSXRFZE10S0FLbjduZmJoQVlUWHJyd0QyczRKTUxqV0QtYkFyU0QzV1lNWXpvckdocWVUNENOQ2paMUxIOUozZVFiOV",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQXhHdXQ5dlhmaHQwVVhBQWo3QlRVbUwzSGNMNGZCRGJTaDdqSXRFZE10S0FLbjduZmJoQVlUWHJyd0QyczRKTUxqV0QtYkFyU0QzV1lNWXpvckdocWVUNENOQ2paMUxIOUozZVFiOVFTWjhEUTFBR3FFWDVoZUdPRXBLRUlJQTNULW1QVDliZTFYNjRpbUtzc2NSTjROeW91QllDQ2pPRUFUMk40VjloNDFOSWZRLXg2UzFVYk5weXhjV3F3LTh2ZlQ5QXJwMWo4bllB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-07-018",
+    "date": "2026-08-07",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Renews Normal Course Issuer Bid For Share Repurchases >WCN - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnJGM19Hcl8xdU0wbWxlbkNpTHBLZEYwbTlVVUlfQ01TMjVhZzJmZ2FxOVpsZ1k5RWlpa3JTLU82R1lnUnF4dlk0Z3JPSVdSM1VaV0xicEc1R3Z3YUdzVW5GQmpwbWROb2tBRE5oT0",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnJGM19Hcl8xdU0wbWxlbkNpTHBLZEYwbTlVVUlfQ01TMjVhZzJmZ2FxOVpsZ1k5RWlpa3JTLU82R1lnUnF4dlk0Z3JPSVdSM1VaV0xicEc1R3Z3YUdzVW5GQmpwbWROb2tBRE5oT0lWQ0k3RVhCbDZReXhXTjl2RFdhSWlHOGxySHR0U1FxeXc5OVpDNkphZjlZTm5lVGtFUWZIOHQ1NnVHcHBILWMtc0JtSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-019",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trade, climate ministries partner to boost EV battery recycling - koreatimes.co.kr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNRTBQLTI3Xy0wRXhjMVJUY3FXMjFZUmFwMDZYYVFVcFlxMjU3cXNWeDR4VUt6d2R2anFuVXNHaUNrcGszT2h3WllkM0ViS1ZQWjlFb0tlZllvZHR0TTBSUVJQZWVoaUdsWTVOWEdIQm",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRTBQLTI3Xy0wRXhjMVJUY3FXMjFZUmFwMDZYYVFVcFlxMjU3cXNWeDR4VUt6d2R2anFuVXNHaUNrcGszT2h3WllkM0ViS1ZQWjlFb0tlZllvZHR0TTBSUVJQZWVoaUdsWTVOWEdIQmlhN1lXeDkwckxHREJHRmVDMWIyakFDMXRnOWpMdkQwZk5Qdi1wM1FrX3ZCckFmZ2YzMU93N0lGeE1mZkhXdkM0bEowampvbVRYSERsU0Y3OTd5THRyVmItV3hBNNIB0AFBVV95cUxQSHhEWGVOaWpwa1BOb0pNQnJyZGhKWmRPLW9QVFIyanRsUTc5OXNOLWsxcTFTRGJ0RmVlRThaUFNSQzZ1M0tjZjVCQVV4RFhCQndGaTJWYXRiRDFTUWdtOE5pZEZkeTUtSWcyLVVvaTVoZE1hUGFLLWFLb1FfWGdwUkRNTHo3UUkzX09kV0JHT2E1VXN2M2k2dlk1SEJPS191eUlrR3NNTjI2aFhob1h3ZFN1QkYzMWExTjFEeTBEU0xDZUZfb3lDUEFwRTBsWENk?oc=5",
         "type": "rss"
       }
     ]
@@ -863,6 +1003,27 @@
       {
         "name": "abtc",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iVmpsVEE1ekdTUV9CUFRESzZBelNLdjl0YkNoQ25nMW8xUVJLZXB2eVlkMXd2ZHh0MlY5M0JSNm42ZkRmTl81cXdLUmNsOV9tS0t4OG5wQ3ljLXhiY3Ixa2NvTXNPbDdpZjFsb2oyS1B5S0NNYlkwdHRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-06-025",
+    "date": "2026-08-06",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Should Waste Connections’ (WCN) Shift to Longer-Term Bonds Change How Investors View Its Balance Sheet? - webull.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vbnp2b0c0VDh5SzNvUHUzeDhfbjhLUEN4S1N1ZVlDejJ4ZThPb3pzYkg3aS1YUVloSVBZUng5Q1FpLTVVOTVGdjF0X09nYUV1Sk9wN3g0aDA?oc=5\" target=\"_blank\">Should W",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vbnp2b0c0VDh5SzNvUHUzeDhfbjhLUEN4S1N1ZVlDejJ4ZThPb3pzYkg3aS1YUVloSVBZUng5Q1FpLTVVOTVGdjF0X09nYUV1Sk9wN3g0aDA?oc=5",
         "type": "rss"
       }
     ]
@@ -1863,6 +2024,67 @@
       {
         "name": "abtc",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMTE2NHRUNkdmWlZWS2szWHg3VUhXMk5ISUx1TjFVWjkxOG92VndzdUhTMjNRY1JyVmlWWl9zLWVHRXdMemN0T0xGZ0l5c09PRDNreG9VZEo4MlZxMmhzQzE1NUxRMkI4alo0R0Q1XzBFSlBzMjByb2hzcHg0YVlRdlpEVjhMeWZZay1zNW5LSF9nWnpYZllXN0hNVWQxSTdUQ1FmSWhTdzlzX21tbTdmdkpMYTJucW9mN0M4dFZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-05-051",
+    "date": "2026-08-05",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Targets Secondary Listing in Australia - wsj.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGJ2YWVuNFlvUWVnTDgzdUR1Y3ZuTlNZOS1iZHRRd0hRdFhfaWdnaS1YUnhuQy1uelhYYWVpX3NhNDROX3NzWWJXU2dvOVM5Q2hxNVE2YlNsZ0t5Sm80X3BoUWlnVldDWDFXRFliVV",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGJ2YWVuNFlvUWVnTDgzdUR1Y3ZuTlNZOS1iZHRRd0hRdFhfaWdnaS1YUnhuQy1uelhYYWVpX3NhNDROX3NzWWJXU2dvOVM5Q2hxNVE2YlNsZ0t5Sm80X3BoUWlnVldDWDFXRFliVVJ5cGxGWlN5bGRjRjk0TFJOSDN6c0xaREZpZmdIbkxfOGN3TnRJS0R3UnpnRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-08-05-052",
+    "date": "2026-08-05",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Next Battery Materials Megatrends Are Already Here - American Battery Technology Company",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE83RXRNTGhZUi1Gelo5ZU5HZVhsckFiTUZTSWRXU01fT0dWZ1pqM0xmNG80ajMxNkp0ZUlPMGVQS19peFEzdm1fRmFhVTVZS0RRYi1ob1BUbWtJbUpNVHZGLTZ0SWVmWnc5R3lPZWxYWE",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83RXRNTGhZUi1Gelo5ZU5HZVhsckFiTUZTSWRXU01fT0dWZ1pqM0xmNG80ajMxNkp0ZUlPMGVQS19peFEzdm1fRmFhVTVZS0RRYi1ob1BUbWtJbUpNVHZGLTZ0SWVmWnc5R3lPZWxYWEp2ZXg3dDJCLVRxZjg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-08-05-053",
+    "date": "2026-08-05",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Critical Minerals Challenge Is Here - American Battery Technology Company",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNVXlDNDM3WVJCckV5SkZLWkExaWRpcklkYWZfM2dlZ2Rlc3VYR1FwYU1zdUQtQ2dwRHh2aWpFcEk0akF3eEkycXFzbjNrNnVJMFdvc1lJNm5ZR0tSeTBROC1sNzJoU29ZYnhMa2hfSX",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVXlDNDM3WVJCckV5SkZLWkExaWRpcklkYWZfM2dlZ2Rlc3VYR1FwYU1zdUQtQ2dwRHh2aWpFcEk0akF3eEkycXFzbjNrNnVJMFdvc1lJNm5ZR0tSeTBROC1sNzJoU29ZYnhMa2hfSXAwX2c1QVRBNVMzYS1QODdYVko4Nkw?oc=5",
         "type": "rss"
       }
     ]

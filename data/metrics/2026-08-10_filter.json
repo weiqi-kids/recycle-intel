@@ -1,0 +1,12 @@
+{
+  "total_raw": 285,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 0,
+  "gate2_fail": 1,
+  "passed": 11,
+  "gate2_samples": [
+    "What’s next as Hawai’i enacts clean fuels program; Biogas news from Waga, Convertus"
+  ]
+}
