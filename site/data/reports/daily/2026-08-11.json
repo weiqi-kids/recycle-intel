@@ -1,0 +1,119 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T08:49:00.690470Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-08-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Coronado Global Resources: Q2 saw a 39% production increase, cost improvements, and stronger liquidity via Glencore prepayment - TradingView",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQRnd1ZVZwbEdiWkRWMEpZNk02eUdzTmQybXA5bGhkWmIyZEJqU0xVUGJNdGJzM3g2QzllYzRYeno1OEo0ekVpb3RGRWlzd3hJdXA3LXIwSnR3Q3ZsX1NHQlZ5RFQ2WFF6QW1Ub1h0RXdVT2pMY3IzTUZXdDNhVTlpS3FDdlBOM1hMTDRGOHhRY21jOXRVZlFORVFucUI3MUNGT1V3OXFHWjBtUjN1bGN1Nl96bU9pcmZEaGtDOUotLWNDQmV0aWMwRkp1M1UwbDdUa3hlczFrcVFsQ2NtX2JuOWNrQ1RRdkRIaG9kaHo0em8zblRDNFVBMnZUWGVzSDNjbHRXSEh0VWxXbGZSQ2R3VFhlQ25yQmQ5MnpOeXE0QWJISWQzeEJFSU9rNVJ5SVRTSWZV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "veolia-2026-08-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Barclays Remains a Buy on Veolia Environnement (0NY8) - The Globe and Mail",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaHhycGh0cU5kaE1LbWJzZFFCMzJOMG1lSGRTVjFtQlNHMU1mVE5qS1VoQTZtZWU1alRyek1IN3lGU2tkMnEzOWVIRmJVdmI1WGVBSlU3b1JMNjA0aV82OGJoaWlfVW85WVgwVVNRZFBVclRrYXVsdVJlS0o3ZTg0R1ZDQkx1SzI5SFc3X01UX29RN1E0VHdkMUFOSnAwUmc0aExfbUFFN0JVbnl5VkNKWmFaWVpPUFp1T241Snk5NnZodEJFVmoxcEc5ZFY?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 151,
+    "too_old": 114,
+    "gate1_blocked": 0,
+    "gate2_blocked": 4,
+    "passed": 17,
+    "pass_rate": "12.6%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "Sherritt surges after receiving takeover bid from Glencore-backed consortium (SHERF:OTCMKTS) - Seeki",
+      "US investor group taps Glencore in bid for Sherritt - The Northern Miner",
+      "What’s next as Hawai’i enacts clean fuels program; Biogas news from Waga, Convertus",
+      "Yucatan PET Center Recovers 298 Million Bottles - mexicobusiness.news"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為嘉能可、威立雅相關動態：「Coronado Global Resources: Q2 saw a 39% production increa...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Coronado Global Resources: Q2 saw a 39% production increase, cost improvement...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Barclays Remains a Buy on Veolia Environnement (0NY8) - The Globe and Mail",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,15 @@
+{
+  "total_raw": 286,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 0,
+  "gate2_fail": 4,
+  "passed": 17,
+  "gate2_samples": [
+    "Sherritt surges after receiving takeover bid from Glencore-backed consortium (SHERF:OTCMKTS) - Seeki",
+    "US investor group taps Glencore in bid for Sherritt - The Northern Miner",
+    "What’s next as Hawai’i enacts clean fuels program; Biogas news from Waga, Convertus",
+    "Yucatan PET Center Recovers 298 Million Bottles - mexicobusiness.news"
+  ]
+}

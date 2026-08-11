@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T09:14:58.164080Z",
+  "updated_at": "2026-08-11T08:48:56.045546Z",
   "quarter": "2025-06-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "奧魯比斯",
       "ticker": "NDA.DE",
       "currency": "EUR",
-      "ar": 788000000,
-      "ar_prev": 1140000000,
-      "ar_qoq": "-31%",
+      "ar": 1211000000,
+      "ar_prev": 788000000,
+      "ar_qoq": "+54%",
       "ar_period": "QoQ",
-      "inventory": 5453000000,
-      "inv_prev": 4840000000,
-      "inv_qoq": "+13%",
+      "inventory": 5817000000,
+      "inv_prev": 5453000000,
+      "inv_qoq": "+7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "boliden",
@@ -92,17 +92,17 @@
       "name": "共和",
       "ticker": "RSG",
       "currency": "USD",
-      "ar": 1917000000,
-      "ar_prev": 1897000000,
-      "ar_qoq": "+1%",
+      "ar": 2029000000,
+      "ar_prev": 1917000000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 114000000,
-      "inv_prev": 106000000,
-      "inv_qoq": "+8%",
+      "inventory": 115000000,
+      "inv_prev": 114000000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "sims",
@@ -143,17 +143,17 @@
       "name": "優美科",
       "ticker": "UMI.BR",
       "currency": "EUR",
-      "ar": 1887300000,
-      "ar_prev": 910544000,
-      "ar_qoq": "+107%",
+      "ar": 910544000,
+      "ar_prev": 1362800000,
+      "ar_qoq": "-33%",
       "ar_period": "QoQ",
-      "inventory": 2644000000,
-      "inv_prev": 2550046000,
-      "inv_qoq": "+4%",
+      "inventory": 2550046000,
+      "inv_prev": 2295700000,
+      "inv_qoq": "+11%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2025-12-31"
     },
     {
       "id": "veolia",
