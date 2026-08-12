@@ -1,5 +1,60 @@
 [
   {
+    "id": "boliden-2026-08-12-001",
+    "date": "2026-08-12",
+    "companies": [
+      "boliden"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Boliden's mining concession for Laver maintained as appeals rejected",
+    "summary": "On Wednesday, August 12, 2026, the Swedish government announced that it had rejected the two appeals against Boliden's mining concession for Laver,…",
+    "sources": []
+  },
+  {
+    "id": "glencore-2026-08-12-002",
+    "date": "2026-08-12",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Guinea grants Glencore exclusive bauxite mining rights - Channel Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUM3azlFb0FwYVA5ZTRuYnR6VmdPZ2dIR0p4YXR1N2k4ZGZQcDZaSFo1aVl5b1FrdjYtcVZVSWhzM2FRZmxiU3JFcFlpY0RCQURUOU1DSWJHa0puekpKWjBkWkFMd01YMnFkdDVaU1",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUM3azlFb0FwYVA5ZTRuYnR6VmdPZ2dIR0p4YXR1N2k4ZGZQcDZaSFo1aVl5b1FrdjYtcVZVSWhzM2FRZmxiU3JFcFlpY0RCQURUOU1DSWJHa0puekpKWjBkWkFMd01YMnFkdDVaU1NraGZ2ZGlUcHdadFB5eWY5WFRNbWJJSnVLM0FMZ3ZSQVRCVkp0RUtObTQwTG96cUpUUnVMMXkwV1ZFdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-12-003",
+    "date": "2026-08-12",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Sims (ASX:SGM) Repositions Earnings Around Data-Centre Recycling Growth - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1ZYNDIya3NEUHdPQ0lUV3c2SE15aVlWV2lSZXlNZjh1a0MtY2g5TF9LNzZQRUpnb01oTjFqWFg0QWNwNWotMXhuSE5FMXAwNnBDd1NoYno1dDZlckRGblpvdEZKXzlEZ1g1VGxwQV",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1ZYNDIya3NEUHdPQ0lUV3c2SE15aVlWV2lSZXlNZjh1a0MtY2g5TF9LNzZQRUpnb01oTjFqWFg0QWNwNWotMXhuSE5FMXAwNnBDd1NoYno1dDZlckRGblpvdEZKXzlEZ1g1VGxwQVRDUUpBaU5ySnBUTkpwSllTRTVfWVhkU01VOWQ1RDNUTnZJN1lOQURtekVZT3NHQU5vOHZoZ2gyQXlpNHBs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-08-11-001",
     "date": "2026-08-11",
     "companies": [
@@ -33,6 +88,124 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaHhycGh0cU5kaE1LbWJzZFFCMzJOMG1lSGRTVjFtQlNHMU1mVE5qS1VoQTZtZWU1alRyek1IN3lGU2tkMnEzOWVIRmJVdmI1WGVBSlU3b1JMNjA0aV82OGJoaWlfVW85WVgwVVNRZFBVclRrYXVsdVJlS0o3ZTg0R1ZDQkx1SzI5SFc3X01UX29RN1E0VHdkMUFOSnAwUmc0aExfbUFFN0JVbnl5VkNKWmFaWVpPUFp1T241Snk5NnZodEJFVmoxcEc5ZFY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-11-003",
+    "date": "2026-08-11",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Glencore CEO backs shift away from annual TC/RC benchmarks amid growth in spot trading - fastmarkets.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcFdIWmo0b0hnWVBMTlNFNVlCVXJld19rZHZXaTB0cjNVTXdGMjNaSkY4X0tsYmFSZGlwZ3VqTm02VEpJQXJfaU5BUnAwNmdkRDh4Z2JLeUJPNkR0ZWVLNDloYnV0YWtHUnBBeU5XSk",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcFdIWmo0b0hnWVBMTlNFNVlCVXJld19rZHZXaTB0cjNVTXdGMjNaSkY4X0tsYmFSZGlwZ3VqTm02VEpJQXJfaU5BUnAwNmdkRDh4Z2JLeUJPNkR0ZWVLNDloYnV0YWtHUnBBeU5XSk9aZ0pHdlVIOHZnSVkzTmtWZkVwM0VpY0l3RFpfODMzZGE0V09PeVJncUxBT0JGOXZUMmZfLTJnMnhjempkeUVyalBpTHgzc1VRcFJweEN1YjVJUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-11-004",
+    "date": "2026-08-11",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "circular_economy_policy",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore H1 Earnings Rise Sharply As Energy Market Volatility Boosts Performance - directorstalkinterviews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTFfRUp3TGM5RWZkdENPdVBoeF9hWDhuazl5YmNoV21tRTRpUG83VWNNUVFMYkxYSUhBenRmREprRXJObjI4VXVBNHlybFNKLUQzZjZnT1FDWVpqVFh3cjVHTERxTG1JWmZ0a1BHc2",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTFfRUp3TGM5RWZkdENPdVBoeF9hWDhuazl5YmNoV21tRTRpUG83VWNNUVFMYkxYSUhBenRmREprRXJObjI4VXVBNHlybFNKLUQzZjZnT1FDWVpqVFh3cjVHTERxTG1JWmZ0a1BHc2g3OU5MbFlWZWxWeVJfQ3lET05RRl96dTR1WVJzaDlOaXVRbFVIUnZQWExrazl2WU51a1JFaG1FajlnUTEzb3N2T2g4Mm5DRnAycEUxRjh6T1RPLWpsR1FhQkYzTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-005",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Total M&A spending in 2026 surpasses $2.7B among top waste companies - Waste Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPLVozc09TOUF2Q0prV2p0ZHFlS25ZN3lQY3hrWWFPbDJyNHlWVXZsNnB2ZFZxSGtmaTk1cmJKakRBN0Y1U1lFQ25kZGFja1F3NlB3cHVhWkJHcktQNFhnUDktUmZ0YjNGZGMtWC1IWX",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLVozc09TOUF2Q0prV2p0ZHFlS25ZN3lQY3hrWWFPbDJyNHlWVXZsNnB2ZFZxSGtmaTk1cmJKakRBN0Y1U1lFQ25kZGFja1F3NlB3cHVhWkJHcktQNFhnUDktUmZ0YjNGZGMtWC1IWXFZZy1QQ19kU1pOTF9rSDEyRzd2NU0wNmdVUW90bUh1eU14aE1weXdvR2VPMHZpWHJ6SFg0TnNNOHZUem0wUlZqMk5vUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-08-11-006",
+    "date": "2026-08-11",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology Sees Unusually High Options Volume (NASDAQ:ABAT) - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNWVlYaEYzVkdBd2s5eE0zdDQ4ZkdHc3paWnVwS1J2MnZyUmdWakg3OHBEdDNzVFBTcEdDdWVoTUtqZXBRWXl5UHhabTBvcDVuMUhVOHNpOHFWV09VaHgtZms5SGRkZjhyc0NaUmpNVn",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWVlYaEYzVkdBd2s5eE0zdDQ4ZkdHc3paWnVwS1J2MnZyUmdWakg3OHBEdDNzVFBTcEdDdWVoTUtqZXBRWXl5UHhabTBvcDVuMUhVOHNpOHFWV09VaHgtZms5SGRkZjhyc0NaUmpNVnVKanFWbXpucVJqdUh4MERXUm9NNWFaN1RyM0NYUjJzcVNkakk1MF9UaWdwdjN4WlFuT1BlQmFLaGthU3ZTVE1VWklXZ3AtY3J1a2ltZTlPTXQxeDctNkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-007",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amy Lestition Burke departs role as SWANA leader",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Qf5VLODcwCBiXBojs81SHJrp7YyQ3Pbxpkkl8MH6-JM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMzk2N19jcm9wMnJzei5KUEc=.webp\"/>",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/amy-lestition-burke-departing-swana-ceo-executive-director-role/827573/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-008",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Total M&A spending in 2026 surpasses $2.7B among top waste companies",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/qTQRPp7U99qwg7LFkOEyhxer-W9GjoZVQSpAErIknws/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNjE4MF8yLmpwZw==.webp\"/></div></",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/waste-company-acquisition-spending-two-billion-first-half-2026-Q2-earnings/827549/",
         "type": "rss"
       }
     ]
@@ -292,6 +465,88 @@
       {
         "name": "google_news_battery_recycling",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaXNwSUxlRndrcG9vWHRkZzFIbTYwXy1QTzVjZEFidjdGVUl6dXh0TG56U2E5N1RTeUM5SW9kZ1hxWkJRd0p2SEozRFl0S3hPWVRRbXlienpPbjFUakczTkRoUTFydVpiSzE2amxQR2JiWUJ6N1VWejZMX29iMVFmXzl2X29VZG9FcmtTSGZWTTU3cDVGaTRFWUNVTFhIOVpJa1k3MHlvZ0FUeXdNRHpoaXJ2YnVXSmdZYUgzcGRLb01MQV9tTFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-10-014",
+    "date": "2026-08-10",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Glencore's exposure to Radiant World more than $500 million, sources say - reuters.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQYldFMF9PQ3J2WUkzMXR5cHlhYU1SZEZkMVdRY2VqM0hoYXNwSmVnc2c0S0lmU0l1N0U1MEJBZEhpckV3M0tTUDdqcmtfNE4yYlctb2FrRzFxZFZ2Y3RGcEx1cjNiMWk1V2l2b1NkOE",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYldFMF9PQ3J2WUkzMXR5cHlhYU1SZEZkMVdRY2VqM0hoYXNwSmVnc2c0S0lmU0l1N0U1MEJBZEhpckV3M0tTUDdqcmtfNE4yYlctb2FrRzFxZFZ2Y3RGcEx1cjNiMWk1V2l2b1NkOEhzZEtpcDBfbXhYSHFqaTF5OUsybnJtSlFmUGl3a3hZQTF5YTZUZzFIcFlFYjZndEhVTkJmLXIxbEtxMUhScEZBRENucWdnNVBYcU10LU1zVTJqQjhLR1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-10-015",
+    "date": "2026-08-10",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Consortium Offers Rival Bid for Troubled Canadian Miner Sherritt - bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxObXZFWENQT3dQZzRnSXJuM21BYTV5ZnN6dHM4cENTTzNJVzJGSXBONjBkTzM3VFQ1N2FuZGhmMFNpcTkxZkFqUHpzTTZfaGEtaUYxX25ucTVrc05yczY1NUc1STZEc2xvQURqVmdsUD",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObXZFWENQT3dQZzRnSXJuM21BYTV5ZnN6dHM4cENTTzNJVzJGSXBONjBkTzM3VFQ1N2FuZGhmMFNpcTkxZkFqUHpzTTZfaGEtaUYxX25ucTVrc05yczY1NUc1STZEc2xvQURqVmdsUDJYRnpsWjZBbFVyQk5RQTg0LWtDci04eEZBbkJqYU55dGt4TkcxdVZTeFU1Yy1VNzBwSllmeFdtN2R0YjdsSnN4Y0wwNDFhZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-10-016",
+    "date": "2026-08-10",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Latham & Watkins Advises Waste Connections in C$700 Million Senior Notes Offering - Latham & Watkins LLP",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXZQelZvUTR5ZFFLR2lYTmdkanhMbjdTbmhKQ1FCRUZVekxaa1M4eERwTUs0eTlDdTludnh1aHpQS0NxRWhWSTl2T203cXJBVkxSb2ZpZHdYZnd1VE9XUVM1RUtPNk9DbXMxaXY4T2",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXZQelZvUTR5ZFFLR2lYTmdkanhMbjdTbmhKQ1FCRUZVekxaa1M4eERwTUs0eTlDdTludnh1aHpQS0NxRWhWSTl2T203cXJBVkxSb2ZpZHdYZnd1VE9XUVM1RUtPNk9DbXMxaXY4T2dYSUZsUk5kNDFJdjVvLWVtS2FNd3hKZ2wtM3hXcDRLbUwwTEo1NF9r?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-08-10-017",
+    "date": "2026-08-10",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Shareholders Can't Ignore US$1.0m Of Sales By American Battery Technology Insiders - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPT25UX1JjdUtWVVpSaXZMX1VVSWVST19pRFZQQmJ1RWljY2R4SmRPc2RmQ1dGMWQ1RVptUWpDMkFFMEh4RGhUVC1xM1JNU0otWmtmX2JSdmZuNzB5MGVoRFE3S1RqQW5HM2kzUEFXZH",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT25UX1JjdUtWVVpSaXZMX1VVSWVST19pRFZQQmJ1RWljY2R4SmRPc2RmQ1dGMWQ1RVptUWpDMkFFMEh4RGhUVC1xM1JNU0otWmtmX2JSdmZuNzB5MGVoRFE3S1RqQW5HM2kzUEFXZHI1RDVhU1Bqa3E1MXZDX0VGaUljd21DVDNWMGwtTlJwNA?oc=5",
         "type": "rss"
       }
     ]
@@ -2425,6 +2680,47 @@
       {
         "name": "glencore",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSTZEUjBMdzFRckF2SThVdTFrNW9RZUlJa1FnSXZwUlRvUGRjZkZGRkxOMkIzNXBrTHVyVVdfaTZueGpWODcya2p4U3hmUWViaGo1WGJFdDh2ZlNZaWlFSnlLTFRpQjVUeUs1VnhNcGxvUUkzdFlPMDBlSDFWVFZGa0psZWg1T2ZEdVhqMmU4WnJBYi1jb201ZFQ5Tm9ZQVFnRmwxUlBNOUJhT1dycmFXZWZXVmJqaEtsbmtvQVNla1hpNVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-05-055",
+    "date": "2026-08-05",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore's Australia listing taps mining-friendly capital for copper, M&A ambitions - reuters.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb1FOb2lSMmdXRUJuQ2NUMjFoWTdWa2lRakNtTy14blhORWtveXV3T2otSEY4Yk5hNlhwcUFPeFFTcGhrVWJwWGpKWG5tNmViNU1SV2l5ejZiUkpwUDg3RUlUUnlLYno5dEJicGFOQn",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb1FOb2lSMmdXRUJuQ2NUMjFoWTdWa2lRakNtTy14blhORWtveXV3T2otSEY4Yk5hNlhwcUFPeFFTcGhrVWJwWGpKWG5tNmViNU1SV2l5ejZiUkpwUDg3RUlUUnlLYno5dEJicGFOQnFFM3ZaaExPQkpRZ2RCNUtDV1NKWmZla1BoeFBxMHlhSXhhdTBzWkh4dnhqRmNQSDdrY3pEWmlEMFY3TnZYR205dU9yUHdhM3hNMjYtRG5xOWpGcGxyOUhkNw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-05-056",
+    "date": "2026-08-05",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Glencore takes provision on Radiant World, says exposure not material - reuters.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSDVoNmNQODRad3NCNFhtcnVuLVg0bWdyamJabUpaNnBfaU5xSGxoQU90RjZjYXlWbmxFbUZnYndqQ3N4REd0QktodG5IVTk2OGp3VWg3d3VDZzk4VE5jd083Z1g3b09uZDFwZlI0TD",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSDVoNmNQODRad3NCNFhtcnVuLVg0bWdyamJabUpaNnBfaU5xSGxoQU90RjZjYXlWbmxFbUZnYndqQ3N4REd0QktodG5IVTk2OGp3VWg3d3VDZzk4VE5jd083Z1g3b09uZDFwZlI0TDhJeUJndTlBUXF3R0tpRHdTaUl5bGtMejVJRlhPUVhDZ25KNU53NFdValFjRlc2M3cwRWg2M0c4OTgtSlY2RXd3UGoxX1ppLWN2?oc=5",
         "type": "rss"
       }
     ]

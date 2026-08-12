@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T09:08:01.317031Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sims-2026-08-12-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sims (ASX:SGM) Repositions Earnings Around Data-Centre Recycling Growth - Kalkine",
+      "companies": [
+        "sims"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1ZYNDIya3NEUHdPQ0lUV3c2SE15aVlWV2lSZXlNZjh1a0MtY2g5TF9LNzZQRUpnb01oTjFqWFg0QWNwNWotMXhuSE5FMXAwNnBDd1NoYno1dDZlckRGblpvdEZKXzlEZ1g1VGxwQVRDUUpBaU5ySnBUTkpwSllTRTVfWVhkU01VOWQ1RDNUTnZJN1lOQURtekVZT3NHQU5vOHZoZ2gyQXlpNHBs?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "boliden-2026-08-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Boliden's mining concession for Laver maintained as appeals rejected",
+      "companies": [
+        "boliden"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-08-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Guinea grants Glencore exclusive bauxite mining rights - Channel Africa",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUM3azlFb0FwYVA5ZTRuYnR6VmdPZ2dIR0p4YXR1N2k4ZGZQcDZaSFo1aVl5b1FrdjYtcVZVSWhzM2FRZmxiU3JFcFlpY0RCQURUOU1DSWJHa0puekpKWjBkWkFMd01YMnFkdDVaU1NraGZ2ZGlUcHdadFB5eWY5WFRNbWJJSnVLM0FMZ3ZSQVRCVkp0RUtObTQwTG96cUpUUnVMMXkwV1ZFdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "boliden",
+        "count": 1
+      },
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "sims",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 154,
+    "too_old": 114,
+    "gate1_blocked": 1,
+    "gate2_blocked": 2,
+    "passed": 15,
+    "pass_rate": "11.4%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "Sherritt surges after receiving takeover bid from Glencore-backed consortium (SHERF:OTCMKTS) - Seeki",
+      "What’s next as Hawai’i enacts clean fuels program; Biogas news from Waga, Convertus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為博利登、嘉能可、西姆斯相關動態：「Sims (ASX:SGM) Repositions Earnings Around Data-Centre Re...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Sims (ASX:SGM) Repositions Earnings Around Data-Centre Recycling Growth - Kal...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Boliden's mining concession for Laver maintained as appeals rejected（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

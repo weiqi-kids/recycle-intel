@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-12",
+  "total_events": 3,
+  "by_company": {
+    "boliden": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "glencore": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sims": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
