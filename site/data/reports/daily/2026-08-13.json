@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T09:07:31.059350Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-08-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "£5,000 invested in Glencore shares a year ago is now worth… - Yahoo Finance UK",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYlR3N2dpa3NkemhIaERUdE5fYWk2cWtOVGduUW9ZdG0zOU1EMmhoUzA2dW0yckRMenRvOUpqbk9aQ0pvbTg1TnZlcW1KSWdyWXAzWkhZOHJHYU1zZWpZUV8wSU52WUk3S3pXenF2NkVsV3dycGxnM0pFaEQ1WmJLaXhIcFFLUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 158,
+    "too_old": 116,
+    "gate1_blocked": 0,
+    "gate2_blocked": 2,
+    "passed": 10,
+    "pass_rate": "7.8%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Sherritt surges after receiving takeover bid from Glencore-backed consortium (SHERF:OTCMKTS) - Seeki",
+      "What’s next as Hawai’i enacts clean fuels program; Biogas news from Waga, Convertus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為嘉能可相關動態：「£5,000 invested in Glencore shares a year ago is now wort...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "£5,000 invested in Glencore shares a year ago is now worth… - Yahoo Finance UK（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "嘉能可為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
