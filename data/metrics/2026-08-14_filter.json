@@ -1,0 +1,14 @@
+{
+  "total_raw": 287,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 0,
+  "gate2_fail": 3,
+  "passed": 10,
+  "gate2_samples": [
+    "Explosives attack on Glencore's Cerrejón halts coal rail line in Colombia - marketscreener.com",
+    "Veolia sues Delaware manufacturers over PFAS in drinking water",
+    "What’s next as Hawai’i enacts clean fuels program; Biogas news from Waga, Convertus"
+  ]
+}

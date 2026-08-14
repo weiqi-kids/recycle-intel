@@ -1,0 +1,137 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T09:03:08.359544Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-08-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement (ENXTPA:VIE), What Is Drawing Fresh Attention Now? - Yahoo Finance",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeTJUamRMUm9OaDlwTXI1YWNIcTA5TlJyQ0tHMklTRk9NcjZGUUd5UHhJRVE4cjJGd0FLSXJ4ejBVek9hMjR4anREX2dlSk1Pby1RbFQ4ckZkaVZyR3p0TkJKb09DRFp1ZmhvbkVRWVBMR29WXzI4VXhFUU9Pc0FOR01nNVdpb0lxSjZLM1hGN0l6amNfdThmRXVrV2tqTktVS2xCdnVOUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "abtc-2026-08-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Battery Technology Company $ABAT Stake Raised by Dimensional Fund Advisors LP - MarketBeat",
+      "companies": [
+        "abtc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYkNMdGt6XzlqbzdCNEl5bVBsc1liQXhNMUpIVHI2YkRRcDc4WnczdGl5MnF5UkNMUzFSeGd1T3hoUDVfZ3JETFZfQklOTjhoQkJUQmdEUEpibmVULXZic2tlWHhmWHNLYm5jZFVZbTVoaUsxMk5kakpWZTZYQXI3M2NlWHRGNjczZkl3QlRteHQ2bXVaTUdENl9xQm9YQ3FBdmpKVzlFN3F1VUhNUHpRdzd5aVpNeHJHNHlRcWF2MU4tWmt6QklmcjBYaVdwdlV0emtfWEhlS25BZUoxRFdN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "abtc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 147,
+    "too_old": 127,
+    "gate1_blocked": 0,
+    "gate2_blocked": 3,
+    "passed": 10,
+    "pass_rate": "7.1%",
+    "gate2_block_rate": "2.1%",
+    "gate2_samples": [
+      "Explosives attack on Glencore's Cerrejón halts coal rail line in Colombia - marketscreener.com",
+      "Veolia sues Delaware manufacturers over PFAS in drinking water",
+      "What’s next as Hawai’i enacts clean fuels program; Biogas news from Waga, Convertus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為威立雅、美國電池相關動態：「Veolia Environnement (ENXTPA:VIE), What Is Drawing Fresh ...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Veolia Environnement (ENXTPA:VIE), What Is Drawing Fresh Attention Now? - Yah...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "American Battery Technology Company $ABAT Stake Raised by Dimensional Fund Ad...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
