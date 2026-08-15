@@ -1,0 +1,14 @@
+{
+  "total_raw": 287,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 0,
+  "gate2_fail": 3,
+  "passed": 5,
+  "gate2_samples": [
+    "Glencore is a top sector pick for Citi after standout performance - Yahoo Finance UK",
+    "Explosives attack on Glencore's Cerrejón halts coal rail line in Colombia - marketscreener.com",
+    "Veolia sues Delaware manufacturers over PFAS in drinking water"
+  ]
+}

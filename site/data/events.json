@@ -41,6 +41,65 @@
     ]
   },
   {
+    "id": "waste_connections-2026-08-14-003",
+    "date": "2026-08-14",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Inc. stock outperforms market despite losses on the day - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxON2xnOTFKTy1yXzhyQnhZaHByekV1MllSNDU4U3hVaWxrY1Jvd1NUZEtNYTBGZlM0V1FVZVdqYVhmVVlCSXMyYVVCdHZTUzdlcG94aEh6a1JjRlBuQjdvbjJBUlg5UGh5MzJVMlE3U1",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON2xnOTFKTy1yXzhyQnhZaHByekV1MllSNDU4U3hVaWxrY1Jvd1NUZEtNYTBGZlM0V1FVZVdqYVhmVVlCSXMyYVVCdHZTUzdlcG94aEh6a1JjRlBuQjdvbjJBUlg5UGh5MzJVMlE3U1pieFFpSmNFak51b0ExcDhtRURnNEw1cWVHMUUyZVcyY0RNOFN0R2N1Rlg5SmNtNi05NmRFUnZ1Y0ZpcDR1QnBZVlU5aEF5WUVKRnkyVmlOcmh4bkdfZWprTE9uU1pUY1pwM09nMDRHbTA0UDhjV21hUjdMdkM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-14-004",
+    "date": "2026-08-14",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections (WCN) Stock May Be Cheap On Cash Flow Yet Pricey On Earnings - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVkNUNnpyV1JlZFpHd2lLal9wRUdESEZzUjdkY0M3YkxhdE45X0J0YXJMUmI5MWlGWDlSOFltVVdmLWtMS0VseUVtNVlrUmppWDVGN0EzUjB1amRZTGR6U2xpclQ5YnpJVXlkc204OC",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVkNUNnpyV1JlZFpHd2lLal9wRUdESEZzUjdkY0M3YkxhdE45X0J0YXJMUmI5MWlGWDlSOFltVVdmLWtMS0VseUVtNVlrUmppWDVGN0EzUjB1amRZTGR6U2xpclQ5YnpJVXlkc204OC15TjBLenRXd0VORDUxVTBwQ3YwUml5TWdUX3ZNZGhSWEpIa3JVM2VEWkIwcXBsUldFSWFWc2R4X2V5Y2p4T2c1OXNKaE9uZnZNNTFpQTZvU3dvZmFoVHZkN0NoLTVfbjFDcHVnenhkY0RMZW9WZ21XRWlB0gHiAUFVX3lxTFBWQ1Q2enJXUmVkWkd3aUtqX3BFR0RIRnNSN2RjQzdiTGF0TjlfQnRhckxSYjkxaUZYOVI4WW1VV2Yta0xLRWx5RW01WWtSamlYNUY3QTNSMHVqZFlMZHpTbGlyVDlieklVeWRzbTg4LXlOMEt6dFd3RU5ENTFVMHBDdjBSaXlNZ1Rfdk1kaFJYSkhrclUzZURaQjBxcGxSV0VJYVZzZHhfZXljanhPZzU5c0poT25mdk01MWlBNm9Td29mYWhUdmQ3Q2gtNV9uMUNwdWd6eGRjRExlb1ZnbVdFaUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-005",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Circular Services eyes battery detection tech for proactive fire safety",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/4ksFnuuz8GRkBfbDeLFrdc6tDw-1f_iQxG8bpyqeEAY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjcxMzc4NTI4LmpwZw==",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/waste-industry-proactive-battery-fire-solutions/827894/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-08-13-001",
     "date": "2026-08-13",
     "companies": [
@@ -136,6 +195,27 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/rstream-gillette-stadium-recycling-ai-sorting/827789/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-13-006",
+    "date": "2026-08-13",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Inc. stock rises Thursday, still underperforms market - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdmY4cUI4S2p5clhsQTNyVXdmSHd4akwzYUVRSk9hY0FRdk9rTnFPQlNLZzhfd19CQVdqdUtTQUoyVzVZeWhSVUgzZ0pvRFZCS3JEb3JrcWlQYjdVOWUtR0pUQ212TGdKOEpaZEhOWl",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdmY4cUI4S2p5clhsQTNyVXdmSHd4akwzYUVRSk9hY0FRdk9rTnFPQlNLZzhfd19CQVdqdUtTQUoyVzVZeWhSVUgzZ0pvRFZCS3JEb3JrcWlQYjdVOWUtR0pUQ212TGdKOEpaZEhOWlhTckZ6MXRwN3ZpNE9HTmVkSEVob1F1eUMxUm81TGNNQUloUG5mRU1lcDhJVHNodUNBcUtBR25zb2Y3ZkJoRExFaGREc1lweDZGM1hCNTBIdFBlWnJ1UEFvMA?oc=5",
         "type": "rss"
       }
     ]
@@ -502,6 +582,26 @@
       {
         "name": "abtc",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwN2ZkclMzaXNKanY3cS01dzJydmgzTUhfUzJzLW5VNExfdDZLdjB6anRHVDFMNlVQUWJmcHd0dkZPakFSMVpzbUV0UjlySUtRWVU0SGpveXkwS0pScVdZV3UwSnZPcGdjQS03OFdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-11-012",
+    "date": "2026-08-11",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Waste Connections Inc. stock rises Tuesday, outperforms market - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQcU9acVM2eGRBZWJnT01vekMzOTNnQ042dU11dlo5UmFHLTVxcWNxbTVXb3QxN0hqMzJMNEFjcks5ak5iZm1SZjJ5MHdsdC1sRjF1SmxOUXBKcXdOOTJVdlNOWHZUQUVna0F5Mmkxa1",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcU9acVM2eGRBZWJnT01vekMzOTNnQ042dU11dlo5UmFHLTVxcWNxbTVXb3QxN0hqMzJMNEFjcks5ak5iZm1SZjJ5MHdsdC1sRjF1SmxOUXBKcXdOOTJVdlNOWHZUQUVna0F5Mmkxa1YxNC1VWG9Sam1HVy0tOUhYcjB2WDZYUVh6eEpHalF0UFNpUXZTdnZPZnhYNUhaSTZGREdqN2E3Y2RCV1hINzZjMlJRelBKQWdsQ09UMg?oc=5",
         "type": "rss"
       }
     ]
