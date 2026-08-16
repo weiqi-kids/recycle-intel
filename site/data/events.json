@@ -1,5 +1,25 @@
 [
   {
+    "id": "waste_connections-2026-08-15-001",
+    "date": "2026-08-15",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Oppenheimer Asset Management Inc. Takes Position in Waste Connections, Inc. $WCN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY0pMZFg5YXVhLVI0d0Npakt3cWs3VE1IT2JyMVdQcjBScndXTzhYMUd4NU1pYXk4dW1DSmFHNVRGSmkzR25vMDlTLWZhRFEyYXNfaUF6U2pPck40UHRNUmY5VTNrVW90QkZCLXB1LW",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY0pMZFg5YXVhLVI0d0Npakt3cWs3VE1IT2JyMVdQcjBScndXTzhYMUd4NU1pYXk4dW1DSmFHNVRGSmkzR25vMDlTLWZhRFEyYXNfaUF6U2pPck40UHRNUmY5VTNrVW90QkZCLXB1LWxfcUhkNnI5Z2RRY0hkVk5zbU13eTZoWGcxVHBPcFAxLUUyS0NuTjlkOXZ5MTdfVURtcS1Pb3ZiTk9JWjdzSmRSNDZrTnNRcDFfaUtPS0pzSXZtU3JZUXlCUmxtRXlNSVRLYWZN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "veolia-2026-08-14-001",
     "date": "2026-08-14",
     "companies": [
@@ -95,6 +115,24 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/waste-industry-proactive-battery-fire-solutions/827894/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-006",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FR1400SG7 Bond Coupon Profile — Rate & Payments - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZaG9FWXoza011TWRVSFc3TlZDZjg1SWtvbmxTbnJBb1YxbHdkQ3FWSUFFSmI3cV9VMmtDZ0tNWUt6VHpzNnY3U1VzMnpTdWZFNmlocWs5Nk45Vm1Hcm5LNC1BMkxiR2dJNFp0cDRnZH",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZaG9FWXoza011TWRVSFc3TlZDZjg1SWtvbmxTbnJBb1YxbHdkQ3FWSUFFSmI3cV9VMmtDZ0tNWUt6VHpzNnY3U1VzMnpTdWZFNmlocWs5Nk45Vm1Hcm5LNC1BMkxiR2dJNFp0cDRnZHpMb28?oc=5",
         "type": "rss"
       }
     ]
@@ -211,6 +249,27 @@
     ],
     "impact": "neutral",
     "title": "Waste Connections Inc. stock rises Thursday, still underperforms market - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdmY4cUI4S2p5clhsQTNyVXdmSHd4akwzYUVRSk9hY0FRdk9rTnFPQlNLZzhfd19CQVdqdUtTQUoyVzVZeWhSVUgzZ0pvRFZCS3JEb3JrcWlQYjdVOWUtR0pUQ212TGdKOEpaZEhOWl",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdmY4cUI4S2p5clhsQTNyVXdmSHd4akwzYUVRSk9hY0FRdk9rTnFPQlNLZzhfd19CQVdqdUtTQUoyVzVZeWhSVUgzZ0pvRFZCS3JEb3JrcWlQYjdVOWUtR0pUQ212TGdKOEpaZEhOWlhTckZ6MXRwN3ZpNE9HTmVkSEVob1F1eUMxUm81TGNNQUloUG5mRU1lcDhJVHNodUNBcUtBR25zb2Y3ZkJoRExFaGREc1lweDZGM1hCNTBIdFBlWnJ1UEFvMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-13-007",
+    "date": "2026-08-13",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Inc. stock rises Thursday, still underperforms market - MarketWatch",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdmY4cUI4S2p5clhsQTNyVXdmSHd4akwzYUVRSk9hY0FRdk9rTnFPQlNLZzhfd19CQVdqdUtTQUoyVzVZeWhSVUgzZ0pvRFZCS3JEb3JrcWlQYjdVOWUtR0pUQ212TGdKOEpaZEhOWl",
     "sources": [
       {
@@ -1003,6 +1062,45 @@
       {
         "name": "abtc",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUVBweU5EYV9Fbzk1ZmItaldNNVBHVkIxb29sdWVsanA0SnM2TTFhdmNtN1Jyb0xybmV1Ny1oaUJaRWhfNU5wQUJ5ZElaRWVjN1h5SGV1OFgtTzJoTkd6OUFacnhGa1NncGE2aVlNaTBGMXhqbXM4TzBHUFZMZGtpcW5raFNoVTRpcThlUkIzeUs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-10-021",
+    "date": "2026-08-10",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore-backed group looks to rescue cobalt refiner Sherritt - ft.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOWGQ5ZU5qb2ZwRUdiN29UQXhFMGd3S05UMFhKTko3eFBXbF9VYzFjSFNpS3o4M05rWkZDTjg2UklJTzZvaU9RTXR6MmM3RnQ1akNmaWJIWlNIZF9IWTcwdkxmMzZ6em05WGthaTY5Qn",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWGQ5ZU5qb2ZwRUdiN29UQXhFMGd3S05UMFhKTko3eFBXbF9VYzFjSFNpS3o4M05rWkZDTjg2UklJTzZvaU9RTXR6MmM3RnQ1akNmaWJIWlNIZF9IWTcwdkxmMzZ6em05WGthaTY5Qnh0UVU3UFBFSDFyZDZNMUR3S2drYno?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-022",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UK lithium recovery project wins £3m to cut EV battery import reliance - electrichybridvehicletechnology.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNaXNwSUxlRndrcG9vWHRkZzFIbTYwXy1QTzVjZEFidjdGVUl6dXh0TG56U2E5N1RTeUM5SW9kZ1hxWkJRd0p2SEozRFl0S3hPWVRRbXlienpPbjFUakczTkRoUTFydVpiSzE2amxQR2",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaXNwSUxlRndrcG9vWHRkZzFIbTYwXy1QTzVjZEFidjdGVUl6dXh0TG56U2E5N1RTeUM5SW9kZ1hxWkJRd0p2SEozRFl0S3hPWVRRbXlienpPbjFUakczTkRoUTFydVpiSzE2amxQR2JiWUJ6N1VWejZMX29iMVFmXzl2X29VZG9FcmtTSGZWTTU3cDVGaTRFWUNVTFhIOVpJa1k3MHlvZ0FUeXdNRHpoaXJ2YnVXSmdZYUgzcGRLb01MQV9tTFE?oc=5",
         "type": "rss"
       }
     ]
