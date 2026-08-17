@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-17",
+  "total_events": 10,
+  "by_company": {
+    "glencore": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "republic": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sims": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": -0.11
+    },
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": -0.2
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

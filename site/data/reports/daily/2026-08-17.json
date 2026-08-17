@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T08:38:03.018038Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "republic-2026-08-17-004",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Glencore’s copper production from its Democratic Republic of Congo ope - Shanghai Metals Market",
+      "companies": [
+        "republic",
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbTRyd1IwLTNYUnF3djRpR0hHRGpIOHc2T3F0M2ZRSWVPcUpuNUVmNHdIQmI1ZERuYm5fdVRPVTVoVGpQTzFCaDlyYXZKOUxXOWhqNHdyVWh3emp1bmpqVVMySzd0Q1J4NGhueElSc0I3a1g0X05Zd21nWXlwQ3V2dGNnREhGMGlwZThzVjUtYzA3ZURlb2dRNDlIZmMzODRLdGpncF9iNzBoWDdlQ3BndUVPQ3ZCbTRVNGNwOHoyMzJVRWZWX0JpeU9XazlqczA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-17-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Weekly Recap: Radiant World loss review and trading profit down $3.3B - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX0wzUzFQRUtaRVNaeFctLWwzc1lCU3JCSTVnemduNkphS2lXMFFxVWxva2N5aXlaRHBsU0RITVJaQVNIVWVoQkdxdjRRWjhHT2N1ZmFJa0Nfd0dnMExwUElEUGc1RXpDSExuT3dLcl9hWEVIVUFmaDNteWJTNUNsZHRILVRqdWotWXg5blFrdmpxck1MTFAxSWVpcUJ3U1AyeXpjLU45T3RldDVlZW9rT1RobG5keVRaMC1TY0hzRHV3bXZLalowWA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-08-17-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Korea Eximbank hands Glencore $1B to secure copper supply - Dealroom",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNm80bmtTUFJvcUtGekU0eTdLV1F0dW9BN2pSZlhyLUVXWEVBSjRHV3VDWXN4bGVpQlp6cG5xRW50NlFVWGhHTklqWHJkc1l2NXlhQUxUcDYtTkE1OFE1M1lFcE93NTZwa0ZRTmkyb3h2SUVkRE52Q2Y5QmxtLUwyNmlnWmN4VjFUR2RWX252Vl95MGZ1?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-08-17-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Export-Import Bank of Korea Extends $1 Billion to Glencore to Stabilize Copper Supply Chain - finance.biggo.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tcWtyb0RHR2U3VFNXTGxnUVdqNEZrWXcwc2VKbGg5MWhmSHZITExJRHp3Tk9xOWhsbExiODg1azBuSTMxNnNhQ21lUWxDdkdTSF9faXJCXzRMRENUX0JnX0pVRFZmUktrck81TERCTGFDOWQ3c0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-08-17-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Korea Eximbank Lends $1 Billion to Glencore to Secure Copper - Seoul Economic Daily",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQnJaWFNBbW1QRDk5SUVmWWRwajZabTNIVEE3UnVRTVhoVDBzblZGRzBxVGY3Zk9wTFBPZG1TSFdCZ3kxR1I4UTQ1Zkl5TVVZUlR0ZEl4MHNCUjh4V3h5OGg5bVJfNjFrSi1sUlNzamlxdTZObXI1eW9VSXRsUHRsSkRHcW1DUjhjcUd2Z2ZoZHhGMEZ2V1ZJd2VhQXRZRW1sUmM0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 8
+      },
+      {
+        "id": "republic",
+        "count": 1
+      },
+      {
+        "id": "sims",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 288,
+    "dup_title": 142,
+    "too_old": 133,
+    "gate1_blocked": 0,
+    "gate2_blocked": 2,
+    "passed": 11,
+    "pass_rate": "7.5%",
+    "gate2_block_rate": "1.4%",
+    "gate2_samples": [
+      "Glencore is a top sector pick for Citi after standout performance - Yahoo Finance UK",
+      "Veolia sues Delaware manufacturers over PFAS in drinking water"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為嘉能可、共和、西姆斯相關動態：「Glencore’s copper production from its Democratic Republic...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Glencore’s copper production from its Democratic Republic of Congo ope - Shan...（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Weekly Recap: Radiant World loss review and trading profit down $3.3B - Tradi...（財報、產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
