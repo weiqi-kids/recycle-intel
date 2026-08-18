@@ -1,0 +1,232 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T08:30:01.516533Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sims-2026-08-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sims Limited Announces Fiscal 2026 Full Year Results",
+      "companies": [
+        "sims"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-08-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore’s planned Australian debut draws interest as investors look past coal - Reuters",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRzh6dFR4M0l6bnBfbFZBakJ3eVpOa2FSd2Vfb1lMOGI1TUdqb3FDbEtWUFg4czVuRDRDNzBHTTRNQ25KZmZwQXZIdElZaTNHdEh3WG14ZE84NUxTSkdzVmtnelJFWm9oODJWb3BlSkhwQ3hYZ3RuQWZzUVBiRWVNU3dYVlNpRXZGV3dQWllkTUI1dzUtT1cyMll1SFBwUHFJSV9nZ2M1THYyRlRHdVJVUE1EYlgxYzBKb2ZpRTdoSzVuVy1HTWV0VQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sims-2026-08-18-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sims Limited 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SMSMY) 2026-08-17 - Seeking Alpha",
+      "companies": [
+        "sims"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRHBWMXlyNjJSaXNZNjVZQTFpNWNFc21ZOW5sV0NPQXVXZ1BTWnpOSTJ6djF4NTFBQXlwQ3AxSkFMVkhhdEIxRTBGa2RrX2pIa0R6RlpCWDdSWVVRakw3WTBWQ0xWNDdYeVlVYkhld0NJUGxjOERrdVJiOXNXX3dYT0FXNWxCVk5vZEtaLTY1S3FoVms2N25yZllOUDY?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sims-2026-08-18-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sims Limited Reports Earnings Results for the Full Year Ended June 30, 2026 - marketscreener.com",
+      "companies": [
+        "sims"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSjVLQ2FSak5jbDM4VUtBaTZ6Q3V2Qlp5ZlpWSkdqOVVqZ2VKZXhkRTNMUTFzb0JhUTQ2VHdBRnpzZlZwcnhkYlBXSjNrNzkzUUdNNzhzSkJNVm0xdjdZMldIMkZGb2FyUmx1c0JXSUN5WTJDSWFOVmh6QTdfVE42RlNabzFIQW9HT3kyOU56eGJQZkowYmttNHFrRlZfNWNqTThIV0hqZ3pST1lFREl6ekJjOW5PWDFkUVpuOTdOaEhRc09OSHc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sims-2026-08-18-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sims Limited FY26 slides: EBIT surges 168% on AI, metal strength - Investing.com India",
+      "companies": [
+        "sims"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXVTUXZmaHFib3NIZzM4UklKLWdBZU1zbG1uejY4QWxsbmgxWllFeEY5dVJGM3JUZjExWDh6X1ZtY1QzZkdHRDh1dGxVNFA2Q2hNTXo0ak82T1h0blVSUGphSnB3WVpzSnBXN3dNbkNuSWpmczhDbmRxN09TS2l0a1VNRkhNNlROOWVNQUhNSTY5S3lNaERiZHlaNnZSQ0NIdHd3RHZ2NzRRUkExQmo5R0RUYVM0ajZv?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sims",
+        "count": 14
+      },
+      {
+        "id": "glencore",
+        "count": 2
+      },
+      {
+        "id": "aurubis",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 131,
+    "too_old": 110,
+    "gate1_blocked": 2,
+    "gate2_blocked": 5,
+    "passed": 39,
+    "pass_rate": "25.0%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "Glencore Cut Ties With Radiant World Soon After Taking Warrants - Briefs Finance",
+      "Glencore’s planned Australian debut draws interest as investors look past coal - TradingView",
+      "Vast Resources Gets $10 Million Loan Facility from Glencore - marketscreener.com",
+      "Sims Limited Lodges Appendix 4G and Corporate Governance Statement for FY2026 - Kalkine",
+      "Veolia sues Delaware manufacturers over PFAS in drinking water"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為西姆斯、嘉能可、奧魯比斯相關動態：「Sims Limited Announces Fiscal 2026 Full Year Results」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Sims Limited Announces Fiscal 2026 Full Year Results（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Glencore’s planned Australian debut draws interest as investors look past coa...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

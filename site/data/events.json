@@ -1,5 +1,368 @@
 [
   {
+    "id": "sims-2026-08-18-001",
+    "date": "2026-08-18",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Sims Limited Announces Fiscal 2026 Full Year Results",
+    "summary": "<p>Sims Limited announced FY26 sales revenue of $8,007.5 million, up 6.9% (10.9% at constant currency) from $7,494.0 million in FY25. Revenue growth was supported by a 6.1% uplift in Metal average sal",
+    "sources": []
+  },
+  {
+    "id": "glencore-2026-08-18-002",
+    "date": "2026-08-18",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore’s planned Australian debut draws interest as investors look past coal - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRzh6dFR4M0l6bnBfbFZBakJ3eVpOa2FSd2Vfb1lMOGI1TUdqb3FDbEtWUFg4czVuRDRDNzBHTTRNQ25KZmZwQXZIdElZaTNHdEh3WG14ZE84NUxTSkdzVmtnelJFWm9oODJWb3BlSk",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRzh6dFR4M0l6bnBfbFZBakJ3eVpOa2FSd2Vfb1lMOGI1TUdqb3FDbEtWUFg4czVuRDRDNzBHTTRNQ25KZmZwQXZIdElZaTNHdEh3WG14ZE84NUxTSkdzVmtnelJFWm9oODJWb3BlSkhwQ3hYZ3RuQWZzUVBiRWVNU3dYVlNpRXZGV3dQWllkTUI1dzUtT1cyMll1SFBwUHFJSV9nZ2M1THYyRlRHdVJVUE1EYlgxYzBKb2ZpRTdoSzVuVy1HTWV0VQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-18-003",
+    "date": "2026-08-18",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korea Eximbank lends Glencore $1bn for copper supply - IntelliNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQbnUtSnFBbURhZWRyaVA5RDRPNVBFc0o4cnpGQUF2TjQxdUJWOUJOVjlZRHVqVVc5MTBDeTE0REhOLUgtTzNtdkV3ZkdoYWlqb25uRnhSZXJmMlZNdDQzVGdpd2RxcXNyU2FYdko3d2",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbnUtSnFBbURhZWRyaVA5RDRPNVBFc0o4cnpGQUF2TjQxdUJWOUJOVjlZRHVqVVc5MTBDeTE0REhOLUgtTzNtdkV3ZkdoYWlqb25uRnhSZXJmMlZNdDQzVGdpd2RxcXNyU2FYdko3d2lFX01JS3U4OWo2VUxGTW1wVE1CbG9EQVRMY21YX2RPdzIyNEgyVGd5Nw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aurubis-2026-08-18-004",
+    "date": "2026-08-18",
+    "companies": [
+      "aurubis"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "[SMM Analysis]From Aurubis to Nexans and Wieland: Why Are European and US Copper Companies Expanding Recycling Capacity? - Shanghai Metals Market",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaEt4VG12OEo5amxENTZwNTZ0UjNYZkptY291Qy1pY1UxQ0JxdW1QTkcyeF9BM3MtSXA0TVFPRU5TaUVVdFFCaURXSTZJSXZlWEFfVURFMVdFZ0xkZ0xFLUg0bE5ielZVX3lZbnk3RU",
+    "sources": [
+      {
+        "name": "aurubis",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaEt4VG12OEo5amxENTZwNTZ0UjNYZkptY291Qy1pY1UxQ0JxdW1QTkcyeF9BM3MtSXA0TVFPRU5TaUVVdFFCaURXSTZJSXZlWEFfVURFMVdFZ0xkZ0xFLUg0bE5ielZVX3lZbnk3RUp4em8wSG44WWlPcEZ5QTUwV3U0cl8wZkZjeVExWVczbmg2MlRMX251bElZRHVKWlpsdVlLZ0R3UVY0emQzY21fSy01MkUxNnBqN3VLbGZmdHEyZlNNSmREOUJvSFFfRTgyMzhBdmo4VjJWZkFtNkpPSTJwVkdsTDRZSzJ0am0yUGEzMk90eTd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aurubis-2026-08-18-005",
+    "date": "2026-08-18",
+    "companies": [
+      "aurubis"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "[SMM Analysis] From Aurubis to Nexans and Wieland, Why Are European and US Copper Companies Collectively Doubling Down on Recycled Raw Materials? - Shanghai Metals Market",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQenhiQmRhZ0hTOXFldURmQW5GMjF5OVNXUVFDSW9aUU1vRUQ0aEo4aE1lanhFbWgycENobTE4dWVZLVpibmdtQVd5MTFpZTAtZEcwRHFiMWNrMlBPZHJCTnUyM0JvX18xNDVEeVJ6em",
+    "sources": [
+      {
+        "name": "aurubis",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQenhiQmRhZ0hTOXFldURmQW5GMjF5OVNXUVFDSW9aUU1vRUQ0aEo4aE1lanhFbWgycENobTE4dWVZLVpibmdtQVd5MTFpZTAtZEcwRHFiMWNrMlBPZHJCTnUyM0JvX18xNDVEeVJ6emN0YWdwR2VoMlNaVUVHV3lJcVJoSUlHMTBwc3NfdmNYdS1KUnl1RjNMbk1LdHp2X2FpdzJwR0xEOTMwTlBvTnVtQTBvcGQwdnd3NzZtNUZvUjVtbU1vLVk5TUFYdVdWYnlfVEpnY1o3aFpWVHdDdGdBQWo0TjNWMThFemZ6SERXZ295S2RvZUp5NDNWbE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-18-006",
+    "date": "2026-08-18",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims Limited 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SMSMY) 2026-08-17 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPRHBWMXlyNjJSaXNZNjVZQTFpNWNFc21ZOW5sV0NPQXVXZ1BTWnpOSTJ6djF4NTFBQXlwQ3AxSkFMVkhhdEIxRTBGa2RrX2pIa0R6RlpCWDdSWVVRakw3WTBWQ0xWNDdYeVlVYkhld0",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRHBWMXlyNjJSaXNZNjVZQTFpNWNFc21ZOW5sV0NPQXVXZ1BTWnpOSTJ6djF4NTFBQXlwQ3AxSkFMVkhhdEIxRTBGa2RrX2pIa0R6RlpCWDdSWVVRakw3WTBWQ0xWNDdYeVlVYkhld0NJUGxjOERrdVJiOXNXX3dYT0FXNWxCVk5vZEtaLTY1S3FoVms2N25yZllOUDY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-18-007",
+    "date": "2026-08-18",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sims Limited Reports Earnings Results for the Full Year Ended June 30, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNSjVLQ2FSak5jbDM4VUtBaTZ6Q3V2Qlp5ZlpWSkdqOVVqZ2VKZXhkRTNMUTFzb0JhUTQ2VHdBRnpzZlZwcnhkYlBXSjNrNzkzUUdNNzhzSkJNVm0xdjdZMldIMkZGb2FyUmx1c0JXSU",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSjVLQ2FSak5jbDM4VUtBaTZ6Q3V2Qlp5ZlpWSkdqOVVqZ2VKZXhkRTNMUTFzb0JhUTQ2VHdBRnpzZlZwcnhkYlBXSjNrNzkzUUdNNzhzSkJNVm0xdjdZMldIMkZGb2FyUmx1c0JXSUN5WTJDSWFOVmh6QTdfVE42RlNabzFIQW9HT3kyOU56eGJQZkowYmttNHFrRlZfNWNqTThIV0hqZ3pST1lFREl6ekJjOW5PWDFkUVpuOTdOaEhRc09OSHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-18-008",
+    "date": "2026-08-18",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims Limited FY26 slides: EBIT surges 168% on AI, metal strength - Investing.com India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXVTUXZmaHFib3NIZzM4UklKLWdBZU1zbG1uejY4QWxsbmgxWllFeEY5dVJGM3JUZjExWDh6X1ZtY1QzZkdHRDh1dGxVNFA2Q2hNTXo0ak82T1h0blVSUGphSnB3WVpzSnBXN3dNbk",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXVTUXZmaHFib3NIZzM4UklKLWdBZU1zbG1uejY4QWxsbmgxWllFeEY5dVJGM3JUZjExWDh6X1ZtY1QzZkdHRDh1dGxVNFA2Q2hNTXo0ak82T1h0blVSUGphSnB3WVpzSnBXN3dNbkNuSWpmczhDbmRxN09TS2l0a1VNRkhNNlROOWVNQUhNSTY5S3lNaERiZHlaNnZSQ0NIdHd3RHZ2NzRRUkExQmo5R0RUYVM0ajZv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-18-009",
+    "date": "2026-08-18",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Sims Limited Announces FY26 Underlying EBITDA Surge to A$727.8 Million, Marking 69.3% Increase - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTHJ5YWtuVWRyY2duY1pjVFJLczB3UXF6R2RqSS14SXctZjJheHVNM3hWVjNKOXBsVEdZLVFFMTZwNXBmS1JnYlhBTEdudjM0UTVkeElWa01hUnRuU2ZVY1RHenVOQkg0U21mNkF1MG",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTHJ5YWtuVWRyY2duY1pjVFJLczB3UXF6R2RqSS14SXctZjJheHVNM3hWVjNKOXBsVEdZLVFFMTZwNXBmS1JnYlhBTEdudjM0UTVkeElWa01hUnRuU2ZVY1RHenVOQkg0U21mNkF1MGZaRklLYUlTdmlnVmo3NTV2LTRiZnBsR1NsV0ZUSFVWX3ZSX2ZCSVM5YkpYUjRTMlUwcERzd1dSaWViMnNjcDM5Q2UyOUd5NHdiNF9ObGo1TXFQcXY2OG1rZkxzTWt1MDZ6ZlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-18-010",
+    "date": "2026-08-18",
+    "companies": [
+      "sims"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sims : Announces Fiscal 2026 Full Year Results - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxONmRrTkxESzl3QUplN0wwWUZXNTJJN3pkbHYzNUM4VFlTajdtWS1KeXhTcUZzZnRWMGpPRVlPTlhmUnZoT3JZWTBfUGEteXhUUXdaNElpd0RRT0FlMlE4U3ZGeW5nQkpFSEhNZnFqRm",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONmRrTkxESzl3QUplN0wwWUZXNTJJN3pkbHYzNUM4VFlTajdtWS1KeXhTcUZzZnRWMGpPRVlPTlhmUnZoT3JZWTBfUGEteXhUUXdaNElpd0RRT0FlMlE4U3ZGeW5nQkpFSEhNZnFqRmVlZ0ZTWWtXNmV1RThENnJFOUJ3a256bFRSOUdOcndVZ3lCemhKal91cGZyblgwUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-18-011",
+    "date": "2026-08-18",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Earnings call transcript: Sims Limited falls 12.8% after mixed H2 2026 outlook - Investing.com South Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSHZCSmxNWkJsajloWjBBM3gtY3c5akVqRG96V1ZqRlBjemVZNzl5Q0M5cmswUnFRTXFUUFJHNUZmdkJ4UUpiNldWSDU4d1Etdk9NeGFQQ1NGZzZNcl9wVHVRTm9rMU9nSHNPXzEzYV",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSHZCSmxNWkJsajloWjBBM3gtY3c5akVqRG96V1ZqRlBjemVZNzl5Q0M5cmswUnFRTXFUUFJHNUZmdkJ4UUpiNldWSDU4d1Etdk9NeGFQQ1NGZzZNcl9wVHVRTm9rMU9nSHNPXzEzYVBFbHJUV3VpcTJFd2h5ZG4yLUpnUHJrWjNPeTE5eTU0RFdmSEZ5ZF85c3Jkem9EODJ1ZWtwZ25VdU5RNHRRVWktbjBua196VFhKQm52SDRRNU0xNGhHUzZqVlNDd1VRWjdMMUJoWVFSWmRWUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-18-012",
+    "date": "2026-08-18",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASX 200 Stocks in Red: Sims Limited (ASX:SGM) and Bendigo Bank (ASX:BEN) Slide on FY26 Updates - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOVjAyTzk4MzQydmhsdzBCOG1XdUgxRkpEN2MtVnFwcUNxay1IdlBPTHhhc0hwUlJmRXdqaVRKenZ2VTRzQkg4UzF1UW55NEcxbG9OZjJQaUJnSU8yZTkwUWlGRGo4LUFXY09qQ05IMT",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVjAyTzk4MzQydmhsdzBCOG1XdUgxRkpEN2MtVnFwcUNxay1IdlBPTHhhc0hwUlJmRXdqaVRKenZ2VTRzQkg4UzF1UW55NEcxbG9OZjJQaUJnSU8yZTkwUWlGRGo4LUFXY09qQ05IMTdkMkQzRW5uTktLNFJoV2VBOGdKa0NIRUpIQUMxaUZoNkplT3VPZWEtYjd1a2ZneUpUclcwTndiMTgtaHlKWGlNang4dkJTNmZiQUc3QjFESFFud2Q2Z0tr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-18-013",
+    "date": "2026-08-18",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims Limited Announces FY2026 Revenue of A$8.0 Billion and Net Profit of A$245.3 Million - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQSHdORGZwRTJHZWxNX2NEN3VicVVmbWpUR2dTcXFHZWxyQmhsVHc4OHdVTmx3cWhtaFFzdVVwa1JvTndEblQyWnlPaE9ReTNHQTJ6RG53V3MwUlRyQ2hMNTZWQmlGNU01MDg3bUppYV",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSHdORGZwRTJHZWxNX2NEN3VicVVmbWpUR2dTcXFHZWxyQmhsVHc4OHdVTmx3cWhtaFFzdVVwa1JvTndEblQyWnlPaE9ReTNHQTJ6RG53V3MwUlRyQ2hMNTZWQmlGNU01MDg3bUppYVVzOEFJOV9nZmVFVk9LZC1vNE9IeWFjNXEzLVhEX2RSbXhSeWdvdkthWmFzVkdxUGlWRmloN3h5MzFrbkFqcFlDeklmUGw0YkhXSFBlU2tzZlczRGF2aEI3MUIwcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-18-014",
+    "date": "2026-08-18",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims Fiscal 2026 Underlying EPS, Sales Revenue Up; Shares Fall 12% - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOb3M0ZlFNS3FicjJZUkJfTlZmSEM0NEpDSVlXb1JwRGx1TXI2TXVCcTh5M3ZBUkpaSTNNdlVTa0J6bjhoT2U3R2VzaVQ5RXFhc3p6cWhEaDhaS24zTnp2SFhZaklmQlVId3F5NU51UH",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb3M0ZlFNS3FicjJZUkJfTlZmSEM0NEpDSVlXb1JwRGx1TXI2TXVCcTh5M3ZBUkpaSTNNdlVTa0J6bjhoT2U3R2VzaVQ5RXFhc3p6cWhEaDhaS24zTnp2SFhZaklmQlVId3F5NU51UHZZVFFtTUExaWl0UGU2MHJCSUdINk5KZWxaWktDNUdVY3J5amRpc21UeGx5bTVIYnR3QnRwc1RMbndYZ09XdWVrNTJCbk9mbFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-18-015",
+    "date": "2026-08-18",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims (ASX:SGM): Can Recycling Resilience Put This Metal & Mining Stock in Focus? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUHQ1eUtTSkZBN2lCdWVKb2lWeHVhbGJocEltZURWdFNTUjQ1RjNseXVKY01Eem1vNmpVUzZrMnZzUW5OVDdnQ083eGp4N1JHMllVS0p5QnZaY2NsajlvZ3gtZkMyblNKQnBfaGRodm",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUHQ1eUtTSkZBN2lCdWVKb2lWeHVhbGJocEltZURWdFNTUjQ1RjNseXVKY01Eem1vNmpVUzZrMnZzUW5OVDdnQ083eGp4N1JHMllVS0p5QnZaY2NsajlvZ3gtZkMyblNKQnBfaGRodmhZazN6UWFIYTRvZWJfM3VEczFla01qUFYzakpoVU9oTGlFc2xteUthZFRfNTNOdnRlRndNaEV4Tk5xdGJIVUNxRU53YURpR1lKbDFEU1ZhM054bjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-18-016",
+    "date": "2026-08-18",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims (ASX:SGM) Shares Fall 12.63% Despite FY26 Earnings Surge - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0VlTy1CU2VkaDhZcnNKNE54WWV1Zlg0NTlrUzhBVUpGeF9Ga2xNYU5ubVJmekc3bldDNmhwTWZ1U01SOHdMVE1tbE82aGptMTNlQUVUUmdjY0tkeEpEZXRhRjE1YmMwWEhTRmxiME",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0VlTy1CU2VkaDhZcnNKNE54WWV1Zlg0NTlrUzhBVUpGeF9Ga2xNYU5ubVJmekc3bldDNmhwTWZ1U01SOHdMVE1tbE82aGptMTNlQUVUUmdjY0tkeEpEZXRhRjE1YmMwWEhTRmxiMEdfdmh0MnVZVUF1Z3NFcjdnT1NyeWt4YXNPY191OW9MRjdLQkFMVlRfZHBZaXNQdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-18-017",
+    "date": "2026-08-18",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims Limited Submits Appendix 4G and Corporate Governance Statement for FY2026 - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnNpY3cwRHl5Zm5FQVpsRXIzSFh6clY0OTJRc2RReGZBS3FjYUNsTlZUNzZram9WdXdZVkZFRDhEVjFnTHdBelFHTVprX1hQZDdGZERRLU50WGZhTkFqSGlodGpGeWY3dlZRRWhlSz",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnNpY3cwRHl5Zm5FQVpsRXIzSFh6clY0OTJRc2RReGZBS3FjYUNsTlZUNzZram9WdXdZVkZFRDhEVjFnTHdBelFHTVprX1hQZDdGZERRLU50WGZhTkFqSGlodGpGeWY3dlZRRWhlSzFucEJYUlEtVTV4bFcxYkxSbmFqV2RpbFU5QmE0SjBkQUpKbTlCalR4RWJiSzdaWUluYVBob3BhZWI5dkJVVF9aeFkxY0hoa190a0NmZTNVNG5PVXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-18-018",
+    "date": "2026-08-18",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims (ASX:SGM) FY26 Results: Revenue Rises 6.9% as Underlying NPAT Jumps 247.9% - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWFSblgwcFFMZ1JMTFF5Q3NOYVViWk9fQlh6UXhSLUNTVzdBTTBmaUJlOUt5dlYwbFJzdnZjTEQwQldVdUhCWTZBcEZFQUJqbjV5bFlhWERORkJmLUNJOEM5dnJRM01mTWdrWXJqZ0",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWFSblgwcFFMZ1JMTFF5Q3NOYVViWk9fQlh6UXhSLUNTVzdBTTBmaUJlOUt5dlYwbFJzdnZjTEQwQldVdUhCWTZBcEZFQUJqbjV5bFlhWERORkJmLUNJOEM5dnJRM01mTWdrWXJqZ0VpVkw0T18wNm13Uk10S3pqazJXQjRwRE9kVXgxek1uMmttSTNHV3JxMWEyTUhvNjdDejN0TEZyZ25zWmhFeVFfOTBR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-08-17-001",
     "date": "2026-08-17",
     "companies": [
@@ -197,6 +560,431 @@
       {
         "name": "sims",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMUVpbkxSRE1QdFU5YlMxd3QzMWt4WFBiWHhTbGdRbUVzN1ZVUmtpSUJHU2dkN1pSMFdaZmJHRmFKcUE0ODFPNjVVNlR5R1l1Rk1mNTlJV0xibnRxdVhaZ0pkRVdGekxjWWV4dy1Rb0p0dFZkVGhaVDNFdk8wdThwNGNQc1FXQnZlQklV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-08-17-011",
+    "date": "2026-08-17",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to EBITDA forward of TOMRA Systems ASA – BX:TMRA - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWE8yUWVIY0xiemI3ZFd5b19VTzhTdVRMWmw2M2E2SGZvaGtEMnhFT0ZxXzdLZWNuRkd2aEtLa3lsUkMtaVlNS1pScDQ1TGoxY3dudGpJRFVldmxuS0MxazBpQ2JkYXRJRHJrRndxT3",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWE8yUWVIY0xiemI3ZFd5b19VTzhTdVRMWmw2M2E2SGZvaGtEMnhFT0ZxXzdLZWNuRkd2aEtLa3lsUkMtaVlNS1pScDQ1TGoxY3dudGpJRFVldmxuS0MxazBpQ2JkYXRJRHJrRndxT3JLVmx3MHBTZ2lIeDl6dmFnSkRZX3dadGVMRWVaeXEyOEZ3ekVnWHhfWFZEc1Frd2QyeE1QVDFleGY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-17-012",
+    "date": "2026-08-17",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Backed Radiant World With Warrants Deal in Late 2025 - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQLXI5bkhjR3Jvak1ZZnYwSmFHM1BnVnh5TmtYa1FvNWg2Rl9FalBfb3ZhdGtydS01SVhRaEVhXzRzd0ZfcXYzcnhwcVBEeWhyMThyTkEzR3otNjZmOTd0d1lXYTVkTnN6X0pDWmJlWE",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLXI5bkhjR3Jvak1ZZnYwSmFHM1BnVnh5TmtYa1FvNWg2Rl9FalBfb3ZhdGtydS01SVhRaEVhXzRzd0ZfcXYzcnhwcVBEeWhyMThyTkEzR3otNjZmOTd0d1lXYTVkTnN6X0pDWmJlWE5heDZldzdET1plbFRldW9sMU9VeW9CdC0xcmVwWXU0UmcyVXVsNF9YOVdQTHZFREptdmJSUlR5cHVsZElVNllSNW93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-17-013",
+    "date": "2026-08-17",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Korea taps Glencore for copper supply with $1B loan deal - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVdwTVY0T1UxaUU0VDFNenVEVFBRMmlFaFhkOXJMb2h3XzRHeE1WNzN6VHoyQVNaWnY5SkVaY2k3VkpaNW5adk5pMHJBQ1ZVS1Z1Um5YVmxldGZRekQ0VkpiZGYxVHAyUEZjdjJ2TV",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVdwTVY0T1UxaUU0VDFNenVEVFBRMmlFaFhkOXJMb2h3XzRHeE1WNzN6VHoyQVNaWnY5SkVaY2k3VkpaNW5adk5pMHJBQ1ZVS1Z1Um5YVmxldGZRekQ0VkpiZGYxVHAyUEZjdjJ2TVVGLURVRXY5dXQtZXZTWHRQUV9UZkdvdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-17-014",
+    "date": "2026-08-17",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vast Resources Secures $10m Glencore Loan to Fund Aprelevka Expansion and Working Capital - tipranks.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUl96dWJQb09FWFBLQVZ2OS1rVjlVUldaclhVbDQxMkpBZWxGTnBodWdmNHMycEgtbUhMbVdOZnFEM1pKUEQzTnd3Wm9DRlRPNTlocDZlc2NQUHhoWG5LeHgycHF6d1Q2WkxXR2Myck",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUl96dWJQb09FWFBLQVZ2OS1rVjlVUldaclhVbDQxMkpBZWxGTnBodWdmNHMycEgtbUhMbVdOZnFEM1pKUEQzTnd3Wm9DRlRPNTlocDZlc2NQUHhoWG5LeHgycHF6d1Q2WkxXR2Myckt4U1hNX2dINVppM2oxSUJ2SndqZi1vYzlrQU4tTjlSbHVSVlF3aHBCRnRya2RQcDJRX2hCSmlfaVM2VFdqOFFCd3d3SkZNcW9KWE9TMHczNGZ4UHlxZXp4WlpBRmpfcmhaS2NpMkJlOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-17-015",
+    "date": "2026-08-17",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Korea's Export-Import Bank Lends Glencore US$1 Billion for Copper Supply - Investing News Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5NeG0xeGJ0SDM3aExncDFOVnVTMlRaN291cWgyS3ItcThVLUJyTHcyYl92Vl9hOEpGTmJwRUhoakJ5bVBXdXNSU1MyYjMtU2RLNHhTTXpVbHhXWi1mT0dISm8tV0N1OEVTV185QWphYw",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NeG0xeGJ0SDM3aExncDFOVnVTMlRaN291cWgyS3ItcThVLUJyTHcyYl92Vl9hOEpGTmJwRUhoakJ5bVBXdXNSU1MyYjMtU2RLNHhTTXpVbHhXWi1mT0dISm8tV0N1OEVTV185QWphYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-17-016",
+    "date": "2026-08-17",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Korea Eximbank to Lend $1 Billion to Glencore for Copper Supply - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEJKYk81OVAyWnJwX0xSalhXUDdNdkg0OWFmNkRDa0RFTzJrLU1uaDZZY3lwbWdGdDNqWVlEVGYyalduTGtudnIyVGVFUnBHbUtrbFpyQTlicGlmZkI5YXBoNVNDN1gzZ2Q5RDUtdU",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEJKYk81OVAyWnJwX0xSalhXUDdNdkg0OWFmNkRDa0RFTzJrLU1uaDZZY3lwbWdGdDNqWVlEVGYyalduTGtudnIyVGVFUnBHbUtrbFpyQTlicGlmZkI5YXBoNVNDN1gzZ2Q5RDUtdUNTQlh4RXA4LVVIc2dfVUlodjF1czN5TDVRVE93OXRsWHJLSGt3T3haU0x6SF9iZFFWYUtsczB1aTV0ekFxOXpZTGl3UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-17-017",
+    "date": "2026-08-17",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore backed Radiant World with warrants deal in late 2025 - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYVoxQTRaR19sendzc3Nfdk53TlRCRjU1QzFBYUdpdUZudVo4OXg1UW9FRUVOUmpaNDBCVFEwa1VsWkpkQURMY1FKRmkyMEYzWXVtNFB5ZnJmU1RMVFcybUNyWlV2UUxCTTVTRkx3cX",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYVoxQTRaR19sendzc3Nfdk53TlRCRjU1QzFBYUdpdUZudVo4OXg1UW9FRUVOUmpaNDBCVFEwa1VsWkpkQURMY1FKRmkyMEYzWXVtNFB5ZnJmU1RMVFcybUNyWlV2UUxCTTVTRkx3cXduQnI3MXphQmJocmJ5Z1l4SjJRNXpyRThzU3BTdE12NUtGNXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-17-018",
+    "date": "2026-08-17",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Korea Eximbank lends Glencore $1b to secure copper - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tVXJtX0dVUTJwVjNwMHNXZHl1bHN5c3NHQUVnenRTbHlnTjJlSUlseFJKNzdrdnJDUVhWdExadlZhMW9Nby12Vnk1czExcG52bWpqUmUxZw?oc=5\" target=\"_blank\">Korea Exi",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tVXJtX0dVUTJwVjNwMHNXZHl1bHN5c3NHQUVnenRTbHlnTjJlSUlseFJKNzdrdnJDUVhWdExadlZhMW9Nby12Vnk1czExcG52bWpqUmUxZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-17-019",
+    "date": "2026-08-17",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Korea Eximbank to lend $1bn to Glencore for copper supply - Mining Weekly",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNNzVIN3doZnZNU0xhQXV3TGtGSFM4aUNVWDVIUW5ZRjF3VWo0ZDNua1BmUFFMU1RmVWVRYVdSMVYtUC1CakxOczFDYndUZ05SMk1ER3c3dnJidGdvRTZ3aFlfbUxtNF9lS1lZR202dH",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNzVIN3doZnZNU0xhQXV3TGtGSFM4aUNVWDVIUW5ZRjF3VWo0ZDNua1BmUFFMU1RmVWVRYVdSMVYtUC1CakxOczFDYndUZ05SMk1ER3c3dnJidGdvRTZ3aFlfbUxtNF9lS1lZR202dHN0VVNockdKeUtISndadnI2MUo3amtHdkcwT0FwZTNUbDVxbzlLVGxoXzQ5bVNpTERRU0k3Y3FXWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-17-020",
+    "date": "2026-08-17",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Had Deal for Minority Stake in Radiant World in Late 2025 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWhoWkVHMTdqSkFyWnR4NzlzMU0tc1NrbHgyeWFubHpiZHlXbF9uQ3dyajVia3ZaNUhHVmZuTnJKN09yWlpTUHFFWFRoaUk5bnJ5YktlLWhneEhKWTJSUzdibDd3Ti1VVFZKdEhWOV",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWhoWkVHMTdqSkFyWnR4NzlzMU0tc1NrbHgyeWFubHpiZHlXbF9uQ3dyajVia3ZaNUhHVmZuTnJKN09yWlpTUHFFWFRoaUk5bnJ5YktlLWhneEhKWTJSUzdibDd3Ti1VVFZKdEhWOVF4bnVIQ2lSM296OFFWU1A3NFp5WER4Q3dWZG01MUl3X2JzS3ZScnBUNEJwS1d0d2RUMURBRFFzbnJ2Z0Z1T3VaZVY0MkRXXzg0Szkw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-17-021",
+    "date": "2026-08-17",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Glencore’s Unused Radiant World Warrants Raise New Questions - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOWDVJY0xoajZ5alZlUF85WkxONnR0OXREY0JfUTNsNEdEY2pBSnN2NV9JQmFWV1YzTlBSbVRNQkZvYjV0WTJIM1pTbjQyaGg4Q1hNeFlkYnZBWnAyUVhCeDlUNkRpU2RRR0dJdkVGcT",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWDVJY0xoajZ5alZlUF85WkxONnR0OXREY0JfUTNsNEdEY2pBSnN2NV9JQmFWV1YzTlBSbVRNQkZvYjV0WTJIM1pTbjQyaGg4Q1hNeFlkYnZBWnAyUVhCeDlUNkRpU2RRR0dJdkVGcTlDam9fY1ZubExrOVpTaWIxaU55aXlvSV9tVWlXVHptNnhkQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-17-022",
+    "date": "2026-08-17",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korea's $1B Glencore Loan Secures Copper for Critical Industries - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQbWptd2Y0SHpHYkxaR0tuTzUxY2JtaTFLQmEtZ3BscmpBckY5SUxyaGw4cUI3VWx5V0RCMV9tNWtiWmxDYXViR2VnbjRrUFMzMjdVWlg1cXZsNV9Xb2ktQ1NCd2JhOFVsbjk0UkFEbj",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbWptd2Y0SHpHYkxaR0tuTzUxY2JtaTFLQmEtZ3BscmpBckY5SUxyaGw4cUI3VWx5V0RCMV9tNWtiWmxDYXViR2VnbjRrUFMzMjdVWlg1cXZsNV9Xb2ktQ1NCd2JhOFVsbjk0UkFEbjVnWEVSc01vSEZQc3dZUmtmWndqYTRQeHJzSXJ4NWI2dUdwUnB4RzRyOHk1bWxvT3VicjRYNDFNa0NRVkNta0Y4NHhLcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-17-023",
+    "date": "2026-08-17",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections (NYSE: WCN) HR chief now holds 12,980 shares after sale - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNV3JNcDdiaGt6MXlMZnQxSlhKZHg1TjZYYzVlNHZxcG5tdTdMTVNPVFpKSlVxVl9IeHZ2UHhEX3BTSXdFOHZ0cHN5MVJnU3Nodl9QbE82ZDN3dVp4RHM0THA1aElZSjA1RzBuWENzVG",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV3JNcDdiaGt6MXlMZnQxSlhKZHg1TjZYYzVlNHZxcG5tdTdMTVNPVFpKSlVxVl9IeHZ2UHhEX3BTSXdFOHZ0cHN5MVJnU3Nodl9QbE82ZDN3dVp4RHM0THA1aElZSjA1RzBuWENzVGNxRmNaRHczQmpHa3NUYUpjUDlJV2lzNTVYcm4yRUcxd3Fyd0Zlb08wNmJaamlxdGxXbW9PRzhuc2MyekdCUUdqUU5tZ0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-17-024",
+    "date": "2026-08-17",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObzl1UENZWklBeERTQVlyVWI5M3hiUktPdFlDOFcxU2Q1QnpuRm9HcU5BMHl1TkgtVFQ0VXVRSHM5a3Y3bHZ6Smlra3Y3UmNsSERMWmNuanNGNWl0TVhlQThtMkVpUjlsc0RrRzNoMF",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzl1UENZWklBeERTQVlyVWI5M3hiUktPdFlDOFcxU2Q1QnpuRm9HcU5BMHl1TkgtVFQ0VXVRSHM5a3Y3bHZ6Smlra3Y3UmNsSERMWmNuanNGNWl0TVhlQThtMkVpUjlsc0RrRzNoMFZKMnB6VjVpRmJ2U2gyLW92MUprRVVtX2JGRGhWQzNENE10SzVCaFl4MGZVZGFSNU5FRzcySVR2VlNnblZ3VDAzT1N4d3lDaEo2aVRjUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-17-025",
+    "date": "2026-08-17",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims Limited Reports FY2026 Sales Revenue of A$8.0 Billion and Net Profit of A$245.3 Million - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPU1VSaTZPVGktWWQyRXh5ZmVqX0xTQjVfeHoxSDg1ZHRGVUpsQlhfemtLNnJKRk9oUlN1bjdKalM4UUY2LWlWQ0pHYS1fRVpKVVdMSUNGU3c3czROZFE4SVEwLVYwYVljVUZDRGZ6cn",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU1VSaTZPVGktWWQyRXh5ZmVqX0xTQjVfeHoxSDg1ZHRGVUpsQlhfemtLNnJKRk9oUlN1bjdKalM4UUY2LWlWQ0pHYS1fRVpKVVdMSUNGU3c3czROZFE4SVEwLVYwYVljVUZDRGZ6cnZVUUVDdVVJLVBjQ2RHTlYxOF9mM3NrV3VDU2NINDh2Y0NLSktLZU1xMmJfdXZ0LVFGblMtbl9JYkxSd0paQWlaa1hNb0VQMXFUMDA4azI1N2tQOW05Q2Rrcjln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-17-026",
+    "date": "2026-08-17",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims Limited Reports FY26 Full Year Results With Underlying NPAT of $289.1 Million - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPV09wQlczeVZILUFJTFVFQ292c3ZJbmV4YW1lZEM4YWRyZmU2WFVJOHVydlJDWm5DZ01uWkt3elRWUEg5cS02R2xKZGNnLThwWEZ3OThZTWRXRmtyRFdBMXVieDlkN0NMZC1QR21Lcj",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV09wQlczeVZILUFJTFVFQ292c3ZJbmV4YW1lZEM4YWRyZmU2WFVJOHVydlJDWm5DZ01uWkt3elRWUEg5cS02R2xKZGNnLThwWEZ3OThZTWRXRmtyRFdBMXVieDlkN0NMZC1QR21LcjQ5WWZsWVlMRHF2ZlhHZGRJb3hpUWR1dTJXSlZzVHhvRWptbkZhVFowa1doMTB5Y0EyT0QtLWVwb0Jpb1FkWVFIR2ZQd0tCNEF1SFkyc2hmYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-17-027",
+    "date": "2026-08-17",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims Fiscal 2026 Underlying EPS, Sales Revenue Up - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0pPdmJ6TElfd3EtSzFHbEZqemhmUXkyTTZyaVhKc3ZvM0MtSl9aYXpITnVaMDBVN0IweUxXREFRTTBkUWgzYlFvc1pxbzZMRmFSYnpBR1Nqc1VJU2djczJvODhJN3hOMmxnRXdla2",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0pPdmJ6TElfd3EtSzFHbEZqemhmUXkyTTZyaVhKc3ZvM0MtSl9aYXpITnVaMDBVN0IweUxXREFRTTBkUWgzYlFvc1pxbzZMRmFSYnpBR1Nqc1VJU2djczJvODhJN3hOMmxnRXdla25tYWxkZTk4WWV6QlhfWl82eGlSY2YwZTZ0U3dKQklvS0VJXzlDT1RpMDBpVEthRmp1bVg0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-17-028",
+    "date": "2026-08-17",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sims Limited Declares AUD 0.20 Fully Franked Ordinary Dividend - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3VVRVRiejRWdTk0SkRtZ0VJSnQwOHY1TW50eUQ3VWpnN2dsMkNBUGtla1JqdmtCWnItX3RuVTBkVHdRUFhtb1NFQVpGUTVzMFRVNVptWlpVSnNTbktoXzJncnlOcTVka3RuaFBKNU",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3VVRVRiejRWdTk0SkRtZ0VJSnQwOHY1TW50eUQ3VWpnN2dsMkNBUGtla1JqdmtCWnItX3RuVTBkVHdRUFhtb1NFQVpGUTVzMFRVNVptWlpVSnNTbktoXzJncnlOcTVka3RuaFBKNUZnWmJWMFNsWVZ2TTVQRThKUFlrRlhVeGtDeGZLYVBTS045UGxpbzUzWjM3M3Y4a1VMTnpXMTBB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-029",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Environmental groups push for strengthened leachate rules in New York",
+    "summary": "<p>New York River Watch, a group formed by riverkeeper advocates, seeks to expand a proposed state rule to require landfill leachate pretreatment. They tracked the fate of half a billion gallons of le",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/new-york-river-watch-landfill-leachate-preatreatment-report/828010/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-17-030",
+    "date": "2026-08-17",
+    "companies": [
+      "waste_connections",
+      "waste_mgmt"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Washington regulators eye hauling rule changes following DTG settlement",
+    "summary": "<p>A Washington commission will examine how MRF residuals are handled under state regulations, a move that stems from a legal settlement with DTG. WRRA, WM, Waste Connections and others weighed in.</p",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/mrf-residuals-washington-regulations-utc-dtg/828006/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-031",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Watercycle Technologies wins £1m grant for UK battery recycling project - electrichybridvehicletechnology.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZG9YZEg4dUZDSnFJMmM1RE5uM2hONFdvaWJUcjJpYUNWQzY3TFhoMkZ3dE9tZEgzVlo0cFRuYmpMZXF2SUZkSG1KNlB1TjRCWU9nclVCa2RfYTFmUVBhNkdhOW45cDB6R1ltdlJBTX",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZG9YZEg4dUZDSnFJMmM1RE5uM2hONFdvaWJUcjJpYUNWQzY3TFhoMkZ3dE9tZEgzVlo0cFRuYmpMZXF2SUZkSG1KNlB1TjRCWU9nclVCa2RfYTFmUVBhNkdhOW45cDB6R1ltdlJBTXk5RWlmZ2MySVktUFBFM0VPSTBvLXdYZU5XNHBOM0tOdUpBdlJ6TDFfcGlfMzVBdFozbTZjZldqQjc2c2dubDlCVEpLbVhDNHBXN3JGVlJBeHdWdGlVVkhJ?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,16 @@
+{
+  "total_raw": 287,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 110,
+  "gate1_fail": 2,
+  "gate2_fail": 5,
+  "passed": 39,
+  "gate2_samples": [
+    "Glencore Cut Ties With Radiant World Soon After Taking Warrants - Briefs Finance",
+    "Glencore’s planned Australian debut draws interest as investors look past coal - TradingView",
+    "Vast Resources Gets $10 Million Loan Facility from Glencore - marketscreener.com",
+    "Sims Limited Lodges Appendix 4G and Corporate Governance Statement for FY2026 - Kalkine",
+    "Veolia sues Delaware manufacturers over PFAS in drinking water"
+  ]
+}
