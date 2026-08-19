@@ -1,0 +1,48 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T08:31:21.348391Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 166,
+    "too_old": 102,
+    "gate1_blocked": 1,
+    "gate2_blocked": 3,
+    "passed": 15,
+    "pass_rate": "12.4%",
+    "gate2_block_rate": "2.5%",
+    "gate2_samples": [
+      "Glencore Cut Ties With Radiant World Soon After Taking Warrants - briefs.co",
+      "Sims Limited Lodges Appendix 4G and Corporate Governance Statement for FY2026 - Kalkine",
+      "Veolia sues Delaware manufacturers over PFAS in drinking water"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-08-19 無回收產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
