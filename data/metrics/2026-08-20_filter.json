@@ -1,0 +1,14 @@
+{
+  "total_raw": 287,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 1,
+  "gate2_fail": 3,
+  "passed": 14,
+  "gate2_samples": [
+    "Glencore Cut Ties With Radiant World Soon After Taking Warrants - Briefs Finance",
+    "Sims Limited Lodges Appendix 4G and Corporate Governance Statement for FY2026 - Kalkine",
+    "US Plastics Pact removes transport EPS from ‘problematic’ list"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T08:32:20.313800Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Export-Import Bank of Korea will provide $1 billion in working-cap - Shanghai Metals Market",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb0NQMTZzemlJRGFpdnpnWl9nTkNCRlJuRXNXeW84MVgwOTBIZjFJa2lTekt1c0Nybko1UDNkcE5sdXBZOHV1TW1yUkdQOTJtamZrLUJOaUdXSERJWlhnZDBLSmtjdzBIQlpwcUIwQ1p1WDJFdjQ2QmFmTklSOEdzU1VEbWpJTWc5bzdnYVJuMmNHNkJJc1Q0Wkhjb3VOVEExbWRfRVMwaVllemxaU0pCMzVXTjVfZ3RPN2JZTEw3UWdyenJUakNrbg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Do Waste Banks Support the Circular Economy in Indonesia? - Universitas STEKOM",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "circular_economy_policy",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDhwekxDUEk1bmN3T0RjeHZIUm5vbU5DWFBuT1I2X096UVV3TDlGdDVyV21hQmFxbDdVNGw5SnVCVmxSY2ZuMldXWC1GVWl5anZUaXB1TGE0eGFrS2NZcHNPVmtrRkpVRTNkS0JlNUQ5S0FhVmZwbXp0ZWJ0WWktX0NVd3hCakYybnpiRUxlSVY2dEc2TFc4RExNRjVSeWdxUlBVWFB4cXFMa0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "circular_economy_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "circular_economy_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 169,
+    "too_old": 100,
+    "gate1_blocked": 1,
+    "gate2_blocked": 3,
+    "passed": 14,
+    "pass_rate": "11.9%",
+    "gate2_block_rate": "2.5%",
+    "gate2_samples": [
+      "Glencore Cut Ties With Radiant World Soon After Taking Warrants - Briefs Finance",
+      "Sims Limited Lodges Appendix 4G and Corporate Governance Statement for FY2026 - Kalkine",
+      "US Plastics Pact removes transport EPS from ‘problematic’ list"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為產業通用、財報、循環經濟政策相關動態：「The Export-Import Bank of Korea will provide $1 billion i...」。主要關注主題為產業通用、財報、循環經濟政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "The Export-Import Bank of Korea will provide $1 billion in working-cap - Shan...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "How Do Waste Banks Support the Circular Economy in Indonesia? - Universitas S...（循環經濟政策、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
