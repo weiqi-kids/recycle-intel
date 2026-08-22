@@ -1,0 +1,13 @@
+{
+  "total_raw": 287,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 0,
+  "gate2_fail": 2,
+  "passed": 12,
+  "gate2_samples": [
+    "US Plastics Pact removes transport EPS from ‘problematic’ list",
+    "Nearly 60 members of Congress call for aluminum pricing investigation"
+  ]
+}

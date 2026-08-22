@@ -1,5 +1,25 @@
 [
   {
+    "id": "tomra-2026-08-22-001",
+    "date": "2026-08-22",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to EBITDA forward of TOMRA Systems ASA – OSL:TOM - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX0tmYTQ5cVREUGwtOHhCZGQ3T2tKa2RzN05UMDVTcEZYUzFwVy1MMXc5WVprZWhsRXhUdFpJcHoyZEM4OTJrRWJHeUYzSmRrazBUMm5HUjY5NlhjSjd2cGgyVnI4bjR4b3pPVU1CUU",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX0tmYTQ5cVREUGwtOHhCZGQ3T2tKa2RzN05UMDVTcEZYUzFwVy1MMXc5WVprZWhsRXhUdFpJcHoyZEM4OTJrRWJHeUYzSmRrazBUMm5HUjY5NlhjSjd2cGgyVnI4bjR4b3pPVU1CUURvREtBREtfWDNOajRDTGpTYjlyVWdDYy1zQVlrd0JONlREUVY2NkVtZ09xXzFCeTVOY1QyUnBlSDU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-08-21-001",
     "date": "2026-08-21",
     "companies": [
@@ -99,6 +119,226 @@
       {
         "name": "waste_connections",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWFNTbGF3V1J4d01VdDNaUktlTm9UQXBhaEd2Sk52ZVB6RkRqTkE0UkNVWncxOEE5RGZnMjZ1c0E5a2pDa0M4bmRXdF9xZmFhVWMzR1A2WGw3RE41cVBHR0FmZjlxdDhMTi0xLWFEQi1xOTRQTktwSk53TFUxZE1sbENZeWhEZG1RREFOSGdKSnpHQkRLc1A3ZDI5d3VfLUZxcG5jc1pIcm5Gdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-08-21-006",
+    "date": "2026-08-21",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tomra stock holds steady as investors weigh dividend and valuation - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQjh4ZTdEN2RNcktmeHc1OXFPUUFzVWJMaUl1VldfdG1Td3RSUUE3Tm9fbHZ6cTdTNk1mLWlMSUE1NVdnTnRSOTdEclZ1dVEyMkcwbW9EN0tWUEVyTkRhMkFSWFByUGxsN0YtcEVkU2",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQjh4ZTdEN2RNcktmeHc1OXFPUUFzVWJMaUl1VldfdG1Td3RSUUE3Tm9fbHZ6cTdTNk1mLWlMSUE1NVdnTnRSOTdEclZ1dVEyMkcwbW9EN0tWUEVyTkRhMkFSWFByUGxsN0YtcEVkU2tfN2lzLVZmcU1yRmdaZjQwVjVPazRMZk1RUnZHZDlWZ3JsX091S2s1cjhjR3BaWXhGSVpjZnJwSTRyOVRGLTJURlQzMndZX3JFOHZ3dzYwckxrcE05bmRGdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "republic-2026-08-21-007",
+    "date": "2026-08-21",
+    "companies": [
+      "republic"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "City of Coconut Creek Launches Florida's First Fully Electric Residential Recycling and Waste Collection Fleet",
+    "summary": "Fleet provides quieter operations, reduced emissions and reliable service to the Coconut Creek community COCONUT CREEK, Fla., Aug. 21, 2026 /PRNewswire/ -- Republic Services and the City of Coconut Cr",
+    "sources": [
+      {
+        "name": "republic",
+        "url": "https://investor.republicservices.com/news-releases/news-release-details/city-coconut-creek-launches-floridas-first-fully-electric",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-21-008",
+    "date": "2026-08-21",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Is Waste Connections (WCN) Up 0.2% Since Last Earnings Report? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObmlnQjlYcWxkT0l3MEppWHBSdkp4WmhNaXd2Vm11NzZZTzNST1l0Szdlc3A2YXdnenJvcUZsbkZGd3FmeWhmTVFITUJITEhnM3FIZnlxc0NwTEtFT0IyQWtzTjJya2ZNRnI0QjNuOS",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObmlnQjlYcWxkT0l3MEppWHBSdkp4WmhNaXd2Vm11NzZZTzNST1l0Szdlc3A2YXdnenJvcUZsbkZGd3FmeWhmTVFITUJITEhnM3FIZnlxc0NwTEtFT0IyQWtzTjJya2ZNRnI0QjNuOS1BOEVyZmxqN1JSdnl0ekhaR0ptOU9SUjhHTTRIenBXdVQ2dWJaR05N?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-21-009",
+    "date": "2026-08-21",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections (NYSE: WCN) exec offloads 700 shares at $170 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOT09STVdGTThFcUpfcG8xbUpYaFdPcFVURVpXbVlORzNxcDFPZFZrNXFaaU04UmdaR2g0TnFmTnM3ZTdJMlVjcHRQQXlydmFIX19RUkdnWHJkR1dERjBRc2pPYS1GVVFIMFlqY05NR0",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT09STVdGTThFcUpfcG8xbUpYaFdPcFVURVpXbVlORzNxcDFPZFZrNXFaaU04UmdaR2g0TnFmTnM3ZTdJMlVjcHRQQXlydmFIX19RUkdnWHJkR1dERjBRc2pPYS1GVVFIMFlqY05NR0xQZlduOHhOUXY5aTU3cjQ5dnRSbXlab0QxZVMtX3VJMUsxeXdIdUpReTh1WjR6NmQxQ3FucVBOWXhBemplUnkxOXBMTHo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-21-010",
+    "date": "2026-08-21",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Senior VP Robert Nielsen III Sells 700 Shares at $170 Each - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPdmFtNEdfM1lraV9EVko0UldoZHl2enlPTVJUVkNHNVdzRDZPT1RPYmNQV2NlQ1JubDhzbnhNT29WWjdqbUJscUQ5dlRYeHNMNkhLZUFzTHZtWXdubVZYN2RPaXZZaWhRcW9xOUdUSE",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdmFtNEdfM1lraV9EVko0UldoZHl2enlPTVJUVkNHNVdzRDZPT1RPYmNQV2NlQ1JubDhzbnhNT29WWjdqbUJscUQ5dlRYeHNMNkhLZUFzTHZtWXdubVZYN2RPaXZZaWhRcW9xOUdUSElsNWFMNDFqX29LaVlvOWJlVGFSWWZFN0c3SEh0Q2xTRXB6NHpJMnJrRkNMMnAwSDJ6UFQyelBDWmE0M2paNnRKS01DNkY0OUJDakRpMmpRMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-08-21-011",
+    "date": "2026-08-21",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia stock holds steady as CAC 40 edges higher - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWRVbU5ucDFHS0o4NGlzcG53MGtmWV9mbHBvVEJYU25nSEpIcWliWXN0ZmRGQ1AyUFpUQWI3S3JSVVl1ZFFudmlpSTN6WWFqZWtTTzVlbWl6aW5jeE56RS04WDJjUmJnNVBUTnBFZG",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWRVbU5ucDFHS0o4NGlzcG53MGtmWV9mbHBvVEJYU25nSEpIcWliWXN0ZmRGQ1AyUFpUQWI3S3JSVVl1ZFFudmlpSTN6WWFqZWtTTzVlbWl6aW5jeE56RS04WDJjUmJnNVBUTnBFZGZaYWlJWkZVQ0ZTU3k5NEpZUTQyeWVmYnYwanBXbDR4UlprU29tYk9ZQW5xZXRGMVhOX0FoaFVsckljM19NTFZEag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-08-21-012",
+    "date": "2026-08-21",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims (ASX:SGM) Balances Strong FY26 Recovery Against Cyclical Metal Recycling Risks - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUVE0b1BRb1JrQXZKYlo1elhMYnhtYW5FcmxOLUhtR3dYWEQtTko4cWJrWW1VaExRWEF3eEhXeEx3OExqZFJRWW9MOUVHR2h3V1JfRUN2bEpoYUJZbmtjQVRYSlVoUXV1cHRMcldoNW",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUVE0b1BRb1JrQXZKYlo1elhMYnhtYW5FcmxOLUhtR3dYWEQtTko4cWJrWW1VaExRWEF3eEhXeEx3OExqZFJRWW9MOUVHR2h3V1JfRUN2bEpoYUJZbmtjQVRYSlVoUXV1cHRMcldoNWdrNmZERGZpUHctTlBXMGsyZjcxQVJ1R1BmQkRWRk10N2xTV0lJbEFRTXM5VmpjUkpHamdmQzU5ellPQ2ZTWDV2OGJ1YnZ1dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-08-21-013",
+    "date": "2026-08-21",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "American Battery Technology (ABAT) Q4 Revenue Beats Expectations Amid Valuation Concerns - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLV95LUNLNE1vZEkyVzB6aG5NVkFTS1FTWXQ2R3RBVWVCRWpRRjY0d05jYzBfSjdfRC1JYWljWU12MGpMeWFtX2JpSW5mXzBISXdZcUZQbkcyS1J1RTVfRzhkdE5hNXBlN3poUy05eT",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLV95LUNLNE1vZEkyVzB6aG5NVkFTS1FTWXQ2R3RBVWVCRWpRRjY0d05jYzBfSjdfRC1JYWljWU12MGpMeWFtX2JpSW5mXzBISXdZcUZQbkcyS1J1RTVfRzhkdE5hNXBlN3poUy05eTh4aTVlMFpGeHZNVXRHbkZXTWpDWVFweGg5UmtNYk1lRHV1MEVWNXJWcGhpVTJJdk1FWGp5d29DUktVeU8zNmpKbmNZTmZmYzdGSUhSSzU5dWc3QTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-014",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Loci Controls launches AI-assisted landfill emissions monitoring",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/B8VOMTnePaze9ORQyrkXvxfFvd-VcfMMcM_ukuUVyuQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Mb0NJX0NvbnRyb2xzX19fTW9udGF1a19HYWx2",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/loci-controls-launch-ai-assisted-landfill-wellhead-emissions-monitoring/828496/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-015",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TPS terminations prompt hiring, training changes for waste industry",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/iBZoasXi38ZYhuBMWKYKase_CGHCiI0DEBJ6jw9-nJQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00OTQxODE2OTMuanBn.web",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/tps-immigration-status-hiring-waste-pro-changes/828491/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-016",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Best Buy achieves ‘zero waste’ goal at supply chain facilities",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/3iFBkt8eLLJU7Cp5pdr2ymtNSLlgKb-tgig3-9_bw1o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDI0MzM2ODQwLmpwZw==",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/best-buy-achieves-zero-waste-goal-at-supply-chain-facilities/828413/",
         "type": "rss"
       }
     ]
