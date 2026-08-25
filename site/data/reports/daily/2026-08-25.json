@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T08:36:02.694516Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 285,
+    "dup_title": 168,
+    "too_old": 94,
+    "gate1_blocked": 4,
+    "gate2_blocked": 2,
+    "passed": 17,
+    "pass_rate": "14.5%",
+    "gate2_block_rate": "1.7%",
+    "gate2_samples": [
+      "Yancoal Australia Increases 2026 Annual Cap for Coal Sales Agreement With Glencore - marketscreener.",
+      "US Plastics Pact removes transport EPS from ‘problematic’ list"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-08-25 無回收產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

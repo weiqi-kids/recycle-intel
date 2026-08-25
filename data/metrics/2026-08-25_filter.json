@@ -1,0 +1,13 @@
+{
+  "total_raw": 285,
+  "dup_title": 168,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 4,
+  "gate2_fail": 2,
+  "passed": 17,
+  "gate2_samples": [
+    "Yancoal Australia Increases 2026 Annual Cap for Coal Sales Agreement With Glencore - marketscreener.",
+    "US Plastics Pact removes transport EPS from ‘problematic’ list"
+  ]
+}

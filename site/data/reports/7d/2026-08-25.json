@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-25",
+  "date_range": {
+    "start": "2026-08-19",
+    "end": "2026-08-25"
+  },
+  "generated_at": "2026-08-25T08:36:02.802099Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "abtc-2026-08-20-011",
+      "date": "2026-08-20",
+      "title": "American Battery Technology Reports Record $8.2 Million Q4 FY2026 Revenue - Quiver Quantitative",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 6,
+      "last_week": 22,
+      "week_over_week_change": "-73%",
+      "sentiment_this_week": -0.08
+    },
+    "industry_general": {
+      "this_week": 7,
+      "last_week": 28,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": -0.07
+    },
+    "circular_economy_policy": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "glencore": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 2
+    },
+    "waste_connections": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "tomra": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 78,
+        "last": 91,
+        "change_pct": -14.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-19",
+      "event_count": 16,
+      "sentiment_avg": 0.25
+    },
+    {
+      "date": "2026-08-20",
+      "event_count": 20,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-08-21",
+      "event_count": 18,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-08-22",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-23",
+      "event_count": 3,
+      "sentiment_avg": 0.33
+    },
+    {
+      "date": "2026-08-24",
+      "event_count": 12,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-25",
+      "event_count": 0,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-19 ~ 2026-08-25）共 78 則事件，重點為「American Battery Technology Reports Record $8.2...」。嘉能可情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "嘉能可",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "WCN",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
