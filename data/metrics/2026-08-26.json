@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-26",
+  "total_events": 1,
+  "by_company": {
+    "waste_connections": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
