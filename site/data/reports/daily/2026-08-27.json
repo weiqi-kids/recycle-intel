@@ -1,0 +1,209 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T18:46:05.633834Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-08-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra stock holds steady as recycling growth underpins valuation - Ad-hoc-news.de",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLWpQaFN6VUZjVGs5Qi1OZFRPUHo5YkpJM0h1M2xPYldLWS1GV0R1Q3EzVGZ6SFF4cy1QS1ZMV3ZpVE5hR1ZuNFNKYXV6UVVnR1RkRERMMXdNQkotallrMF85NXN2YlVNejdUcE9nVmc0SHZheGxqUVpNeUdnZTNIeVI5ODhXUXBWQkhIUHNSQmdRNnFoSVJVYS1OYnFvbzd5LVNCZlhJQkhwenRsRFJkOC1CQlc1WUpSNmxLNDFlRGNKT0QzUmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "veolia-2026-08-27-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement Sells EUR1 Billion of Oversubscribed Bonds - marketscreener.com",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd29SSjlkSVBHRWF4emp1MGNPV2xjU0d3VU4wYkg2RS1PMEY1ZExHTDlUT3JnT2NyYTdYbkZLS3RWYmFDaGZicm14cU1vQmNTRHBXUWptcFh1RDZvTDVFUjVGalowRXJGY2wyaFlmSVQ2QmlPQU56ZmR2MHVDZHJicHBkY2t0SFBBX29lVlFueUxqdmlaeTMwZWY0MmY1aXVrUXR4RFFFblJSSzU2cTQtdXNFMU92Yk0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VAD Bond Coupon Profile — Rate & Payments - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zVzczd051SHRsQThCa0xLaXJmRGh2VE5YSDJUekk4NDk4TkFTVHo4ZTdLWUQ1ZVdNQ09vY2t6N0tMMlZ6dmRFVTZRODAwQ0tRV25aUEhUa0d1dDItYmtNdy1MUC1nazJxM204?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-27-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Canada Tire Recycling Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLW9zSnAwSU93QWlKa0RwTVV6TmJsWGM1TEY0b1VvNHhqZzdVRkNlRkpqXzFoU0VkZzFEUWJOVmNMYTZMR2xBSDFPMDM3b3ppdVV3cng5cFhsQ2I1bHAxX2tlaTF3ZHdzbUtPeEJHNG5pbjAxSVVLTU0zOWoxcXVtNzA3VWVxU1pCWWNfb0g1bWY?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "boliden-2026-08-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Boliden to acquire controlling stake in Nexa Resources",
+      "companies": [
+        "boliden"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "boliden",
+        "count": 1
+      },
+      {
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 161,
+    "too_old": 104,
+    "gate1_blocked": 2,
+    "gate2_blocked": 2,
+    "passed": 17,
+    "pass_rate": "13.6%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Citadel Advisors no longer a public short seller in Tomra Systems - marketscreener.com",
+      "TOMRA: Invitation to Capital Markets Day 2026 - Finansavisen"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為博利登、陶朗、嘉能可相關動態：「Tomra stock holds steady as recycling growth underpins va...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tomra stock holds steady as recycling growth underpins valuation - Ad-hoc-new...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Veolia Environnement Sells EUR1 Billion of Oversubscribed Bonds - marketscree...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

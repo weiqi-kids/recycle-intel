@@ -1,0 +1,13 @@
+{
+  "total_raw": 286,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 104,
+  "gate1_fail": 2,
+  "gate2_fail": 2,
+  "passed": 17,
+  "gate2_samples": [
+    "Citadel Advisors no longer a public short seller in Tomra Systems - marketscreener.com",
+    "TOMRA: Invitation to Capital Markets Day 2026 - Finansavisen"
+  ]
+}

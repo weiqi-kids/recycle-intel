@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-27",
+  "total_events": 7,
+  "by_company": {
+    "boliden": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tomra": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "glencore": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "industry_general": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
