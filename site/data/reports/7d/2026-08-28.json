@@ -1,0 +1,126 @@
+{
+  "date": "2026-08-28",
+  "date_range": {
+    "start": "2026-08-22",
+    "end": "2026-08-28"
+  },
+  "generated_at": "2026-08-28T19:51:18.348522Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tomra-2026-08-22-001",
+      "date": "2026-08-22",
+      "title": "Enterprise value to EBITDA forward of TOMRA Systems ASA – OSL:TOM - TradingView",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 8,
+      "last_week": 23,
+      "week_over_week_change": "-65%",
+      "sentiment_this_week": 0.12
+    },
+    "industry_general": {
+      "this_week": 8,
+      "last_week": 30,
+      "week_over_week_change": "-73%",
+      "sentiment_this_week": 0.19
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "tomra": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 2
+    },
+    "waste_connections": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 4
+    },
+    "boliden": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "glencore": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "veolia": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 62,
+        "last": 126,
+        "change_pct": -50.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-22",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-23",
+      "event_count": 3,
+      "sentiment_avg": 0.33
+    },
+    {
+      "date": "2026-08-24",
+      "event_count": 14,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-25",
+      "event_count": 7,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 11,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 11,
+      "sentiment_avg": 0.18
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 7,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-22 ~ 2026-08-28）共 62 則事件，重點為「Enterprise value to EBITDA forward of TOMRA Sys...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "陶朗",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "嘉能可",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
