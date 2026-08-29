@@ -1,0 +1,239 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T13:34:04.272291Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-08-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore threatened with $1.4bn lawsuit from embattled trader Radiant - Financial Times",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPelJaN0lZVmx6VXpvbXluaGFhdkZTSHlZUnd1RnowZnQzdFkxelRQVEdQZnJ5Q1lQREViU3Vha2NKTGhtLTdMdzlSRlJjdWdJdGE2SENjQjQ3VFotNy02WElyQ0lpRER4YW1qeWxtUzFQbEJxd2hSNzN1MWRWUFhtOWVqajk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-08-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore faces $1.4 billion lawsuit threat while pursuing $9 billion Congo copper and cobalt deal - Business Insider Africa",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaDd5eEU1WW1zRVBOQk9yNUpnLXJXTzBtMng1TWlUQi1nanJ0bkdwRVdTNTlMU0R0aWUtcUdKM3psaUtrV1M5aEp0dnBac0RaTDRXUkoyZjhpa2ZId2w0c3JrdXFXMGNkZS0tVklxWTdNN3h2ZjRnamdkYlhSSTZCTmtyNGxVYllSdHRXTUlDNUlyM2xSd19LXzdHMkpzQ2l4QUtEaGdUMXE5ckZQWkE3SENmT05qaU83X240ZmI4R1lkcmczVHM2YWVOaHdub1hTLWtkdEk0NA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-08-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore may be facing $800 million lawsuit - Breakingthenews.net",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSEpBWTNueGZKUkFsQXAyYVZMMUNHUmR0a1FDaUVhdEx3VXpEQTVfdWZJWHFYZHNJal94bjY2dDdicXVVeWU1b1ExMzRsSS1CNmVsejJRTTM2ZkxwaW5XWHFwZVpHTGthWDVGVDVGd0otRmltMnljV2wyanFoWTliX1c3aGFrQTI4LUNUVDItQ1RnVFFuSWpSQw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tomra-2026-08-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tomra stock holds steady as investors await fresh data - Ad-hoc-news.de",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZENMTlBOMTNFakdMNlRzT0hiN2xSaWk3NWRrdFl2enVNQU5lbm93cmxRTGMxWXFBbUljRE00c3oyS21wUXl6Z0dxLUR3LWVudlhBbnJTV19ra0FTWlpycmZLSjZveXNKejFRNEtmRnBqQ0ZxQnJRUmRSOV96RXljMjBKRmNjQlI4MkpZVzZRZTJYbFdyLWdpejhRVUVmbDNhcGV3aUJETVZFSDZpQ0NnUU9JMkhUeFFa?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "veolia-2026-08-29-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Veolia stock holds firm as ESG partnerships and bond funding support outlook - Ad-hoc-news.de",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_credit",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWlcxLVB1T3lYUWk2RmVVa0psTzN6c0VwMEJsbVpCUjdscE1WTWwyR3BVTHFEajVBRkduWFV0QlBHS1o5VHpxbmlQSUVfQV9Vd1BVZGg4ZElmcEVKbXdkMmJrelRoYmcyQUpKMjl5di1OeHJmU2NSNVJrcHJ4YV9JUnlOanVESmdQbUJ2ZEJhMGxFY241SzVvZjdWME1KTllFaVItZFM5YmlMWnl4WFhRckI0enhXSzNuWE5CaElVNjMtTVpmRF9vSmowaw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_credit": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 3
+      },
+      {
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "carbon_credit",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 170,
+    "too_old": 106,
+    "gate1_blocked": 1,
+    "gate2_blocked": 2,
+    "passed": 8,
+    "pass_rate": "6.8%",
+    "gate2_block_rate": "1.7%",
+    "gate2_samples": [
+      "Radiant World Threatens Legal Action Against Glencore (GLNCY) - GuruFocus",
+      "State regulators grapple with food depackaging rules"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為嘉能可、陶朗、威立雅相關動態：「Glencore threatened with $1.4bn lawsuit from embattled tr...」。主要關注主題為產業通用、財報、碳權，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore threatened with $1.4bn lawsuit from embattled trader Radiant - Finan...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Glencore faces $1.4 billion lawsuit threat while pursuing $9 billion Congo co...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
