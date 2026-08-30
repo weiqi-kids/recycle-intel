@@ -1,0 +1,136 @@
+{
+  "date": "2026-08-30",
+  "date_range": {
+    "start": "2026-08-24",
+    "end": "2026-08-30"
+  },
+  "generated_at": "2026-08-30T13:29:24.263220Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tomra-2026-08-24-001",
+      "date": "2026-08-24",
+      "title": "TOMRA: Invitation to Capital Markets Day 2026 - marketscreener.com",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 13,
+      "last_week": 30,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": 0.11
+    },
+    "earnings": {
+      "this_week": 11,
+      "last_week": 24,
+      "week_over_week_change": "-54%",
+      "sentiment_this_week": 0.09
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "carbon_credit": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "waste_connections": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 4
+    },
+    "boliden": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "tomra": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 3
+    },
+    "glencore": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "veolia": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 69,
+        "last": 136,
+        "change_pct": -49.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-24",
+      "event_count": 15,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-25",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 11,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 12,
+      "sentiment_avg": 0.21
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 10,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-24 ~ 2026-08-30）共 69 則事件，重點為「TOMRA: Invitation to Capital Markets Day 2026 -...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "陶朗",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "嘉能可",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "威立雅",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

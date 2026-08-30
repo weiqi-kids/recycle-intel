@@ -1,5 +1,61 @@
 [
   {
+    "id": "glencore-2026-08-30-001",
+    "date": "2026-08-30",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Anglo Teck up against Glencore’s ‘hardball’ negotiators to deliver merger gains - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjd1UW5uRnVVYnlpLUgzYVV1cC1DS2tEZDY2TzI4ejVtaEZMTDYzV0JvN3o4SWxfNW9MRUtMYXN4aEE1SUs4Rno3dmdJTDR3VFlQWDZ5ZW5hd0N6QVNUUHN4c3BhYmFYMDRDbklGWV",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjd1UW5uRnVVYnlpLUgzYVV1cC1DS2tEZDY2TzI4ejVtaEZMTDYzV0JvN3o4SWxfNW9MRUtMYXN4aEE1SUs4Rno3dmdJTDR3VFlQWDZ5ZW5hd0N6QVNUUHN4c3BhYmFYMDRDbklGWVJhTTFjNnFJSlpHdm9lc3I2YVdhMlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-08-30-002",
+    "date": "2026-08-30",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Veolia Environnement (ENXTPA:VIE) Cheap As Bond Demand Signals Confidence? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ29OY2UtNFJzQld3dUFqYlhZZXhCN3lLUE9td3ZDUk1aWXlSTExVQTlJNWFxdktkaWk5QVBYUTNRZGxROE45VDJIY1FPeHNWWHo3S24wZ29fTEFLSnJpY1RFa2owN2xFZExtV2t6WG",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ29OY2UtNFJzQld3dUFqYlhZZXhCN3lLUE9td3ZDUk1aWXlSTExVQTlJNWFxdktkaWk5QVBYUTNRZGxROE45VDJIY1FPeHNWWHo3S24wZ29fTEFLSnJpY1RFa2owN2xFZExtV2t6WGN3ZERNYXE5SFREZXFsY0Z3VDhNTERQa3ZyVmpIUU1BLWY0bWY1NmRNVnhkSXN4Uk5MdnlFSzhQWTR5bVZlb1JmdFhLNjNFUnRwT3dnOHRMaW5ZS0pNb19Tb3o3WmpkMnVRNDB0ZXl4bkFaNEszWGhLedIB4AFBVV95cUxPQ29OY2UtNFJzQld3dUFqYlhZZXhCN3lLUE9td3ZDUk1aWXlSTExVQTlJNWFxdktkaWk5QVBYUTNRZGxROE45VDJIY1FPeHNWWHo3S24wZ29fTEFLSnJpY1RFa2owN2xFZExtV2t6WGN3ZERNYXE5SFREZXFsY0Z3VDhNTERQa3ZyVmpIUU1BLWY0bWY1NmRNVnhkSXN4Uk5MdnlFSzhQWTR5bVZlb1JmdFhLNjNFUnRwT3dnOHRMaW5ZS0pNb19Tb3o3WmpkMnVRNDB0ZXl4bkFaNEszWGhLeQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-30-003",
+    "date": "2026-08-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This American Battery Could Break China’s Grip On The EV Supply Chain - InsideEVs",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5QR0QxdEpVUW5DdjBsLXQtT01jQWNNZWt2cF92eHR0cktWSGROOTVQU1VNNzRwY1M2cVhlWl9uM0tFR01COTdsRk5zbWJLSUVOZDdHWmphelJEM09pbDRmYWFGbTlOT1NPbVdOTFhscj",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QR0QxdEpVUW5DdjBsLXQtT01jQWNNZWt2cF92eHR0cktWSGROOTVQU1VNNzRwY1M2cVhlWl9uM0tFR01COTdsRk5zbWJLSUVOZDdHWmphelJEM09pbDRmYWFGbTlOT1NPbVdOTFhscjV0Zk1lTDRxamNNeVU0dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-08-29-001",
     "date": "2026-08-29",
     "companies": [
@@ -99,6 +155,106 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWlcxLVB1T3lYUWk2RmVVa0psTzN6c0VwMEJsbVpCUjdscE1WTWwyR3BVTHFEajVBRkduWFV0QlBHS1o5VHpxbmlQSUVfQV9Vd1BVZGg4ZElmcEVKbXdkMmJrelRoYmcyQUpKMjl5di1OeHJmU2NSNVJrcHJ4YV9JUnlOanVESmdQbUJ2ZEJhMGxFY241SzVvZjdWME1KTllFaVItZFM5YmlMWnl4WFhRckI0enhXSzNuWE5CaElVNjMtTVpmRF9vSmowaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-29-006",
+    "date": "2026-08-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Took $480 Million Provision on Radiant World Exposure - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1VqZWNWMU9oWHljSUVmSmFlM3JqdEpkazdVZjFhRjdnV3FyUGI3WGRGQlF0Ukk1YzFlQ2FpYllkbzdyVU9tbHVJOTJSbG93YXFOcE9jSVZTMXBaOTVaQ1ZweDZFRjVteHJPOWdvcE",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1VqZWNWMU9oWHljSUVmSmFlM3JqdEpkazdVZjFhRjdnV3FyUGI3WGRGQlF0Ukk1YzFlQ2FpYllkbzdyVU9tbHVJOTJSbG93YXFOcE9jSVZTMXBaOTVaQ1ZweDZFRjVteHJPOWdvcER5Qzd5eUlyRVhNeTZsOUdwSG8wQUhwSHRpamFPYmJLMEJIUVZDOEpNZFdGVUM0NS1MYkx3NlhJNjNrZVNGVWI0UTdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-29-007",
+    "date": "2026-08-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Glencore said to have set aside $480M provision for Radiant World exposure - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOOW8ycUI4d3lxN1ZLU1V5OGRmWXd5SHBsZDdrc0ctYU1LUXhYUXAxM2JKYjViR1BHajJvbWVkY1gtV3ZXSFl2R0RLcm56alVaQndGU200X3FGYTNUcVAtTjc4X3FOdHJxYlg4V25VY0",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOW8ycUI4d3lxN1ZLU1V5OGRmWXd5SHBsZDdrc0ctYU1LUXhYUXAxM2JKYjViR1BHajJvbWVkY1gtV3ZXSFl2R0RLcm56alVaQndGU200X3FGYTNUcVAtTjc4X3FOdHJxYlg4V25VY0VOQmdhaUhiYWtCc2ZHYUhMSzhzVS1QNGhUVXJ6d2lKTFo1eExh?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-29-008",
+    "date": "2026-08-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Glencore (GLNCY) Sets Aside $480 Million for Radiant World Expos - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGJ3OWVkV2dWVW8xYVBDUG9tU2c3SlNaaGNlcGxJTG01YjRka1EzRUF2b0JrOHdNQldXZnE3SjVVUjlZUTlfTmJndldZUDRaYlB2RXBZT3hpSGdqWnZmbUxZdVZsSlhHbG0yWldFNk",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGJ3OWVkV2dWVW8xYVBDUG9tU2c3SlNaaGNlcGxJTG01YjRka1EzRUF2b0JrOHdNQldXZnE3SjVVUjlZUTlfTmJndldZUDRaYlB2RXBZT3hpSGdqWnZmbUxZdVZsSlhHbG0yWldFNkVrOEZOMnV3c1RBN1J6dHRTVG1TRVNpMDNOUGE0MUtIUXNFdzRkV085Q2s1c3Y3NDM2UE5OQzdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-29-009",
+    "date": "2026-08-29",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "This Waste Connections Insider Increased Their Holding By 20% Last Year - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjBsM21DM1drRno4clQ4R0pFUW94ZlVFXzJHdlJyQmVyWTFwVFNPY2YwZkQyVDBLRmpKSGNGbjAyZG9VM2JMTGwwZGMxWm5paVcyMjBjY194Vi0zWHY3VFpOOU9Ob3hNOUxXRkFLYl",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjBsM21DM1drRno4clQ4R0pFUW94ZlVFXzJHdlJyQmVyWTFwVFNPY2YwZkQyVDBLRmpKSGNGbjAyZG9VM2JMTGwwZGMxWm5paVcyMjBjY194Vi0zWHY3VFpOOU9Ob3hNOUxXRkFLYlJSQThkcnk3UkU3TkVfRXdsQlptdDVPbGVGWHNhZ2tjTk1tamlheVlWVU0xUWNLQ1hveUFPRDZUcVRobzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-08-29-010",
+    "date": "2026-08-29",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections stock holds below consensus target as earnings and cash flow support the 2026 outl - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQY0NXYTNxSzAyeVhxXzBhOFNVYXdma3FkUDB5Ymd2VHE1ZXlJTlZLQXNPclNPc3pnTUlRR1VjRkN6SWN5OFZweU9la1d4bmg2RlhqOHlyVWY1ZjRfRXFLUV95Q2pGZDlWVllOTS1ZND",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY0NXYTNxSzAyeVhxXzBhOFNVYXdma3FkUDB5Ymd2VHE1ZXlJTlZLQXNPclNPc3pnTUlRR1VjRkN6SWN5OFZweU9la1d4bmg2RlhqOHlyVWY1ZjRfRXFLUV95Q2pGZDlWVllOTS1ZNDRiQWVEb0k0ZER6RHpGRW1fOVZYbDZ0WGZQV2VxRkt4Ny1TLU15ejhJNWs3Ni1qNXNqMTgtUE8zakRCZDlLSzBIZ2x2Z3NVZHRKYWpoTkZaV0VmdzVQYkw3UkJxMXo?oc=5",
         "type": "rss"
       }
     ]
@@ -255,6 +411,27 @@
       {
         "name": "google_news_battery_recycling",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mZWFaSDRSYWoyYmUwZ21GUG11YUpiVXNOWmVfSXBsZkgxYWM1WDU5ZWs0Nmswb0cyM2dMSUVxbVJjSnNBV2FQaGtLY1BoSWxFQVF5d0Z4ZHFfTW5fd3JKSGxBQW9JTHd4MTZYNTROQmRjekk0dGRLLXc0UzJSQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-08-28-009",
+    "date": "2026-08-28",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tomra stock update pending fresh market data - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXhHUUgzLXdTNVBQRjY2TjZSWHF3TktFSmV0RnFrUWFaYWt3VFFIS2NCWkh6ejIzUW1FWHdjajVnWHBIYVp2NHNUUHBaWGFWVGxjVUJKNldXTC1zNF9lSFp0RW1jRnZJdE9FRHVPM2",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXhHUUgzLXdTNVBQRjY2TjZSWHF3TktFSmV0RnFrUWFaYWt3VFFIS2NCWkh6ejIzUW1FWHdjajVnWHBIYVp2NHNUUHBaWGFWVGxjVUJKNldXTC1zNF9lSFp0RW1jRnZJdE9FRHVPM2NxQ250Y1FEYzREUVRSRnNXb25lWkk2c0ctZmFuaXRWWEtFQjVwa09VYVJqZGxMcVFBa2hfWWxJYmNCdDg?oc=5",
         "type": "rss"
       }
     ]
@@ -457,6 +634,27 @@
       {
         "name": "google_news_recycling",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN3hxcGw2OGNRUzVFdnVOM21iNFBXd1NnWmxxbUIySEFHYk5nZjUxMlkwT0hDZVg4T2V6TTJUUEhDME1fTC1LQ2xKbWFoYTFCYnM1TnZWR0ZFVnFtZ3FVdk15WkhncFk3dGJNdWhGcGVzbDZ2RG1DRGtqci03dmlLOEFtdFdVbmhkOVgzSFd5MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-08-27-012",
+    "date": "2026-08-27",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Tomra stock holds steady as recycling growth underpins valuation - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNLWpQaFN6VUZjVGs5Qi1OZFRPUHo5YkpJM0h1M2xPYldLWS1GV0R1Q3EzVGZ6SFF4cy1QS1ZMV3ZpVE5hR1ZuNFNKYXV6UVVnR1RkRERMMXdNQkotallrMF85NXN2YlVNejdUcE9nVm",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLWpQaFN6VUZjVGs5Qi1OZFRPUHo5YkpJM0h1M2xPYldLWS1GV0R1Q3EzVGZ6SFF4cy1QS1ZMV3ZpVE5hR1ZuNFNKYXV6UVVnR1RkRERMMXdNQkotallrMF85NXN2YlVNejdUcE9nVmc0SHZheGxqUVpNeUdnZTNIeVI5ODhXUXBWQkhIUHNSQmdRNnFoSVJVYS1OYnFvbzd5LVNCZlhJQkhwenRsRFJkOC1CQlc1WUpSNmxLNDFlRGNKT0QzUmc?oc=5",
         "type": "rss"
       }
     ]
@@ -833,6 +1031,25 @@
       {
         "name": "tomra",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLVdyTWNtS2xzQ0FPbXFPbGlNeGhqSl9XMTQzcHVGQWd4TjVabjk4VzFJck5LVERlTVJtelBmNjFxY0Izak5sR3AycjBWZ0ZOdzRlUTVLTWhsVUhMYUsxUmlvcmZyZGxTZDR5Y1J1OWV5ZEtBalE4WEJFOC1CenJueXp1cElyQzZ6WUtHWGM1SWdsWW1sN2FvSEt5aFdCVVd5TWJxX1Z6VHB1UG1Sc0tidWhUSU44YldzVEZRaXhGSjZhMG00RFk2SjRGQzlhcWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-009",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The collapse of a Mass. battery recycling company that had nearly $1B in backing - MassLive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPYTdqUUxVd0duYUVIeGExSDdXVV9zb0xrb3haOHR3QXBqTUVueGFzR2lqaVkxMDJYNUdQeVpwUVd5ZFdGRERKLV91WFNMbGI0WURqTkU1Nm9hN0JjQkt6Yzd6RnVrdlZsaFUyXzhnZX",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYTdqUUxVd0duYUVIeGExSDdXVV9zb0xrb3haOHR3QXBqTUVueGFzR2lqaVkxMDJYNUdQeVpwUVd5ZFdGRERKLV91WFNMbGI0WURqTkU1Nm9hN0JjQkt6Yzd6RnVrdlZsaFUyXzhnZXl3emY4VWFjT0JYb3BsUEtMNUZTaEVWVHQ5cnZEd28yQzRqV3p0ODh1U0lSemoyWXhwXzItV214RkloMXlmdHc0OGc2cW4tNzJ1N2s5dHpQZFJDZjJGZHB6TkZB?oc=5",
         "type": "rss"
       }
     ]

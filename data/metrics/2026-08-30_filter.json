@@ -1,0 +1,16 @@
+{
+  "total_raw": 289,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 2,
+  "gate2_fail": 6,
+  "passed": 11,
+  "gate2_samples": [
+    "Citadel Advisors no longer a public short seller in Tomra Systems - marketscreener.com",
+    "Glencore takes $480 mln provision on Radiant World exposure - Bloomberg - Investing.com",
+    "Glencore Sets Aside $480 Million to Cover Radiant World Exposure - finance.biggo.com",
+    "Glencore took US$480 mil provision on Radiant World exposure — Bloomberg - The Edge Malaysia",
+    "Radiant World Threatens Legal Action Against Glencore (GLNCY) - GuruFocus"
+  ]
+}

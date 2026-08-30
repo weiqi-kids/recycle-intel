@@ -1,0 +1,154 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T13:29:24.137197Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-08-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Veolia Environnement (ENXTPA:VIE) Cheap As Bond Demand Signals Confidence? - simplywall.st",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ29OY2UtNFJzQld3dUFqYlhZZXhCN3lLUE9td3ZDUk1aWXlSTExVQTlJNWFxdktkaWk5QVBYUTNRZGxROE45VDJIY1FPeHNWWHo3S24wZ29fTEFLSnJpY1RFa2owN2xFZExtV2t6WGN3ZERNYXE5SFREZXFsY0Z3VDhNTERQa3ZyVmpIUU1BLWY0bWY1NmRNVnhkSXN4Uk5MdnlFSzhQWTR5bVZlb1JmdFhLNjNFUnRwT3dnOHRMaW5ZS0pNb19Tb3o3WmpkMnVRNDB0ZXl4bkFaNEszWGhLedIB4AFBVV95cUxPQ29OY2UtNFJzQld3dUFqYlhZZXhCN3lLUE9td3ZDUk1aWXlSTExVQTlJNWFxdktkaWk5QVBYUTNRZGxROE45VDJIY1FPeHNWWHo3S24wZ29fTEFLSnJpY1RFa2owN2xFZExtV2t6WGN3ZERNYXE5SFREZXFsY0Z3VDhNTERQa3ZyVmpIUU1BLWY0bWY1NmRNVnhkSXN4Uk5MdnlFSzhQWTR5bVZlb1JmdFhLNjNFUnRwT3dnOHRMaW5ZS0pNb19Tb3o3WmpkMnVRNDB0ZXl4bkFaNEszWGhLeQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-08-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Anglo Teck up against Glencore’s ‘hardball’ negotiators to deliver merger gains - Financial Times",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjd1UW5uRnVVYnlpLUgzYVV1cC1DS2tEZDY2TzI4ejVtaEZMTDYzV0JvN3o4SWxfNW9MRUtMYXN4aEE1SUs4Rno3dmdJTDR3VFlQWDZ5ZW5hd0N6QVNUUHN4c3BhYmFYMDRDbklGWVJhTTFjNnFJSlpHdm9lc3I2YVdhMlE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "This American Battery Could Break China’s Grip On The EV Supply Chain - InsideEVs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QR0QxdEpVUW5DdjBsLXQtT01jQWNNZWt2cF92eHR0cktWSGROOTVQU1VNNzRwY1M2cVhlWl9uM0tFR01COTdsRk5zbWJLSUVOZDdHWmphelJEM09pbDRmYWFGbTlOT1NPbVdOTFhscjV0Zk1lTDRxamNNeVU0dw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 289,
+    "dup_title": 165,
+    "too_old": 105,
+    "gate1_blocked": 2,
+    "gate2_blocked": 6,
+    "passed": 11,
+    "pass_rate": "8.9%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "Citadel Advisors no longer a public short seller in Tomra Systems - marketscreener.com",
+      "Glencore takes $480 mln provision on Radiant World exposure - Bloomberg - Investing.com",
+      "Glencore Sets Aside $480 Million to Cover Radiant World Exposure - finance.biggo.com",
+      "Glencore took US$480 mil provision on Radiant World exposure — Bloomberg - The Edge Malaysia",
+      "Radiant World Threatens Legal Action Against Glencore (GLNCY) - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為嘉能可、威立雅相關動態：「Is Veolia Environnement (ENXTPA:VIE) Cheap As Bond Demand...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Is Veolia Environnement (ENXTPA:VIE) Cheap As Bond Demand Signals Confidence?...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Anglo Teck up against Glencore’s ‘hardball’ negotiators to deliver merger gai...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
