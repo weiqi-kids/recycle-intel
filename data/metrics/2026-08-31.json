@@ -1,0 +1,49 @@
+{
+  "date": "2026-08-31",
+  "total_events": 10,
+  "by_company": {
+    "tomra": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "glencore": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "waste_connections": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "aurubis": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sims": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "abtc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

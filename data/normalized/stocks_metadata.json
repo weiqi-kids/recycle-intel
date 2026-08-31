@@ -1,8 +1,8 @@
 {
   "tomra": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-28",
-    "count": 6758,
+    "latest": "2026-08-31",
+    "count": 6759,
     "history_complete": true
   },
   "glencore": {
@@ -13,62 +13,62 @@
   },
   "waste_mgmt": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-28",
-    "count": 6704,
+    "latest": "2026-08-31",
+    "count": 6705,
     "history_complete": true
   },
   "republic": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-28",
-    "count": 6704,
+    "latest": "2026-08-31",
+    "count": 6705,
     "history_complete": true
   },
   "waste_connections": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-28",
-    "count": 6704,
+    "latest": "2026-08-31",
+    "count": 6705,
     "history_complete": true
   },
   "umicore": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-28",
-    "count": 6850,
+    "latest": "2026-08-31",
+    "count": 6851,
     "history_complete": true
   },
   "veolia": {
     "earliest": "2000-07-20",
-    "latest": "2026-08-28",
-    "count": 6706,
+    "latest": "2026-08-31",
+    "count": 6707,
     "history_complete": true
   },
   "aurubis": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-28",
-    "count": 6812,
+    "latest": "2026-08-31",
+    "count": 6813,
     "history_complete": true
   },
   "boliden": {
     "earliest": "2001-12-05",
-    "latest": "2026-08-28",
-    "count": 6261,
+    "latest": "2026-08-31",
+    "count": 6262,
     "history_complete": true
   },
   "sims": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-28",
-    "count": 6782,
+    "latest": "2026-08-31",
+    "count": 6783,
     "history_complete": true
   },
   "kunding": {
     "earliest": "2010-05-27",
-    "latest": "2026-08-28",
-    "count": 3977,
+    "latest": "2026-08-31",
+    "count": 3978,
     "history_complete": true
   },
   "abtc": {
     "earliest": "2016-02-24",
-    "latest": "2026-08-28",
-    "count": 2644,
+    "latest": "2026-08-31",
+    "count": 2645,
     "history_complete": true
   }
 }
