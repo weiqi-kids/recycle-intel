@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-31T15:47:29",
+  "updated_at": "2026-09-01T13:00:01",
   "etfs": {
     "SMH": {
       "name": "VanEck Semiconductor ETF",
-      "latest_price": 554.52,
-      "daily_change_pct": 0.25,
-      "flow_5d": 41211142,
-      "flow_20d": -2124446,
+      "latest_price": 556.63,
+      "daily_change_pct": 0.64,
+      "flow_5d": 54020493,
+      "flow_20d": 10684905,
       "flow_trend": "inflow",
       "daily_flow": [
         {
@@ -185,18 +185,18 @@
         },
         {
           "date": "2026-08-31",
-          "flow": 2386841,
-          "volume": 1692795,
-          "change_pct": 0.25
+          "flow": 15196192,
+          "volume": 4317100,
+          "change_pct": 0.64
         }
       ]
     },
     "SOXX": {
       "name": "iShares Semiconductor ETF",
-      "latest_price": 508.73,
-      "daily_change_pct": 0.02,
-      "flow_5d": 5478770,
-      "flow_20d": -58794744,
+      "latest_price": 511.04,
+      "daily_change_pct": 0.48,
+      "flow_5d": 20065765,
+      "flow_20d": -44207749,
       "flow_trend": "inflow",
       "daily_flow": [
         {
@@ -369,24 +369,24 @@
         },
         {
           "date": "2026-08-28",
-          "flow": -142121826,
-          "volume": 8454600,
+          "flow": -142355485,
+          "volume": 8468500,
           "change_pct": -3.2
         },
         {
           "date": "2026-08-31",
-          "flow": 283776,
-          "volume": 2579782,
-          "change_pct": 0.02
+          "flow": 15104430,
+          "volume": 6241500,
+          "change_pct": 0.48
         }
       ]
     },
     "SOXQ": {
       "name": "Invesco PHLX Semiconductor ETF",
-      "latest_price": 90.28,
-      "daily_change_pct": 0.0,
-      "flow_5d": 1635912,
-      "flow_20d": -76564,
+      "latest_price": 90.76,
+      "daily_change_pct": 0.53,
+      "flow_5d": 2122248,
+      "flow_20d": 409772,
       "flow_trend": "inflow",
       "daily_flow": [
         {
@@ -565,9 +565,9 @@
         },
         {
           "date": "2026-08-31",
-          "flow": 0,
-          "volume": 647778,
-          "change_pct": 0.0
+          "flow": 486336,
+          "volume": 1013200,
+          "change_pct": 0.53
         }
       ]
     }

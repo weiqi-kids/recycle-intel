@@ -1,0 +1,15 @@
+{
+  "total_raw": 268,
+  "dup_title": 136,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 3,
+  "gate2_fail": 4,
+  "passed": 16,
+  "gate2_samples": [
+    "Citadel Advisors no longer a public short seller in Tomra Systems - marketscreener.com",
+    "Glencore takes $480 mln provision on Radiant World exposure - Bloomberg - Investing.com",
+    "California legislators pass key bills affecting haulers and recyclers",
+    "State regulators grapple with food depackaging rules"
+  ]
+}

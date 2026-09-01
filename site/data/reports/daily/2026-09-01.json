@@ -1,0 +1,193 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T13:00:03.680473Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-09-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Hundred-Billion Merger Nears Completion, Glencore Poised to Reap the Benefits - NAI500",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeV9PQUtocDhINFhwdHo2REhYZndsQUhLX01iUW11RjdxeWctNl9JM3hPS3c3VnMwMzN5Q3BJOXpPa2JWTUc5TFFiWjVENEg2ZGFTU0tJZmlRRmc5ZGJ2WENQNThoSGdjTmQxeXo4LUdmdWVSOXVRSFYxSGxPNFVrRUxSMG5BQlgtM1BwTDhLZFB0WFhSOFA4UDZxT25GMDhQa2lHckVzOHhYQ0NmczdPVjd6SQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "waste_connections-2026-09-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Analysts’ Top Industrial Goods Picks: Comfort Systems (FIX), Waste Connections (WCN) - The Globe and Mail",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOTh0YmNZaFZYeW4xNjh1UVo3cjNWRHh6VDRpOU5zcWZoN09MRVhTSXRvWFhyVFQ3RlQxMXR5M3JsM0N5NHA2SFM3QUQ4bkJzMklYbVg4R3dJTVBfMUF5LVkxM2tMYTc0YVpDQnNmUlRobzRaRWdST3lRVmlhMnBaQ1pfNWdlYlRFUXdfUlQ0bzFuQ2lEQm5fbGlyNk5melFWdjBSc0NBbnVzMGRfOEZhb3JBN3cyTXBpVmdrbi0wT29tMll6QWJSRTF1clN3OWlIcWYyMTdvQ2ZIYWhQSHZVV09rdGo3cTF1MHVhZzU4WHkzLWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "waste_connections-2026-09-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Connections stock trades steady as earnings momentum and valuation draw investor attention - AD HOC NEWS",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcVZibWd3dXZtTzhrcy1uZi0yUmZScjl6RXRpaXhxbGpYYUVWUFo5bWlYV0t3RU92VjVPemt0dnJrdmMyT3pfOVg4QzdVc0VodEtVWHJCRHdzOGMta0YwcVAxVldGT3BCZWFTNFNDX1R4Zks5UkZCTXRHQWY2UEMxNnpiZjhoaFFzdUV3cVFwcmVQZG5XNXFITi04TUo0TmNyYVAxNW5hakNtWHdHcWVZWm1OUlFJc2YzSU9YMXlOU3lvRnVfZWNWUlozNA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "veolia-2026-09-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saudi Arabia: Veolia Signs Three Strategic Agreements To Accelerate the Kingdom's Environmental Security - Business Wire",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVXhDTzUyX0Z0dENzdmx3YTlSWk84TlRCd0VtVnJjRVhUMDBkTUgzZ2hQNG5zZVNKdkZ3bUJGUWEwSV9FTW10QUJFYXFWa2ZPZWQ4ZE1tSk1RblNtaVFRWUR5NTdpcjdIalEwTDRZdFhUMHZJTi1UUEVFRVNHdVNhTUNwcmVvWDc5Nk9SNkctbkRVZU10dVB3WkVqdm5mSWd5eFY4dXU5MENQaFg1c2p3LUV6NmxxUjZIaFZLMWN4RThyWnF1c2hibXhEeGtsMVc0dlhkYzRJcldhTzZDaHNJeDc4Y1pJcV94Y0E3LS14UDM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 2
+      },
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 136,
+    "too_old": 109,
+    "gate1_blocked": 3,
+    "gate2_blocked": 4,
+    "passed": 16,
+    "pass_rate": "12.1%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "Citadel Advisors no longer a public short seller in Tomra Systems - marketscreener.com",
+      "Glencore takes $480 mln provision on Radiant World exposure - Bloomberg - Investing.com",
+      "California legislators pass key bills affecting haulers and recyclers",
+      "State regulators grapple with food depackaging rules"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為WCN、嘉能可、威立雅相關動態：「The Hundred-Billion Merger Nears Completion, Glencore Poi...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "The Hundred-Billion Merger Nears Completion, Glencore Poised to Reap the Bene...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Analysts’ Top Industrial Goods Picks: Comfort Systems (FIX), Waste Connection...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
