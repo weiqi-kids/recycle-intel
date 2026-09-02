@@ -1,0 +1,193 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T12:28:56.773590Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-09-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia stock holds gains as Saudi Arabia deals underpin 2026 growth - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaFoxX004OHdzbG1lYngwa1VMbHpROVdzWWstSHlqRXlMdDA1dTJJeDdVa0Y5dEFlQ2ZiT3N6YTRyS1paMHY0bmkycWY0ZnpuMXVnQnA5QlVmdjF3RVVJVzluRk56NlEwVnJFQVFVODg5ZmhOalFGZ1Rqc011MWJ0b3o2WFg5NlZfVk5MN2ZhQ2pOSGpzNmNCWEd0cUxmb3Jpd2YwTWxNdWVqTGc1TkRDSEwyTjFUcWZxZXJidm9KTWxFakswdkpLdU5B?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sims-2026-09-02-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Stephen Mikkelsen, Director of Sims Limited, Acquires 88,449 Shares Through Performance Rights Vesting - Kalkine Media",
+      "companies": [
+        "sims"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRjJPQ0l0UFRxRllFdUM1MHl6dS1LeHFMenZsNXhkU1F4cDN6VEZIY0s1ZmFFQ1lhbVdkdlFfQmp1b1hSOF93Mk05V2lRWk5RVEgtb3IzZzBmeTRzX2dTWExFcGl3bzFHWFFoR0tOQk45cEZwQ1VCVXJRY0hLdHpTU2tCR3h1WnU1VzR1S3dQWWlsVDdYbE0weHcyaF9VVWlCWmczTmpOQzZ0WDdCZGV1SEJBRjFSOFNXNHJobXZ3ekRvcHBnejBDcFB2bG5fSjZtaVBjMFZTUUFrU2FtQnBz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "abtc-2026-09-02-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Battery Technology: Its Best Quarter Ever Comes With The Export Door Closed - Seeking Alpha",
+      "companies": [
+        "abtc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVk53bEpGeU1CN09XU1hsYy1uZWxmdmdZWFRTVU1EekwtUHI4ak5lRE4yVUE0MGJIbzc2cGxGZDQ1ZXQ3cnBaT3AzWklYTEREVVFrMG0tM1dZOUVBM2s3STRKRzBWV0dZa0xWR0hwOUZOSDZpRkhrX0ZJa1c2UXoxNzIyQVpiaGtDTlhfVUJ5OXFmUkNzckxxcUtWclRJS1pmanlxM3BBb0lCS1dMZWRPWA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-09-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teck-Anglo merger advances as Glencore plays hardball - Mining.com.au",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQUplWlZOQjBMX0U0WnVNUWNEZWNEc3BGc1FKeXlPNkdSZVpTQWpvWGpxNjNiWHduTlhmYWZvU3I5bFBEa01pY2hDX0FWaUhMdmI2ajl6b2ZGQ0tuYnYwWml4X01uXzc1czlzNWF0dHV1RFhoOGZPeWdoVUFidnZUSDd3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "sims",
+        "count": 1
+      },
+      {
+        "id": "abtc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 265,
+    "dup_title": 135,
+    "too_old": 109,
+    "gate1_blocked": 4,
+    "gate2_blocked": 3,
+    "passed": 14,
+    "pass_rate": "10.8%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "Glencore takes $480 mln provision on Radiant World exposure - Bloomberg - Investing.com",
+      "California legislators pass key bills affecting haulers and recyclers",
+      "State regulators grapple with food depackaging rules"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為嘉能可、威立雅、西姆斯相關動態：「Veolia stock holds gains as Saudi Arabia deals underpin 2...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Veolia stock holds gains as Saudi Arabia deals underpin 2026 growth - AD HOC ...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Stephen Mikkelsen, Director of Sims Limited, Acquires 88,449 Shares Through P...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

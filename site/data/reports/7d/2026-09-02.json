@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-02",
+  "date_range": {
+    "start": "2026-08-27",
+    "end": "2026-09-02"
+  },
+  "generated_at": "2026-09-02T12:28:56.922580Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tomra-2026-08-27-002",
+      "date": "2026-08-27",
+      "title": "Tomra stock holds steady as recycling growth underpins valuation - Ad-hoc-news.de",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 24,
+      "last_week": 6,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.06
+    },
+    "industry_general": {
+      "this_week": 29,
+      "last_week": 8,
+      "week_over_week_change": "+262%",
+      "sentiment_this_week": 0.05
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "carbon_credit": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "boliden": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "tomra": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 3
+    },
+    "glencore": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "veolia": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "waste_connections": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "aurubis": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "sims": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "abtc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 76,
+        "last": 89,
+        "change_pct": -14.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-27",
+      "event_count": 15,
+      "sentiment_avg": 0.2
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 10,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 8,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 20,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-09-01",
+      "event_count": 10,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-09-02",
+      "event_count": 4,
+      "sentiment_avg": 0.12
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-27 ~ 2026-09-02）共 76 則事件，重點為「Tomra stock holds steady as recycling growth un...」。產業通用、財報、展望為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "陶朗",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "嘉能可",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "威立雅",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

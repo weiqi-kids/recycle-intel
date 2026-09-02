@@ -1,5 +1,88 @@
 [
   {
+    "id": "glencore-2026-09-02-001",
+    "date": "2026-09-02",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Teck-Anglo merger advances as Glencore plays hardball - Mining.com.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNQUplWlZOQjBMX0U0WnVNUWNEZWNEc3BGc1FKeXlPNkdSZVpTQWpvWGpxNjNiWHduTlhmYWZvU3I5bFBEa01pY2hDX0FWaUhMdmI2ajl6b2ZGQ0tuYnYwWml4X01uXzc1czlzNWF0dH",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQUplWlZOQjBMX0U0WnVNUWNEZWNEc3BGc1FKeXlPNkdSZVpTQWpvWGpxNjNiWHduTlhmYWZvU3I5bFBEa01pY2hDX0FWaUhMdmI2ajl6b2ZGQ0tuYnYwWml4X01uXzc1czlzNWF0dHV1RFhoOGZPeWdoVUFidnZUSDd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-09-02-002",
+    "date": "2026-09-02",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Veolia stock holds gains as Saudi Arabia deals underpin 2026 growth - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQaFoxX004OHdzbG1lYngwa1VMbHpROVdzWWstSHlqRXlMdDA1dTJJeDdVa0Y5dEFlQ2ZiT3N6YTRyS1paMHY0bmkycWY0ZnpuMXVnQnA5QlVmdjF3RVVJVzluRk56NlEwVnJFQVFVOD",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaFoxX004OHdzbG1lYngwa1VMbHpROVdzWWstSHlqRXlMdDA1dTJJeDdVa0Y5dEFlQ2ZiT3N6YTRyS1paMHY0bmkycWY0ZnpuMXVnQnA5QlVmdjF3RVVJVzluRk56NlEwVnJFQVFVODg5ZmhOalFGZ1Rqc011MWJ0b3o2WFg5NlZfVk5MN2ZhQ2pOSGpzNmNCWEd0cUxmb3Jpd2YwTWxNdWVqTGc1TkRDSEwyTjFUcWZxZXJidm9KTWxFakswdkpLdU5B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-09-02-003",
+    "date": "2026-09-02",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stephen Mikkelsen, Director of Sims Limited, Acquires 88,449 Shares Through Performance Rights Vesting - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRjJPQ0l0UFRxRllFdUM1MHl6dS1LeHFMenZsNXhkU1F4cDN6VEZIY0s1ZmFFQ1lhbVdkdlFfQmp1b1hSOF93Mk05V2lRWk5RVEgtb3IzZzBmeTRzX2dTWExFcGl3bzFHWFFoR0tOQk",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRjJPQ0l0UFRxRllFdUM1MHl6dS1LeHFMenZsNXhkU1F4cDN6VEZIY0s1ZmFFQ1lhbVdkdlFfQmp1b1hSOF93Mk05V2lRWk5RVEgtb3IzZzBmeTRzX2dTWExFcGl3bzFHWFFoR0tOQk45cEZwQ1VCVXJRY0hLdHpTU2tCR3h1WnU1VzR1S3dQWWlsVDdYbE0weHcyaF9VVWlCWmczTmpOQzZ0WDdCZGV1SEJBRjFSOFNXNHJobXZ3ekRvcHBnejBDcFB2bG5fSjZtaVBjMFZTUUFrU2FtQnBz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-09-02-004",
+    "date": "2026-09-02",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology: Its Best Quarter Ever Comes With The Export Door Closed - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVk53bEpGeU1CN09XU1hsYy1uZWxmdmdZWFRTVU1EekwtUHI4ak5lRE4yVUE0MGJIbzc2cGxGZDQ1ZXQ3cnBaT3AzWklYTEREVVFrMG0tM1dZOUVBM2s3STRKRzBWV0dZa0xWR0hwOU",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVk53bEpGeU1CN09XU1hsYy1uZWxmdmdZWFRTVU1EekwtUHI4ak5lRE4yVUE0MGJIbzc2cGxGZDQ1ZXQ3cnBaT3AzWklYTEREVVFrMG0tM1dZOUVBM2s3STRKRzBWV0dZa0xWR0hwOUZOSDZpRkhrX0ZJa1c2UXoxNzIyQVpiaGtDTlhfVUJ5OXFmUkNzckxxcUtWclRJS1pmanlxM3BBb0lCS1dMZWRPWA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-09-01-001",
     "date": "2026-09-01",
     "companies": [
@@ -79,6 +162,126 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVXhDTzUyX0Z0dENzdmx3YTlSWk84TlRCd0VtVnJjRVhUMDBkTUgzZ2hQNG5zZVNKdkZ3bUJGUWEwSV9FTW10QUJFYXFWa2ZPZWQ4ZE1tSk1RblNtaVFRWUR5NTdpcjdIalEwTDRZdFhUMHZJTi1UUEVFRVNHdVNhTUNwcmVvWDc5Nk9SNkctbkRVZU10dVB3WkVqdm5mSWd5eFY4dXU5MENQaFg1c2p3LUV6NmxxUjZIaFZLMWN4RThyWnF1c2hibXhEeGtsMVc0dlhkYzRJcldhTzZDaHNJeDc4Y1pJcV94Y0E3LS14UDM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-09-01-005",
+    "date": "2026-09-01",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore holds whip hand in Anglo-Teck copper JV - Miningmx",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRWdfUC1XbHFpOW9LSk1sUkxLVE1DRjV6bndSTE9vZGdjaXBfMGRlYm0wWFlOYkZGR3hBelB6QUpLTk1Eb1RXM3RUaUd2Z2ZDdjdWVVVoUzdwN3Q1d01aZDlMd0wwMndadEwwWUlLcH",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRWdfUC1XbHFpOW9LSk1sUkxLVE1DRjV6bndSTE9vZGdjaXBfMGRlYm0wWFlOYkZGR3hBelB6QUpLTk1Eb1RXM3RUaUd2Z2ZDdjdWVVVoUzdwN3Q1d01aZDlMd0wwMndadEwwWUlLcHV1X0pVM1MtRzJmX1FUdmJNQ2JKbUZWSEZ1dXRwVi1fRl9CQlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-09-01-006",
+    "date": "2026-09-01",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analysts’ Top Industrial Goods Picks: Comfort Systems (FIX), Waste Connections (WCN) - theglobeandmail.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVzI0UnFBSGN2ZGRSR1p2N1hUS0hFTzkyMlNqX1dmb3E1RGR5eGZMWmRnOF9lWVg1cnV3Z0doNEVPblJYclktaWQ0cjAxYXZQbm5kZkpTTVE3d2xaWjJ5cFJBcE9ZWlpiVGF3NWlyS2",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVzI0UnFBSGN2ZGRSR1p2N1hUS0hFTzkyMlNqX1dmb3E1RGR5eGZMWmRnOF9lWVg1cnV3Z0doNEVPblJYclktaWQ0cjAxYXZQbm5kZkpTTVE3d2xaWjJ5cFJBcE9ZWlpiVGF3NWlyS2dzUGRNLVBKU2dIVVFUd3B6RkxTUzAwUndNbzBOcFRRdmN0S1B0aHJaZkZLOVk5Qk95WXN4cllENW5HZXdtZ0JfdW56dW1LWjFyVlZ5aVluRHE5UWZQaE1JT2VmX3hsWHB5OTFPS0ZfUmUtcUJLdmdpNk5LcENqQWhfRTFqSTZ4VjJUOThS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-09-01-007",
+    "date": "2026-09-01",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims Limited Director Stephen Mikkelsen Acquires 88,449 Shares via Performance Rights Vesting - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0djNmZyV1kwZm14aGpBdk5Xam4yRXRjenM5ZE5ESFpzcFYzTm55Y0x3UEZJNkFOVHFTTGtfNU5oMVEyeHh1Xzl4dHU2UzNLMTh3dXh2bHJTdmNvUG9kMERDZHRwYy1IbzJCTV9rbH",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0djNmZyV1kwZm14aGpBdk5Xam4yRXRjenM5ZE5ESFpzcFYzTm55Y0x3UEZJNkFOVHFTTGtfNU5oMVEyeHh1Xzl4dHU2UzNLMTh3dXh2bHJTdmNvUG9kMERDZHRwYy1IbzJCTV9rbHktc29scWRUSmZKRzBCbWVWSVZ6OXRHZW85aXYxMWhUTzB5Q1BaNWtzNUJLQWt1alhvSkY1bkpKcGlpVTEwbW1UNmVQNTdEMDVuQk4wbFJoTXlsRml5NEExUFMxWjlKMGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-008",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GFL Environmental closes acquisition of Secure Waste Infrastructure",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/LGWjcBf4ahCYE9DHL52WeAg2g19F3EqztIByexfCrjQ/g:nowe:0:499/c:4032:2277/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDEyNy5qcGc=",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/gfl-environmental-secure-waste-infrastructure-acquisition-close/829272/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-009",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "circular_economy_policy",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Mexico Expands Waste-to-Fuel, Circular Economy Projects - Mexico Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQYzVRcENGVXctNWtUdGpORVdSZzFxVFZ6bDlBUE5LOFZEMkU5ckVKN250SFJINW9WVEgwQ19LVlYtbjVBZGNNd0E5eDlOcWZ5QWFuc2pGQkRQeTR1QklpdnoxcGhBMWlBcU1vYnFrej",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYzVRcENGVXctNWtUdGpORVdSZzFxVFZ6bDlBUE5LOFZEMkU5ckVKN250SFJINW9WVEgwQ19LVlYtbjVBZGNNd0E5eDlOcWZ5QWFuc2pGQkRQeTR1QklpdnoxcGhBMWlBcU1vYnFrejVWOE1keEZXaVk4VllwLUt0c05hZjNNbTh0Y3BfMHZVZGpxUzdLLVpuV1F2RE1Tc3d2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-010",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Altilium secures UK patent for EV battery recycling - electrive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNaE1fQTJuT1l6TnAzZFcxZGRBa2tDLXFGX19BSjVaUE0tSXJOdkt6YjQyd0ZKSzEya3Bzd0QzUTlpNkQ2aGJNSnA3QkdDdTNvQXNqeEFHMWwyaDNiNkhjc3BiU2U1ZW9OVGR1a2didW",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaE1fQTJuT1l6TnAzZFcxZGRBa2tDLXFGX19BSjVaUE0tSXJOdkt6YjQyd0ZKSzEya3Bzd0QzUTlpNkQ2aGJNSnA3QkdDdTNvQXNqeEFHMWwyaDNiNkhjc3BiU2U1ZW9OVGR1a2didWhCRElrZmJXTmFjeHp1VHNVMVNQR3doZlFsRngtOHE5T2hTWTA?oc=5",
         "type": "rss"
       }
     ]
@@ -443,6 +646,46 @@
       {
         "name": "google_news_recycling",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFdXblMtREFRY2phZDlUbV9PQXhSTDhjV01RS0xmcEc5d2JDYzVjc1JBanVZZkpPdTBGQUFxR25ZdlBvWTZkaWJsckpNR1JOejl5WkFYQnE1UDJxTU95ZGVGaTNJeDg5UDVYWV9BcEUwWlZPVjNUT0tXM2NxZWdmbXhSQ1gxbFpRb0psT3pSWGVhWXBaOGNnbFVNdUw4Y2hu?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-31-019",
+    "date": "2026-08-31",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Anglo American and Teck Merger: Glencore Negotiations Key to Copper Synergies - News and Statistics - indexbox.io",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPS1ZjbW5qSEtobF9xLTU2ZUtyY0p1OUNlbHlvcDZkS3pJZ0RBY3l2VzdUMUFGWHJLQ3N3V0k1RkYxdEFrX251VzBOd3dEV3JBTTN3T2l2VzlLSkE3QUQ4SkxXbmNjRGd0ajJkRXlqUj",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS1ZjbW5qSEtobF9xLTU2ZUtyY0p1OUNlbHlvcDZkS3pJZ0RBY3l2VzdUMUFGWHJLQ3N3V0k1RkYxdEFrX251VzBOd3dEV3JBTTN3T2l2VzlLSkE3QUQ4SkxXbmNjRGd0ajJkRXlqUjhGMENyY01aMHQ4NlktTzZyaQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-020",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "circular_economy_policy",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Paper, cardboard recycling rates were flat in 2025: AF&PA",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/4ECRrDItJ8DNU8mYs4xDLIcQHhgP6bi_JBCoh2sfOGM/g:nowe:0:0/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMT",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/afpa-paper-cardboard-recycling-rate-flat-2025/829204/",
         "type": "rss"
       }
     ]
@@ -1219,6 +1462,45 @@
       {
         "name": "abtc",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORTVwRW9LSXY3TnV5UUlTSU9kQ2ZWOEhuT3JFMnpNNGhCSUtyYWRudEFYNVV6MXIwS3d2R0l6ZVpQQi1yRlVvMllLUld5SDRYeU51WDB6Q0xXUHVwVFh4T1QzUktlMTk5Y19ZaFpfalJtMGdITHo4WWVyLWVNeHNXWjZ5V28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-08-27-014",
+    "date": "2026-08-27",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Raises €1.15 Billion in Oversubscribed Dual-Tranche Bond - theglobeandmail.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdFBWSHd6QzVXWEFlNmVzbXRTbWJIeWQwTXRib3pPUWg5VzZJYzdMcHVmTU9aaXM0eTJBaEE0VjB2TFpsaTFjdlBUZXV2QmZEbngyWEhVUkpaN3ctX1JjUFE1OWxpdWttUzJCQ1ppdE",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdFBWSHd6QzVXWEFlNmVzbXRTbWJIeWQwTXRib3pPUWg5VzZJYzdMcHVmTU9aaXM0eTJBaEE0VjB2TFpsaTFjdlBUZXV2QmZEbngyWEhVUkpaN3ctX1JjUFE1OWxpdWttUzJCQ1ppdEQxN2laQWY5ZVVBSG1pbUl6X2J3MnNfX1JZcTRENXN0TUlWUnB6UWhJand5eDZxX0U1MEpOcFMzX084UC1UWFNJemlzdmRLOUJSekNxbjVlWFVlVVo5VkpmVTFzbWhmemExNy1yLUd3SGJieTdaSWRWcA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-015",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Spain Tire Recycling Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPRENST0hXdUtDWEJKY0QyUTdFZy12V1BHUGt3cm1sTENOOThuUnZEXzh4UzQ2WFdZZlZrVjVRUGZHZmt3cHViUVB1RDJ5MFlPX1Z1ckZJLVZVT0NZcENsb3hmMkJUbm02WUlKSW5lUF",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRENST0hXdUtDWEJKY0QyUTdFZy12V1BHUGt3cm1sTENOOThuUnZEXzh4UzQ2WFdZZlZrVjVRUGZHZmt3cHViUVB1RDJ5MFlPX1Z1ckZJLVZVT0NZcENsb3hmMkJUbm02WUlKSW5lUFlWSXpPNkJQTXZod09NTHlzcEl1VzZQWHJ3ZHdOM25zOA?oc=5",
         "type": "rss"
       }
     ]
