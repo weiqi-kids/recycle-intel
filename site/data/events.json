@@ -83,6 +83,64 @@
     ]
   },
   {
+    "id": "abtc-2026-09-02-005",
+    "date": "2026-09-02",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology: Its Best Quarter Ever Comes With The Export Door Closed - seekingalpha.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVk53bEpGeU1CN09XU1hsYy1uZWxmdmdZWFRTVU1EekwtUHI4ak5lRE4yVUE0MGJIbzc2cGxGZDQ1ZXQ3cnBaT3AzWklYTEREVVFrMG0tM1dZOUVBM2s3STRKRzBWV0dZa0xWR0hwOU",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVk53bEpGeU1CN09XU1hsYy1uZWxmdmdZWFRTVU1EekwtUHI4ak5lRE4yVUE0MGJIbzc2cGxGZDQ1ZXQ3cnBaT3AzWklYTEREVVFrMG0tM1dZOUVBM2s3STRKRzBWV0dZa0xWR0hwOUZOSDZpRkhrX0ZJa1c2UXoxNzIyQVpiaGtDTlhfVUJ5OXFmUkNzckxxcUtWclRJS1pmanlxM3BBb0lCS1dMZWRPWA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-006",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EPA draft guidance on PFAS in biosolids draws mixed reviews",
+    "summary": "<p>The agency&rsquo;s draft guidance is careful not to endorse any action taken on contamination to date. In a recent listening session, some industry voices supported the more limited approach, but e",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/epa-draft-guidance-pfas-in-biosolids-reactions-listening-session/829431/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-007",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "DC expands food waste collection for multifamily housing",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/siTAIR8WS5q_d9eUQoWLAm0zaTg9Jki9TCFvd7pW3wY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNDg1Ni5qcGc=.webp\"/></div></figu",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/dc-expands-food-waste-collection-smart-bin-multifamily-zero-waste/829396/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-09-01-001",
     "date": "2026-09-01",
     "companies": [
@@ -691,6 +749,27 @@
     ]
   },
   {
+    "id": "abtc-2026-08-31-021",
+    "date": "2026-08-31",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology Company Hosts DOE Leadership to Showcase Commercial Technologies Strengthening U.S. Critical Minerals Supply Chains - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxNdllNZVdSZHZoSjlYMFJzc0dzaDZLUHl2V1R3S1hEWngyanhTcE95bzRHaVNieVJab2FoOTJzeHpNUHRDb2d0bVRWbVpKRXpERFc3STllRDgwU0o3bXI3c0RkcWF1emFfYjgwYml5am",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdllNZVdSZHZoSjlYMFJzc0dzaDZLUHl2V1R3S1hEWngyanhTcE95bzRHaVNieVJab2FoOTJzeHpNUHRDb2d0bVRWbVpKRXpERFc3STllRDgwU0o3bXI3c0RkcWF1emFfYjgwYml5am9KYTlxSjY2d1o2Q2VfZ1lrdTZCU2hZMDBaX0ZCR0FXWFV1UzVkM09EYm9Ua0F6eDdYNVhzcDNCaVhURVNDWXBtQVRsdlBIel9QcHlmRnpzNnJoT2Q5dFJwYWl1VEQtazFOeDBCZzRBTG1xbFpDbmRrd2h4VlJaaERfbmYxcGVrYmdSa2p1bExndWVnV0xMdWVYYmZfQUlSakg2dnFLZnVmXzR0RGU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-08-30-001",
     "date": "2026-08-30",
     "companies": [
@@ -839,6 +918,42 @@
       {
         "name": "glencore",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcDhzbEthVzJfYW9nT1d0NWRqTU5QRnlMenQtVGxTRjdLTnFxM1lKZ2gtSm1PWllJcVUySnRqQkJBWk54UWVSejVTTlRSU2lsdFBFeGNIRzNRb3Z2VlJab000LWp2MHhtWFlJRE16WkVTT1hHYzNPUlhQRXJqSUM0MUpTYlJVRHdhYndXUkdRUjJ1dXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-30-009",
+    "date": "2026-08-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Italy Metal Recycling Market Size, Share,Trends, Growth Analysis Report, 2029 - marketsandmarkets.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1NxSTB0c3U1TVZoX1FLdFVLUlFyWUwxR01aYWY5bXBBVElqYkRSSkV5aG85ZThDeFFYcW9qazJ4dG4wSHBqVXNKb2VORmZENUpMRFRVWVlYMnNBVk9zWXRoZmEwajh4QmZxRnJRZ1",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1NxSTB0c3U1TVZoX1FLdFVLUlFyWUwxR01aYWY5bXBBVElqYkRSSkV5aG85ZThDeFFYcW9qazJ4dG4wSHBqVXNKb2VORmZENUpMRFRVWVlYMnNBVk9zWXRoZmEwajh4QmZxRnJRZ19LSThUX2pnTm1XX0ZFQ0pYSkxkaDZ6aFJWVEdNVUtWLTE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-30-010",
+    "date": "2026-08-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Canada Tire Recycling Market Size, Share,Trends, Growth Analysis Report, 2029 - marketsandmarkets.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxORkZBYmFxQVNGdEE2WjFMUmo3SS1Gcml0M1AtWGZGZEdrbXllTElPZDdZTllLM2lkalFkQnZ4cGNDRnJOa1ZjbllybVRVbGJhM3IteGxOUi1INHZOUThfNF9WSWdzMGlYcEZGVGttMn",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORkZBYmFxQVNGdEE2WjFMUmo3SS1Gcml0M1AtWGZGZEdrbXllTElPZDdZTllLM2lkalFkQnZ4cGNDRnJOa1ZjbllybVRVbGJhM3IteGxOUi1INHZOUThfNF9WSWdzMGlYcEZGVGttMnNBWS1QN1NaV3BFZTBteEpuSzl6LTJuWXotWmxYZ2dCLVM?oc=5",
         "type": "rss"
       }
     ]
@@ -1496,6 +1611,44 @@
     ],
     "impact": "positive",
     "title": "Spain Tire Recycling Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPRENST0hXdUtDWEJKY0QyUTdFZy12V1BHUGt3cm1sTENOOThuUnZEXzh4UzQ2WFdZZlZrVjVRUGZHZmt3cHViUVB1RDJ5MFlPX1Z1ckZJLVZVT0NZcENsb3hmMkJUbm02WUlKSW5lUF",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRENST0hXdUtDWEJKY0QyUTdFZy12V1BHUGt3cm1sTENOOThuUnZEXzh4UzQ2WFdZZlZrVjVRUGZHZmt3cHViUVB1RDJ5MFlPX1Z1ckZJLVZVT0NZcENsb3hmMkJUbm02WUlKSW5lUFlWSXpPNkJQTXZod09NTHlzcEl1VzZQWHJ3ZHdOM25zOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-016",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Italy Tire Recycling Market Size, Share,Trends, Growth Analysis Report, 2029 - marketsandmarkets.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNN3hxcGw2OGNRUzVFdnVOM21iNFBXd1NnWmxxbUIySEFHYk5nZjUxMlkwT0hDZVg4T2V6TTJUUEhDME1fTC1LQ2xKbWFoYTFCYnM1TnZWR0ZFVnFtZ3FVdk15WkhncFk3dGJNdWhGcG",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN3hxcGw2OGNRUzVFdnVOM21iNFBXd1NnWmxxbUIySEFHYk5nZjUxMlkwT0hDZVg4T2V6TTJUUEhDME1fTC1LQ2xKbWFoYTFCYnM1TnZWR0ZFVnFtZ3FVdk15WkhncFk3dGJNdWhGcGVzbDZ2RG1DRGtqci03dmlLOEFtdFdVbmhkOVgzSFd5MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-017",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Spain Tire Recycling Market Size, Share,Trends, Growth Analysis Report, 2029 - marketsandmarkets.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPRENST0hXdUtDWEJKY0QyUTdFZy12V1BHUGt3cm1sTENOOThuUnZEXzh4UzQ2WFdZZlZrVjVRUGZHZmt3cHViUVB1RDJ5MFlPX1Z1ckZJLVZVT0NZcENsb3hmMkJUbm02WUlKSW5lUF",
     "sources": [
       {

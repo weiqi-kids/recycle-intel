@@ -1,0 +1,13 @@
+{
+  "total_raw": 110,
+  "dup_title": 40,
+  "no_date": 0,
+  "too_old": 58,
+  "gate1_fail": 2,
+  "gate2_fail": 2,
+  "passed": 8,
+  "gate2_samples": [
+    "California legislators pass key bills affecting haulers and recyclers",
+    "State regulators grapple with food depackaging rules"
+  ]
+}
