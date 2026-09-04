@@ -1,0 +1,14 @@
+{
+  "total_raw": 263,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 104,
+  "gate1_fail": 5,
+  "gate2_fail": 3,
+  "passed": 23,
+  "gate2_samples": [
+    "Glencore takes $480 mln provision on Radiant World exposure - Bloomberg - Investing.com",
+    "California legislators pass key bills affecting haulers and recyclers",
+    "State regulators grapple with food depackaging rules"
+  ]
+}
