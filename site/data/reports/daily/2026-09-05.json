@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T11:33:42.186994Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-09-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore reaches new milestone at all-electric Sudbury copper mine - Electrek",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdk9qblRiV0F4ZnJwYjlValJhcjJXM0IwMmpqQ2JyLTRMYVBkSnRYX1NwZWRnekhmcDh4X0JMTEx6Wjhzd2dqdmV3UjdKRXgtYVRLdVA0bWdFWktlVHNNU3AzNy00ZUZLTmRJVE5CM3BvTHp4TXBfV0hpeFJoYVhUeXphbThvTjNNZW85R29PRE9QWkJJM3JWeWplckUxMTc2RFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-09-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore was Radiant World’s ‘senior partner,’ executive says - The Straits Times",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVzU4UFdZOFAtUWkyNFhkakxreUZBdTdVNUVmU1FhVWZfUk5PZkNTUWZ6dVBBQ2VMa2d4NzdwcjBjaHJFRTNqQnJCVmhVeG11eS0zQVozUm54WWREZ2RWY2k3VW9uUlhSNVZ3M2ZuYjM2OHcwVDFWQWItQ2Q4YTN3bWI5dXpXVjBRY29HTW9LMHhDWnp4X3I2aXZYcTE2SkFvbWJ3em9kS3QzN1phYXFQVFhxbw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-09-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Core sells final lithium fines to Glencore - Mining.com.au",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nOFBaUERhOUo2cnRncFZDS2dNNS1XTEtKN1dmeFFQbF9DMHo3M0NFQmxqeFlEZVJnX2V6YnVsTzN0Qm00UlY5UnpqbW40aDlkVTVkbWNXOVVuc2RFSlAxU3MtakJyRmI0Wjh6NkI5QlFtYm8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 266,
+    "dup_title": 150,
+    "too_old": 92,
+    "gate1_blocked": 4,
+    "gate2_blocked": 0,
+    "passed": 20,
+    "pass_rate": "17.2%",
+    "gate2_block_rate": "0.0%",
+    "gate2_samples": [],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為嘉能可相關動態：「Glencore reaches new milestone at all-electric Sudbury co...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore reaches new milestone at all-electric Sudbury copper mine - Electrek（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Glencore was Radiant World’s ‘senior partner,’ executive says - The Straits T...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-05",
+  "date_range": {
+    "start": "2026-08-30",
+    "end": "2026-09-05"
+  },
+  "generated_at": "2026-09-05T11:33:42.327476Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "veolia-2026-08-30-002",
+      "date": "2026-08-30",
+      "title": "Is Veolia Environnement (ENXTPA:VIE) Cheap As Bond Demand Signals Confidence? - simplywall.st",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 21,
+      "last_week": 10,
+      "week_over_week_change": "+110%",
+      "sentiment_this_week": 0.02
+    },
+    "industry_general": {
+      "this_week": 24,
+      "last_week": 12,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.02
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "glencore": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "veolia": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 3
+    },
+    "tomra": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "waste_connections": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "aurubis": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "sims": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "abtc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 90,
+        "last": 77,
+        "change_pct": 16.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-30",
+      "event_count": 11,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 23,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-09-01",
+      "event_count": 11,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-09-02",
+      "event_count": 14,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-09-03",
+      "event_count": 12,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-09-04",
+      "event_count": 16,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-05",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-30 ~ 2026-09-05）共 90 則事件，重點為「Is Veolia Environnement (ENXTPA:VIE) Cheap As B...」。產業通用、財報、展望為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "嘉能可",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "威立雅",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "WCN",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
