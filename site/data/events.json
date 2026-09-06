@@ -1,5 +1,26 @@
 [
   {
+    "id": "veolia-2026-09-06-001",
+    "date": "2026-09-06",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia stock holds steady as investors weigh latest environmental services strategy - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ1ZoR2Z6eUQzUURIUVlDbmpPUThGSEotcDRUeWhsXzMzMERRSzZTRDU0RWxZVFhDTlZxZFUxZGY0X1pxNXBnbk5CNDBKU21SZ3pnaldfQ0M5ZzcwOEloUUlqcUpYcFg0Um1fV1A0UV",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ1ZoR2Z6eUQzUURIUVlDbmpPUThGSEotcDRUeWhsXzMzMERRSzZTRDU0RWxZVFhDTlZxZFUxZGY0X1pxNXBnbk5CNDBKU21SZ3pnaldfQ0M5ZzcwOEloUUlqcUpYcFg0Um1fV1A0UVdHZlE0MFhtTE94XzRneF9FdnQ5RTR5Q29CM2xqNExIdE9kd3dfSlBRd2F3U2tfaUZVaG9FNWFxbnhndkhENF85ZzB3QktueF9HZHhrQ0FseXBCX2daRmNKY2lFNUgxTnRDS3Fz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-09-05-001",
     "date": "2026-09-05",
     "companies": [
@@ -56,6 +77,46 @@
       {
         "name": "glencore",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nOFBaUERhOUo2cnRncFZDS2dNNS1XTEtKN1dmeFFQbF9DMHo3M0NFQmxqeFlEZVJnX2V6YnVsTzN0Qm00UlY5UnpqbW40aDlkVTVkbWNXOVVuc2RFSlAxU3MtakJyRmI0Wjh6NkI5QlFtYm8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-09-05-004",
+    "date": "2026-09-05",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Glencore was Radiant World’s ‘senior partner’, executive says - The Straits Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPVzU4UFdZOFAtUWkyNFhkakxreUZBdTdVNUVmU1FhVWZfUk5PZkNTUWZ6dVBBQ2VMa2d4NzdwcjBjaHJFRTNqQnJCVmhVeG11eS0zQVozUm54WWREZ2RWY2k3VW9uUlhSNVZ3M2ZuYj",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVzU4UFdZOFAtUWkyNFhkakxreUZBdTdVNUVmU1FhVWZfUk5PZkNTUWZ6dVBBQ2VMa2d4NzdwcjBjaHJFRTNqQnJCVmhVeG11eS0zQVozUm54WWREZ2RWY2k3VW9uUlhSNVZ3M2ZuYjM2OHcwVDFWQWItQ2Q4YTN3bWI5dXpXVjBRY29HTW9LMHhDWnp4X3I2aXZYcTE2SkFvbWJ3em9kS3QzN1phYXFQVFhxbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-09-05-005",
+    "date": "2026-09-05",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How New Saudi Water and Waste Partnerships At Veolia Environnement (ENXTPA:VIE) Has Changed Its Investment Story - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTnNHckNnTG40eHpHZ09ZMi1ldUFETUhIcGd5QVY3c0JaSW5SUFQwY09NeEsyUFRoWnJrQXNEUHhMQ0RMei1KMHJNOTJ0aUpsWVo1WXN4NWVzeFFpa1pJWlVTRTQxUTBDdGlrMzJ1bm",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTnNHckNnTG40eHpHZ09ZMi1ldUFETUhIcGd5QVY3c0JaSW5SUFQwY09NeEsyUFRoWnJrQXNEUHhMQ0RMei1KMHJNOTJ0aUpsWVo1WXN4NWVzeFFpa1pJWlVTRTQxUTBDdGlrMzJ1bmVjSVZ6STVad09Gd28zMEtLR3UxeTlJR0hjU0RKQVJJOEswNnQxcUVaY1lOQXJuSjBKTFZleHpxT3pWMTZwb202dTZhbDgtLTZXQnEyTmhlREdoM1pGaVJKUlNNNU5FZjNWYlI3dnlJVWF3RXBIRktSb9IB4AFBVV95cUxPTnNHckNnTG40eHpHZ09ZMi1ldUFETUhIcGd5QVY3c0JaSW5SUFQwY09NeEsyUFRoWnJrQXNEUHhMQ0RMei1KMHJNOTJ0aUpsWVo1WXN4NWVzeFFpa1pJWlVTRTQxUTBDdGlrMzJ1bmVjSVZ6STVad09Gd28zMEtLR3UxeTlJR0hjU0RKQVJJOEswNnQxcUVaY1lOQXJuSjBKTFZleHpxT3pWMTZwb202dTZhbDgtLTZXQnEyTmhlREdoM1pGaVJKUlNNNU5FZjNWYlI3dnlJVWF3RXBIRktSbw?oc=5",
         "type": "rss"
       }
     ]
@@ -376,6 +437,26 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/casella-acquires-pennsylvania-hauler-transfer-capacity/829654/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-09-04-017",
+    "date": "2026-09-04",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analysts Offer Insights on Industrial Goods Companies: Waste Connections (WCN), GFL Environmental (GFL) and Lennox International (LII) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxPRnVISzVMNEFORVFpSXF2VDJyY2JjcUtSUGpqOU9ORkc2Qzl2MUZ3ZnR0d2M5c3pySWEzTkk4WjV6SzhhUXJxLUFaUmVaOGNwMU5uai13ZHhvWGRfejRTdFVIVGdiUXQwSXZ0RzRBb2",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPRnVISzVMNEFORVFpSXF2VDJyY2JjcUtSUGpqOU9ORkc2Qzl2MUZ3ZnR0d2M5c3pySWEzTkk4WjV6SzhhUXJxLUFaUmVaOGNwMU5uai13ZHhvWGRfejRTdFVIVGdiUXQwSXZ0RzRBb25OVHFkbVN5ZzQyZHJjdmljN2tNeVVQMDdGSWZyek1iaDRfemUwRDVJZXY4d1hvM3dQbmdPMU80cWc2WmhnMkQzbHhoYTd4RzZiT0dUc1ZMSzEtb1lVOHB2U253T2FCZ1o3VG9ER1UxT2plSlpaRjZrYWttRTNIYWgwdlR5UkNNU25JNFZVNk1rZEdkWFhwN3J4d2NSVTU2NUFHd3ZycFJna0FWRHBJeUhpb1BYRWJOSWVaeEpKMUI0cjljRDhHRXV4?oc=5",
         "type": "rss"
       }
     ]
@@ -898,6 +979,26 @@
     ]
   },
   {
+    "id": "glencore-2026-09-02-015",
+    "date": "2026-09-02",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Abcourt Closes US$10,000,000 Increase to Debenture Financing With Glencore - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQeEpmSndMUzJKMXZqZnJIMENvMkRGcnlZcVdlR29WQThnRVBKRERKay1ubHVnYVVaNFFnT29RU09DSkZnQkNnUVRDUjVaT3dTRUxuS2lzRWxWcHlGYlN0MTdfSGZveV83NFFtQXdBaH",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeEpmSndMUzJKMXZqZnJIMENvMkRGcnlZcVdlR29WQThnRVBKRERKay1ubHVnYVVaNFFnT29RU09DSkZnQkNnUVRDUjVaT3dTRUxuS2lzRWxWcHlGYlN0MTdfSGZveV83NFFtQXdBaHRTY0hwSENrbTRydUFKbDREa1RmRE1WMkFRdE1taHJwVmVVUkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-09-01-001",
     "date": "2026-09-01",
     "companies": [
@@ -1118,6 +1219,27 @@
       {
         "name": "tomra",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbXh1R1hYQmZkdG9SMDNnTUVETzRRXzliZGVXODRjZktOQ1B0QlViMjA0Z3NWQkVXcXFsYV9abzlhTkxuY0xRMjBuZTg5bzctYkRHUTVQMC03Znpzb0dDUmxRQXVoXzVpeDhkZFpKQnV4eWZBUjZvUHdNZzZYUGVWa0xJWDNnNTNsSEhaWDVUNHlpa2dkNmhRTDRKNVhvbG93U1p6Q19kV0lNeF9aekJCeWZpSVBlS3oyRm1HVlJQY2RCbHVRN0NnaFYxWlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aurubis-2026-09-01-012",
+    "date": "2026-09-01",
+    "companies": [
+      "aurubis"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aurubis inaugurates new recycling plant in Hamburg - americanrecycler.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQZmpjNEVjTGNSei1aaTA0NTl0bkxld3lUbExWMnZEUkh0VFRDWHVSRUx0YWU0UmxUdTNSV2R3THktTF9RX0h6ZkoySXVvVlFXYUZrZVJCeUJxQ0psLUpZRWZKNzBlcGFObUVRYThWal",
+    "sources": [
+      {
+        "name": "aurubis",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZmpjNEVjTGNSei1aaTA0NTl0bkxld3lUbExWMnZEUkh0VFRDWHVSRUx0YWU0UmxUdTNSV2R3THktTF9RX0h6ZkoySXVvVlFXYUZrZVJCeUJxQ0psLUpZRWZKNzBlcGFObUVRYThWalhVMXFFXzFjVnVkQ250Zzk4YnM2ONIBiAFBVV95cUxPeGhQWWFFam5IMUtpVGMxOUVuRlNyQzlET0tSV3YzNldZS1ZyVUc3Qjk3eWVESl9kWXBuelhSVmppMGVBeEpJbWhxQURLZldNc041cGlzQ3BuSEU1aThnRHFyU09kQmRNZm00aERuZlpWbjNGekJxaEE2VGFkb0gtN2xKbUFTMVdY?oc=5",
         "type": "rss"
       }
     ]
@@ -1587,6 +1709,27 @@
     ]
   },
   {
+    "id": "abtc-2026-08-31-024",
+    "date": "2026-08-31",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology Company Hosts DOE Leadership to Showcase Commercial Technologies Strengthening U.S. Critical Minerals Supply Chains - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPczdIVUNqZ0FReTlIdndJempTT0ZhckQzQkVjWFRfcW1yb2R1SGdfaWR6dlZDODZZUk9SVmxuQkFkaHdkVlJ1YXFmcTRqUnJsVEwtUmdPVmQ2UzBZNkNXOS0xMEFBRm53dDFkOURxV2",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPczdIVUNqZ0FReTlIdndJempTT0ZhckQzQkVjWFRfcW1yb2R1SGdfaWR6dlZDODZZUk9SVmxuQkFkaHdkVlJ1YXFmcTRqUnJsVEwtUmdPVmQ2UzBZNkNXOS0xMEFBRm53dDFkOURxV2RCNVdkbHRjNDBEdHZtWE9PVHBMWWVXeUQtMndRZXNKRDMyZXFGdHVhSUV1U2tLTlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-08-30-001",
     "date": "2026-08-30",
     "companies": [
@@ -1789,6 +1932,24 @@
       {
         "name": "waste_connections",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UQjltY3dDcU5YUUZOZXZIUjlsS2RqaW1oSlBUNk5ROE56YkRfTUVrdW1LM1lVaGpjbElxbFBqdUMwQVhKQVA0VUljOUt0V1dHZGc1SGxyZDFhaGE1MVA0Q2NDVFhIa0RkQklOYU40MjVLaHlCQVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-08-30-012",
+    "date": "2026-08-30",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Anglo Teck up against Glencore’s ‘hardball’ negotiators to deliver merger gains - ft.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjd1UW5uRnVVYnlpLUgzYVV1cC1DS2tEZDY2TzI4ejVtaEZMTDYzV0JvN3o4SWxfNW9MRUtMYXN4aEE1SUs4Rno3dmdJTDR3VFlQWDZ5ZW5hd0N6QVNUUHN4c3BhYmFYMDRDbklGWV",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjd1UW5uRnVVYnlpLUgzYVV1cC1DS2tEZDY2TzI4ejVtaEZMTDYzV0JvN3o4SWxfNW9MRUtMYXN4aEE1SUs4Rno3dmdJTDR3VFlQWDZ5ZW5hd0N6QVNUUHN4c3BhYmFYMDRDbklGWVJhTTFjNnFJSlpHdm9lc3I2YVdhMlE?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T11:54:14.969482Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-09-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia stock holds steady as investors weigh latest environmental services strategy - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ1ZoR2Z6eUQzUURIUVlDbmpPUThGSEotcDRUeWhsXzMzMERRSzZTRDU0RWxZVFhDTlZxZFUxZGY0X1pxNXBnbk5CNDBKU21SZ3pnaldfQ0M5ZzcwOEloUUlqcUpYcFg0Um1fV1A0UVdHZlE0MFhtTE94XzRneF9FdnQ5RTR5Q29CM2xqNExIdE9kd3dfSlBRd2F3U2tfaUZVaG9FNWFxbnhndkhENF85ZzB3QktueF9HZHhrQ0FseXBCX2daRmNKY2lFNUgxTnRDS3Fz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 152,
+    "too_old": 104,
+    "gate1_blocked": 4,
+    "gate2_blocked": 0,
+    "passed": 8,
+    "pass_rate": "6.9%",
+    "gate2_block_rate": "0.0%",
+    "gate2_samples": [],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為威立雅相關動態：「Veolia stock holds steady as investors weigh latest envir...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Veolia stock holds steady as investors weigh latest environmental services st...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "威立雅為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
