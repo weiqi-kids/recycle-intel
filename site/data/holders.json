@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T11:54:14.221664+00:00",
+  "updated_at": "2026-09-07T13:54:18.744975+00:00",
   "companies": {
     "tomra": {
       "name": "TOMRA Systems",
@@ -10,7 +10,7 @@
           "holder": "Boston Common Asset Management, LLC",
           "shares": 392905,
           "pct_held": 0.13,
-          "value": 41608640
+          "value": 38131431
         }
       ]
     },
@@ -23,13 +23,13 @@
           "holder": "Gamma Investing LLC",
           "shares": 1105,
           "pct_held": 0.0,
-          "value": 664878
+          "value": 665910
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 72668,
           "pct_held": 0.0,
-          "value": 43724336
+          "value": 43792205
         }
       ]
     },
@@ -240,64 +240,10 @@
       "ticker": "UMI.BR",
       "holders": [
         {
-          "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
-          "shares": 3318101,
-          "pct_held": 1.35,
-          "value": 76050875
-        },
-        {
-          "holder": "American Century ETF Trust-Avantis International Small Cap Value ETF",
-          "shares": 2348190,
-          "pct_held": 0.95,
-          "value": 53820514
-        },
-        {
-          "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
-          "shares": 2202976,
-          "pct_held": 0.89,
-          "value": 50492210
-        },
-        {
-          "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
-          "shares": 1672774,
-          "pct_held": 0.68,
-          "value": 38339980
-        },
-        {
-          "holder": "Victory Portfolios-Victory Trivalent International Small-Cap Fund",
-          "shares": 1653773,
-          "pct_held": 0.67,
-          "value": 37904477
-        },
-        {
-          "holder": "Goldman Sachs TRT-Goldman Sachs Intl Small Cap Insights Fd.",
-          "shares": 1244492,
-          "pct_held": 0.51,
-          "value": 28523756
-        },
-        {
-          "holder": "SmallCap World Fund Inc",
-          "shares": 1179563,
-          "pct_held": 0.48,
-          "value": 27035584
-        },
-        {
-          "holder": "SCHWAB STRATEGIC TRUST-Schwab Fundamental International Equity ETF",
-          "shares": 941890,
-          "pct_held": 0.38,
-          "value": 21588118
-        },
-        {
-          "holder": "iShares Trust-iShares MSCI EAFE Small-Cap ETF",
-          "shares": 922335,
-          "pct_held": 0.37,
-          "value": 21139918
-        },
-        {
-          "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
-          "shares": 844995,
-          "pct_held": 0.34,
-          "value": 19367285
+          "holder": "Pacer Advisors, Inc.",
+          "shares": 1222,
+          "pct_held": 0.0,
+          "value": 27739
         }
       ]
     },
@@ -310,13 +256,13 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 592514,
           "pct_held": 0.08,
-          "value": 18901196
+          "value": 18877496
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 26501,
           "pct_held": 0.0,
-          "value": 845381
+          "value": 844321
         }
       ]
     },
@@ -329,61 +275,61 @@
           "holder": "GLOBAL X FUNDS-Global X Copper Miners ETF",
           "shares": 1068065,
           "pct_held": 2.38,
-          "value": 185843310
+          "value": 185202464
         },
         {
           "holder": "MFS SERIES TRUST X-MFS International Intrinsic Value Fund",
           "shares": 660133,
           "pct_held": 1.47,
-          "value": 114863142
+          "value": 114467058
         },
         {
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 475474,
           "pct_held": 1.06,
-          "value": 82732476
+          "value": 82447188
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-DFA Intl Small Cap Value PORT.",
           "shares": 388748,
           "pct_held": 0.86,
-          "value": 67642152
+          "value": 67408900
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
-          "shares": 314922,
-          "pct_held": 0.7,
-          "value": 54796428
+          "shares": 253356,
+          "pct_held": 0.56,
+          "value": 43931928
         },
         {
           "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
           "shares": 177709,
           "pct_held": 0.4,
-          "value": 30921366
+          "value": 30814739
         },
         {
           "holder": "DFA INVESTMENT TRUST CO-The Continental Small Company Series",
           "shares": 158734,
           "pct_held": 0.35,
-          "value": 27619716
+          "value": 27524474
         },
         {
           "holder": "American Century ETF Trust-Avantis International Small Cap Value ETF",
           "shares": 157485,
           "pct_held": 0.35,
-          "value": 27402390
+          "value": 27307898
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Core Eqy. 2 PORT.",
           "shares": 152294,
           "pct_held": 0.34,
-          "value": 26499156
+          "value": 26407778
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 121017,
           "pct_held": 0.27,
-          "value": 21056958
+          "value": 20984347
         }
       ]
     },
@@ -396,7 +342,7 @@
           "holder": "Atlas Capital Advisors Inc",
           "shares": 1473,
           "pct_held": 0.0,
-          "value": 806614
+          "value": 806025
         }
       ]
     },
@@ -409,7 +355,7 @@
           "holder": "PUBLIC EMPLOYEES RETIREMENT SYSTEM OF OHIO",
           "shares": 81202,
           "pct_held": 0.04,
-          "value": 2032486
+          "value": 2038170
         }
       ]
     },
