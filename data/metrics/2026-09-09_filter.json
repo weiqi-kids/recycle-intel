@@ -1,0 +1,12 @@
+{
+  "total_raw": 268,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 2,
+  "gate2_fail": 1,
+  "passed": 19,
+  "gate2_samples": [
+    "Rio Tinto to Buy Aurukun Bauxite Project from Glencore - Investing News Network"
+  ]
+}

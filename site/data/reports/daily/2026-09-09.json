@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:39:59.813315Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "waste_connections-2026-09-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Learn Why The Bull Case For Waste Connections Stock Could Change Following Raised Full Year Guidance - simplywall.st",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOUVUWGtNejlsTUZfbDc5LURxdGRaT2hoRmdIemJfcmZmdGMtY1QyQmNJQkxnakM5Y015WERUVDg2aGJWLUVXemxmODBLR1g2UUxIam1SdnNUYUVUZV8wVkhRZmRJMWFPQk5qeV9XTUFFek1rSThQZEJuc3JGbmMwQ1BzSnZXbktqQ2JfZFUwNURyMEgzQTFJNXF6NDRPQWVQM3BsTzM0RUNGLXA5MmE1TUdTcmZ4REc5dnF6WlpKR3AxLWktd1lNRlJPUjlfeTV4TXB2aFRYZExYcktlc1FyR0Rn0gHiAUFVX3lxTE45RVRYa016OWxNRl9sNzktRHF0ZFpPaGhGZ0h6Yl9yZmZ0Yy1jVDJCY0lCTGdqQzljTXlYRFRUODZoYlYtRVd6bGY4MEtHWDZRTEhqbVJ2c1RhRVRlXzBWSFFmZEkxYU9CTmp5X1dNQUV6TWtJOFBkQm5zckZuYzBDUHNKdlduS2pDYl9kVTA1RHIwSDNBMUk1cXo0NE9BZVAzcGxPMzRFQ0YtcDkyYTVNR1NyZnhERzl2cXpaWkpHcDEtaS13WU1GUk9SOV95NXhNcHZoVFhkTFhyS2VzUXJHRGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "veolia-2026-09-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia stock heads into the open after a 0.03% gain - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQjJ6NzBjZVMxWVh5SEtZQ2gyUVA5RW1ZNkZiVm5ZWUUwN09IR2ZxVFJ3Mi1BQlZucWdRdk9FTmxrSU0wUV84dFZOU3BXeUcyM3FSMVB2cnJtUEtqV2JXdnZVQzczUkxJY2FaV2VFdmJCTVdxak1fREpEVWtNbXgwa0VGVDhxc2lCRThpWjYwbjhTN25DSEJaeGMteHlIOVV2V3FSRmNkTFhRRGJMWk9YNGhiRHRoeExYTk5pWFVn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 135,
+    "too_old": 111,
+    "gate1_blocked": 2,
+    "gate2_blocked": 1,
+    "passed": 19,
+    "pass_rate": "14.3%",
+    "gate2_block_rate": "0.8%",
+    "gate2_samples": [
+      "Rio Tinto to Buy Aurukun Bauxite Project from Glencore - Investing News Network"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為WCN、威立雅相關動態：「Learn Why The Bull Case For Waste Connections Stock Could...」。主要關注主題為財報、產業通用、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Learn Why The Bull Case For Waste Connections Stock Could Change Following Ra...（財報、展望、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Veolia stock heads into the open after a 0.03% gain - AD HOC NEWS（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
