@@ -1,0 +1,14 @@
+{
+  "total_raw": 268,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 2,
+  "gate2_fail": 3,
+  "passed": 26,
+  "gate2_samples": [
+    "Rio Tinto to Buy Aurukun Bauxite Project from Glencore - Investing News Network",
+    "Moody's Maintains Glencore's Rating on Solid Position, Diversification - marketscreener.com",
+    "In the bin or not? How MRF operators decide which packaging to take"
+  ]
+}
