@@ -1,0 +1,15 @@
+{
+  "total_raw": 248,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 0,
+  "gate2_fail": 4,
+  "passed": 17,
+  "gate2_samples": [
+    "Glencore sets exchange rates for September distribution - Investing.com",
+    "State Street Global Advisors Ends Substantial Holding in Sims Limited as of September 9, 2026 - Kalk",
+    "Rare earths recycler opens first US facility in Arizona",
+    "In the bin or not? How MRF operators decide which packaging to take"
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T12:31:38.279801Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-09-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "glencore - Mining.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSDhQeXNycXJNRHRLU2FjSmRWdTRmajVialgzQ3pkVm50c19vQXowbERSTzJSVkEtc0dhZzlKMklOMGVaZWZtbUhpTnVUVlJ4NkRJdWQ5bjlYMDRKd2h4YmR0UTUwZTdNWWZNcGZTcjRkQlBPVXlseHlKazhiQV9majBwcUJMcUowUjV1WDRKNDFmMEZIVFVEb1dydk0ySFFETGt3Vm0weG5wbTJWZ2FKWXJzZTdONnNhVUpKczBBcw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-09-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Former Glencore oil executives deny bribery charges - Mining.com.au",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ubmh3WnRrMGljQmpGRVZxdVRCYkZMVUdvQ0pjazIxdGNDd3daaFZRNWllNTJxNnBLRzQ1Q3lSU3I1VndxMWtWQW9lbWc1c3RmMGVxS1BGb3dMNnBaajUtbFpraVFQVDdoRENpUnpjWlBPTjQ5dmo2WDB1cVQ5d28?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "veolia-2026-09-11-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement: A medium term support level to take advantage of - marketscreener.com",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRnppYjdhNjlfcElRejR1TG5GbDdvVUdKTWlwMnFTOVA0MFFuRkxDVjhTSkx4RmZ0N0hEZFpaUDl1OTg1aElINmRLaWFZUkVRNnktNUdidDlNVXFwSU9hdU44eThiM1dmeWNFSzRSMy16UXFyLTdFMXFJQjRSaXZmZVVrdkxTMzZwQ3hWYU5yS0hCVGVyQk5HZVBxX01MWTh4aUlF?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "veolia-2026-09-11-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia stock holds near support as H1 2026 earnings show margin strength - ad-hoc-news.de",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOXQ4QzVPb3c5MkJVbVczYnRPM2dZNzJCTk1wS2VYeTN3TjNyM0dsM29WU2Exb0d5Zlg4Nkw4WkhwcThudzBxa2FuTi0wUVRZUjlUM01VSEtPUnBkdHlqTXd1WURYbzB1RW51dldfaXE2THZVYWExQjFfcWhvVG1uVlZaM3o0ZHJmQmdrUHVfTTRieXI3TFBGYUNXeFRLbEI0M0J5ZElHcWI0SVVRQ2FEdkpKd19CQTV3S2hINFhNY1BDZkZXcXdtTUlvZWxuYzY1?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tomra-2026-09-11-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tomra stock heads into the open after a modest decline - ad-hoc-news.de",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTFZYi1TZW1xMXB6UHpjaWJ5Q0dsbTZkUlo5bk9ldTRWM2xGVDlReFVhTjZwaUUyMXg1cWlPb3E5a2ZGMDFvZjdZckdEQl9XRXA3NlNYYkV0YUxNNXJqcURFVWxQTEphQndadVB2M0ZuZGFQS2NieXdpRzhob0o5dmNrSzV5cFJzZnY2OWJ6R2R0M09reEQySElsb1ZHWHZHWGo2MmlQTWF1b2xIV1l4b1ZQdXQ5Rjg4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "veolia",
+        "count": 3
+      },
+      {
+        "id": "glencore",
+        "count": 2
+      },
+      {
+        "id": "tomra",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 248,
+    "dup_title": 148,
+    "too_old": 79,
+    "gate1_blocked": 0,
+    "gate2_blocked": 4,
+    "passed": 17,
+    "pass_rate": "17.0%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "Glencore sets exchange rates for September distribution - Investing.com",
+      "State Street Global Advisors Ends Substantial Holding in Sims Limited as of September 9, 2026 - Kalk",
+      "Rare earths recycler opens first US facility in Arizona",
+      "In the bin or not? How MRF operators decide which packaging to take"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為威立雅、嘉能可、陶朗相關動態：「glencore - Mining.com」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "glencore - Mining.com（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Former Glencore oil executives deny bribery charges - Mining.com.au（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
