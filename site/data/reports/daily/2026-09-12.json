@@ -1,0 +1,135 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T11:56:13.558960Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-09-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore, Mercuria pursuing Venezuela aluminum smelter deal - Bloomberg (GLCNF:OTCMKTS) - Seeking Alpha",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTm10akF0Y1FvUGxEMUlUTjJHSFB0YUQ5Smp3WWpYN1F6MzFtUkV0WnFzRTZDU0Q3RlRFQzNsM0lxNlZHNmo0T3FUbTdoYjRGT0FVVlpZQU9nQ254RzU1bFNzN2FRU1RUSFMtMkJOajR4bHJWSm96QWFWd2VBZWV1Q0d3QkY4QklvMXhIRExYRXgtUFhMN0J4UkVlbHNyU0JuQVJCbDZ6eXBHZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-09-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore, Mercuria compete for Venezuela aluminum smelter deal - Mining.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUZESE5hZm1IX3cwTUZUMlZJNC10THQ4X041WDV4b0FMYjZ2UHJVbjFxUWFmcFpjYU1VZUpUQ0JIeUt4b0w2Z1c1Y1ZqZWE5bmRnZHcxV2lkNGZiSk9wc3dINVFwX2NOVnd5N2ZqSUdkWnRKTFhKeUdMRFpSLVE1V2FRbm1PUklCSlNKQVdfeXh4OW5HeGVkWlZDUHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 145,
+    "too_old": 99,
+    "gate1_blocked": 0,
+    "gate2_blocked": 4,
+    "passed": 20,
+    "pass_rate": "16.3%",
+    "gate2_block_rate": "3.3%",
+    "gate2_samples": [
+      "State Street Global Advisors Ends Substantial Holding in Sims Limited as of September 9, 2026 - Kalk",
+      "New Jersey delays PCR requirements for food-contact packaging to 2030",
+      "Rare earths recycler opens first US facility in Arizona",
+      "In the bin or not? How MRF operators decide which packaging to take"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為嘉能可相關動態：「Glencore, Mercuria pursuing Venezuela aluminum smelter de...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore, Mercuria pursuing Venezuela aluminum smelter deal - Bloomberg (GLCN...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Glencore, Mercuria compete for Venezuela aluminum smelter deal - Mining.com（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

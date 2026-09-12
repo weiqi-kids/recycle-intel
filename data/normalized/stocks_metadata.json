@@ -13,20 +13,20 @@
   },
   "waste_mgmt": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-10",
-    "count": 6712,
+    "latest": "2026-09-11",
+    "count": 6713,
     "history_complete": true
   },
   "republic": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-10",
-    "count": 6712,
+    "latest": "2026-09-11",
+    "count": 6713,
     "history_complete": true
   },
   "waste_connections": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-10",
-    "count": 6712,
+    "latest": "2026-09-11",
+    "count": 6713,
     "history_complete": true
   },
   "umicore": {
@@ -67,8 +67,8 @@
   },
   "abtc": {
     "earliest": "2016-02-24",
-    "latest": "2026-09-10",
-    "count": 2652,
+    "latest": "2026-09-11",
+    "count": 2653,
     "history_complete": true
   }
 }
