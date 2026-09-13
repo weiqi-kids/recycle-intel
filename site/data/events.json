@@ -1,5 +1,24 @@
 [
   {
+    "id": "unknown-2026-09-13-001",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Are EV batteries recyclable? - mynrma.com.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQWt1SGIydzV2YURfUmYya3V2OUFrZ2txU0FIRXREOU4zREQ1aG1QamVpSHhxcmE4bktPZThHZ3JyRjVPOFNPLUVTeklvOGRiZDZaYzMxVXF1LUFnTjZaRDJob2FwVVBhN1dOQ2RKdW",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQWt1SGIydzV2YURfUmYya3V2OUFrZ2txU0FIRXREOU4zREQ1aG1QamVpSHhxcmE4bktPZThHZ3JyRjVPOFNPLUVTeklvOGRiZDZaYzMxVXF1LUFnTjZaRDJob2FwVVBhN1dOQ2RKdW1abGVrcWpsa0dsVUZYOFZZZmJkS2dORzJF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-09-12-001",
     "date": "2026-09-12",
     "companies": [
@@ -37,6 +56,27 @@
       {
         "name": "glencore",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUZESE5hZm1IX3cwTUZUMlZJNC10THQ4X041WDV4b0FMYjZ2UHJVbjFxUWFmcFpjYU1VZUpUQ0JIeUt4b0w2Z1c1Y1ZqZWE5bmRnZHcxV2lkNGZiSk9wc3dINVFwX2NOVnd5N2ZqSUdkWnRKTFhKeUdMRFpSLVE1V2FRbm1PUklCSlNKQVdfeXh4OW5HeGVkWlZDUHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-09-12-003",
+    "date": "2026-09-12",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to sales forward of Waste Connections, Inc. – NYSE:WCN - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1FFWmdzNmQzT0VUa1JnSE92aUZzV2Q5a1hyNTdjVDZNeGoyR09ibk4xOWxVUkpzdEp6Q1d2YnBBeVdZOW1WSWRmMThHemNnLS1CTjFPeFY2eVE2YTN6SG1OM2Vab1hpT2FoZEFsdT",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1FFWmdzNmQzT0VUa1JnSE92aUZzV2Q5a1hyNTdjVDZNeGoyR09ibk4xOWxVUkpzdEp6Q1d2YnBBeVdZOW1WSWRmMThHemNnLS1CTjFPeFY2eVE2YTN6SG1OM2Vab1hpT2FoZEFsdTFwWmhGZVdiRGdDbVlZWXFVZmRRTV9xR0QyM3lSM3RyWVBYdDNpbGgyVHJB?oc=5",
         "type": "rss"
       }
     ]
@@ -489,6 +529,89 @@
       {
         "name": "google_news_battery_recycling",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQXA1Q1RxQ0tnRDZGTWJFYmFCTzlmTW1HYjFodTYzUGpFOG9mOVFKTmtrcFlyc0ZYMDEtdUM0SmFnZW9taWVYWDRZNFhmQnNMLUNrOUhTOU91SkJ2bnJlWkVBOEl6dktRYl81SWt3QVBHbUhfRDhySVJtbFZLaUxRMHY2OWhSV3BuVzVvTC01Uk1MNEx0WlBTMDdjUEFhUm0wOHZLYWtBNmVfSTg0UF9xQk1UbDF3dkJDMllIbUI4RFJxMnlSdVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-09-11-023",
+    "date": "2026-09-11",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore, Mercuria among firms pursuing Venezuela aluminium smelter deal, Bloomberg News reports - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc0VIbXE0Ym0wN19yLXBObHZTdG5FNkJqMHJBcFNINWJockZldFRnendQTFhHeGdudUlteFJfODZudWJ3NVdWU0lxSzVKU29fUk9COGFPQUpqSllRUWRZVnh1OXZWaGRNZDRPazFjUl",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc0VIbXE0Ym0wN19yLXBObHZTdG5FNkJqMHJBcFNINWJockZldFRnendQTFhHeGdudUlteFJfODZudWJ3NVdWU0lxSzVKU29fUk9COGFPQUpqSllRUWRZVnh1OXZWaGRNZDRPazFjUlBSQXkwbTRnYkFVNy1TWlZxT2FPZ2tacklrcFF1OHdRMGtRUmFYMERGXzN5RFhVcVBVZ0RLTnhVUU8zVTJfRjhGdy16RVVwb09sZzVaZk4tNVl1cnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_mgmt-2026-09-11-024",
+    "date": "2026-09-11",
+    "companies": [
+      "waste_mgmt",
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SWaste Management Stocks Q2 Highlights: Waste Connections (NYSE:WCN) - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOQkRabDdRZVppcmM4Q0hYb3JWOHRfMms2aVU2aWFMVlBrMnZQdTNKdUJsNzZRREg4bmk5aGQ5cmoycVItQ1llQ2dkWFdnXzAteGc0bjhaNXJ0RU0zai1pM3ZNSC1ORi1meFhhWkRUdV",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQkRabDdRZVppcmM4Q0hYb3JWOHRfMms2aVU2aWFMVlBrMnZQdTNKdUJsNzZRREg4bmk5aGQ5cmoycVItQ1llQ2dkWFdnXzAteGc0bjhaNXJ0RU0zai1pM3ZNSC1ORi1meFhhWkRUdVJtYmIxVFpHa28tV1N5ZTZsUkZrU0lVTHZ6aW82clZPQUlYZFRZQ1RJdGZISEh1UnRwMXhhZnh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-09-11-025",
+    "date": "2026-09-11",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement Ve (VIE) Stock Price Quote Today & Current Price Chart - capital.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOc2lIYW9fRHItXzFWaElpY0lBNWRJSU5aNm5wamJBQldYOGFtc0RrczI0MHJEd1V3MzBJUFBYdUp5RWxwOS0xRGZNd2FsQ1c2Vnk4elJQbGRqTjdFRkl4TUlVQTVxNzNGal9wYXBqaH",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc2lIYW9fRHItXzFWaElpY0lBNWRJSU5aNm5wamJBQldYOGFtc0RrczI0MHJEd1V3MzBJUFBYdUp5RWxwOS0xRGZNd2FsQ1c2Vnk4elJQbGRqTjdFRkl4TUlVQTVxNzNGal9wYXBqaHEzZ0dMQld1M3BGTFA2b2JHWWZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-09-11-026",
+    "date": "2026-09-11",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "[Watch] Sims Ltd. creates short film to commemorate 25th anniversary of Sept. 11 - recyclingtoday.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOU3VwWXZrY0t3Mk9MR2hoRHpvVEJTZHUwb3pkNFN2ZVh4cUtDMHNuV0pzNkdYZ1Q0anZEalkyakk0N0NvOGFVM1pZWHFPYVAzNTBiT0IyOVlZQk1jaVY3Zm15dDNZelhhWXN3RzROTG",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU3VwWXZrY0t3Mk9MR2hoRHpvVEJTZHUwb3pkNFN2ZVh4cUtDMHNuV0pzNkdYZ1Q0anZEalkyakk0N0NvOGFVM1pZWHFPYVAzNTBiT0IyOVlZQk1jaVY3Zm15dDNZelhhWXN3RzROTGMyd1VQeDB4Vlg5c0lybmxDVkpWUW02OVdZeVh3ekVBZ01fNjA?oc=5",
         "type": "rss"
       }
     ]
@@ -1696,6 +1819,26 @@
       {
         "name": "waste_connections",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObUYtSktfQnd0cld5bTdaZndNcm9yQ1FCYUMxbzgzc1Yyd1JoTzUyRGdTOURKcWNWc1l0OWRraWI1dGFsOXZMQjc2Znp4VmZEVGtEYmJwWThQNVM0XzVJWms1QU1VS0Rrb0R5WkN3dUNMbjB1VDhpRDYwYmw0aXVvR0NJRjg0Yk5raEFRLUwtY1JnOWhQT2NhN3VRRk5vby1kVGVJRDU2RkV4RnJEMjFXX3ZLdk8zOWVIWnpJSXRGM0pDMVFhQkJv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-09-08-029",
+    "date": "2026-09-08",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement Details Share Capital and Voting Rights as of August 2026 - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPenZySW5pLXpJdk5PSVRuY3g5UFlMSGI2WnhQOVZ3anJZQlozcV9ZeFFLckRxbUEtUFZyTkI5bEhEc0hkM1hhNWNWMzM2Q1dET3o3ZmszS0lxMTROcGxDS3NJc2k5aWIxTkNwLU5ZMW",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPenZySW5pLXpJdk5PSVRuY3g5UFlMSGI2WnhQOVZ3anJZQlozcV9ZeFFLckRxbUEtUFZyTkI5bEhEc0hkM1hhNWNWMzM2Q1dET3o3ZmszS0lxMTROcGxDS3NJc2k5aWIxTkNwLU5ZMWVmYzY5ZjBIeExmVXh6RmxqT1FCLTBtWEF5cFRubUpuYi1malZPZGZKNThyZHlkQjl5cWFRSFA2aHQ3YmlLaFR4MUpuZXNiTktHT2VHeXpwZWlWZHB1ZVMwaGRkZHVGMnpwQ3V1WFlENDVLaWc0RlNnZHFTU0xhTXc2aGU2NTZBRVJHS2RlSHFR?oc=5",
         "type": "rss"
       }
     ]

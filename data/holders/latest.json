@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T11:56:12.759156+00:00",
+  "updated_at": "2026-09-13T13:04:20.890787+00:00",
   "companies": {
     "tomra": {
       "name": "TOMRA Systems",
@@ -231,6 +231,19 @@
           "shares": 4111035,
           "pct_held": 1.63,
           "value": 656696753
+        }
+      ]
+    },
+    "umicore": {
+      "name": "Umicore",
+      "short_name": "優美科",
+      "ticker": "UMI.BR",
+      "holders": [
+        {
+          "holder": "Pacer Advisors, Inc.",
+          "shares": 1222,
+          "pct_held": 0.0,
+          "value": 27397
         }
       ]
     },
