@@ -1,0 +1,237 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T13:05:25.892693Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-09-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra stock heads into the open after a 1.2 percent drop - ad-hoc-news.de",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRURCUWhXUGl0U3M0aTVqMEJoWEtwMG9fRExWQTJkUVdjN3FLNml0WlNfT1YzQzBqRHV2VzV0VUF3eE1xZFhCWjFFMGl3b1FYNG44RFlDb0NUeGlQTzJvam9JMTlWb2JQSEZLRlU4MzMxLXU0MXpwQmFRQVBudVdsNkRFS24tNEtKai1pc3BiVFRmOU11aTUyMDEydXJWOXlHWVJpWE1ZeGpoRmFlWnFXWmM5WWQ3NzVXMUtr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-09-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Guinea, Glencore discuss alumina investment - Mining.com.au",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40WFlRRkhrbHNoRGtYc0w4Q0FZSWh2ZTVaUThvR3Z6YmQ3YXZZU0Zsc2FCemJKRkNjYVlHMGJjQmQ2Zm5UanNiS3o0WFplY3BWUmo0c28zeXBaX2NaTnhzVW05a01GQ2dlcXAxbW1rNFJPVDQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "abtc-2026-09-15-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Battery Technology (ABAT) Stock Price Slides As Gross Profit Emerges - simplywall.st",
+      "companies": [
+        "abtc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaHBkMVdlX1Y3WGZPUW82ejdQOTFHLUlna0hrV2RKNDExdTdKaVJJTlZ1VkZRUnIwNlRMZDNfakc2TUNQOWlzSElJVHA3a0oyOWVNZkpvQXItbjd0bWNYR2RMb25uSl9fblVFNlpDYVVhbko3RkZya2l4M2VTUFM0UldfaGlLOTJfblpWZGpUYU9aY1Z4VXhZdGJhNGdIODdfT3RkbXg3VTRUTVkxWnF4bGpBQ2EwNEpVQm94MDJXSzFNZFFWeDZ0bUpydFZ5S1dzWmlLckhfTzRYbkFOZHlMbtIB5gFBVV95cUxOQUVyODR5Zl9maElXcXJ0bER4bTJwSHpLeWhxUDY1WG9OR2VOWG9QVFViUVZ1WEVzcVllMjdaSlBhQjdYUmFWNC1xa3BCalktenJxS0tTWEN1OGhwcHJGM0huckZXaDY5VVh4dUNGSjRlS29CXzVaVlM4eDVXMlRRSVpQT01HNURoU3FvT3F4Qk5DMnZhY0oxN2EzUjB0M1lWSkRIODNkMmQ0Y0Q0VlVzNThNTUJhMVl6R3NaUFFzSFlFMkM4MWRwVldsTHgtUW9FMUg4R19jY2hkd2pZVnVyc24xb3p1UQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-15-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Startup emerges to revive former battery recycling plant, easing US lithium fears - thecooldown.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "battery_recycling",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmwydlV2N2dhRjJjR05Nb1ItOEE0S3lzbjdaZWNIbFBPcjFzSU5veFFvNTVhaFRZWjBqM28zZ2dCaUZxcWg1Y3JZaElTLVVaRlZyNmxtOENQTWtYMmxvbkxRQmU0Q2o1T2RJZmhHT2Z4YzBsODkydnBuQ0wzY2I4M2JaazZPVWtQbE94Rg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-09-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Guinea’s $300 million Glencore Bauxite deal opens door to Alumina refining and energy investment - Africa Sustainability Matters",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOGZGZDJKZGRadHZybUU0YlRjTmdOeUVjbk1VdV9BcWtWMXJJWUZXYUZoZ2o2eWRUVlE2WlpNaWx3TXpBQlJQRzQzUllqMTlFVGM3RTltVGZKampDelBLMm15Wkk3cUJlV3U5czRPc0FPZmtHc2RfMmpJRjVJcDhUWFI4RHVjQXlvSmZDemthZEpONmdaWGlVOEZWZUxiZzZsaGpacVFkWFZ5ZUNpbHA3azN2SFVzRGV1T0tPVFVUQUp3cWFuSmNtdHpkRjhBUHQz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "battery_recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 2
+      },
+      {
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "umicore",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "abtc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "battery_recycling",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 148,
+    "too_old": 95,
+    "gate1_blocked": 1,
+    "gate2_blocked": 5,
+    "passed": 19,
+    "pass_rate": "15.8%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Citadel Advisors no longer a public short seller in Tomra Systems - marketscreener.com",
+      "State Street Global Advisors Ends Substantial Holding in Sims Limited as of September 9, 2026 - Kalk",
+      "New Jersey delays PCR requirements for food-contact packaging to 2030",
+      "Rare earths recycler opens first US facility in Arizona",
+      "In the bin or not? How MRF operators decide which packaging to take"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為嘉能可、陶朗、優美科相關動態：「Tomra stock heads into the open after a 1.2 percent drop ...」。主要關注主題為產業通用、財報、電池回收，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tomra stock heads into the open after a 1.2 percent drop - ad-hoc-news.de（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Guinea, Glencore discuss alumina investment - Mining.com.au（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

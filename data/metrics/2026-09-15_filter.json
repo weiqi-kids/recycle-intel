@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 1,
+  "gate2_fail": 5,
+  "passed": 19,
+  "gate2_samples": [
+    "Citadel Advisors no longer a public short seller in Tomra Systems - marketscreener.com",
+    "State Street Global Advisors Ends Substantial Holding in Sims Limited as of September 9, 2026 - Kalk",
+    "New Jersey delays PCR requirements for food-contact packaging to 2030",
+    "Rare earths recycler opens first US facility in Arizona",
+    "In the bin or not? How MRF operators decide which packaging to take"
+  ]
+}
