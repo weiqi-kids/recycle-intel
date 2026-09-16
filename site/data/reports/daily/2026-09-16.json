@@ -1,0 +1,223 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T13:02:30.532594Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-09-16-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Iron ore trader Radiant alleges Glencore hid their ties from audited records - SWI swissinfo.ch",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU3BjazFoOHZhTkkyNkNjZ0tHYzR0dlRqWmJaTmRtV3FhcklYS1duZFNEaXF4MGNjd2thTTE1TVgzakRBemR1ejdpSkRSazZLQVVZUHhpTzRCanMxRjkyQ1RZSW9abXFSdlNhejVrdDRBZVA3cU54dnd0QVZnaEVrcnMtRW85Z010RXJHUDBFeHpMa2hBZFpldU40S0RDTGZHcUstdTBqeDYwSzNkSnI1LVdlXzFaLXlRdkFJWVJoR0dLbnFRd3NZcg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "veolia-2026-09-16-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Veolia Employee Shareholding: Record Participation That Strengthens Employees' Position as the Leading Shareholder - Yahoo Finance",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHk3dFpkancxWjdjVEMzOWw5ZWZ2Y1g3bHkxS09PMnQ5SXdwaXNtTFdMMGIzRk5WSTc5OXNfdkpFc08yUHNMSXBJWmZDNURla0lmRk83UG1pdDdnTDNUSDhQS0U1U05vazBkSVB6cW55QUVVVDlNLW1fLVozaVg3eTlGQ20wbEhSUjIzMXdjZFBsZHVhVFgtQy02WVhOYjhsYnYzNi1nbHJkemloOFR6S21lYnA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-09-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Radiant World seeks $2 billion from Glencore in lawsuit - Reuters",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmFOZFlnbHRaQ2lJU2dMNjFRc1M3TDU0SGFsSEFnWDRuTjQ5UWxmTDR3c25fQk9DSVFNMWJGTlVZMEx6NVVpYjVrQUQwbFNFOXA3Y0pWOGl3SjBVd3FheldPRUcxN29fWlhnQ2JCU24tVFlQWS1NeGRNSmZhWHBtOWhLaTJRZkkxQVJNeDN0RGpIZlJpelVjZVg4QW1ScG1rOEIyVW9BN1NsUHNEQU1HUk5tTENVdXh3R3c2S0pkbw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-09-16-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore, Rio Tinto and South32 unit begins implementation of US$980 million project in Brazil - BNamericas",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTBZVHlQdHdhWks0X0xuV2s3S2U5cXFHbXUzRTl0aXNiTzRMMlhDMlk0RHVtSTNuRVZWRDliWHA1QjZHLTcybFJJMVZRbHdnVTA4NXBndkdQQ3V5YzgyTHhUOXFCZUUzMjIyUjlfNGIzaXNOZDVRUDF0MnRSc01oaUVUbHpiX1hxM0xpdTVNMHJLTG5uQjNuYlU1OHdLZmNWNFRCdlhkR00zd2liaGI3QW5CdzN5bzR0b0g2YWxWZlR3R1B3R1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-09-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Radiant World seeks $2 billion from Glencore in lawsuit - TradingView",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYV9fQlZ6SG8yVFUzR2w5OGo3SDFrTGYwM1ZKeVRvSmxxTTdqQ2ZIcHJWNkRoSHVUUTQ2OG1QRXFROWxBMXNfbTBvRGxoX3JrRFNuTmVSeEtIUFdadElnUERla2trcjFXZlFHZklrcnV1Q2NSZGpqWlFqbkR0dmtYdkFFWnBOVWhOQmlReXNPUGt5ODdEQVY2em1QcHI5RVdvd0trZVBKVTdiRDdKRGhOQkFDeFJYaDZQWW9aNjgwclhMUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 9
+      },
+      {
+        "id": "veolia",
+        "count": 4
+      },
+      {
+        "id": "waste_connections",
+        "count": 2
+      },
+      {
+        "id": "abtc",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 143,
+    "too_old": 88,
+    "gate1_blocked": 0,
+    "gate2_blocked": 6,
+    "passed": 31,
+    "pass_rate": "24.8%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "Glencore Faces $2 Billion Suit as It Alleges Radiant World Fraud - Bloomberg.com",
+      "Southaven Chamber seeks business connections halfway through challenge - DeSoto County News",
+      "State Street Global Advisors Ends Substantial Holding in Sims Limited as of September 9, 2026 - Kalk",
+      "New Jersey delays PCR requirements for food-contact packaging to 2030",
+      "Rare earths recycler opens first US facility in Arizona"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為嘉能可、威立雅、WCN相關動態：「Iron ore trader Radiant alleges Glencore hid their ties f...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Iron ore trader Radiant alleges Glencore hid their ties from audited records ...（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Veolia Employee Shareholding: Record Participation That Strengthens Employees...（財報、產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

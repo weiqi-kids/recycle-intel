@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 0,
+  "gate2_fail": 6,
+  "passed": 31,
+  "gate2_samples": [
+    "Glencore Faces $2 Billion Suit as It Alleges Radiant World Fraud - Bloomberg.com",
+    "Southaven Chamber seeks business connections halfway through challenge - DeSoto County News",
+    "State Street Global Advisors Ends Substantial Holding in Sims Limited as of September 9, 2026 - Kalk",
+    "New Jersey delays PCR requirements for food-contact packaging to 2030",
+    "Rare earths recycler opens first US facility in Arizona"
+  ]
+}

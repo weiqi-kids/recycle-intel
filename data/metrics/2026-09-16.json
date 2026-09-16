@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-16",
+  "total_events": 18,
+  "by_company": {
+    "glencore": {
+      "count": 9,
+      "sentiment_avg": 0.11
+    },
+    "waste_connections": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 4,
+      "sentiment_avg": 0.5
+    },
+    "abtc": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": 0.15
+    },
+    "industry_general": {
+      "count": 15,
+      "sentiment_avg": 0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
