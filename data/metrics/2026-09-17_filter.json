@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 1,
+  "gate2_fail": 6,
+  "passed": 25,
+  "gate2_samples": [
+    "Glencore Faces $2 Billion Suit as It Alleges Radiant World Fraud - Bloomberg.com",
+    "Southaven Chamber seeks business connections halfway through challenge - desotocountynews.com",
+    "State Street Global Advisors Ends Substantial Holding in Sims Limited as of September 9, 2026 - Kalk",
+    "Judge sets date for Colgate toothpaste tube recyclability trial",
+    "New Jersey delays PCR requirements for food-contact packaging to 2030"
+  ]
+}

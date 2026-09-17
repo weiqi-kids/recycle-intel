@@ -1,0 +1,221 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T12:59:43.568191Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-09-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra stock heads into the open after a 4.1% slide - ad-hoc-news.de",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGhqVTc2NnFNeURXTkxvN2lwRXVzZ205b0UxQnRhQUp2bklZR05OczBTSjVyakFlRGYySFVzcW0zcGxHN2NjeEtTd0Vicmt2LXdOX3VCSWRDUExJeXVQVTNqNnN3amdvcG8xemRxSVVvdnpJZXQ2Qmh0WkpWVDliWW1iVUlwakFSQ2Z6ZkxnUnphWVdMU0h3U0pWYmQ4dzFRYk05NmxFY0t3X2FpWTQtNXktNnEtRDZDbWhwYg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-09-17-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AlphaValue/Baader Europe Upgrades Glencore to Add, Lifts PT - marketscreener.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0VWbzg0R2F3djlMeFdYRlVYQnozbVFwYVV0R09Kcm5uUzAweHJTTjgwYUxFYVRpb1JBLUNwRVJERExINjQ3ZUlSU01lb0dtaFJCX0pOSXFBZm9ROEgtVEplTHg5VHdKNnN2VjFuTmhUS3ZCZ3o0dU5rNlBBSEg2REpBcjVpNF9PcUJKU1BCallHenAzamNHZHFWSElHWlN3aS1ZSWFya3pma0pGY1dPbQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-09-17-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Singapore's Radiant World Sues Glencore for Over $2 Billion - marketscreener.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNXVFcFR4REtBOTdHaGVZUXB4MmdncDBhMjFfRF9zT2ItdGRhTjcxSGluNUtCUXVkT2VzVEx6Z1ZzUFQ2OUZoZUVBaHprTFJUQ3FyRVN5V0hKa2hZQkhoWmN6eHNFZW11Ung3bUtYVW1RUjRYRElCRXA3ZElzNkdwdzQxbFJJZW5vNEw1LXItNTJmYzM1V1dydXd2ZDVVcTBQSk9XVEFUMDZvYlFaZDltUg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "waste_connections-2026-09-17-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Connections (WCN) Could Be 23% Undervalued Following Its Recent Pullback - simplywall.st",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM014UmlzWUFoQ2FpUE9jRFJRU2tIT1R1NnhNY21ZM3RHUTVBM3dscmFuRmlDOF9Bc2N2X0FycmplX3hLZkVjVmlDdFRjYXlSUk5rX3dldlQtT1QtRl9HdW40UUJzSmVaSTNmZ1Y0T0JLZy1QMkhPMFE5RlhmUnpTRjk3b2dWUktRZjBMUkpFVzJvT2ROZ3ZCNHUxODNRaUFJNEpnU0hHc3ZRT1RlS2pBbWxfRmJFcjhDNTZzWHp1WktIblcybWgzRm5ZTl9yQXZxd1V6dm83OU5NYU3SAeABQVVfeXFMT1UyWmpNaUtYLWxGT0NQSnVJNWt0VTF4ZWZJZExaLXhLMGJ1bGViNEZLNjA3MGpzak00WnhhcUs2SHlQbnJoc0VicEV5eU5uSFFHeUUyV19jVE5HaFZaNnh0SW52ZncxeGFicVhHRnFUSENiTnBpamdtdWNIcUl5V1FFRndYMkhrNnFPcUpOMTloaTFLZFJwSDhpa3VhNlpBZHFWVnQ5RUowSGxWQnQwM1BCZ3pFZ2RrZ0ZLYUVIaXhkOEpPSnFMTkxCYVVTd1FfY2NkYUxHOHhUdG5CTVJBYWo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "abtc-2026-09-17-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Battery Technology (ABAT) Reports Fiscal Year Results A - GuruFocus",
+      "companies": [
+        "abtc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTWZaZS1jZEZlVFdBVmladkt0ZkFzQlo5UEdZQVVGSVBMdHp5Y2dqMFB5anZyV1FMLW9ZR3JMMmwzSTJZZnY2X0dhZnBNSmRlMjJjb0djclRWa1ZUaDJJem1CdFp1Y1owT1NYV3c1al9EZ25oX1paemZrUWc1d3R4VGpUSTYtX3dpMkVjb1Q4WjlubUhxbVRsdXpKRThHZkFiTXNJSXcyeFQxWk1FMUFDdWYzYjdkSHdhRWlpVnpDOHZPUlNOU3AwVXJFd2Y?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 4
+      },
+      {
+        "id": "waste_connections",
+        "count": 2
+      },
+      {
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "abtc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 144,
+    "too_old": 93,
+    "gate1_blocked": 1,
+    "gate2_blocked": 6,
+    "passed": 25,
+    "pass_rate": "20.0%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "Glencore Faces $2 Billion Suit as It Alleges Radiant World Fraud - Bloomberg.com",
+      "Southaven Chamber seeks business connections halfway through challenge - desotocountynews.com",
+      "State Street Global Advisors Ends Substantial Holding in Sims Limited as of September 9, 2026 - Kalk",
+      "Judge sets date for Colgate toothpaste tube recyclability trial",
+      "New Jersey delays PCR requirements for food-contact packaging to 2030"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為嘉能可、WCN、陶朗相關動態：「Tomra stock heads into the open after a 4.1% slide - ad-h...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tomra stock heads into the open after a 4.1% slide - ad-hoc-news.de（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "AlphaValue/Baader Europe Upgrades Glencore to Add, Lifts PT - marketscreener.com（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
