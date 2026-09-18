@@ -1,0 +1,249 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T12:38:35.779105Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-09-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra stock gains on Q2 revenue growth and Oct. 23 report - ad-hoc-news.de",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOHBaUGZwdjJrVEVTanJEc2loTG5nNUltM2kxZmZDNHBabUtmVmRYY3ptSWdPQ0pRNjEyRUJDYmY0aGo5R2pEQVB2MmFjeW1RdVdYZ1NnZjAtdi1XWmx1blZKLXNjZFFoNVFfNi1MaTZmVWx5TDhDVlQ4aF9tVVVLTmNOckNKYl9KWEJHb1NPVjNLTy03QXhIQzRkTkZKS3R3NjJuT2xfdDEwYTdnclhCb205MklSdGJyMDN3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tomra-2026-09-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra stock heads into the open after a 4.1 percent drop - ad-hoc-news.de",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXpuWWExN1VNMldZamtGRlpZaXR3cXJIRGx2UTZ1SjI2MVBFQU9HWnRJeXdVUDM0VXNua1RrRGFxXzhLVTNDNVVITHdIb1ljVHJOVU1OLWNPanFfSzlZTDd3aDJfaTE2Rl9nN1FzR3p0bW9naHQ3ekQ1cG5UeDMtRTdvNlh3ODBqUS01MHNjUkdCVDBmWlJPVWRWQ0VrRUVPenFaSmdJX2Q5eEh6aDNlU25UbTJuU3VWdmpJ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-09-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Glencore became entangled in $2bn battle with iron ore trader Radiant - Financial Times",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX1c3QU5vMTVkM1M4OFBTeTNYQW50a2xfR1B0eHk2cDR6VWhkaE1WdUgxaEhCVXhGTEJXbUFOVDFyclVwd3V6WFE0a0VYdUkyWXlwT3ZIOHktbXhrOUhHcmt0emxlOXFlRUFnQTl0TVZpVExndE12dVlLYkxLWjVPV2VSdE8?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-09-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Dutch bailiff starts auction of Glencore's former logistics unit Access World, company says - Reuters",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNTVrekswVUpENGJNbF9DNHdyWjZpa0pJWFdFOUNxbklvclNhNzhodGtMNVhzNE5CRDNYZ2R3VjZIQ2V1dk56UkxBSGxlRUFvdTlMZmVyc1pIUTNudFNiYm9JY2JycGNobFJHbFJVLWVfdVRhU3pmblBsejZNQlVwODhLRm9ENVNJUjJoTkwzS1JkR2FOWHZNek9nSzI4ZDdMOFpJSk5hcy1lNWlDekhxS2FqLTA2NmJiWU9pTGYzR3Y3NjFzUHQ1cg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-09-18-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Suspended Glencore exec told Radiant 'say nothing on email' amid $2B feud: report (GLCNF:OTCMKTS) - Seeking Alpha",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU09odF9NXzNRbHhpSzMwU01xbHU2S1R5RHJndnQzV3ZRd0tvRVBmeFV6SFhKLUtKdlFPLVhybWQ2dUxmRkJZUkY2SUh4Um9pcnBIMTM1OGw4SU5lUHBBSGtiSDA2OWRMMGt6bkdUZlJLY0RlenAwSEJtbmFMNFlkU3c1TzY3ckU2WjNDTXZSSmU0dlVCRGFxU0owNF9qZVZRYzU3ZFBrTm4xcTVSczF0X2duYU9jQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "circular_economy_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 6
+      },
+      {
+        "id": "sims",
+        "count": 4
+      },
+      {
+        "id": "tomra",
+        "count": 2
+      },
+      {
+        "id": "waste_connections",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "circular_economy_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 144,
+    "too_old": 90,
+    "gate1_blocked": 1,
+    "gate2_blocked": 5,
+    "passed": 29,
+    "pass_rate": "23.2%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "Glencore Faces $2 Billion Suit as It Alleges Radiant World Fraud - Bloomberg.com",
+      "Sims Limited Presents Growth Strategy at Investor Day, Discloses FY26 EBITDA Figures - kalkine.com.a",
+      "State Street Global Advisors Ends Substantial Holding in Sims Limited as of September 9, 2026 - Kalk",
+      "Judge sets date for Colgate toothpaste tube recyclability trial",
+      "New Jersey delays PCR requirements for food-contact packaging to 2030"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為嘉能可、西姆斯、陶朗相關動態：「Tomra stock gains on Q2 revenue growth and Oct. 23 report...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tomra stock gains on Q2 revenue growth and Oct. 23 report - ad-hoc-news.de（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tomra stock heads into the open after a 4.1 percent drop - ad-hoc-news.de（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
