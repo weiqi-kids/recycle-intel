@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 140,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 1,
+  "gate2_fail": 6,
+  "passed": 35,
+  "gate2_samples": [
+    "Suspended Glencore Exec Told Radiant ‘Say Nothing on Email’ - Bloomberg.com",
+    "Suspended Glencore Exec Told Radiant ‘Say Nothing on Email’ - claimsjournal.com",
+    "Glencore Faces $2 Billion Suit as It Alleges Radiant World Fraud - Bloomberg.com",
+    "Southaven Chamber seeks business connections halfway through challenge - DeSoto County News",
+    "Sims Limited Presents Growth Strategy at Investor Day, Discloses FY26 EBITDA Figures - Kalkine"
+  ]
+}
