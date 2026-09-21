@@ -1,0 +1,15 @@
+{
+  "total_raw": 269,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 2,
+  "gate2_fail": 4,
+  "passed": 24,
+  "gate2_samples": [
+    "Suspended Glencore Exec Told Radiant ‘Say Nothing on Email’ - Claims Journal",
+    "Southaven Chamber seeks business connections halfway through challenge - DeSoto County News",
+    "Sims Limited Presents Growth Strategy at Investor Day, Discloses FY26 EBITDA Figures - Kalkine",
+    "Judge sets date for Colgate toothpaste tube recyclability trial"
+  ]
+}

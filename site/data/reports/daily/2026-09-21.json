@@ -1,0 +1,234 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T14:47:49.965555Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-09-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra stock heads into the open after a flat close near its 52-week low - AD HOC NEWS",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONHdDX2l1S2hMVWs2LWtIMXBvQ1FTTVFQUkloclJFSF9QZmNnSllDY3YxX1ZxVWl3dGIwajVDQ3RoNUhuOUR3QjNTTk5Va1Q1d081RzNvOGhkX1pNMTlDNm1PMWJ1dlo1WFJQRmFDR0M3NTVpTjRMZ1ZEUzNnenNTbHdaLTJBSVlHZHl6N3NMTnJYbkdlZ3RkV1dRTlFfVHRLYm5pcmtMYnpyak5TTWR4QkFPcmlJWkhhTktmeUV1MXlXa3dYUVpJVHE0UTg4dEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-09-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore can bring $236 million UK lawsuit against refinery, court rules - reuters.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdWJyRTVuNE80Snh1Z3g5UFZyaTNYSGRrTmRvQzY3Nlh2bllfQUY0Ti1XeU1mUWc1SVFpX3VScVdrZVRZZlVuVzBTbTgwZS1JRTRDR0VYZTJzQjFwX05UaGZLdUJzUWtYSUlTdE5FRzhfUlp1ZHl0S1dIMUZ5Z2JKN29nc3RQNHVMcU1oa1VNbEI5RUNSeFNwUVFoNXlHem82Q25sY3UxdTJEWkZncXZwNV9CT3RsS0k4cDZUS2JfWQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-09-21-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore Allowed to Pursue $230 Million Case Against UK’s Prax - Bloomberg.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVHlzUXdXQ2l3N1hua21pRXRMc1ZTb251cFFsdkU3eHA5SVpxUFRBalA5S2tqbkd5cUd5TGk5Z0YzOEtvS2pBazdVdmdfQlk2Y2NUbk1UVzAtXzRPU0MtM19oSks4VE4zX1FocHgzV3d6dXdZWEMwRjFTUnh5V21yVVBfcFo2dmo5a25vdXc5S0VEWm9zMjJlUFBab1dwNEtHdU9KbFpkZWRzSXI3Z0tSMWlR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-09-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "‘Please call me’: Inside Jefferies’ row with Glencore over Radiant - AFR",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONVVlX1NlTWlnb3B4akxtSTI2ZnEzY19YNTYyRDJxUjd4RENfZXRGVWpLY29zaUE1WVVWUFNJeWlhbUVwNnFTc3RGXzF2YUkxcmQzZmxBdTJrUnVRYmFsYzlVMTBQdkRCWjVfSDFqYXRzMnp3QWN1WmJ6S25UN24yUVFUaXB2NU55Q3U1V0QxbHlpUWdjdlYybDNCdm52dDJyWmtWRGlzWFNYaVRmalE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sims-2026-09-21-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "State Street Corporation Acquires 5.00% Voting Stake in Sims Limited - Kalkine Media",
+      "companies": [
+        "sims"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "circular_economy_policy",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVR0SkFDX3JudmJ0OFQteVFWdkZjeU5FZnF5dGs0c2RnQ3NpQTJZdkpoN2xqMmxOcTljakhYWWk1MHdqd00tdlNEYkVjZFFnZTlKS3lLSUszR1lxMkg5QzA1by02UUN5QmswbE9ObTJKWFQ2WUFLR1l5LVRkVDNmcTBsbFE0Mld5cFJaZUl3eklhd0JIdDdYam9sdVNlWWNjV09RdEprVzBmaUNEd0cxdGotTQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "circular_economy_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 4
+      },
+      {
+        "id": "sims",
+        "count": 3
+      },
+      {
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "circular_economy_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 148,
+    "too_old": 91,
+    "gate1_blocked": 2,
+    "gate2_blocked": 4,
+    "passed": 24,
+    "pass_rate": "19.8%",
+    "gate2_block_rate": "3.3%",
+    "gate2_samples": [
+      "Suspended Glencore Exec Told Radiant ‘Say Nothing on Email’ - Claims Journal",
+      "Southaven Chamber seeks business connections halfway through challenge - DeSoto County News",
+      "Sims Limited Presents Growth Strategy at Investor Day, Discloses FY26 EBITDA Figures - Kalkine",
+      "Judge sets date for Colgate toothpaste tube recyclability trial"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為嘉能可、西姆斯、陶朗相關動態：「Tomra stock heads into the open after a flat close near i...」。主要關注主題為產業通用、財報、循環經濟政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tomra stock heads into the open after a flat close near its 52-week low - AD ...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Glencore can bring $236 million UK lawsuit against refinery, court rules - re...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
