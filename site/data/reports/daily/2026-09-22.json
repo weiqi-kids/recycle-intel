@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T13:02:13.364656Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "waste_mgmt-2026-09-22-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Management Stocks Q2 Teardown: Waste Management (NYSE:WM) Vs The Rest - TradingView",
+      "companies": [
+        "waste_mgmt"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPclc4OXdwNHY5QXR4OFJHZGhkTTV5emtVMTVxTTBETXJrdVc5Z21rQUJSXzEtVG1jbUtySU1jSWJuaElEdHdRMGx5RTBTU3NUSlBhcGhKTDJXbFlZcHk2SVJDX1JkdmNzR3kxQmMtbzB0UWxySXMzdHVkcFlTaGZzRzFVRVl2TlBSVXNLSkZWYkNwQ05BT21GdDltSGw4ZjdKSzhUUDF2MHNfTjJRMXMwbXhaU3NjejBOVGxoU0R0aW9Sajg1dHJNck9fQlRrQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "veolia-2026-09-22-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia stock holds near EUR 31.64 as Capital Group cuts stake - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWk9aNTZiMXd1eXRlMDFhdHh1UEZaMDNIYUpQaUZhX3dNaFp1TjJRQ0VjcU5wSTlVSGlVVTFYYnN5TVIxVVEteEZyX3llTE9iR29IMy1wOGpnQVFXeVhUb0ZrejBzS3ZmUFZnclFPdWtuVjdGcXQ1ZVBhYVFGY0EzZkNudUlBOV83cmNwR0J1T0stQlJlME9ibXBnWHNnc1hQMHFLMENTNVd3UE1JNjlhdG9hcFdSUlk1NGJyd0ctRDQzdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-22-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US lithium recycler eyes Vietnam battery business amid EV shift - Nikkei Asia",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONmg5Mm9NeVZXeGg3SXNnUi1oLXk0WnpCNmV0b1NwZ3lPZkdOeHRuaE9OYk42ZGpySjIyVGxyZXNReE9oVE42MDdTc0FhZmF2eUN3bVU1ZFlsWV9KR09VYW9sa1h5VHRFUnhGbTkxdmUtb3kyUnFvMWtwczdSWWhnZUQ3WlpVakFXdXI5ZWdBbGhueGcxNkNnTkIzSmxHVENMMzZFc1Vzb2daWldhckprb1l6clllYnQ3azJTb0hvMGFBemhzRHc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tomra-2026-09-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tomra stock heads into the open after closing flat - AD HOC NEWS",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa1ZEa05pZ1VGV2RSaDU4NE14VVlGaXJkRDIzUHZlRWc1MnplWDlJVWlESUtfZ3J4b2tNMXZmczhYNFJKR1JINnJtOTBaa25QZllzSnYtdl9fSEUtcF9nRjUxX1luajVTc3RXb0hjN1JBdExNNURCZlRtaHJBMGxxWlFNR3VaX3V1Zm15WkIxTlQ5RFNWR3QtcjdyTDhDaW1sZTFBWjFFd2xIWnpRUnRoZHdnSQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-09-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore wins right to pursue claim against insolvent refinery - ICLG",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSjdXN096cGdFRXkwcDRhVk9aUkdfb1VrMHkyaEVyZ1VoamMzcWdMWW04QVF1MjJJNEo0UGJMeDRqRkt1RWhvTGc4ZjJjMGQxZ3I5LVZDenhESWRoRHFEd25vZGpUbWEzR1RITHcwdDhBbnk5a0R0SGhsLUtQbG1ZX2NrcmZGTmtTN0hoRFFB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_mgmt",
+        "count": 2
+      },
+      {
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 229,
+    "dup_title": 139,
+    "too_old": 71,
+    "gate1_blocked": 2,
+    "gate2_blocked": 4,
+    "passed": 13,
+    "pass_rate": "14.4%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "Radiant World Sent Mizuho Fake Glencore Email, Court Filing Says - Bloomberg.com",
+      "Glencore Can Bring $236M Fraud Claim Against Prax Refinery - Law360",
+      "Sims Limited Presents Growth Strategy at Investor Day, Discloses FY26 EBITDA Figures - Kalkine",
+      "Vanguard Renewables to acquire Generate Upcycle’s US, Canada digesters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為廢管、陶朗、嘉能可相關動態：「Waste Management Stocks Q2 Teardown: Waste Management (NY...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Waste Management Stocks Q2 Teardown: Waste Management (NYSE:WM) Vs The Rest -...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Veolia stock holds near EUR 31.64 as Capital Group cuts stake - AD HOC NEWS（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

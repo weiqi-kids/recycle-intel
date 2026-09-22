@@ -1,0 +1,15 @@
+{
+  "total_raw": 229,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 2,
+  "gate2_fail": 4,
+  "passed": 13,
+  "gate2_samples": [
+    "Radiant World Sent Mizuho Fake Glencore Email, Court Filing Says - Bloomberg.com",
+    "Glencore Can Bring $236M Fraud Claim Against Prax Refinery - Law360",
+    "Sims Limited Presents Growth Strategy at Investor Day, Discloses FY26 EBITDA Figures - Kalkine",
+    "Vanguard Renewables to acquire Generate Upcycle’s US, Canada digesters"
+  ]
+}
