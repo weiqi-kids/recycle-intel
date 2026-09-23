@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T13:02:09.066113Z",
-  "quarter": "2025-12-31, 2026-06-30",
+  "updated_at": "2026-09-23T13:17:00.467511Z",
+  "quarter": "2026-06-30",
   "companies": [
     {
       "id": "abtc",
@@ -143,17 +143,17 @@
       "name": "優美科",
       "ticker": "UMI.BR",
       "currency": "EUR",
-      "ar": 910544000,
-      "ar_prev": 1362800000,
-      "ar_qoq": "-33%",
+      "ar": 1887300000,
+      "ar_prev": 910544000,
+      "ar_qoq": "+107%",
       "ar_period": "QoQ",
-      "inventory": 2550046000,
-      "inv_prev": 2295700000,
-      "inv_qoq": "+11%",
+      "inventory": 2644000000,
+      "inv_prev": 2550046000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "veolia",
