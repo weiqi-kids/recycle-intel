@@ -1,0 +1,207 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:07:23.378321Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-09-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore expects to start ASX trading on October 14 - Reuters",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRXQ4XzFKaU5oc0FSTnpaTFAxWmhJSW1wZmpmNmRiZFY2engwU1hjcG52NE5LdGdwbmZtVWJ4UXpXSVB2WnJyVk83bWt2VENfNmpNUFBhQV9fOWxVVFVkbjlnMVJKSkNwU0lYYXJxbF9SZmJTWVk3VHMzSDJrZ1VyU1p5SmxIdmUtekRTVklmNENLa25iMTFxV2xsYVczNlVlaHl3bVZURHQ3QQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-09-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore to List Depositary Interests on Australian Securities Exchange - marketscreener.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbm5LU1NFaXhQT2NrZmw4M3FiaEJkLWFrMHp2OUNMek1JdFRsWWtoTU52NXdCUGhFZ0lYV3RqQjFBTXhrUFlPd0RoVUoyWmJnQ3ZKMFRSRk5VYV9GbVFpaEpzTzdpMy10X2kwQ2ZqSUhtTklrb0loSnVtXzQ2Z18wN1lRSTBhVHFMdlVmQW9MaWp4bTVCWUs4RTZHcXdBcDFwYnRlOXJMelpVcmNvOVdZYm4xZ0d1cWxxUVlFY0tTLWxQQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "waste_connections-2026-09-24-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Waste Connections (TSX:WCN) Is the S&P/TSX 60's Quiet Compounder in the Waste Business - kalkine.ca",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY3d1aUw4bm9FWGRDdG9XSXhlQ24wc1hFNEI1Z2Z0dnNmdThlOWt5cVEwSzFXdUdNRG96M0xuclZvMEFtVURHVnNoNTBacjFSUXhwcnM5dDNOZnZRZkJ6cmlYenM3dkR5dV82OTJVM1J4b05QSHhpVW9KWUJ4UDZBMEtGaUJob3k0c0Q5WElFZS1ZRDN6VFZGeUo0LW44RlhHdzFaOHJ4clRYWk56REk2amppclJjbjQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-09-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore, Nth Cycle ink $1B battery-metals recycling deal - Dealroom",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3RCdjNnLXA2NWhCTEtvMnRLRlBGTkcwYXRxc1dsT21KU0R4WVVaTWEyeGd5ZHIzcjAxeFF3d1I5TldyRHlVNjhTeGlqSVpKY0hiWlJodWNEaFZtc1NFaklLVEpsaXk3QWRJNjc4Ry15UmFXN1p0NTJ5cy1YN2JvWnRpSHVNakR2N25YY25PVzJLUjA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-09-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore sets Oct. 14 date for Australian market debut - Mining.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORHM1bi1vX3FfTG9GdVl6VkkzN1REeVJRT3M5OHRab3luTXZvTTlScURUU2RrcUhFdXN4TDI3a1dDZzRJNHhmcnV5aTVvcDhaT3oya2RtS1RJNm4yZm5GdG12WkVGNlk4SDA2QUo3dkJoeVJqaUlVUG1VdUtPMjlOUWw5OA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 5
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 149,
+    "too_old": 84,
+    "gate1_blocked": 3,
+    "gate2_blocked": 5,
+    "passed": 28,
+    "pass_rate": "23.3%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Glencore and Mercuria join the US$12 billion US initiative that will boost critical minerals in Lati",
+      "REG - Glencore PLC - Expected ASX secondary listing date - TradingView",
+      "Radiant World Sent Mizuho Fake Glencore Email, Court Filing Says - Bloomberg",
+      "Sims Limited Presents Growth Strategy at Investor Day, Discloses FY26 EBITDA Figures - kalkine.com.a",
+      "Vanguard Renewables to acquire Generate Upcycle’s US, Canada digesters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為嘉能可、WCN相關動態：「Glencore expects to start ASX trading on October 14 - Reu...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore expects to start ASX trading on October 14 - Reuters（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Glencore to List Depositary Interests on Australian Securities Exchange - mar...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

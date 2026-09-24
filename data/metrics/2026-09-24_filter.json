@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 3,
+  "gate2_fail": 5,
+  "passed": 28,
+  "gate2_samples": [
+    "Glencore and Mercuria join the US$12 billion US initiative that will boost critical minerals in Lati",
+    "REG - Glencore PLC - Expected ASX secondary listing date - TradingView",
+    "Radiant World Sent Mizuho Fake Glencore Email, Court Filing Says - Bloomberg",
+    "Sims Limited Presents Growth Strategy at Investor Day, Discloses FY26 EBITDA Figures - kalkine.com.a",
+    "Vanguard Renewables to acquire Generate Upcycle’s US, Canada digesters"
+  ]
+}
