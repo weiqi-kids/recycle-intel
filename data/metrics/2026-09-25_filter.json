@@ -1,0 +1,15 @@
+{
+  "total_raw": 269,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 3,
+  "gate2_fail": 4,
+  "passed": 22,
+  "gate2_samples": [
+    "Radiant World Sent Mizuho Fake Glencore Email, Court Filing Says - Bloomberg.com",
+    "Glencore to off-take 820 MWh of wind in Poland from ERG - Renewables Now",
+    "Sims Limited Presents Growth Strategy at Investor Day, Discloses FY26 EBITDA Figures - kalkine.com.a",
+    "Vanguard Renewables to acquire Generate Upcycle’s US, Canada digesters"
+  ]
+}

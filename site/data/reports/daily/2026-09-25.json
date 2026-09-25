@@ -1,0 +1,235 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:12:19.054107Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-09-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra stock heads into the open after a 1.2 percent fall - AD HOC NEWS",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSktOeDVxdHlWUWwzM1Z3TWIweF9rZ0cxUzFudThTTFZ1amdQWWt6b01zZ0VMZUEzSk1iLVY3Q1VfZHk5eDBSN3lnQ196YWNPY3hqN3hHUlFZczVraUJCeU1Oell2Mzd2OUpzRl9vMWdDZHhIaDhBeU1BSWg0TFktNEhxdVRUMlhTR0hnbmprMXBBbkpRVklMaUh4MWllUkJGTUJkQTNtMmFDREptN09rS3ZIOGY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-09-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UBS upgrades Glencore as commodity gains boost earnings outlook - Yahoo Finance Singapore",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNajg5VDZubEtoVFJMMEFVdDlfbmRJTVBmOGxiSnNRaXhXd3V4NWY2aXdFR3ZLaEhIajNLWVN4VEJDRVo0SmRIdERuLTlEMzhXLVFaZnB4TkV3Y3F3cDVFOVBmbWtDc1hlSHN4cFNGZm9reWFHR1J6amRHZHZWd0pKUHFVd1h0NjJSQXIzTFpodw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tomra-2026-09-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Danske Bank cuts target price for Tomra to NOK 125 (135), reiterates buy - BN - marketscreener.com",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUktodGJuLTAzQWJ3Rng4X3p1WXlmbVYyc2VuM3RGaUc5NnMwbTJSV2VldFNkVmlxMGNnSm9tdnR6dUpUM2laeFlpMW5SUUI0TUROT1QwRWxIMWtkcDB1WnF4TTRxelA5dmhQTl83M1AwWHY3aGkwb2RaVEVOaC1DVGZWTzM5RGhPV3R6b3lRN18tbXNaNDFkcmk5MmN5bUFiajFPU1MtSlFhdTltWWpGY2VqSzAxS3UxTjdEZzUtR0JVWFU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-09-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore upgraded to ‘buy’ by UBS on stronger trading and coal outlook - Proactive financial news",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcXpsel9OM0Rqd09ZeEI0c0w3MVpiOFhCQnYtNnFiMDZuUy02dVhndUl4cEN0N2hZdHFvU0FjaFlzM3BkckJUTXFZLWhPV3BMNEdoT1h2WnB3Nl9PUmlUcW1CWWdSQXdCWTFNSE1Fam5KT3duYXNBSGxTRExtSmVQeWVMalZpMkthLTJnbVdBbEJnMHFkMDZqRjZXdkpYOGNHZGxBSkpJVmlCXzhzYlpma1BuejA1aWoyQzlzbWFYajRYRDdnbEJvYUFKTjhIVTVub0hRVE1n?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-09-25-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Key facts: Glencore plc cleared for ASX listing; 800GWh PPA with ERG - TradingView",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYll0UGxfcC15VHdFYTRlaGdCVWtGaGNzUy1NYjVWMmRTckQtTEE2czlkY3d4ZTZVdFg5Z2VJYXNMY2QtYnlkczF1UGFaM1BBZXZoRlRhcUZRSHItUFhxQUo1OXZETW9TMTg1TjR3WXV4cnlodHJmZnpIRGg5NzQ0R19hQWlMZTZOcVhmakhLcEpnRVFQc20zNGZwb3d6enhiVElnWXE4TFFiTUJXd3lKTVp6R29uS1JnMzNUbTJaQkt3ak1SNWRR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "battery_recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 4
+      },
+      {
+        "id": "tomra",
+        "count": 2
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "battery_recycling",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 151,
+    "too_old": 89,
+    "gate1_blocked": 3,
+    "gate2_blocked": 4,
+    "passed": 22,
+    "pass_rate": "18.6%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "Radiant World Sent Mizuho Fake Glencore Email, Court Filing Says - Bloomberg.com",
+      "Glencore to off-take 820 MWh of wind in Poland from ERG - Renewables Now",
+      "Sims Limited Presents Growth Strategy at Investor Day, Discloses FY26 EBITDA Figures - kalkine.com.a",
+      "Vanguard Renewables to acquire Generate Upcycle’s US, Canada digesters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為嘉能可、陶朗、威立雅相關動態：「Tomra stock heads into the open after a 1.2 percent fall ...」。主要關注主題為產業通用、財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Tomra stock heads into the open after a 1.2 percent fall - AD HOC NEWS（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "UBS upgrades Glencore as commodity gains boost earnings outlook - Yahoo Finan...（財報、展望）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
