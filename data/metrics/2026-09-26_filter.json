@@ -1,0 +1,14 @@
+{
+  "total_raw": 269,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 5,
+  "gate2_fail": 3,
+  "passed": 12,
+  "gate2_samples": [
+    "Glencore Commits $500 Million to VaultCo as Fourth Supplier - IndexBox",
+    "Radiant World Sent Mizuho Fake Glencore Email, Court Filing Says - Bloomberg",
+    "Vanguard Renewables to acquire Generate Upcycle’s US, Canada digesters"
+  ]
+}

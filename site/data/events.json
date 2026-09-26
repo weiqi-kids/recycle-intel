@@ -1,5 +1,44 @@
 [
   {
+    "id": "glencore-2026-09-26-001",
+    "date": "2026-09-26",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump, Milei, Glencore: Top 5 Mining Stories This Week - Mining Digital",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQYUxrLV9fVEIzcW8yWnNhR0FRRmJWcVJscFdzMEI2aHlIOUxtaEU4UGdjWEJtakgyckpEMWNkS25md3NZX2tqS2VuWXdvOXZMdEFIeU5nNmxVWF9adXk3dTU3Vk9rYmhhb1g0dW9RY2",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYUxrLV9fVEIzcW8yWnNhR0FRRmJWcVJscFdzMEI2aHlIOUxtaEU4UGdjWEJtakgyckpEMWNkS25md3NZX2tqS2VuWXdvOXZMdEFIeU5nNmxVWF9adXk3dTU3Vk9rYmhhb1g0dW9RY2dOYW9JdUt3UUp4Nlo2OUQtcjBLSzM4bFZMNTg5LUNlbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-26-002",
+    "date": "2026-09-26",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GM Completes Closed-Loop EV Battery Recycling Pilot With 100% Recycled Metals - Electric Cars Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNMTV0MDlYS2JBRGtLRmNRVHlnS090blVzTEt1c3pJRzlDeFIyS3p5cTJheUtsbG5NeEZuNGVNa3dLdDlNX3N2YVAwQWUwWVR0OXhlWFBWb3dVOVlXNHNkcWhJVU1ZdGd2cUFId3EwTm",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMTV0MDlYS2JBRGtLRmNRVHlnS090blVzTEt1c3pJRzlDeFIyS3p5cTJheUtsbG5NeEZuNGVNa3dLdDlNX3N2YVAwQWUwWVR0OXhlWFBWb3dVOVlXNHNkcWhJVU1ZdGd2cUFId3EwTmEzZG5meHIxMzNYMkwyWlFpQURKNUV2S1hBajBIVEYwVjlUaTA1YWFUTEVVSFAyN29raGJOY1ZZLXN6NTFIMDlxVFBfbTBPcUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-09-25-001",
     "date": "2026-09-25",
     "companies": [
@@ -154,6 +193,87 @@
       {
         "name": "google_news_battery_recycling",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa0cwRWI4RHBiYlF2cDBCVzN0bkRQSGpBNV9qVUxERmNTc2ViVUxLTnZuRFVRTDM5Z180UFoyLTAwbzZ4TU1SWms1Qk9UTEgxR2hwNEZaQTVucUVWMldOdVIxNXo0aldadDZpaC1PNEdhdkRpS1ZlYlBIVHNPd3VuSnNmZ1RQWDJ2TUNMSFFfNXk0SnhWTHpGa1FScmhBOWdtNVZUMGFNUFo1MDR3U0Vyb05ET25nYWtGaDdhMmN4SHJXSU9qeHl0REJjNDNQZzY3NjREWkdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-09-25-009",
+    "date": "2026-09-25",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Glencore raised to Buy at UBS as commodity gains lift earnings outlook - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOMnQ3ZFpRNlVsVUFKMHNsNGFUTUxvM1pEcEYyeHc2dFVFWHAxTmZLOUZqbHppX190aUVnajI3d0ZrdzZkMHcxbW9Zdk95Q05kMU81dTBoQjNWbHlRaUV2bjlkUy02dTZBdThtX2FCRW",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMnQ3ZFpRNlVsVUFKMHNsNGFUTUxvM1pEcEYyeHc2dFVFWHAxTmZLOUZqbHppX190aUVnajI3d0ZrdzZkMHcxbW9Zdk95Q05kMU81dTBoQjNWbHlRaUV2bjlkUy02dTZBdThtX2FCRW1aNHlMQnlvd1JLS3Z4SEZfM3otM3VfR1V3SXB0bXpSZHRzLXd2S0h2d1hwUzVfM19fTjZrc3VxVWhndjBI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-09-25-010",
+    "date": "2026-09-25",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore’s Energy Trading Profits Soar on Iran War - energynow.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxObGFzX0JwYXRfbTBEVU05ZTU1eFcyZ05sdEEtT1UzZmQyTjRFUm1jdjk5NVp3SUdQYnp3Y0lQdDlPYi11bW5zMjl0SmRTYncyZTk4ak9fS0laREVsMGNRc0xiUE51RnR2V2N3Zk9MQV",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGFzX0JwYXRfbTBEVU05ZTU1eFcyZ05sdEEtT1UzZmQyTjRFUm1jdjk5NVp3SUdQYnp3Y0lQdDlPYi11bW5zMjl0SmRTYncyZTk4ak9fS0laREVsMGNRc0xiUE51RnR2V2N3Zk9MQVctRk1FMGxpT3hmTnRWWnkyM0FkS3pucnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-09-25-011",
+    "date": "2026-09-25",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS Upgrade Boosts Glencore (GLCNF) Shares Amid Coal Price Recov - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPNldPUnc2LVF2eVNFRVZFdVhac2NPNV9CQzlXRkxnSFNHVmttMng4UThzOTJqajJZaFg4a3UySkRDWUpRX0NMVnVjUXNWQ0ZIM3c2YTdkTjZUa0dEWEptaEQ2Z1loV0ZOc0dDSjh6Mj",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNldPUnc2LVF2eVNFRVZFdVhac2NPNV9CQzlXRkxnSFNHVmttMng4UThzOTJqajJZaFg4a3UySkRDWUpRX0NMVnVjUXNWQ0ZIM3c2YTdkTjZUa0dEWEptaEQ2Z1loV0ZOc0dDSjh6MjNjaWthRy12aFlncTB2akZ3ajI3Yml4WERxRWxhQVRuYmZ6ZldmQWpIenoydW1HOG1lZHA4cVMtTi1jZkpsNXFn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-25-012",
+    "date": "2026-09-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kanopy integrates recycling monitoring and AI tools under new parent company",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/J2Q8_EiB4l3iVyyJzpakADQsab5YT5cIPi0RsbvHSCo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDkyNjY3ODQyLmpwZw==",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/kanopy-integrates-recycling-monitoring-tools-recycle-coach-re-trac/831358/",
         "type": "rss"
       }
     ]
@@ -418,6 +538,67 @@
       {
         "name": "google_news_battery_recycling",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTmxaOXhBZzl1b2hrcEFvMi1zYmVia19HN09UeHBRcEhNOC1fTWdwa3FZalFCaC0yUzhWSndBTllCNEs4a2YxR1MzWXpVVkNtQ3BfeU5uS3lwaGtGSGstb3huUTRRcEJEbVdWdm82MTJqNlBIeDhnbnBTWkV2OG1DeWhlUkpFajA2OUExb0dJTWRXV2Y4cTBiRnlXcmwtcGZIa2ZtUXhvbUxTNHhJWFdDNlJGcEh0T25CRW4wcjh3TlpCSXhlVFlFVkZBcFJ2QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-09-24-014",
+    "date": "2026-09-24",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Beauregard begins collecting Waste Connections trash carts ahead of transition to Waste Pro - beauregardnews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUEdjWWQ1UnJOem9zczMzeEd1OFA3ZDZxaWtXNWlkdWp2a1V4Qm93LTdjXzdqNFMzOGEycEpZb3AySGJDLWRDMy1DMGYyZzFDcnJfdm0zWHE3Ty1WdHctSVNwbDdDNERzMUs5RVpTQm",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUEdjWWQ1UnJOem9zczMzeEd1OFA3ZDZxaWtXNWlkdWp2a1V4Qm93LTdjXzdqNFMzOGEycEpZb3AySGJDLWRDMy1DMGYyZzFDcnJfdm0zWHE3Ty1WdHctSVNwbDdDNERzMUs5RVpTQmtpbktabHNsY2xBRVVsMFdzN0JKRUtkMzlUX1hCdVB1ZGJSdklFaWVha3BzOFNXelF2VGI3Y3VoS2RWcTBxLTlLSm4ySnRwNVphTDBzQzlUVC1KM1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-09-24-015",
+    "date": "2026-09-24",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia Environnement SA (VIE.PA) Stock Price, News, Quote & History - ca.finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE43Zy1fdjUwQ0E3TG0wTU1tZnl5a1hvS1hnVDdUZGJtM2M2MXh0ZUpiT2YwekpHdUlCVUZEN2EzVW9BMGc0M09lMzVGbFdSN1I1X1owQQ?oc=5\" target=\"_blank\">Veolia Enviro",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43Zy1fdjUwQ0E3TG0wTU1tZnl5a1hvS1hnVDdUZGJtM2M2MXh0ZUpiT2YwekpHdUlCVUZEN2EzVW9BMGc0M09lMzVGbFdSN1I1X1owQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-09-24-016",
+    "date": "2026-09-24",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology Company (ABAT) Options Chain - Yahoo Finance - ca.finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnZWenlPZDRHaFhZRms3SGxRLXRqNDNRa0puanV3TVFkTnBYcnl0OHBCUE5mVWgtNVpFRHo5Q0tmRTNRN0R2NjVNZHhsbjRyWVNPbW1WNWtaZDBydzhzeS1Ub2wzSmN3QXFvcUVtdm",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnZWenlPZDRHaFhZRms3SGxRLXRqNDNRa0puanV3TVFkTnBYcnl0OHBCUE5mVWgtNVpFRHo5Q0tmRTNRN0R2NjVNZHhsbjRyWVNPbW1WNWtaZDBydzhzeS1Ub2wzSmN3QXFvcUVtdmNqVTdKV1g0aHhTREsxU0VwRjhGWmU?oc=5",
         "type": "rss"
       }
     ]
@@ -1114,6 +1295,46 @@
     ]
   },
   {
+    "id": "glencore-2026-09-23-036",
+    "date": "2026-09-23",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Radiant World sent Mizuho fake Glencore email, court filing says - japantimes.co.jp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxONG91QnNuNkxibTBDdGxOUG5LbENfeGtFbVlDTnNnSE15aXpqVDhGTVE4Y1RmcFlfaEJXOUhSRUc3bzR0dkc5ZE85Rnk3MElEV3RyR2xCUUZKaE1HQXp5NDJ2dWpSdnRydXRvTmRpX2",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONG91QnNuNkxibTBDdGxOUG5LbENfeGtFbVlDTnNnSE15aXpqVDhGTVE4Y1RmcFlfaEJXOUhSRUc3bzR0dkc5ZE85Rnk3MElEV3RyR2xCUUZKaE1HQXp5NDJ2dWpSdnRydXRvTmRpX2ktNHAxZmZ3elhNVjRySHRJR2ZpWm5xaV95TE9LOVoxSVRUM190a3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aurubis-2026-09-23-037",
+    "date": "2026-09-23",
+    "companies": [
+      "aurubis"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Prysmian and Aurubis deepen strategic partnership with landmark long-term copper agreement - aurubis.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaktiS3NPZTB4WmJjeTh5ck9sM0p0NFAyNl9JUjdZNUV5V2lheVplT1dUb3I2RUhwbG10SW5EdkdYeTktd045dUZHYmEzbVBqa0tVdDg0eWM4TmJKNlY3NGdxXzlkNUNKWExSRkpZZ3",
+    "sources": [
+      {
+        "name": "aurubis",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaktiS3NPZTB4WmJjeTh5ck9sM0p0NFAyNl9JUjdZNUV5V2lheVplT1dUb3I2RUhwbG10SW5EdkdYeTktd045dUZHYmEzbVBqa0tVdDg0eWM4TmJKNlY3NGdxXzlkNUNKWExSRkpZZ3F4ME5pcVFqc2w2a2todkJod1JPenU3OTB3cVpKUlNIVFlhVWdWc21idVZhbFVrdTl2TzJ3bFk4TFlNdjJTdWZoM3JNemItYkxYZGxMc2lQTlI0cDBSQTZmb0hfOVMzdS1XemhNTldLbFZ6X1VqazRhakQzQ0M0M05mMS1SS2VwZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-09-22-001",
     "date": "2026-09-22",
     "companies": [
@@ -1584,6 +1805,27 @@
       {
         "name": "google_news_battery_recycling",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONmg5Mm9NeVZXeGg3SXNnUi1oLXk0WnpCNmV0b1NwZ3lPZkdOeHRuaE9OYk42ZGpySjIyVGxyZXNReE9oVE42MDdTc0FhZmF2eUN3bVU1ZFlsWV9KR09VYW9sa1h5VHRFUnhGbTkxdmUtb3kyUnFvMWtwczdSWWhnZUQ3WlpVakFXdXI5ZWdBbGhueGcxNkNnTkIzSmxHVENMMzZFc1Vzb2daWldhckprb1l6clllYnQ3azJTb0hvMGFBemhzRHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-09-22-025",
+    "date": "2026-09-22",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "American Battery Technology Co (ABAT) (Q4 2026) Earnings Call Highlights: Record Revenue Growth ... - ca.finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSDJQc0k5Q2RXUElrVzBINFdjTlZnTnZXbEhSOVZsdURBb29MZFJZc2ZCS1BCcGo3VnBLRXBMM0t6YWhsLTl0NnM1eFhjZG90UW43Q3IyODlKVUF5TGNOY1oxTGQtOW9ieDhHVE9Hcz",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSDJQc0k5Q2RXUElrVzBINFdjTlZnTnZXbEhSOVZsdURBb29MZFJZc2ZCS1BCcGo3VnBLRXBMM0t6YWhsLTl0NnM1eFhjZG90UW43Q3IyODlKVUF5TGNOY1oxTGQtOW9ieDhHVE9HczVVajViU29oNHF0S1ktbktJSFR5RHJVVWV4NnQyOA?oc=5",
         "type": "rss"
       }
     ]
