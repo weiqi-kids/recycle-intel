@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T13:30:09.419218Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-09-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore (LSE:GLEN) Stock Trades At a Premium After Its 104% 5 Year Run - Yahoo Finance",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbm1jTkhtaXlvSjJybHpQNThubDFaOFpnM3JkUlFKSloyQlJwUm5wZ0hfQjNYcEFYTEVjdW9FZkprX283S1IySmJvWEVMcnRUVUZqNzVOZEFuV05tRVI0SS1FbnFpaW1KeDVtTmYzRWlmV2VKcUxiNUhYcUxNZTVZaTlRdFh1aVZ3bDhlSHJhWnpnNTBiakc4RmNPMA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 149,
+    "too_old": 104,
+    "gate1_blocked": 4,
+    "gate2_blocked": 2,
+    "passed": 10,
+    "pass_rate": "8.3%",
+    "gate2_block_rate": "1.7%",
+    "gate2_samples": [
+      "Radiant World Sent Mizuho Fake Glencore Email, Court Filing Says - Bloomberg",
+      "Vanguard Renewables to acquire Generate Upcycle’s US, Canada digesters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為嘉能可相關動態：「Glencore (LSE:GLEN) Stock Trades At a Premium After Its 1...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore (LSE:GLEN) Stock Trades At a Premium After Its 104% 5 Year Run - Yah...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "嘉能可為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,25 @@
 [
   {
+    "id": "glencore-2026-09-27-001",
+    "date": "2026-09-27",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore (LSE:GLEN) Stock Trades At a Premium After Its 104% 5 Year Run - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQbm1jTkhtaXlvSjJybHpQNThubDFaOFpnM3JkUlFKSloyQlJwUm5wZ0hfQjNYcEFYTEVjdW9FZkprX283S1IySmJvWEVMcnRUVUZqNzVOZEFuV05tRVI0SS1FbnFpaW1KeDVtTmYzRW",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbm1jTkhtaXlvSjJybHpQNThubDFaOFpnM3JkUlFKSloyQlJwUm5wZ0hfQjNYcEFYTEVjdW9FZkprX283S1IySmJvWEVMcnRUVUZqNzVOZEFuV05tRVI0SS1FbnFpaW1KeDVtTmYzRWlmV2VKcUxiNUhYcUxNZTVZaTlRdFh1aVZ3bDhlSHJhWnpnNTBiakc4RmNPMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-09-26-001",
     "date": "2026-09-26",
     "companies": [
@@ -274,6 +294,66 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/kanopy-integrates-recycling-monitoring-tools-recycle-coach-re-trac/831358/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-09-25-013",
+    "date": "2026-09-25",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "UBS upgrades Glencore as commodity gains boost earnings outlook - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTTRzbHdGbVhSb0xKbS1MSUFLanY0Z3JjekoyT2ZGRkZYUzFWbU0zNExzazl4MlBFZElpa1JSOW5hRHA1S3pyc2Y2RFRxS0RMRkZZRkMwUHJRVldrZkV4bVdqYWNzRHZWWVpzVUhmQk",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTTRzbHdGbVhSb0xKbS1MSUFLanY0Z3JjekoyT2ZGRkZYUzFWbU0zNExzazl4MlBFZElpa1JSOW5hRHA1S3pyc2Y2RFRxS0RMRkZZRkMwUHJRVldrZkV4bVdqYWNzRHZWWVpzVUhmQkFTYTFNcDBOSWxQX2YzVnN5VEhjT20wWGtmTUlYcnRiRmg0aFU3NWdMbmMtM3prcVdVeEZ3VUpJVVFKQ2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-09-25-014",
+    "date": "2026-09-25",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Glencore upgraded to ‘buy’ by UBS on stronger trading and coal outlook - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLThhQUhhM2VwdE9qRUJnYzBRdVIyT3lkM293YjlhV1pZQTcyc0xzT2ZQMXhZN25uWm5uZ08wanNyQnY3aGlWLWtwZC15NjBhZXkxZXMwQmY4bGF4emdLYmxOTC1mSnU5dDg0RFZXQX",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLThhQUhhM2VwdE9qRUJnYzBRdVIyT3lkM293YjlhV1pZQTcyc0xzT2ZQMXhZN25uWm5uZ08wanNyQnY3aGlWLWtwZC15NjBhZXkxZXMwQmY4bGF4emdLYmxOTC1mSnU5dDg0RFZXQXppcDBpMmhTVU96VDlwRWVnYWJyamU1NUxSYUsw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-25-015",
+    "date": "2026-09-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Suit calls Avenal Regional Landfill an ongoing environmental disaster for residents - kmph.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbjV1ZnozZ3dLU0U0ZXY0NVEtRzVTVlRsNjhtWjV0R1FJcXBPYWV6SHJJQ2JhR3NUMlI4cEdMLTB6ZG1BeWF1TV9JMnp5azUxVEdvaFFMaEUtbkR3OFFiZE1waW96Ymw3MERISmFXS3",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbjV1ZnozZ3dLU0U0ZXY0NVEtRzVTVlRsNjhtWjV0R1FJcXBPYWV6SHJJQ2JhR3NUMlI4cEdMLTB6ZG1BeWF1TV9JMnp5azUxVEdvaFFMaEUtbkR3OFFiZE1waW96Ymw3MERISmFXS3cxMWwxMHNpSU9fQVNoWS1uLV82M3RPUnQtUkdMY0FrYWVzTlJxOVl1VncxSUlCZDlwMkRDRzdvSF8tRUJheVJJc3BBUVVmYTBU?oc=5",
         "type": "rss"
       }
     ]
@@ -599,6 +679,47 @@
       {
         "name": "abtc",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnZWenlPZDRHaFhZRms3SGxRLXRqNDNRa0puanV3TVFkTnBYcnl0OHBCUE5mVWgtNVpFRHo5Q0tmRTNRN0R2NjVNZHhsbjRyWVNPbW1WNWtaZDBydzhzeS1Ub2wzSmN3QXFvcUVtdmNqVTdKV1g0aHhTREsxU0VwRjhGWmU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-09-24-017",
+    "date": "2026-09-24",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Beauregard begins collecting Waste Connections trash carts ahead of transition to Waste Pro - American Press",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaWRBXzVpak1QQ1BIZ1l0SWF5WmtWdjlUVFBaOG1jVTlfQmVQS3FIa25FSWtPZXQwU1JrcENNLWdta1RhVk1fSll5V0hsM3RDYUt1WVBWRW5HbU1zUWN2cG5oTG9qcmg0dFp1cURfLV",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaWRBXzVpak1QQ1BIZ1l0SWF5WmtWdjlUVFBaOG1jVTlfQmVQS3FIa25FSWtPZXQwU1JrcENNLWdta1RhVk1fSll5V0hsM3RDYUt1WVBWRW5HbU1zUWN2cG5oTG9qcmg0dFp1cURfLVNQalUzLXFFajFULUVWZGNFWVVGaFByQmM2YTJMNEtudlQ0bmNqVUYxT3l1SkV5R3d2X1Y3VU5zV0IxMGZ5RmpVa2xOY3JkaGxxYU9hV1RLb0JvbWFVV25EMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-09-24-018",
+    "date": "2026-09-24",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology (ABAT) Short Interest & Short Float | Updated Sep 2026 - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFAwN2ZkclMzaXNKanY3cS01dzJydmgzTUhfUzJzLW5VNExfdDZLdjB6anRHVDFMNlVQUWJmcHd0dkZPakFSMVpzbUV0UjlySUtRWVU0SGpveXkwS0pScVdZV3UwSnZPcGdjQS03OFdB?o",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwN2ZkclMzaXNKanY3cS01dzJydmgzTUhfUzJzLW5VNExfdDZLdjB6anRHVDFMNlVQUWJmcHd0dkZPakFSMVpzbUV0UjlySUtRWVU0SGpveXkwS0pScVdZV3UwSnZPcGdjQS03OFdB?oc=5",
         "type": "rss"
       }
     ]
@@ -1335,6 +1456,24 @@
     ]
   },
   {
+    "id": "unknown-2026-09-23-038",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Abiodun promotes recycling, warns industries against waste violations - Punch Newspapers",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlQxdjVWSDNRTFVRZ0lpRWdtWHJidncyQTZ4ZmhNUERTenM1S2xHaFFyNGd6UXB1cC1RTHJzYVZZT2JZU082MTNGejBEdExRa19XREoycjBhZTkwRTB4TkRvcWNoTHV1SWFVMWlWSF",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlQxdjVWSDNRTFVRZ0lpRWdtWHJidncyQTZ4ZmhNUERTenM1S2xHaFFyNGd6UXB1cC1RTHJzYVZZT2JZU082MTNGejBEdExRa19XREoycjBhZTkwRTB4TkRvcWNoTHV1SWFVMWlWSFl6SDZ1cXZnaTdPaGZOYjY2N1BFN0lpSThGcXRRWkFCbXF6XzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-09-22-001",
     "date": "2026-09-22",
     "companies": [
@@ -1831,6 +1970,27 @@
     ]
   },
   {
+    "id": "abtc-2026-09-22-026",
+    "date": "2026-09-22",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "American Battery Technology Co (ABAT) (Q4 2026) Earnings Call Highlights: Record Revenue Growth ... - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPcF9aWkdYYzItUUd2M2NUVWJ6YU4weHAwbVFLeHBrY2Frc1djMmMzMWd4X1NkYnpxcGJzR3p3RjJyWE5ybVM4ZDVnY3ZpSWNBNVY3UXdFREhiVE9fVnM4dm9TSGVObHMyZDMtM3dIMF",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcF9aWkdYYzItUUd2M2NUVWJ6YU4weHAwbVFLeHBrY2Frc1djMmMzMWd4X1NkYnpxcGJzR3p3RjJyWE5ybVM4ZDVnY3ZpSWNBNVY3UXdFREhiVE9fVnM4dm9TSGVObHMyZDMtM3dIMFQ5T3VMaDdObFFWN3U3cTFJcXdxRXhuQmFaV2NDbXF1NWxjWXUtMHp3bmxNT0hsNkczWXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-09-21-001",
     "date": "2026-09-21",
     "companies": [
@@ -2185,6 +2345,48 @@
       {
         "name": "sims",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHJUQjJURGFEU2hmUUlic3EwaGs0VzB5T1RJbDlQcWJ1dUFRVHhEQXk0amVqRjFVZkFMejdQZUlfRnBvTFNkSFEzbXlEN2NHQXZBNFBBMy11Mk11NTNkeldvcGtzSFJsSUgwckJqZ2Z6aTJwSmVQZmNiR3IwbUhwTXR1Z2ZSSE8wcnQyUHZxRURPXzVEUFNxLUFyR1JQTF9LU21USVFsbVF1OXI3NlU3QUl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-09-21-019",
+    "date": "2026-09-21",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "circular_economy_policy",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "State Street Corporation Acquires 5.00% Voting Stake in Sims Limited - kalkinemedia.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVR0SkFDX3JudmJ0OFQteVFWdkZjeU5FZnF5dGs0c2RnQ3NpQTJZdkpoN2xqMmxOcTljakhYWWk1MHdqd00tdlNEYkVjZFFnZTlKS3lLSUszR1lxMkg5QzA1by02UUN5QmswbE9ObT",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVR0SkFDX3JudmJ0OFQteVFWdkZjeU5FZnF5dGs0c2RnQ3NpQTJZdkpoN2xqMmxOcTljakhYWWk1MHdqd00tdlNEYkVjZFFnZTlKS3lLSUszR1lxMkg5QzA1by02UUN5QmswbE9ObTJKWFQ2WUFLR1l5LVRkVDNmcTBsbFE0Mld5cFJaZUl3eklhd0JIdDdYam9sdVNlWWNjV09RdEprVzBmaUNEd0cxdGotTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-09-21-020",
+    "date": "2026-09-21",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology Company (ABAT) puts $21.5M CEO pay to a shareholder vote - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQVUZWcklPT1JrV1JDc0xLZk1RdVNCajZFNXRFSGgwNnFLLU5TNlF5QU5fUUloSzdjLXNuU0xhYXFJOXFnZnJTSkFlNVVnY2xud0h3dlpBaXFVWVp4N3NsZnZYdmp3YTR1N0lYMXkyTX",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVUZWcklPT1JrV1JDc0xLZk1RdVNCajZFNXRFSGgwNnFLLU5TNlF5QU5fUUloSzdjLXNuU0xhYXFJOXFnZnJTSkFlNVVnY2xud0h3dlpBaXFVWVp4N3NsZnZYdmp3YTR1N0lYMXkyTXAtckREMWhwazNxY0FQaXNrSDhNRjFFcDJWTENmREpDY0xxSHFRNXl4S3dQb2ZURUdmTE5xb3htejBwNnlfcUJCTV9rRjVVRDZUQlNWMmVvbk44V3BoaHc?oc=5",
         "type": "rss"
       }
     ]
