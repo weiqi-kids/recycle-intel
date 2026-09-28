@@ -1,0 +1,13 @@
+{
+  "total_raw": 269,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 7,
+  "gate2_fail": 2,
+  "passed": 15,
+  "gate2_samples": [
+    "ERG and Glencore sign a PPA for the supply of over 800 GWh in Poland - Energy Global",
+    "Glencore challenges £264m tax bill in battle with HMRC - The Times"
+  ]
+}
