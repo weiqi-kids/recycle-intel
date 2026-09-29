@@ -1,0 +1,212 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:33:50.018710Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-09-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra stock reports 25 percent revenue growth in Q2 - AD HOC NEWS",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdU54VkNHb1FzY0xrX0lkT3NNRGlXM1lLM0hGbXp1YnIyVHU4d3FpN1FTQ0psZ2dQY3VuWnA4dGpSTklVbVgxOGh2bWYzRWd6MEhIUERsWVhCMmptYmxRdFB3SFZybnFZYmoxQk12THp4Y1FTZEo5dWRoNDhmSjAwZmhURE5kWGRJcXhYQmczc2Vsc1JBYnRNNjNLZW13OTJXVGpUNDZBMks0S3cwdWhTVHA5cWI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-09-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore visits Tees Valley Lithium refinery site in UK By Investing.com - Investing.com Nigeria",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWFp3YmlEM29HZVo2Y1NVWjE5ajlaSHFrSEtjOXJxSXVtQ3ZzZWZxZmJKck9abDJIN0pTOWVMdW8wREJ4cV9zckJpTHMxcVdZUW5yX1JZU0RQZEZxWTBQS1B0UWxvTmcxWm5PUndfbjRwaXE3cHhTblJ4RkhTcEc3ZnctWF9zQmZNaVhYMk8wUXhwUS14UGdsQVhwMXhZQnVMM0J2eHNXYmpLdkZWSWFpcEZxSE1Kb2s?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-09-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sapphire Minmetals Aimst to Expedite $2B Lawsuit Against Glencore, Chairman Says - Claims Journal",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZeS1waUdjcWtNNWRqbXhQY0RGWHdpR18xV1VzZkVuSWxxZjNzejFvMV9lZW40OUxxMDdjYVlGbnlGTzFScGYyQzNtc3FEWFFTeVJzR1dzYzNfYVdZNjhDdlJWeFZiY1JlR0pYMlRCUDM3aEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-09-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore ASX listing could reopen Rio Tinto merger path, says RBC - uk.finance.yahoo.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSmdVSnV5U0dBVHVidm9fX2s2NjYyNno1aExtSDBsVkR4OE1VMVlsYm9GbnBxZ1FuMDVPV2RVMHdLejI3YUNFQTh4RHJ1d3ZZSHpVZ3JjTHNYQk5Xa1VncTB6enJMMnEyNHg2ZTVGZFYyRGZhbU5FdHpCMzFnT2N3bnlmRVozUFRWanc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-09-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Key facts: Glencore plc ASX list 14 Oct; $2bn Singapore suit, contests - TradingView",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMGNFMkE0dEdRcFFhdHdZUzEtbkxqTDRsWVdzXzhvMTF0clBCNGE0dlFDSWh2SVRheEJlUWUxV196eWxpVktlU2ZpdHJQS1pXX0RzNVVoVGRKeDJ3ZTJQRTRpdXdRWkptQVBBdEVlM3dxbFNUd0tlTVR0T0NGRlgzTDYwQi1iSEpJVmxxdGJwd2tXWjFzT2pfM2hieFNSUVQxSmlpdVIybUMwdzNxWWVsaGFuaDJYSmVqSV9DUndzOGV2NTVhWlFJ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 4
+      },
+      {
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "abtc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 140,
+    "too_old": 100,
+    "gate1_blocked": 9,
+    "gate2_blocked": 1,
+    "passed": 18,
+    "pass_rate": "14.1%",
+    "gate2_block_rate": "0.8%",
+    "gate2_samples": [
+      "ERG and Glencore sign a PPA for the supply of over 800 GWh in Poland - Energy Global"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為嘉能可、陶朗、WCN相關動態：「Tomra stock reports 25 percent revenue growth in Q2 - AD ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tomra stock reports 25 percent revenue growth in Q2 - AD HOC NEWS（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Glencore visits Tees Valley Lithium refinery site in UK By Investing.com - In...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

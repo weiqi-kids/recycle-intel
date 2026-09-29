@@ -1,0 +1,12 @@
+{
+  "total_raw": 268,
+  "dup_title": 140,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 9,
+  "gate2_fail": 1,
+  "passed": 18,
+  "gate2_samples": [
+    "ERG and Glencore sign a PPA for the supply of over 800 GWh in Poland - Energy Global"
+  ]
+}
