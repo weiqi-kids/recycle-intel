@@ -1,0 +1,14 @@
+{
+  "total_raw": 269,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 7,
+  "gate2_fail": 3,
+  "passed": 27,
+  "gate2_samples": [
+    "Berenberg Lifts Glencore's PT, Maintains Buy Rating - marketscreener.com",
+    "State Street Ceases to Be Substantial Holder in Sims Limited - Kalkine",
+    "California approves labor-backed force majeure updates and other laws"
+  ]
+}

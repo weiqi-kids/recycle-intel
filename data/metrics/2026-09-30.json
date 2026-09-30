@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-30",
+  "total_events": 13,
+  "by_company": {
+    "tomra": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "glencore": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "aurubis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "abtc": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 12,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "plastic_recycling": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
