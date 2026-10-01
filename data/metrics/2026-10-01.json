@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-01",
+  "total_events": 20,
+  "by_company": {
+    "tomra": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "waste_connections": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "aurubis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sims": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "abtc": {
+      "count": 11,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 15,
+      "sentiment_avg": 0.07
+    },
+    "industry_general": {
+      "count": 19,
+      "sentiment_avg": 0.05
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "battery_recycling": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

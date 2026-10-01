@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 104,
+  "gate1_fail": 5,
+  "gate2_fail": 5,
+  "passed": 31,
+  "gate2_samples": [
+    "Glencore’s Hunter Valley coal mine cleared to 2045 - The Northern Miner",
+    "Glencore (GLCNF) Eyes Venezuela Coal Venture Amid Shifting Marke - GuruFocus",
+    "UPDATE: Trash transition leaves Beauregard Parish without carts - Beauregard News",
+    "State Street Ceases to Be Substantial Holder in Sims Limited - Kalkine",
+    "California approves labor-backed force majeure updates and other laws"
+  ]
+}
