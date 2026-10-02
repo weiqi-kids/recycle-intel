@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 4,
+  "gate2_fail": 5,
+  "passed": 34,
+  "gate2_samples": [
+    "Glencore Advances Share Buy-Back With Off-Market Repurchase From UBS - TipRanks",
+    "REG - Glencore PLC - Glencore receives RIGI approval for Agua Rica - tradingview.com",
+    "UPDATE: Trash transition leaves Beauregard Parish without carts - Beauregard News",
+    "State Street Ceases to Be Substantial Holder in Sims Limited - Kalkine",
+    "California approves labor-backed force majeure updates and other laws"
+  ]
+}
