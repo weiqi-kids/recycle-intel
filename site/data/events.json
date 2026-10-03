@@ -1,5 +1,46 @@
 [
   {
+    "id": "unknown-2026-10-03-001",
+    "date": "2026-10-03",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Miner Shift: Rio Tinto Trades Ownership For Offtake – OpEd - Eurasia Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxORVR0X01BNmx0OEFyZnVZdS0yU096czc1bTVmLWlmOWMzMUZtTU5OTUlQdGV6RlFVUnpDcXMyTDFpVVZGWGg1RTdnY0tyajQ2SklBYXg5SWRkdS1wWlpINHZNZzZSZWR0dms3OU1BbX",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORVR0X01BNmx0OEFyZnVZdS0yU096czc1bTVmLWlmOWMzMUZtTU5OTUlQdGV6RlFVUnpDcXMyTDFpVVZGWGg1RTdnY0tyajQ2SklBYXg5SWRkdS1wWlpINHZNZzZSZWR0dms3OU1BbXhkQUw1MHQwLXpXWlFjUGdjeWRVZHZVNFZwZ0JzZEgzd1d4R3l0eVNLOEUwMm80QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-10-03-002",
+    "date": "2026-10-03",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Do Upgraded Earnings Forecasts And Oversold Signals Might Change The Case For Investing In Waste Connections (WCN)? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOSGthd3hzYXhTYnFybzFLUGVKMUIxOXVSNFIzck9qT1FEMWhHZklBbFRFbk56bXdBTG0tQjVlSnd6Q3U2bFJkdEJ6VGNueDBYRENxVjQ0RElvc085eFl6Y1ZkY1Atc3FaTk1aLU9FWG",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSGthd3hzYXhTYnFybzFLUGVKMUIxOXVSNFIzck9qT1FEMWhHZklBbFRFbk56bXdBTG0tQjVlSnd6Q3U2bFJkdEJ6VGNueDBYRENxVjQ0RElvc085eFl6Y1ZkY1Atc3FaTk1aLU9FWG1DcTR5MDZzVkJpVW1rUVQwQnBpTmY4dlp3ZUtUek5yd20zVUswdE1uMFBVbjdkclBLT0pCdE5VSEZxaDhCRmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-10-02-001",
     "date": "2026-10-02",
     "companies": [
@@ -299,6 +340,227 @@
       {
         "name": "abtc",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwX0FFYXZLb1BuNFdJellnQ0ZIZ19DclZFdk9XT0IwUTBuLVZ6X0tJU01sRXVwOG1xczNmVFpxc0FfREtRa1U0alVwWGJEVW9ZLWxEMHRmTDdpSFRSRjdYZXN3MVlWTmtHU0ZWRWoxQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-10-02-016",
+    "date": "2026-10-02",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Barclays raises price target for Tomra to 140 Norwegian kroner (120), reiterates overweight - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVFFXX2psOUlUU0FXUXpUQkw2Sm9yeWxSU1hmSnkwV1F2bGwwbmNFV29IWGZENVZGTlpubHlfNTl3cUxYekpTbjd3RVZrd2hWd0tRSlJSaU9hcnBOSGtsUzQ1QmNZZzBmOGo1TkxoeW",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVFFXX2psOUlUU0FXUXpUQkw2Sm9yeWxSU1hmSnkwV1F2bGwwbmNFV29IWGZENVZGTlpubHlfNTl3cUxYekpTbjd3RVZrd2hWd0tRSlJSaU9hcnBOSGtsUzQ1QmNZZzBmOGo1TkxoeW9IYjdWSjFpYXN3RGY2Q29CakRiNm9nWXdGcTNEbVJFUV9HeS02NktKaU1acnkyeUVVXzBqdkIzVzdCXzlKZFd1bGpxSmxYZS1ET0JYaHJTUnJudXN5TkJ6QWZSTVBDbzJ1bWZLLUxYVE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-02-017",
+    "date": "2026-10-02",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore says trading profits will top $5 billion this year - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPM3lNT1Awa0dCeUlWSDljWTJVUmtRS2pXYkV0ZU1OYnRURDVPT0h6TzlJTmRkZ0NJQWZ1bjZjZ1UwMHlpcTZFc0kwckxRaVBJdDRoUWJ0UXNLNkV1cUpDMUo2bjlhcXE3TkxoZnJCZG",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM3lNT1Awa0dCeUlWSDljWTJVUmtRS2pXYkV0ZU1OYnRURDVPT0h6TzlJTmRkZ0NJQWZ1bjZjZ1UwMHlpcTZFc0kwckxRaVBJdDRoUWJ0UXNLNkV1cUpDMUo2bjlhcXE3TkxoZnJCZGs3OS1pbkc3c0l1S1dXTjBNbEFtNXYtaHB3Vm9uR3dYVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-02-018",
+    "date": "2026-10-02",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Wins Key Investment Approval for Argentine MARA Copper Project - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMGpBenRCeVdxaDdua3UzekhtWFYtNU5fVGtSQWdpZ3BxQzl2OG1zM2FjYlVDZlNJS0tOY0tlT09uNktFaEZWV2gxRVJrLXJLWHBsMjZIWkFKX2VUel9idUFSempHUFpyVjRDSUxXMl",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMGpBenRCeVdxaDdua3UzekhtWFYtNU5fVGtSQWdpZ3BxQzl2OG1zM2FjYlVDZlNJS0tOY0tlT09uNktFaEZWV2gxRVJrLXJLWHBsMjZIWkFKX2VUel9idUFSempHUFpyVjRDSUxXMlc2cXk5ZkRJUDg1bUZxRllGdUFsblg2N0NuUktYNTR5Z2VKak45MWNJWjY1VjlfcHF6WjNoVndvVHpQaktVaWRPbGhXb3RNSXRJaVhpdktCbEI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-02-019",
+    "date": "2026-10-02",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Says Trading Profits Will Top $5 Billion - Briefs Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQeDc4T0R0VUd5WTh5WXQwMWJZZ1l1TXRyVFVzMVp5RktVYzdfRlI3R29aOE84ekhxQ29VZkxsUXlwUmVIQ2E1LWVVckQ5N1lYQUJVeEczNVZ1UzF5eWQyd2JiRTNzTTJsMUs0T2JCN1",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeDc4T0R0VUd5WTh5WXQwMWJZZ1l1TXRyVFVzMVp5RktVYzdfRlI3R29aOE84ekhxQ29VZkxsUXlwUmVIQ2E1LWVVckQ5N1lYQUJVeEczNVZ1UzF5eWQyd2JiRTNzTTJsMUs0T2JCN1Y1MGZKRHpQY1VhY2JRYkFFLTZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-02-020",
+    "date": "2026-10-02",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Argentina adds Glencore's US$4bn MARA copper project to RIGI - BNamericas",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2FmRDVHeHEyUWR6Mlp3R1V4N2MwNXdzTmJsWUVZb01OLXdWenlucWd6WGZUNDFOU2hQSi1acFpQRk05X2ljODdUblVUdjlsb2dSUFNCNm1LY1p0ZXNBREFGQjNqeDNIc0hWLU1UTG",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2FmRDVHeHEyUWR6Mlp3R1V4N2MwNXdzTmJsWUVZb01OLXdWenlucWd6WGZUNDFOU2hQSi1acFpQRk05X2ljODdUblVUdjlsb2dSUFNCNm1LY1p0ZXNBREFGQjNqeDNIc0hWLU1UTGlWTUx5cVFVbjRyZ2FLaWY0eUhLdVBtQlhCcnlRSWc1REdmekJqbnUtOXZhb3N0ZkZTSVFCdV9kcUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-02-021",
+    "date": "2026-10-02",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore plc receives RIGI approval for US$4B MARA copper plan - Mugglehead Investment Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA1dlFDenRlelRYeGpBdVFTa19FSkNEa2V6N3d2cnh4cWo4ZFRkbnZLNjBpS1FUQ3hEMzFvVkJfa2FJc3c5NGVIY193N0ZzanRmWEJVU1ZtV29jRGlWNTBZSERNUUFkV1hyT2FhZ0gyN2",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1dlFDenRlelRYeGpBdVFTa19FSkNEa2V6N3d2cnh4cWo4ZFRkbnZLNjBpS1FUQ3hEMzFvVkJfa2FJc3c5NGVIY193N0ZzanRmWEJVU1ZtV29jRGlWNTBZSERNUUFkV1hyT2FhZ0gyN2ZCNkNUUEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-10-02-022",
+    "date": "2026-10-02",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Barcelona Water Contract Altering The Investment Case For Veolia Environnement Stock? - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZkxWbkdwTDBRMThEZXpKY2d2RzBkVF9jSnJrVGMzS3R3dl9RTWVFZ3BoZ1NGSmNqcjJoWC16YVNkazVlbElMOFlYczVPV2t5YmJKVnlWdE1nWjJmMWFjY01LaVowZF90MVZfTV9lMk",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZkxWbkdwTDBRMThEZXpKY2d2RzBkVF9jSnJrVGMzS3R3dl9RTWVFZ3BoZ1NGSmNqcjJoWC16YVNkazVlbElMOFlYczVPV2t5YmJKVnlWdE1nWjJmMWFjY01LaVowZF90MVZfTV9lMkhhT18yNVZxUDdjRkN6NF96MmJRZ3pmUTVRaUdnTGV3S0dHa3dva1drWVNJZ1p0UjczblgzZnlQd3ExR3JPc1QwbmlaVHVSQXRwa2NHZFJIWWxZdXc4ZTgwOTJ0MDJ5aHE5YjFjYVVCZW1sTHPSAeABQVVfeXFMTjBNeW9FN1ExTXowYVVIbWhhbEN5ZG5pQkRIS21FSkM0b19jV3oyanhyWmdreWRReFhWNEpJSXZZN3U5NXBfVUFsWkUydU1DS1NFY2pGVEdRMERjaTI3YlB4bDJEekN5bGdDdzVfeGlPa2N4ZlRlZi1VLUJsc3pzZGJJQ0RGSHNfcS1yR0ZwcW1BR1Y3NThVUnpTR3VsUWhvNm9JVlp4czFWSzJNbTdFU2ZWZTA2X25iQVJvSUIxdzNsQjRZSUtOYnVnWThkZUJIYzI1UmVyYnlGUkd5M3c1em8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-023",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery granted export license for $100M in black mass - Waste Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0k3ZVVMQlRhZ3BBRVk5OXZyX040NkJqRXJ3cWlDSEROY1ppX2dmN2hKNmhCYjQ0LUwtM2xmWExWYzYtR0tmbHlPVkJIUTR5M2JoVjd6aElGNkh6WGR1a1ZFc3diOU1GZGdoRUZLRT",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0k3ZVVMQlRhZ3BBRVk5OXZyX040NkJqRXJ3cWlDSEROY1ppX2dmN2hKNmhCYjQ0LUwtM2xmWExWYzYtR0tmbHlPVkJIUTR5M2JoVjd6aElGNkh6WGR1a1ZFc3diOU1GZGdoRUZLRTNOZTNFZ3NrNmV6UFFKZV9yd0RGNHRUN0N1cmlUSmJMMTI4SUk3MVNZRkhsMG0yQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-10-02-024",
+    "date": "2026-10-02",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "battery_recycling",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery granted export license for $100M in black mass",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/HOLRG-df0j9xTrYFCBPQwbuCleG1ytrbvbUvGebOP14/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbWVyaWNhbkJhdHRlcnlUZWNoX0JsYWNrTWFz",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/american-battery-granted-export-license-100m-in-black-mass/832013/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-025",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "circular_economy_policy",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Qatar expands recycling infrastructure to support circular economy | Gulf Times - Gulf Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGtfRHpPX3pRYld2Q0dzbG5saG1qV2xDeTFXWG9IYVB1SkNRb0FQN214cHBzYnZaZUQwYVZteXBLRXNsTHdkNjJJeHhHLVNCdUJFMVNBdzgwa1VvMVRCMmlRVUdpVDV6cTJJWXVTTX",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcGtfRHpPX3pRYld2Q0dzbG5saG1qV2xDeTFXWG9IYVB1SkNRb0FQN214cHBzYnZaZUQwYVZteXBLRXNsTHdkNjJJeHhHLVNCdUJFMVNBdzgwa1VvMVRCMmlRVUdpVDV6cTJJWXVTTXhxY2h2SEJtMTBtTktwbElOal9PX2RGLTlhcEo3UnlsdHpwSExaVnVVYVhNc2NRdDJ0bmJJQkFkUW05Q29BZGlpNHVJZnHSAboBQVVfeXFMT0lENGY0SUpFRm1PMXljVWZpM0FuM3Q1WVhkeE5ra0N5MFowVlliOVhpbXF1Y3BITl9kOURCTXVwY1g5VzBRX0tzam9YemZETjNIczJrZWJyQWRJbEpwbHBkajZ6dXgzZWhoWUtwdnY1S0dSdW5UNzBCVkVQUG5OeVRqSE8tZkI3X0Fqc3BwOVZoWVlwajNPRHFtOHlhRmJaNzYxMmlTd19EdDlkTjFmQjN3aUNacE5DWnl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-026",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EV Battery Recycling Market to Grow from USD 0.54 Billion in 2024 to USD 23.72 Billion by 2035, at a CAGR of 40.9% — MarketsandMarkets™ - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPeC13U1NndGxvTFdjbmpGSWZpVWpQVHk4aHltNTA3cEN1eUlEQnhQVFpGVWRUc2pqZnRESVd5R1N3azFFRkRvMFVkSElmRWMzWU45VDBid0dUbWhIV1dMRDRDMjBZcFdQNDVFeWl0a2",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeC13U1NndGxvTFdjbmpGSWZpVWpQVHk4aHltNTA3cEN1eUlEQnhQVFpGVWRUc2pqZnRESVd5R1N3azFFRkRvMFVkSElmRWMzWU45VDBid0dUbWhIV1dMRDRDMjBZcFdQNDVFeWl0a2MyVWkwX1JSQy13UGg5YzA1RGs4Sy1IWURjcUlUbkFoSmw2bEU?oc=5",
         "type": "rss"
       }
     ]
@@ -1000,6 +1262,89 @@
     ]
   },
   {
+    "id": "waste_connections-2026-10-01-035",
+    "date": "2026-10-01",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections, Inc. (WCN) Stock Forecasts - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNNy02N2xLdjBidGtQSFNhWjd3THphYUFJTzQ0SmJkbTg4R05DYmJOcVp6MVcwNWVocG5ieFhXSllWdUlmVDFXclRUdjhjUldlSGVRYUdHWWlGWmxWdUVWYjZVYXB0RDJsVHlWMnZJMU",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNy02N2xLdjBidGtQSFNhWjd3THphYUFJTzQ0SmJkbTg4R05DYmJOcVp6MVcwNWVocG5ieFhXSllWdUlmVDFXclRUdjhjUldlSGVRYUdHWWlGWmxWdUVWYjZVYXB0RDJsVHlWMnZJMUxWdTlzZ3RUdkM0bEVCSFBhM3VyM1Z3dm5CS3NfeEhYc1YzUFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-01-036",
+    "date": "2026-10-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VEVAC Bond Profile: Coupon and Redemption - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1kMTJhemxvUF9WTTlva2ZqaEJiUFdIU2gtQXNHSlZ1eVpnX2JLSGYtbTVyU1FTT0xFa3VLWklwR2xfVGlHXzFjYllTdkNPZmk4b25nRDZZa2hBNm9uRTNNVEczM2p6dmlOcmh3?oc=5\"",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kMTJhemxvUF9WTTlva2ZqaEJiUFdIU2gtQXNHSlZ1eVpnX2JLSGYtbTVyU1FTT0xFa3VLWklwR2xfVGlHXzFjYllTdkNPZmk4b25nRDZZa2hBNm9uRTNNVEczM2p6dmlOcmh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-10-01-037",
+    "date": "2026-10-01",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "battery_recycling",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology Company gets BIS export license for up to $100M of recycled black mass - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxONzRJYy1UbjNuTFNGU2o1Qmtjb0Y5Q256akVlUFM3dDNKWFNzUFRCUkJ3STBQYWgwMzAxN2RVNzhBYV9YMEQyUVhTNWxJUklaUkdXaWFWcEZlcXV4YmZDVUFPbDRyY055dzRUYnpYX3",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONzRJYy1UbjNuTFNGU2o1Qmtjb0Y5Q256akVlUFM3dDNKWFNzUFRCUkJ3STBQYWgwMzAxN2RVNzhBYV9YMEQyUVhTNWxJUklaUkdXaWFWcEZlcXV4YmZDVUFPbDRyY055dzRUYnpYX3h1SUFCZDBqOFAtMlkzZEZUTXdRcGlBZmlIdXB5bm9oNmNYME1xYm91OWx3X282ekNuRTRhQjExRVVUZG84bkZSLThOMkVzTjRvYllvUGhwdkxscUlwR1U4dG9hd2NNWU9pUjhqSFJQUHpjRlo5M2RjNG1lOHlBdXcxNEVkcVRtS0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-10-01-038",
+    "date": "2026-10-01",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "battery_recycling",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology Gets License for Up to $100 Million Black Mass Material Exports - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQm4zcEwxYWh6WGdkVUdmc0pyQmVUVEp1cXRPTEhPNWN0VU1hYzUwX2Q4Q0gzZ201Uy03SmFUUV8teW9WbU16TlhyaEloX3h6bDF4VU5DYkRwdHk4eFVuSUVSYTRtUWVRblppbmxLT1",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQm4zcEwxYWh6WGdkVUdmc0pyQmVUVEp1cXRPTEhPNWN0VU1hYzUwX2Q4Q0gzZ201Uy03SmFUUV8teW9WbU16TlhyaEloX3h6bDF4VU5DYkRwdHk4eFVuSUVSYTRtUWVRblppbmxLT1hfQ1kwY1J1ZkNBMTdFSkowNkU3TnppV1BZNHZJM2FnZXpEYTRRV0Q0SkJKeENiQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-09-30-001",
     "date": "2026-09-30",
     "companies": [
@@ -1420,6 +1765,27 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/federal-epr-packaging-push-world-wildlife-fund-sc-johnson/831753/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-09-30-022",
+    "date": "2026-09-30",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Announces Dates for Third Quarter 2026 Earnings Release - businesswire.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWUzckI3czJDZU9tbnBlNDR0SF9LbnZ3bmdQUV9JbXMyM09TZ1JhRnVzMWJaVFE4UVdsQzV4QXNlZzFqUlFZREx6a1lLbnVOMWdtTlJBMlJFYVhHTmlhYlN3eVNzQjd5X3R5WTJaSD",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWUzckI3czJDZU9tbnBlNDR0SF9LbnZ3bmdQUV9JbXMyM09TZ1JhRnVzMWJaVFE4UVdsQzV4QXNlZzFqUlFZREx6a1lLbnVOMWdtTlJBMlJFYVhHTmlhYlN3eVNzQjd5X3R5WTJaSDRTNmpTN09yTV9McUF4Y1B4U2cybnpJbzJiNmx4VWtxWEdUT2tLVHUxUGpmMHBIanBVQTlBczJDNHQ3R2s2dmdDSklIVEF3MEFDZ1BjQmMyOEh5V3Q3REZfV3pB?oc=5",
         "type": "rss"
       }
     ]

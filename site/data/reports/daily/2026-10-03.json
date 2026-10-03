@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T12:59:26.873927Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Miner Shift: Rio Tinto Trades Ownership For Offtake – OpEd - Eurasia Review",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORVR0X01BNmx0OEFyZnVZdS0yU096czc1bTVmLWlmOWMzMUZtTU5OTUlQdGV6RlFVUnpDcXMyTDFpVVZGWGg1RTdnY0tyajQ2SklBYXg5SWRkdS1wWlpINHZNZzZSZWR0dms3OU1BbXhkQUw1MHQwLXpXWlFjUGdjeWRVZHZVNFZwZ0JzZEgzd1d4R3l0eVNLOEUwMm80QQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "waste_connections-2026-10-03-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Do Upgraded Earnings Forecasts And Oversold Signals Might Change The Case For Investing In Waste Connections (WCN)? - Yahoo Finance",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSGthd3hzYXhTYnFybzFLUGVKMUIxOXVSNFIzck9qT1FEMWhHZklBbFRFbk56bXdBTG0tQjVlSnd6Q3U2bFJkdEJ6VGNueDBYRENxVjQ0RElvc085eFl6Y1ZkY1Atc3FaTk1aLU9FWG1DcTR5MDZzVkJpVW1rUVQwQnBpTmY4dlp3ZUtUek5yd20zVUswdE1uMFBVbjdkclBLT0pCdE5VSEZxaDhCRmc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 149,
+    "too_old": 94,
+    "gate1_blocked": 3,
+    "gate2_blocked": 3,
+    "passed": 18,
+    "pass_rate": "15.3%",
+    "gate2_block_rate": "2.5%",
+    "gate2_samples": [
+      "UPDATE: Trash transition leaves Beauregard Parish without carts - beauregardnews.com",
+      "State Street Ceases to Be Substantial Holder in Sims Limited - Kalkine",
+      "California approves labor-backed force majeure updates and other laws"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為WCN相關動態：「A Miner Shift: Rio Tinto Trades Ownership For Offtake – O...」。主要關注主題為財報、產業通用、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "A Miner Shift: Rio Tinto Trades Ownership For Offtake – OpEd - Eurasia Review（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Do Upgraded Earnings Forecasts And Oversold Signals Might Change The Case For...（財報、展望、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

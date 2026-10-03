@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-02T14:24:16",
+  "updated_at": "2026-10-03T12:59:24",
   "etfs": {
     "SMH": {
       "name": "VanEck Semiconductor ETF",
-      "latest_price": 635.49,
-      "daily_change_pct": 2.86,
-      "flow_5d": 95397517,
-      "flow_20d": 436941204,
+      "latest_price": 630.6,
+      "daily_change_pct": 2.07,
+      "flow_5d": 148880171,
+      "flow_20d": 490423858,
       "flow_trend": "inflow",
       "daily_flow": [
         {
@@ -185,18 +185,18 @@
         },
         {
           "date": "2026-10-02",
-          "flow": 40202817,
-          "volume": 2273915,
-          "change_pct": 2.86
+          "flow": 93685471,
+          "volume": 7324900,
+          "change_pct": 2.07
         }
       ]
     },
     "SOXX": {
       "name": "iShares Semiconductor ETF",
-      "latest_price": 595.44,
-      "daily_change_pct": 3.32,
-      "flow_5d": 41119390,
-      "flow_20d": 424863974,
+      "latest_price": 588.9,
+      "daily_change_pct": 2.18,
+      "flow_5d": 83055651,
+      "flow_20d": 466800235,
       "flow_trend": "inflow",
       "daily_flow": [
         {
@@ -369,24 +369,24 @@
         },
         {
           "date": "2026-10-01",
-          "flow": 46402998,
-          "volume": 6034200,
+          "flow": 46799802,
+          "volume": 6085800,
           "change_pct": 1.35
         },
         {
           "date": "2026-10-02",
-          "flow": 42587782,
-          "volume": 2228560,
-          "change_pct": 3.32
+          "flow": 84127239,
+          "volume": 6692700,
+          "change_pct": 2.18
         }
       ]
     },
     "SOXQ": {
       "name": "Invesco PHLX Semiconductor ETF",
-      "latest_price": 104.25,
-      "daily_change_pct": 3.25,
-      "flow_5d": 530111,
-      "flow_20d": 5524270,
+      "latest_price": 103.41,
+      "daily_change_pct": 2.42,
+      "flow_5d": 2737395,
+      "flow_20d": 7731554,
       "flow_trend": "inflow",
       "daily_flow": [
         {
@@ -565,9 +565,9 @@
         },
         {
           "date": "2026-10-02",
-          "flow": 901032,
-          "volume": 274705,
-          "change_pct": 3.25
+          "flow": 3108316,
+          "volume": 1273900,
+          "change_pct": 2.42
         }
       ]
     }
