@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-04",
+  "date_range": {
+    "start": "2026-09-28",
+    "end": "2026-10-04"
+  },
+  "generated_at": "2026-10-04T13:38:14.527523Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-10-01-020",
+      "date": "2026-10-01",
+      "title": "ABAT reports record breaking profits - American Recycler",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 57,
+      "last_week": 38,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.03
+    },
+    "earnings": {
+      "this_week": 42,
+      "last_week": 22,
+      "week_over_week_change": "+91%",
+      "sentiment_this_week": 0.04
+    },
+    "plastic_recycling": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 6,
+      "last_week": 2,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "battery_recycling": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "tomra": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 4
+    },
+    "glencore": {
+      "event_count": 28,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "waste_connections": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "veolia": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "abtc": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "aurubis": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "sims": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 136,
+        "last": 137,
+        "change_pct": -0.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-28",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-29",
+      "event_count": 21,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-30",
+      "event_count": 22,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-01",
+      "event_count": 41,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-02",
+      "event_count": 29,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-03",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-04",
+      "event_count": 0,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-28 ~ 2026-10-04）共 136 則事件，重點為「ABAT reports record breaking profits - American...」。產業通用、財報、展望為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "陶朗",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "嘉能可",
+        "reason": "本週出現 28 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "WCN",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,14 @@
+{
+  "total_raw": 267,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 4,
+  "gate2_fail": 3,
+  "passed": 10,
+  "gate2_samples": [
+    "UPDATE: Trash transition leaves Beauregard Parish without carts - Beauregard News",
+    "State Street Ceases to Be Substantial Holder in Sims Limited - Kalkine",
+    "California approves labor-backed force majeure updates and other laws"
+  ]
+}
