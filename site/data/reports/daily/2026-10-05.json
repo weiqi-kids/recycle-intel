@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:43:53.252729Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-10-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Barclays keeps Buy rating and NOK 140 target for Tomra stock - AD HOC NEWS",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbDI5aEc1SVFrYXRMZGpEMlpfNDVNM3JlTEFueW5zTzRWNDFIRXFXWnp2dU1sdzdjVEtTTWQ3dDlSenBOc05aY3BJSS1YVGdNUnhLUW1FZ0w1bkVJQkk3OHRVSXF3cGlhUWR4VXhUaTY1dWg2cEVTSlFSanpSakVSQzl6RUN1MF9sOExSNlpMTFZhX3pQdTFiUnN3QmZPTTlVR0N6WXRMMl9ZOFRPNGFBMGpiMmdpcmkteWxCNlB4VEM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-10-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore raises marketing profit guidance as Citi flags consensus upgrades - Yahoo Finance UK",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWl9EM2g5ekZQVXVJQ25zZzdiM1g2UUhiUktIZ1JiZ2dWTGZ0Ti1LczN2RldrUGtRT3NyMFZKUTdLR3haMnA4Z2FYTV9EN2w0bkh2bjBpQjdGUUZmeS1fM2prblM3LVphVHpLNmFVQkJFYWR3RHVkVFVCaTFIdW9VV2g3THc1bFFvb1E0MWdwNjFZZWdD?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-10-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore secures approval for MARA project in Argentina - Mining Technology",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSkk5cGdscnNtcEk4c2xiNGVTak1Hb1otYzRJcjVUYlppOWo1QXQxb0VFWEZOQzNpSkNIbDB4empnRGJCaXFrQ2llVmI0Tlh6M3RlelIwY25HS3ZaSnJVMldsWVQyS1BRazhjdjZadko0SEpHajhBc01tNEgwbFE0WEdpSFRMTnM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "veolia-2026-10-05-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement (ENXTPA:VIE) On Barcelona Water Deal And The Case For Undervaluation - Simply Wall Street",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnZldG5DUV9uTjRLbThBMTJOTkZCcnAtR1lmakR0d2hoVGpNM1NWQU5zY0dWa3M2dHp2RTlWb3UtSkthVURWSmN1VlpNd2xFdklRRUhOb0hOWC1WOFVRcWwwZHdLQ2Vlb29GMEhzUTNTNXlMOGJXMWN3U016MndZanhvQ1hfVDh3akRrcG5jMnFERG5pNk9PdmE2TUd2X3ZGWWlsUzI4VUNXcFFIM0V1aUhSLU56UkhwUGI5ZWJ3clhtUDJEX0FBbG9PaGg3ZjA2Y2tIdjBkMG5ldmvSAeABQVVfeXFMUFY5UjAzYzJDRG1LeFBLTWtVVXUzVmxWbXdxbjIwazVweGY2UUVmeXVoS0pvNTBWeWk4TjBPWXhkdDhobW1lNUptSUhGaWJYR2MwRDNFTF9jd0ZzWVVQZk1VNW5KcjJuODhMTU5jd1FNYTQwTnQ5YkMwcm1FUDdVdkNGelU3MXhyLVdzMXlicGswLXAtMGFidkhlZmFYOVNzUGxoTTNYbHAxUGdjNnROUW9ZVG5OSjhPVU9qUWpDUXFUcXZIYWN1U0s0QXZpa1pHSEk2a2N2bWx3bXhJeTlsNjE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-10-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Copper Bottomed: Glencore's Blockbuster H1 Surge - Mining Digital",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjdja2wtWkx4TG5Cdl83ZndFVzVRYndoWjB3ZVlmMWdiUXdDSTJJa2ZwSkFyVTBpN1NOODdFQjZBTUFFU0pDcTZuRnBYSWhyWGhfaHIyUzJpa08yOG9aZEZNa3psNTQxV1FGamFWS3haNWM2T2pRUXdGR0JMUEJ2aGVxU2w4U09J?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 5
+      },
+      {
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 266,
+    "dup_title": 146,
+    "too_old": 104,
+    "gate1_blocked": 1,
+    "gate2_blocked": 2,
+    "passed": 13,
+    "pass_rate": "10.8%",
+    "gate2_block_rate": "1.7%",
+    "gate2_samples": [
+      "State Street Ceases to Be Substantial Holder in Sims Limited - Kalkine",
+      "California approves labor-backed force majeure updates and other laws"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為嘉能可、陶朗、WCN相關動態：「Barclays keeps Buy rating and NOK 140 target for Tomra st...」。主要關注主題為產業通用、財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Barclays keeps Buy rating and NOK 140 target for Tomra stock - AD HOC NEWS（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Glencore raises marketing profit guidance as Citi flags consensus upgrades - ...（財報、展望）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
