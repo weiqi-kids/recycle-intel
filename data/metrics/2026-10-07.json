@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-07",
+  "total_events": 10,
+  "by_company": {
+    "glencore": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "waste_connections": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sims": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "circular_economy_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
