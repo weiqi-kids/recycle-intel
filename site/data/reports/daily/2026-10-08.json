@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T15:09:25.458421Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-10-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pareto Securities lowers its price target for Tomra to NOK 173 (193), reiterates buy - www.marketscreener.com",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcVlfNExHTWdBNEV1NW5Kc2FaY1F3RWlVTk1zVXotdFVLOGotWl9WOTJybHBoMVRIUjRsNkF1VW5tQ2YteG1McUhNeDdQcGdJb3hORDRDQjFQYWtydVRfbjVqcTNnaHBSc0VWeFlFZ0RhbVdPd3NLQVN6X3pKRGctdjdlQUwxakMyRWRsR0toR0tIbXZELXQ3NjE3MWhGZ2swNVZHN1BUVjBBZWlMTXo0NG9GbDFwVkNPaFNyakh3c2JJYXhEQ1ZxNm8yZVp3clE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-08-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FR1266316 Bond Profile: Coupon and Redemption - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sSjgxd1Q3bVBZMnZzSFNPckQyZFhqZXQtT0tKX3k2TkExWGNKeXBCTlJHNFM1VVVrS28tVldKLUJpOTQxWW9jSWI3YUpydzhhNHRVS1A4dFMyVHpORGVQTktUYU1yRkNFNXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-08-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Qatar accelerates circular economy drive with new recycling investments and waste-to-energy projects - Arabian Business",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "circular_economy_policy",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT0tjNTlCZDNNXzg1SFZqY1RSM1F0UE12MkM3WjNxSU1oLXRvUWcySjRjWUNicHlnWWhoOGhHZzNEZWFad2lQaWJaZ1RubnZnZllfTnlMbC1scWFWMFBocGJpS0Y5bHQ1OTFCejU1RzBMaThCQjlzMmgxM3BjYU1mOGhwdHZ4ZzYxcDA2N0tlTGxoNXR0bzdPVzAyVlFwcGRWaWxNZ09CUzVKNUxHYTE4Y1Mza0JXSDl1NDZGc3FjTWlncHBlQk02V0ZJUkVEX0t1eEdaclNiTWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tomra-2026-10-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pareto cuts target for Tomra stock to NOK 173 from 193 - AD HOC NEWS",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWF1ZHZDTklaTXJvUjgyazdnaWp2T1hMQ0ZrQlFFUTN2NjM5Z3E2cW9RRW5VOFRIeWxqSmRLRmwyX3hrd3dIRFZHLXVYYmhHTjJpaXVDSEdjd2lZaUwzMllLdjV4a0wxWW82YVZSU19TanE0WVBtUDYweU9LYlhWOGZNNGNFdl9ESW9EUVBHbjBmR3RLT1QyWlZaT190T2NkVmVVZnZYa2d0RjhMVExuekdGWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "waste_connections-2026-10-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Waste Connections (WCN) Undervalued Following Its Pullback And Digital Margin Bet? - Simply Wall Street",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQanJLZWlLTkVjbEU1ZEJiNDBHeUtVSnlTdFFaLVNXelpKRjN1ZzdxcW5sMnEySnhrNlo2eGNzdUlpUFoyR1cyN3N0VXBCSE12V3RfcjdBWDl4aF83UjJjUnlWZGVoT3ZhQk9vM2oxajZGZmoweWdubGFBcUEzejFUVjVYczlGcFgyZ01sWkxoR0tMYUtEWGhlbTI2aHJ1T3NzNElaUTh0eG9Za3ZSbkNRR0U4cmdWYzRvQW14SXR2S0VKbkVIeTdwWnphY3JIOXk5T1l4b0RYc1lVYWZscXl4UdIB4AFBVV95cUxQanJLZWlLTkVjbEU1ZEJiNDBHeUtVSnlTdFFaLVNXelpKRjN1ZzdxcW5sMnEySnhrNlo2eGNzdUlpUFoyR1cyN3N0VXBCSE12V3RfcjdBWDl4aF83UjJjUnlWZGVoT3ZhQk9vM2oxajZGZmoweWdubGFBcUEzejFUVjVYczlGcFgyZ01sWkxoR0tMYUtEWGhlbTI2aHJ1T3NzNElaUTh0eG9Za3ZSbkNRR0U4cmdWYzRvQW14SXR2S0VKbkVIeTdwWnphY3JIOXk5T1l4b0RYc1lVYWZscXl4UQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "circular_economy_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 3
+      },
+      {
+        "id": "tomra",
+        "count": 2
+      },
+      {
+        "id": "sims",
+        "count": 2
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "circular_economy_policy",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 150,
+    "too_old": 98,
+    "gate1_blocked": 1,
+    "gate2_blocked": 0,
+    "passed": 18,
+    "pass_rate": "15.4%",
+    "gate2_block_rate": "0.0%",
+    "gate2_samples": [],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為WCN、陶朗、西姆斯相關動態：「Pareto Securities lowers its price target for Tomra to NO...」。主要關注主題為產業通用、財報、循環經濟政策，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Pareto Securities lowers its price target for Tomra to NOK 173 (193), reitera...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "FR1266316 Bond Profile: Coupon and Redemption - TradingView（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
