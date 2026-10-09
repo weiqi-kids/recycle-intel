@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T14:54:52.846067Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "boliden-2026-10-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Invitation presentation of Boliden's Q3 2026 report",
+      "companies": [
+        "boliden"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-10-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore Heads To The ASX With Copper In The Lead - Finimize",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0pSODNDazFNTk5YREhScTF4cXQ1RFN2TFFLN3ZtT0FTYTliRXhtOUFrV1Z2TmNmSUdwdW9rRVZrUERhWnlGa0J4Y0tRb01mNDlZZjktdEtGbkZSVmRrX19Sa01sTjU2X3JNNExhNUFfUERuMDhmaHZkVDh3cDhMU0lLWnk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-10-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore shrugs off coal concerns ahead of Australian listing - Mining Weekly",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXAtQlotWmxhdWF2OXllb29zQm83Mm1fVWJEdmlSRHJvUFVTMVB1czhRMzNDODU4Vkg3Y29JQ19ta0s3RnlXSGlaTGdsOXhFR0gwcTFYTm5jZ0tBeTlpNWpKdnFBbVhLMHgzMkxkTWx2OExSQnJSWDVPYVlrRTRBM3ZRSldBdVI4SWJoZWQtZnZrS2lSS05ITFNhRWZJQ19iTVVzLWt4Z0lpNFl1dWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-10-09-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore eyes ASX 100 entry as CEO revives Rio Tinto merger ambitions - AFR",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYmY0cHZSbTNpZzloSjRxMzd0VTUyV1hNeEtPTGVsZlh6XzhJNmprd1VjS3lzcVJ6OV9wRkRMbnF6Rng0S3BGeXQ3UHhFd21keHA0RzZQUXlvRkNxMHNNRVNBa3VabmdwMWRsS0VySGVwa0owWVZhdUw5ZDRGY2h5ZTZJTjlyVHpYZWZMbl9lSG91ckZzaGVLeUhvZ01kQWdrMllCR01kaGJYYVEyY0liODlBd2NRNnp4N3NJWU4xdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "veolia-2026-10-09-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia stock at EUR 31.20, 17.2 percent below its 52-week high - AD HOC NEWS",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeURDMjRNY0VXemdQdFoyQWdjMFBzSWhPbFJTZjZsNDk0N19fcElEX2tjbzVxTXZDUlRwMjN3dHB0UGE0VVAtOExhOHJ6SGRvTTg5aFY1VXo0aXZ3SWFqTEQ2OGZEZ2tvT1JiS19BNGZ2MUU0MlVDZGM2cE10VURmUXVkWGxvU25tZGgtM2YzSG9JMTU0RXFWTXVpZWdRTlNUWG1GWXdJUFMxM0tuUVJ5RG5jQjZEWnYzUHh6TUhDalVPdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "circular_economy_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 4
+      },
+      {
+        "id": "boliden",
+        "count": 2
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "circular_economy_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 149,
+    "too_old": 93,
+    "gate1_blocked": 2,
+    "gate2_blocked": 4,
+    "passed": 19,
+    "pass_rate": "16.1%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "Glencore sees electrification trend driving strong uptake for Australia listing - Reuters",
+      "Glencore sees electrification trend driving strong uptake for Australia listing - TradingView",
+      "Glencore secures approval for MARA project in Argentina - Yahoo Finance",
+      "COMMENTARY: Cheap coal and expensive gas set stage for year-end coal export surge - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為嘉能可、博利登、威立雅相關動態：「Invitation presentation of Boliden's Q3 2026 report」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Invitation presentation of Boliden's Q3 2026 report（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Glencore Heads To The ASX With Copper In The Lead - Finimize（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
