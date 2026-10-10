@@ -1,0 +1,15 @@
+{
+  "total_raw": 267,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 3,
+  "gate2_fail": 4,
+  "passed": 9,
+  "gate2_samples": [
+    "Tomra Systems (OB:TOM) After The Sell Off Is The PPWR Story Still Backing Fair Value - Simply Wall S",
+    "Glencore sees electrification trend driving strong uptake for Australia listing - Reuters",
+    "Glencore secures approval for MARA project in Argentina - Yahoo Finance",
+    "COMMENTARY: Cheap coal and expensive gas set stage for year-end coal export surge - Reuters"
+  ]
+}
