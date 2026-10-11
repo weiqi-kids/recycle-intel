@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-10-11-001",
+    "date": "2026-10-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FR14001I5 Bond Profile: Coupon and Redemption - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBubWkwbWhvcXN2VFpHc0RlU1hBTTNQcmlnTFdyUWZLZDNDOEM0ZGl4Y2RBODdHbzBhNGdGQjg1UnhYN3NnbnpfZlB6YkhEV0VlRW8yWktab3NqeWxvOGUtYXNaLU11dU1TdWc?oc=5\" ",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBubWkwbWhvcXN2VFpHc0RlU1hBTTNQcmlnTFdyUWZLZDNDOEM0ZGl4Y2RBODdHbzBhNGdGQjg1UnhYN3NnbnpfZlB6YkhEV0VlRW8yWktab3NqeWxvOGUtYXNaLU11dU1TdWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "veolia-2026-10-10-001",
     "date": "2026-10-10",
     "companies": [
@@ -57,6 +75,46 @@
       {
         "name": "aurubis",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUlMbzItaHNBQ09WQWdia3hSMmkwSjZsejlpYjBPUDQ1YzIxSEhOVnFGekxrRnI4MXRGOXNJWEtYVWNZZks4MDh5b0RzU0dHLUU4WGtzZ0YtZmlXQllJWldwR1NTWGlDalVOdFlobzVaQTNiZ3N2SHAzWTJzNVlXUEpIdUR2ZWoxSnFESlJRUVpkQmZTVXFKTkRaX3hTNXc1VElJWlE0eTI3YmFjejQ2c3ZKT2Nyb2hKS01BREZobjhGVGsyOFcyYl9NOGtXUdIBzgFBVV95cUxPaUlMbzItaHNBQ09WQWdia3hSMmkwSjZsejlpYjBPUDQ1YzIxSEhOVnFGekxrRnI4MXRGOXNJWEtYVWNZZks4MDh5b0RzU0dHLUU4WGtzZ0YtZmlXQllJWldwR1NTWGlDalVOdFlobzVaQTNiZ3N2SHAzWTJzNVlXUEpIdUR2ZWoxSnFESlJRUVpkQmZTVXFKTkRaX3hTNXc1VElJWlE0eTI3YmFjejQ2c3ZKT2Nyb2hKS01BREZobjhGVGsyOFcyYl9NOGtXUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-10-10-004",
+    "date": "2026-10-10",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Investors May Respond To Tomra Systems (OB:TOM) EU Packaging Rules Tighten - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWVltZjFTSUxsWWI5WHJZN004QVQ3UTV5aVVXMlJOckJNeWN5dUpEaWtfQ1I1SHltOGpPMHVZa3J3QnhfLU5TWWxkTEFacXVxcUhReHVGNFlpdVBiZUpRSVpfNGZ5RW44QjFjTjhscT",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWVltZjFTSUxsWWI5WHJZN004QVQ3UTV5aVVXMlJOckJNeWN5dUpEaWtfQ1I1SHltOGpPMHVZa3J3QnhfLU5TWWxkTEFacXVxcUhReHVGNFlpdVBiZUpRSVpfNGZ5RW44QjFjTjhscTFnY1BlckR5bWJVbUhnUVZTdEJGM2xMdm1vN0RpOG9taUs4eHNsVXBmcXFyYS1jWTNJV1puVzBucVBWNlFzV1dJbVB3RHBQVTFRSHJ5SmpSYU4zZWdOMm1GZ1N3ZGlZcGxWcmVHSENHeVZGU3fSAdsBQVVfeXFMTllZbWYxU0lMbFliOVhyWTdNOEFUN1E1eWlVVzJSTnJCTXljeXVKRGlrX0NSNUh5bThqTzB1WWtyd0J4Xy1OU1lsZExBWnF1cXFIUXh1RjRZaXVQYmVKUUlaXzRmeUVuOEIxY044bHExZ2NQZXJEeW1iVW1IZ1FWU3RCRjNsTHZtbzdEaThvbWlLOHhzbFVwZnFxcmEtY1kzSVdablcwbnFQVjZRc1dXSW1Qd0RwUFUxUUhyeUpqUmFOM2VnTjJtRmdTd2RpWXBsVnJlR0hDR3lWRlN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-10-005",
+    "date": "2026-10-10",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FR1400YRU Bond Profile: Coupon and Redemption - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9sdzFseVhMZEtsU1FXQ2JNREN5WXljNlpidTNzZEZHVWRuNmJZNkwyQ0cyWjFGT2FvNVhWdkhzNmhIa2pwTUZnOWZFMEV0SEhRMFk5YktwM1hERDBtdWdZVXlUaDRaYzAzUWc?oc=5\" ",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sdzFseVhMZEtsU1FXQ2JNREN5WXljNlpidTNzZEZHVWRuNmJZNkwyQ0cyWjFGT2FvNVhWdkhzNmhIa2pwTUZnOWZFMEV0SEhRMFk5YktwM1hERDBtdWdZVXlUaDRaYzAzUWc?oc=5",
         "type": "rss"
       }
     ]
