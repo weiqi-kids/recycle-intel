@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:16:44.185456Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-10-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore Reaffirms Brazilian Nickel Offtake Agreement with Centaurus Metals - marketscreener.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWhNaVVzSzVxdzVJOHN5SUdZTjNWNllpRVJkcDBlWjUwZTlCbTZ6WjlxRW9TVGk5UHJXY1NhTVY3ZUpaNi1YTlhHMENEc3o5T3NwaGU3blEwWURxcFIxaWx2VHE3aGRFQlFrS0t3ZjdsaGVMTlpQMUhKSmp2ZC1YMWs2aUp4bGsyV3o1Q1Q3Q0s5aXJ6MEVMTWdyWkg3dVVUUTUyVGtVY1FqVXU2SzZfMS0zTXVYaDlBdEhJMVBndjlseklpYWhn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Recap: Australian listing for trading arm and copper 50% by 2030 - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY3p0ek9sdkE1cXAzNVJXUFVlUUpla2pfdjJ0eTBDaTQ5STRlcFc4a0NqLXJGX3B2UUNKa3E0ME1YSUFCT25VdEdMUHJUdHl6b0tHNTU0aXdka25sdzBTV283V0ZJUE14SjhOempoVGtsSHNfV19NWDR3dHhXaFVDYWw1eFZka0hUbFJkSXp3MXQ4Vk51cy1uUFhsaGFjOElQeDhtdU1RNldvV3BLTm5TUDI4VHhuaXVIaUZtMnMyckh1bnU5RjY3TzBWVQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-10-12-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Centaurus Metals Ltd Says Glencore Confirms Jaguar Nickel Offtake Agreement - TradingView",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPanM3NHNRLW5ZYVdkYS10TmN0ZDdIY0U2QWFBWHd2Umw4WUlybUZHTVdJN1p1Vi04eWhoS21hYTkxVFVYZ19SeTF5eTE0bFRfLXlmMU1LQzdRbXdEMGpoQnlOV2Y4RW5BbTcxakZsdVRwMXhjY3dITk9lOXFWTndJRklzTTNNQUwxTy1JUmdrNFl0VTVjZmpub2xGR2UxRzBBa1lPYnhkeVBEWWxHSmhSaGZMWVpNMFlua1J6Z1VLam83b19aVEFkdTlLZUVBeHpmR09JTkV4RGw0elBMQ2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "veolia-2026-10-12-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement (ENXTPA:VIE) Wins Barcelona Water Contract, Is The Undervaluation Case Intact? - Simply Wall Street",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQnhRX3dPUThvVEdnLTJObGlCUFZ2cUdtaWpKT3pFeEl4V3YtV1dxMm5pWE1KU2J5NUtHUnRrSFo0YUJYbExGb1hPUjkycFNFd3pESDBOVnp0ak5aUUF0UUV0bHV3dzZTcTYzYWtIRGlJVlhEMmQ2Zk5yaE03cXBrZ0pGRldfV2tyRlFpYTVKMlVmVnFjemZZVFhfRDJBQXo1NXhaNDFBejZkQmRsbnA5YWx0ZmpOU3p4ZmRZVjM3VkxoQWVYeXdOTDJyWHNZZ0JkZ3Z2aTZETFBMYU3SAeABQVVfeXFMUGtGQzdEYzVoelJDSU9NMHZEbnZvS2o0S0tlUmVZYlp1VG56OXlnUnlGOE0yaHdqc2lVMFp0U3ZpRmZGUldwMVlFM183bXZsVzdyM3pJU254SXdOay1uTmNDYzhiX1I0WGplWE11SVNham9fZ2pyZnlLWUd4TDB2bEs5a2lURUpFcV9IZThpNXlHejRHX2Jjd1ZUTzE0Y1dleG9CX20tR1J2WXpicFZVclhUdmx0QU9uM2NaVjZkVjZyTFlBTDFIako4Z2RsMlRaQU92UTRrLWQtNkVSNS1yWXE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-12-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FR001400SG71 Bond Profile: Coupon and Redemption - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGb2hTUjVPeUhqaHlfS183ckEzR2V4dlBfLWpDOTBSVXhQVGxoUUJwU01KOTJOSVRjSkNtY0ZHQ1BoTDg0cWVKQjA2TUdyNTdQMHNoQTlROUpsVmhqWlZkaUdlcVN6ckJCMVNEX0ZQTUZIaE9R?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 3
+      },
+      {
+        "id": "veolia",
+        "count": 3
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 151,
+    "too_old": 91,
+    "gate1_blocked": 3,
+    "gate2_blocked": 6,
+    "passed": 17,
+    "pass_rate": "14.5%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "Tomra Systems ASA Advanced Charts | TMRA - Barron's",
+      "Tomra Systems ASA (TMRA.HM) latest press releases and corporate news - Yahoo Finance UK",
+      "Tomra Systems (OB:TOM) After The Sell Off Is The PPWR Story Still Backing Fair Value - Simply Wall S",
+      "Glencore sees electrification trend driving strong uptake for Australia listing - Reuters",
+      "Glencore, Sharon AI to hit boards after Firmus flop - The Australian"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為嘉能可、威立雅、WCN相關動態：「Glencore Reaffirms Brazilian Nickel Offtake Agreement wit...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore Reaffirms Brazilian Nickel Offtake Agreement with Centaurus Metals -...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Weekly Recap: Australian listing for trading arm and copper 50% by 2030 - Tra...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
