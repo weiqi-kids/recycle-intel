@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 2,
+  "gate2_fail": 5,
+  "passed": 20,
+  "gate2_samples": [
+    "Tomra Systems ASA Advanced Charts | TMRA - Barron's",
+    "Tomra Systems ASA (TMRA.HM) latest press releases and corporate news - Yahoo Finance UK",
+    "Tomra Systems (OB:TOM) After The Sell Off Is The PPWR Story Still Backing Fair Value - Simply Wall S",
+    "Glencore sees electrification trend driving strong uptake for Australia listing - Reuters",
+    "Fight over DC’s proposed bottle bill heats up as council considers action"
+  ]
+}

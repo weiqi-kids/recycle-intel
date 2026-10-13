@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-13",
+  "total_events": 16,
+  "by_company": {
+    "boliden": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "glencore": {
+      "count": 8,
+      "sentiment_avg": 0.06
+    },
+    "waste_connections": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 15,
+      "sentiment_avg": 0.03
+    },
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "battery_recycling": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
