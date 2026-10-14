@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-14",
+  "total_events": 15,
+  "by_company": {
+    "tomra": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "glencore": {
+      "count": 13,
+      "sentiment_avg": 0.08
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.06
+    },
+    "industry_general": {
+      "count": 12,
+      "sentiment_avg": 0.08
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
