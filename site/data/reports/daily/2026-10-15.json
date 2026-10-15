@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T13:02:04.411078Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-10-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Handelsbanken and DNB Carnegie set targets for Tomra stock - ad-hoc-news.de",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWJTZ1VabGIzTnhBWUo5XzVzLVIzY0p0V2RzbnpyUldXcEl1TWZsQ1haMVV6M0IyUDRVN3QzM2o3NHU5VDFqcXFfd29OSElPU0M0eDlmbDF6RnBnTld5RnVWdEo3SEZzQ05DbVNvcVhNU2VWSHo1Z2Nfa19DRlhvTWpsRVRqZ21kbjBrTUJGUjZKaUUtSGhnWDFaaVdHc1RGOGFUNk9nMGU1NlZMamZqRHlWX1VYSVN5?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-10-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore stock initiated with buy rating at UBS on marketing strength - Investing.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYUttdjlhM1lCYXJfMmxZV3g5RHBaOGg5ZzVBMlFRTzhiT3hjWEFZRnBUQ0ZnRWdUNEIyaHFvQ2o0YXFHNnB2SllqdzVZcTRlMWIwc1dOcG1IMVduTlh2aGlSYWREd182NGFjQnRDN29jRDZqMFpWR2c2SHZ0VW01b2VxeVZLT292emY3SkkzWGQtQm1PaEhoYlRNdW9WUkpldk05VS1ta29kWXFiaTR6dWdnSjhGT1FvZ2p4eWFySU10clFELUVzbA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-10-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore lists in Australia, eyeing A$4.4T pension pool for copper push - Dealroom",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVjdQcEc1ME4wSWN1aGZDcVI3NmRodkdxelRmcmtDSWN6ai0zOVU1NEpudmt6N0poY0N2alFibUZmSDRPYWNLdzltRTQ5cDI0dDM4T3BsS1BHRkE1QnJFb0VMRGNGR2pUcUJtQi04c1ItN3BwUjJubGhlLXA3U0RzalRGZXdFYzJQMFl0MGpsa0FtM1J4M2FLQmJtZTRvQ2ZwLUhsajdYRQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "waste_connections-2026-10-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Morgan Stanley cuts Waste Connections stock target to USD 195 - ad-hoc-news.de",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTjhScXlIa1lXN0huaGhnUURzWkloZmhaLVB4bXBtZnlicFQteXhxd3AwczJhSGU0SW04dXJQRXN5VUtDVVNhWVpnbS0zU09ENkZlM3NyR2FhenY2WUJFTHF1aTg0Y0JYc0N6cWV5U3pRMzl1OG4yRE53S2ZhWnp4blMxYkZTQ2Ywem41R0c5dktqZHliem5xZjhmSDZMeEstMkJqLUJycXdDdklLVWVTeFBCOW5EdU5BalV0bg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "veolia-2026-10-15-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Morgan Stanley cuts Veolia target to EUR 35 for Veolia stock - ad-hoc-news.de",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUFE3LUdrRG1FSU5GaHg1U3FodzJCZmVSRTVFV0RDZm0xWEhxSlVwR3VTazJEbGN3MllfRkc1TWUwQ2NhMTQtbWNoWE0yTUFhOUsxN2hOYWFLam1URVJ0NlU2TDh3ZnlXXzNjbnhCVUNuNkZWQWQtRms3SnBnTGlMQjNROG05QnI4Q2lWRkVVNnhJdWRINGt6Q1NhV1FWamxMWGtlN3JoV3o0cWp4UzRHS0p6S3hpV05uZVp1R0xadFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 2
+      },
+      {
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 150,
+    "too_old": 87,
+    "gate1_blocked": 3,
+    "gate2_blocked": 8,
+    "passed": 19,
+    "pass_rate": "16.2%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "Tomra Systems ASA Advanced Charts | TMRA - Barron's",
+      "Tomra Systems ASA (TMRA.HM) latest press releases and corporate news - Yahoo Finance UK",
+      "Tomra Systems (OB:TOM) After The Sell Off Is The PPWR Story Still Backing Fair Value - Simply Wall S",
+      "How Investors Are Reacting To Glencore (LSE:GLEN) Broker Upgrade - Simply Wall Street",
+      "Glencore sees electrification trend driving strong uptake for Australia listing - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為嘉能可、陶朗、WCN相關動態：「Handelsbanken and DNB Carnegie set targets for Tomra stoc...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Handelsbanken and DNB Carnegie set targets for Tomra stock - ad-hoc-news.de（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Glencore stock initiated with buy rating at UBS on marketing strength - Inves...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
