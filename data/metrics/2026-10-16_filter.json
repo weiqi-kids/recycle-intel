@@ -1,0 +1,16 @@
+{
+  "total_raw": 267,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 2,
+  "gate2_fail": 6,
+  "passed": 15,
+  "gate2_samples": [
+    "Tomra Systems (OB:TOM) After The Sell Off Is The PPWR Story Still Backing Fair Value - Simply Wall S",
+    "Glencore begins trading on Australian Securities Exchange - Cyprus Shipping News",
+    "Glencore sees electrification trend driving strong uptake for Australia listing - Reuters",
+    "Glencore Targets Super Funds With ASX Debut - Bloomberg.com",
+    "Cramer's lightning round: 'Hold on to Element Solutions' - CNBC"
+  ]
+}
