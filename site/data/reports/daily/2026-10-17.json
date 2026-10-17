@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T11:56:56.753694Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "veolia-2026-10-17-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia completes wastewater project: what it means for Veolia stock - ad-hoc-news.de",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMzBKc2hGaUNmMXU3Vi1ZQ016VEE2cXJ4d3ZjWGN4WXlnenAtZ0JuUm1mWldweFZzRVFDUUpsOUMyLXgwYXdYOGhTVDdjVHRwN0gwTUlLMUVqeGJ5UkZnNm5xRkNlNHFQZWdxS1IxVV9EVHFFZk9HUHMxUFVaNDBEOXZ2dW1DUzBwVDNMR1JnSlBfaVFQSDBhdGlpNU1KZkJfb2RFTHdFMzNLdUtKczFIMnZsMjE4alNpZnJWU3ZJdTRGQ2tHY3A4Vw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tomra-2026-10-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tomra Systems ASA (CEUX:TOMo) Stock Holders - Institutional & Insider Ownership - GuruFocus",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1X2NZcG9Ib2hkaHNUYl8tZnE3NXBzYmJMcUlod3d6c2ZaaXF6YmJ0YmhaQU9EaDV4QjZreXpXNFR1b016cEhhR0luSlBraUFiY1FHRVhBajZQUDdLOG9nWA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HCMC targets 100% industrial wastewater treatment, 90% waste recycling by 2030 - Vietnam Economic Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMXI1NHRhNUlLeEk0THVOYW5RY19UZUlMTW45Vi1zcUR1eVczQWhOeXN2Y1VtOFY2a0J1TnZGU1V4ZzMzNXpka2g3TjFTVWJLdEVJSmNSSFB1dVpBTExITGJ1S2IyY2JraDlUYmlTUDBFV2QzbFVvSTktNEdqVHNCVGpmMlF5TzhiQTluQlRaYnlJNkpJNEJRTEJTQmJEa2xKZTRxTXBR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tomra",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 150,
+    "too_old": 93,
+    "gate1_blocked": 2,
+    "gate2_blocked": 4,
+    "passed": 19,
+    "pass_rate": "16.1%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "Tomra Systems ASA Advanced Charts | TMRA - Barron's",
+      "Glencore Targets Super Funds With ASX Debut - Bloomberg.com",
+      "Cramer's lightning round: 'Hold on to Element Solutions' - CNBC",
+      "Fight over DC’s proposed bottle bill heats up as council considers action"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為陶朗、威立雅相關動態：「Veolia completes wastewater project: what it means for Ve...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Veolia completes wastewater project: what it means for Veolia stock - ad-hoc-...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tomra Systems ASA (CEUX:TOMo) Stock Holders - Institutional & Insider Ownersh...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
