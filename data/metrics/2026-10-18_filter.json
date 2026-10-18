@@ -1,0 +1,14 @@
+{
+  "total_raw": 267,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 3,
+  "gate2_fail": 3,
+  "passed": 5,
+  "gate2_samples": [
+    "Glencore Targets Super Funds With ASX Debut - Bloomberg.com",
+    "Cramer's lightning round: 'Hold on to Element Solutions' - CNBC",
+    "Fight over DC’s proposed bottle bill heats up as council considers action"
+  ]
+}
