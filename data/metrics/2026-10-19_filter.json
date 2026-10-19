@@ -1,0 +1,15 @@
+{
+  "total_raw": 267,
+  "dup_title": 153,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 4,
+  "gate2_fail": 4,
+  "passed": 10,
+  "gate2_samples": [
+    "Weekly Recap: Glencore CHESS ASX listing and Alumbrera restart targets - TradingView",
+    "Glencore Targets Super Funds With ASX Debut - Bloomberg.com",
+    "Cramer's lightning round: 'Hold on to Element Solutions' - CNBC",
+    "Fight over DC’s proposed bottle bill heats up as council considers action"
+  ]
+}
