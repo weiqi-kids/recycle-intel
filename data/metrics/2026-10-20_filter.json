@@ -1,0 +1,12 @@
+{
+  "total_raw": 267,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 98,
+  "gate1_fail": 5,
+  "gate2_fail": 1,
+  "passed": 18,
+  "gate2_samples": [
+    "Weekly Recap: Glencore CHESS ASX listing and Alumbrera restart targets - TradingView"
+  ]
+}

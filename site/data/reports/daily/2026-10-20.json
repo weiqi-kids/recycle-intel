@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T13:14:43.838764Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NVIDIA And 2 Other Top Growth Stocks To Watch - Simply Wall Street",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXhqZ2tNclYweVQ2bkdETzcxZGlDR1V3QXlXY0Jwc1RMV0tkZF9Ea2M2TkZ2MnQ2aDFvWE93eGtXbGtpNkVJQjBXSGdNaS1nc294QUp1Q3U4ODh1Nzk4X2hpNzB3eFBtbTltUmItWG5RMmFuQnF6V0tGQmxwMkZ3Mk9TYV9ubURFTzB2c1QwOXIwdXpMU1k4cVJJY1owNEQxQ21NcTNSVXZrbjljNWxsNVRLRWtUTGR2ODJ5ZdIBvAFBVV95cUxNaXhqZ2tNclYweVQ2bkdETzcxZGlDR1V3QXlXY0Jwc1RMV0tkZF9Ea2M2TkZ2MnQ2aDFvWE93eGtXbGtpNkVJQjBXSGdNaS1nc294QUp1Q3U4ODh1Nzk4X2hpNzB3eFBtbTltUmItWG5RMmFuQnF6V0tGQmxwMkZ3Mk9TYV9ubURFTzB2c1QwOXIwdXpMU1k4cVJJY1owNEQxQ21NcTNSVXZrbjljNWxsNVRLRWtUTGR2ODJ5ZQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tomra-2026-10-20-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra stock trades at EUR 8.68 ahead of quarterly results - ad-hoc-news.de",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOFhFM3U2RThQOVktLUpldkxqc3R2dDNVX3pkOXRGanZqUnBBYmduWnRhMkY3NUFrdFpjbk0zYWFOcGJXeGd6ckFCQ0tNWXRFWmN2Sk9XTnZhT2xHVTNXOXk2dkFraW5SaDhkUFFKU3NlOWpVXzZtcVRVWU1oZFUyVEhkd3dNRGw1cm0yYWZKTWJfQlV5ek01blh3RDB3UDdPWFBHU05VdXMxeDhTeGJ6c0RsQ19HR1k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-10-20-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cornish Metals £135m Financing and Glencore Tin Offtake for South Crofty - News and Statistics - IndexBox",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeUZFcmhYVnMyN2sxU0NUNkM0el9pcWtBQ056cFo0Zk5vMXZ2ZkQ1VXl6dy1qejVrdUY3RW14VTlqc2NuSFdwdUpWNkFITXZIbHVpNXQwVGV3VVR4ZjdyWTJDNjEzZkQtMThXVHBKN2J6Zl82Zi1sV2NPVFJiNGdSa2tydXpNU3dGYkxJcnZxczVhVkQ3Z256UkxmZFJHa3RSVFlr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-10-20-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cornish tin mine secures £135m fundraising and Glencore offtake deal - TheBusinessDesk.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2V3dENPV0dlUTd4cHRLUExsODhkNE1EdTRKVVpOM2lzU25iV2w5UWh3OXpsZnVTRXBXQTBNMTg3RWpuc0ozcEp3azlwd0dIM3JLQjV2YmMzeUF5Q2lpM0kzeXk4WEpPd0VGT0NtSXAzYTNrVHlCRnRUbVJYMHZXaWNPZWo1ekFEUG95eUg1SmpCS1ZWUkV3VDhGZ2pld1paUU45NzdWekFuck1fMmdZTUN5alpVaEJxRGotMzFR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-10-20-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cornish proposes £135m financing, secures tin offtake agreement with Glencore - Mining Weekly",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONGZaSGxwTWxBR0lmMl9Kc3RVbVVFeG16MkVEaXdnbXdWb1NWYkR3OUFZUjh6NTFXXzJWXzByTGtKZHZpbmZiOWJ3T1JJMXBpdGVpWnBhdGpZdTNINGpqQklaZVA5ejhHUDNfY3U3V25MWnN5cDNoUVlCcXJQQ0xpMk1LTVpneXpHNm1jeUcydlZWQkkxNkVWdkJaTVk0d0ZFXzJzVklZU1BTMFV6TFllM3ZNb3Q4aUxVMTVHSU1DRnU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 6
+      },
+      {
+        "id": "tomra",
+        "count": 2
+      },
+      {
+        "id": "waste_connections",
+        "count": 2
+      },
+      {
+        "id": "veolia",
+        "count": 2
+      },
+      {
+        "id": "abtc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 145,
+    "too_old": 98,
+    "gate1_blocked": 5,
+    "gate2_blocked": 1,
+    "passed": 18,
+    "pass_rate": "14.8%",
+    "gate2_block_rate": "0.8%",
+    "gate2_samples": [
+      "Weekly Recap: Glencore CHESS ASX listing and Alumbrera restart targets - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為嘉能可、陶朗、WCN相關動態：「NVIDIA And 2 Other Top Growth Stocks To Watch - Simply Wa...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "NVIDIA And 2 Other Top Growth Stocks To Watch - Simply Wall Street（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tomra stock trades at EUR 8.68 ahead of quarterly results - ad-hoc-news.de（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

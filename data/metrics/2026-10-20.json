@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-20",
+  "total_events": 14,
+  "by_company": {
+    "tomra": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "glencore": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "waste_connections": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "abtc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 13,
+      "sentiment_avg": 0.08
+    },
+    "earnings": {
+      "count": 9,
+      "sentiment_avg": 0.06
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

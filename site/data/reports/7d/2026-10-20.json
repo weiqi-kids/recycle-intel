@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-20",
+  "date_range": {
+    "start": "2026-10-14",
+    "end": "2026-10-20"
+  },
+  "generated_at": "2026-10-20T13:14:43.973353Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tomra-2026-10-14-001",
+      "date": "2026-10-14",
+      "title": "DNB Carnegie cuts price target for Tomra to 75 Norwegian kroner (85), reiterates sell - www.marketscreener.com",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 36,
+      "last_week": 30,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.06
+    },
+    "industry_general": {
+      "this_week": 52,
+      "last_week": 52,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.05
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "tomra": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 3
+    },
+    "glencore": {
+      "event_count": 24,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "waste_connections": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "veolia": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "aurubis": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "sims": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "abtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 90,
+        "last": 105,
+        "change_pct": -14.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-14",
+      "event_count": 28,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-10-15",
+      "event_count": 13,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-16",
+      "event_count": 16,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-17",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-18",
+      "event_count": 4,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 12,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 14,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-14 ~ 2026-10-20）共 90 則事件，重點為「DNB Carnegie cuts price target for Tomra to 75 ...」。產業通用、財報、展望為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "陶朗",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "嘉能可",
+        "reason": "本週出現 24 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "WCN",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
