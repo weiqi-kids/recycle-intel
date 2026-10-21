@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-21",
+  "total_events": 13,
+  "by_company": {
+    "glencore": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "waste_connections": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "veolia": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "aurubis": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sims": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 11,
+      "sentiment_avg": 0.05
+    },
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": 0.05
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
