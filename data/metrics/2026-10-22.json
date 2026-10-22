@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-22",
+  "total_events": 14,
+  "by_company": {
+    "sims": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "tomra": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "glencore": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "waste_connections": {
+      "count": 6,
+      "sentiment_avg": -0.08
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 14,
+      "sentiment_avg": 0.04
+    },
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": 0.05
+    },
+    "guidance": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

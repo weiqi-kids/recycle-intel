@@ -1,0 +1,14 @@
+{
+  "total_raw": 256,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 3,
+  "gate2_fail": 3,
+  "passed": 31,
+  "gate2_samples": [
+    "Weekly Recap: Glencore CHESS ASX listing and Alumbrera restart targets - TradingView",
+    "Investors Will Clean Up With Veolia Environnement - Barron's",
+    "Sims Limited Subject to Initial Substantial Holder Notice from State Street Corporation at 5.06% - K"
+  ]
+}
