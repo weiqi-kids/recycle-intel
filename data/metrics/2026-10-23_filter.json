@@ -1,0 +1,15 @@
+{
+  "total_raw": 248,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 3,
+  "gate2_fail": 4,
+  "passed": 31,
+  "gate2_samples": [
+    "Investors Will Clean Up With Veolia Environnement - Barron's",
+    "Sims Limited Subject to Initial Substantial Holder Notice from State Street Corporation at 5.06% - K",
+    "MRF upgrades for Republic, Circular Services harness AI and tech",
+    "Corrugated boxes maintain dominance despite shifting market dynamics: FBA"
+  ]
+}
