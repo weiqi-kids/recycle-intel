@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T12:55:15.890724Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-10-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Strong Q3 Earnings Will Impact Tomra Systems Stock Investors - Simply Wall Street",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMW4tMTdnS1pNWnpyamRuaE1uQ2JDcXdKY3lhbS1WRlMtNkkzMG5CMkJfWW9OUnc5SDJ1SDViUVk4NHpYT2QxdXIzanZWUlRwMG5JUEVJTjlfcjk2S0FTbk9UOVlVSnBtbjBoWTh6S29FV09CbVFxdm1ULTNRTlpuZDU2QWZoak9wQktGek9YeVhYRWNvZmJOc2dZc01CcHVCOXZLQjYyYVEyTS02NGU3TGV5ZEZKUWpxajVEd0hmQzhFbWcwNzNIQXZVQlByYmloWF9ETjdYMjc4UUXSAdsBQVVfeXFMTjFuLTE3Z0taTVp6cmpkbmhNbkNiQ3F3SmN5YW0tVkZTLTZJMzBuQjJCX1lvTlJ3OUgydUg1YlFZODR6WE9kMXVyM2p2VlJUcDBuSVBFSU45X3I5NktBU25PVDlZVUpwbW4waFk4ektvRVdPQm1RcXZtVC0zUU5abmQ1NkFmaGpPcEJLRnpPWHlYWEVjb2ZiTnNnWXNNQnB1Qjl2S0I2MmFRMk0tNjRlN0xleWRGSlFqcWo1RHdIZkM4RW1nMDczSEF2VUJQcmJpaFhfRE43WDI3OFFF?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tomra",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 157,
+    "too_old": 93,
+    "gate1_blocked": 1,
+    "gate2_blocked": 4,
+    "passed": 12,
+    "pass_rate": "10.9%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "Investors Will Clean Up With Veolia Environnement - Barron's",
+      "Sims Limited Subject to Initial Substantial Holder Notice from State Street Corporation at 5.06% - K",
+      "MRF upgrades for Republic, Circular Services harness AI and tech",
+      "Corrugated boxes maintain dominance despite shifting market dynamics: FBA"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為陶朗相關動態：「How Strong Q3 Earnings Will Impact Tomra Systems Stock In...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "How Strong Q3 Earnings Will Impact Tomra Systems Stock Investors - Simply Wal...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "陶朗為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
