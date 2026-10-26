@@ -1,5 +1,161 @@
 [
   {
+    "id": "unknown-2026-10-26-001",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Weekly Recap: Q3 revenue surge and UK early installations - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmNiRkhhOFRkR0NHM2lWVThpX2Izak80TmxqRnZrUEM1amk4a1BqS0VyTHAyaGF5c0ZmY3RHWFlCUVQ2V0NMcHpWNDAxR3FreWliblJwN1hpd1dRTXZRdzZ5cDlHUjNnSTlnQ2JmMj",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmNiRkhhOFRkR0NHM2lWVThpX2Izak80TmxqRnZrUEM1amk4a1BqS0VyTHAyaGF5c0ZmY3RHWFlCUVQ2V0NMcHpWNDAxR3FreWliblJwN1hpd1dRTXZRdzZ5cDlHUjNnSTlnQ2JmMjFaVHQ0NlZWZEo2VlY0UVRwNW9wbmNvT0ZWOVN0bGxWQTVvVXZMd3ZfUVFzN0NJR1lTMGZzOHYxVEFsVG5VUmVRbkpBU2IzU3I5Z2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-10-26-002",
+    "date": "2026-10-26",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SB1 Markets cuts target price for Tomra to NOK 110 (115), reiterates buy - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHdVVHljSkJQeFpHVHA1MHNCdDBPVl9oQWc0eE5MMm9ldUNKTEhRaE1MdGNFeTVGVzRDa1RoV3VsM1JVa0tHMTZnT2tOMWJKaUpsY0ROWlctY0E2ZUx0TmNMTmtEcWxkTXQ0OEh4dT",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHdVVHljSkJQeFpHVHA1MHNCdDBPVl9oQWc0eE5MMm9ldUNKTEhRaE1MdGNFeTVGVzRDa1RoV3VsM1JVa0tHMTZnT2tOMWJKaUpsY0ROWlctY0E2ZUx0TmNMTmtEcWxkTXQ0OEh4dTZCcEE1SG5wMTBiYTRWS25SSVJGYkc3cUw5U2s5RmJPTlVnVFV3Nk5pdGo2YV9FSXotcWxGbXc0eXFNMld5aEtrcXlTemxHV2JSQkhBN19zWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-10-26-003",
+    "date": "2026-10-26",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SEB cuts its target price for Tomra to NOK 140 (145), reiterates buy - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQclNxbUxzeE0yLUpHem5oc3VDZ0p2cVBjaVVEZzJBQ2gtLVBJQzVMd1M1QU1veWtYc0FEZG51dzRkd1lkUjdZZV9oaDdoeEhwcnZ0MlNsYW4zcGZaR0gxVDNhRG4wZE8yUFE1dE5IdE",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQclNxbUxzeE0yLUpHem5oc3VDZ0p2cVBjaVVEZzJBQ2gtLVBJQzVMd1M1QU1veWtYc0FEZG51dzRkd1lkUjdZZV9oaDdoeEhwcnZ0MlNsYW4zcGZaR0gxVDNhRG4wZE8yUFE1dE5IdExJN0pTdWg2N2ljdEdoSjRqZEg3b2Z6eXdkZXhac2ItSUJMTFVkRWVKaEpNZGZ0R2Q5M1VBYWhUZ3FjUWRfWV90YjRHOVBmWmc2N0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-26-004",
+    "date": "2026-10-26",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Glencore : A listing three decades in the making - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3I5M1dzb09jREw5aDZiM09lTUgwNFFQWlNDb05KVVptMlV4THhRY2czd1IzMS1BdTI1Q2Z1UjAyaENycmVGX1hpdTNRU1lpVV9DQW1UUXU0TDdaSXlfTG9MUTlJcy1DdHZwdTMyaG",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3I5M1dzb09jREw5aDZiM09lTUgwNFFQWlNDb05KVVptMlV4THhRY2czd1IzMS1BdTI1Q2Z1UjAyaENycmVGX1hpdTNRU1lpVV9DQW1UUXU0TDdaSXlfTG9MUTlJcy1DdHZwdTMyaG9GS2ZtX1ZZRVNQeEpIRFU5STVpRnFuRERySzJOVmZ0Vmlxc25QYkp5Zm9kZzB0Wkxy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-005",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Weekly Recap: DRC deal with Orion CMC Congo and £11.2m in Cornish Metals - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3B0OEdsejdqQlZHal9sNWNBTEpIenpWTUlDamlxVWFNb1pYVk53VC1KdEFtZElwUmQ0c0xvTTJmRjh5MklRVGpYdVJlSDQyWk1aay1aMTNNNmhTOEhsYkhIbzVZWWF6RUpPQTd2MF",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3B0OEdsejdqQlZHal9sNWNBTEpIenpWTUlDamlxVWFNb1pYVk53VC1KdEFtZElwUmQ0c0xvTTJmRjh5MklRVGpYdVJlSDQyWk1aay1aMTNNNmhTOEhsYkhIbzVZWWF6RUpPQTd2MFBSU0NpbnU4WlAwc185WWt3b1FtMTV1cGNndndXckE0bDdxVEQwSmg3eldmQndFZFVkTnFGWV85NDFnb0g2V1lPd2lENS1wRTNEbkVIOW96SldIeTM4azZyTkZPTWw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-10-26-006",
+    "date": "2026-10-26",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Inc (WCN) (Q3 2026) Earnings Call Highlights: Solid Waste Pricing Powers ... - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVZzbFlzWldBV0xWc1VXT292SWplN1I0UmFtUnZ5a2k2ektaVDhmeGFaRzg3RmFvbzM2WExqYWl2ZFJLblNFTC1kcDlsWER2NUY2Xy1UY1FPdi0xODZpNGNMWnVKWnhjaS02b2FmY0",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVZzbFlzWldBV0xWc1VXT292SWplN1I0UmFtUnZ5a2k2ektaVDhmeGFaRzg3RmFvbzM2WExqYWl2ZFJLblNFTC1kcDlsWER2NUY2Xy1UY1FPdi0xODZpNGNMWnVKWnhjaS02b2FmY0tnSE0zS1hqSWdZOUpfT09VMFprRmMtbnVkZk1Xa3BvS29UTWhTZ0lwdA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_mgmt-2026-10-26-007",
+    "date": "2026-10-26",
+    "companies": [
+      "waste_mgmt"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Management (WM) reports Q3: everything you need to know ahead of earnings - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX0k2U0ZsTXpLOTZaUlJJc1A2Z1UxV09sLUZpLTBYX29GX3NrTXhNTGQ0Qy1BOUNOSllWSkVTMWpNczdzMEQ5MElrTElHZ2dkMnZOYVpSY3V3QzJWOGlFTThnQlBpZEhxaXlsbkJDMk",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX0k2U0ZsTXpLOTZaUlJJc1A2Z1UxV09sLUZpLTBYX29GX3NrTXhNTGQ0Qy1BOUNOSllWSkVTMWpNczdzMEQ5MElrTElHZ2dkMnZOYVpSY3V3QzJWOGlFTThnQlBpZEhxaXlsbkJDMkJyeFpsTHZobFZMRXVqWTlnUXV0QlBFcThrblJ5YW9iMWZXTl82Wi12d010X0VQRlZkX1luY1hwNkU3bkc0cmJ4Snp4d1JXWmk3MHg4RFdfVldwdU92QXdCaU10a0ZrU3NkTzg4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-008",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stanislav Kondrashov American Style Series: The History of Battery Technology and Energy Storage in the United States - Vocal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQazF0eDBrR2J2VkxjU2tabVJza3lQZ3h4aUk4S3lhZmpfVUhiQThQYWJKN2NkdFNnNHZHRXhfRFBzcnVkUUJNS2JSa0wzdlVRRkFvNkVjOFRqeHNRVmtiX3ROZVJvYTB0bzVHekVNWX",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQazF0eDBrR2J2VkxjU2tabVJza3lQZ3h4aUk4S3lhZmpfVUhiQThQYWJKN2NkdFNnNHZHRXhfRFBzcnVkUUJNS2JSa0wzdlVRRkFvNkVjOFRqeHNRVmtiX3ROZVJvYTB0bzVHekVNWXAtaDBEdzFEOVdwYmFfU2RwZWpsME5PMWpmaEd1T000dUVqT01QSmhjZ0VxN3prMk5IbFJ0WFNnUTV2cW1yNTlEQ3JXS0o5UkJPdXlYM2RBZ0hTSkpLM0lfdW5sZzNtcUtLZ25lUHBjdS02MEJo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-10-25-001",
     "date": "2026-10-25",
     "companies": [
@@ -16,6 +172,27 @@
       {
         "name": "tomra",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMW4tMTdnS1pNWnpyamRuaE1uQ2JDcXdKY3lhbS1WRlMtNkkzMG5CMkJfWW9OUnc5SDJ1SDViUVk4NHpYT2QxdXIzanZWUlRwMG5JUEVJTjlfcjk2S0FTbk9UOVlVSnBtbjBoWTh6S29FV09CbVFxdm1ULTNRTlpuZDU2QWZoak9wQktGek9YeVhYRWNvZmJOc2dZc01CcHVCOXZLQjYyYVEyTS02NGU3TGV5ZEZKUWpxajVEd0hmQzhFbWcwNzNIQXZVQlByYmloWF9ETjdYMjc4UUXSAdsBQVVfeXFMTjFuLTE3Z0taTVp6cmpkbmhNbkNiQ3F3SmN5YW0tVkZTLTZJMzBuQjJCX1lvTlJ3OUgydUg1YlFZODR6WE9kMXVyM2p2VlJUcDBuSVBFSU45X3I5NktBU25PVDlZVUpwbW4waFk4ektvRVdPQm1RcXZtVC0zUU5abmQ1NkFmaGpPcEJLRnpPWHlYWEVjb2ZiTnNnWXNNQnB1Qjl2S0I2MmFRMk0tNjRlN0xleWRGSlFqcWo1RHdIZkM4RW1nMDczSEF2VUJQcmJpaFhfRE43WDI3OFFF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-25-002",
+    "date": "2026-10-25",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RBC trims copper target for Glencore stock ahead of results - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOclZkTjZIUjFySkZvWGxaMTdYMnY1dGRtRE0zaE9zMTBfNUhGaWdqZGs2Mm8tVXhsVkRqZ3dRMGQ0aFh4b0NnNS1WZjBIRXFRcS1TWTVQMnVyRy1TcFpfOUh0OVJUQ2ZlRVMxaWJUel",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclZkTjZIUjFySkZvWGxaMTdYMnY1dGRtRE0zaE9zMTBfNUhGaWdqZGs2Mm8tVXhsVkRqZ3dRMGQ0aFh4b0NnNS1WZjBIRXFRcS1TWTVQMnVyRy1TcFpfOUh0OVJUQ2ZlRVMxaWJUelp3c0hNODZ2dE5PSjlFNHJFbGxkUGRhT19YU2FEOHJHNnR6eHdCMXhETWs3a01ETXdrSUJVSHFlZHFFcHJ2c052RnFURXdLS3pEYzZnd1JsOA?oc=5",
         "type": "rss"
       }
     ]
@@ -58,6 +235,25 @@
       {
         "name": "waste_connections",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDZtd1h5R1Z3amdLQXdqNEJYaXNNTWhpcEFmbEJhQ29DSjhuU05la3dZX2FzRFBtc2F3aFV4bTNsUEJDYmlUc1FwaFZON3hUbFFkV0djdGJPTEE3S3NCdlRVdkdmeDRzYjh0QzdqMlVhb0MtS3A3VFUyamVqaklqTko4cm9EVHdDN0JOYmU2NDZ2bGw4QlJBeWdhd25wTmw3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-24-003",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Metals Traders Reap Bonanza With Another Year of Record Profits - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPWWhlM2IwdDUtNzVQUTRTQzgwMGo0VnBWSWZUNTBmQmZaWUZ6NXpTeEt3ODh1cV84QW1rSDVYTUlYUDBOczMzNzlaNW1XUEVNWlZqcGRvdDNUM0xQRmlLSmd5R1diVDl1TVZ3NXl2X3",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWWhlM2IwdDUtNzVQUTRTQzgwMGo0VnBWSWZUNTBmQmZaWUZ6NXpTeEt3ODh1cV84QW1rSDVYTUlYUDBOczMzNzlaNW1XUEVNWlZqcGRvdDNUM0xQRmlLSmd5R1diVDl1TVZ3NXl2X3RkcE1FS093dDBBQnRNdWZuMlgtZ3Ezc2RNZHhpVkJORGwyTzI1NTZqbklTX0Q2U0R5dkhtZk1tUjVnWlZWem1KMkMxc0Q?oc=5",
         "type": "rss"
       }
     ]
@@ -652,6 +848,24 @@
       {
         "name": "waste_connections",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXBISkgzYkFwT25JcUtKZXM3UzF3Zm96TGdZWWZUeHQwd0RFcjROMjZxYlpkQWpzZ2VDM0daLUdzc2NhU09GMS1LejVlQTV5ZWtnWDhBY0NXZkJ5LWlBemFrNGh3bVlhWEJ3bzJQTW5RWjhhNWlvVnpGY1A1b09wN0lacFpaQWtoX0g0QTRhRTlaMmt6WkNXWWI5RGxNOEpPeTRqMmhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-23-030",
+    "date": "2026-10-23",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "US-backed group Orion CMC Congo mines deal with Glencore in ‘final phases’ - Bloomberg News - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWEp2MlpyLUNqSlFzdE52ajdTTWtWNF9xWEdKMFRiUUhlWU1VMGlfZHotcE9TYUZ1WEJqaXVtbEp0enJNajhxT0p5cmlSTEFnZGhEY2JXbExyZ0cxMmVIN2hTZW5GWUxiMWVFU0JYMV",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWEp2MlpyLUNqSlFzdE52ajdTTWtWNF9xWEdKMFRiUUhlWU1VMGlfZHotcE9TYUZ1WEJqaXVtbEp0enJNajhxT0p5cmlSTEFnZGhEY2JXbExyZ0cxMmVIN2hTZW5GWUxiMWVFU0JYMVhQbHFtelVBZFkyWW1xNE81VmxiNlhlYTd0dmsta1hfbklhak4yU1F6c2p2ZWVnN1VGZjNBZmxUUFJKNnp2TTlvYWhwcEs1X19IOER1anhEMTV3TDRYcTl4MkhPZXduRzhrZGlwTzVmT2x0TUhaYTJEUTQ0UE1WcHR6TVdBXzNB?oc=5",
         "type": "rss"
       }
     ]
@@ -1309,6 +1523,27 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/csos-optimistic-about-direction-of-global-sustainability-progress-wef/833850/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-10-22-033",
+    "date": "2026-10-22",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Soars 10% on Raised 2026 Outlook After “Another Top to Bottom Beat” - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWpBQVVHWFpodDlpRkdtay1qZ1JkbWtCb1kxbnl1LWhvQU9qNFExQ0g3VU5VYWJnc3Rpd1g2NjEtaDRaWHNPNVhQaFBDNUxsTnZJRGJXUjR2R2lkZTYtQi1JWnJvdlE2YWt4VnZ2Sm",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWpBQVVHWFpodDlpRkdtay1qZ1JkbWtCb1kxbnl1LWhvQU9qNFExQ0g3VU5VYWJnc3Rpd1g2NjEtaDRaWHNPNVhQaFBDNUxsTnZJRGJXUjR2R2lkZTYtQi1JWnJvdlE2YWt4VnZ2Sm90X0RJWTNkbHVrREszQkRhRlVVWXdNM2hhd1l0TXZyVkpaVDZWRjI0SDNtTWpUVWc?oc=5",
         "type": "rss"
       }
     ]
@@ -2050,6 +2285,27 @@
       {
         "name": "abtc",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaDk0VHd0cG51ckNEang3S09sYVp2RG1UdkRIczNIa0l3YVgyUjZaaXlYY2hyWjRGcF8za19ZaVNQRDBjdkJfOVJBY2tEX3dibEtyazYweHpkR1hCLWxJYTMwTEtoRWtFOE84VURfQnZkSGNoOUdMeVBaeU54Q1F1dlNTWlhHYXN4bkJaandsbkVIbG9zQzh6MXdKN0o3WlR6dFFQX05IbUpGVW5kcFB6d2ZRcVBTNmFIRVpiVEVMYkFQOHA3VF9HYmFMaHNoMzRHSzhYaUNUVXdlbTRSTk5B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-10-21-037",
+    "date": "2026-10-21",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology at ld micro event: domestic battery push - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkFBcmlIOGVwNmlUR1c2Z0RTSjFZRGgwYlpCNkluQnZsaU9nbFlPZXRMOHpVU3lSOVJ5REhEZXA0QXYyQlluRE5CUndvVktKbHJ5ZXIzSXJsNGQ4TGV5T05Senlka1dZTzdiY0xSY0",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkFBcmlIOGVwNmlUR1c2Z0RTSjFZRGgwYlpCNkluQnZsaU9nbFlPZXRMOHpVU3lSOVJ5REhEZXA0QXYyQlluRE5CUndvVktKbHJ5ZXIzSXJsNGQ4TGV5T05Senlka1dZTzdiY0xSY09rbXFxcTNmRXEzOE1yckJLakRvdjhLNlk4VGhsZGFnT3JqUVRfRzFvcGRpc3phRURjQl9ESjVGUXk1emlqMnJ4UERkTkxkZzRHRUNPejM0SHU?oc=5",
         "type": "rss"
       }
     ]

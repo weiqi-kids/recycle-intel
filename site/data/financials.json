@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T12:55:12.243055Z",
-  "quarter": "2025-12-31, 2026-06-30",
+  "updated_at": "2026-10-26T14:47:15.033114Z",
+  "quarter": "2025-12-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
       "id": "abtc",
@@ -126,17 +126,17 @@
       "name": "陶朗",
       "ticker": "TOM.OL",
       "currency": "NOK",
-      "ar": 463000000,
-      "ar_prev": 420000000,
-      "ar_qoq": "+10%",
+      "ar": 421000000,
+      "ar_prev": 463000000,
+      "ar_qoq": "-9%",
       "ar_period": "QoQ",
-      "inventory": 236000000,
-      "inv_prev": 263000000,
-      "inv_qoq": "-10%",
+      "inventory": 244000000,
+      "inv_prev": 236000000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "umicore",
@@ -177,9 +177,9 @@
       "name": "Waste Connections",
       "ticker": "WCN",
       "currency": "USD",
-      "ar": 1069733000,
-      "ar_prev": 1033086000,
-      "ar_qoq": "+4%",
+      "ar": 1106208000,
+      "ar_prev": 1069733000,
+      "ar_qoq": "+3%",
       "ar_period": "QoQ",
       "inventory": 78863000,
       "inv_prev": 71156000,
@@ -187,7 +187,7 @@
       "inv_period": "YoY",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "waste_mgmt",
