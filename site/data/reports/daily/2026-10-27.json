@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T13:53:23.185848Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-10-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra sees strong 2026 RVM sales - Recycling Today",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlFZZ0hsVDRnTkxwT3hpMndWYWtURjEzcVdOd1dHOHZZZVdhajdBbktWYjJRSWtxNk9LUTlEM3dwX2YtUFYzLTVXMWRDNGZabGJaWDVwVXlXVDdmWXJtYVM2ZXpQVUNHYzJwaXh0czRIQ1hUOUFxQmUzWVl3eEtOWUJnMThOSzdKUEszcU9URzJBUmREYlRGT1g1cnliV0p2dWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tomra-2026-10-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra reports 20% revenue growth as reverse vending sales increase - Vending Times",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSHgzRzFBZlI5NGxKc0lRejFKNTJaa2VrYTU3NHRrMTY2bUVsM2dtUm80YUk5U0FuNWZ2RlVaM0NfM2RIY21hZ3NRZWlORXdWUDdiUlRJbmFqYmd3OXZLQTFoV1R3RXRlenRZTi1ZYXZXVzFwWm4tQ1NPR0VFLTNjejhqVGxyb25OZG5SbTR0eHNJUHB5aml1MGpleUk0Ny02V2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "waste_connections-2026-10-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ATB Cormark Capital Markets Reaffirms Their Buy Rating on Waste Connections (WCN) - The Globe and Mail",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVzFZX2ZnUHUyUjlDeFQ4V05yVUt4WTdiT0NNdjRUQTdoRUVDdi1Cam04d2hPVUFWbVNEeGJKYmRJeUhQRU5MbmwwY3RMUzFudzluNFo3bWF1U2VCOGo4YzFneVBtY29oOWdjdkQzYUxVSk94bVhfenhOSEphVHhiU0xVNkxtYk5uZVZCRkhKaWVZeFBZMmYyYlctQ285WERpYmV3OXU0bWRoWTdZUWtsUHhxYkNmODlaYzhCV0c0UDZwSFlhdDItSDk2N3ZSYmNSVnJsQldEOUx6TWJ4QkxKNHJ5MGN1cmtLY3hHSmlDUi1KQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-27-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Clean Harbors (CLH) to report earnings tomorrow: here is what to expect - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2dqME5MS09TT20xLS1UZVRZMll3MG5UaGVMMm0wY25LbnRVQkdjLU1ic1RKN3NkNnhneEkwb2w5V2pVR0c2RmYzNHA4dmpXUVdYejBTRVlBelJOYkpsczZZVjAxS0t1NkNTdjlUb0c1LThoczFJYkltMUlQWG1MNE12WGpkdkRsZVdRUC03TndjTmxRT2xYOGhxaHBXTmdhQ0lKbjkySUhGTTFQSU1Pck9zTDR0TVIteEkxRjJXV01pMVBLdUhJTA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "waste_connections-2026-10-27-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UBS raises Waste Connections stock price target to $215 on valuation - Investing.com Canada",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORmJNamR1cDJJYU5QSDVWQi1wamhBblBuTnBZRGRQeHFlc3R0ZXlYQTN0QmtPeGRCSHd0ZDEwa2Q2SUpvRlRza2FjbEhrWld4MzFPVXFWQ21UaHZTdDZJNkZOQjQyalY0dzAxamVtbjVKeGJvUFd2N0R2eHhwUFk5ZWZRcHI1LV9YRDZYN3lVcWJTWFZVSG9ObTd1YWlVcTFRNUJYTHJ6OGZ2TXlyaTlTQkZKV2p3YWt4azdXS3l6Vm1OcEtzYzBJ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 3
+      },
+      {
+        "id": "tomra",
+        "count": 2
+      },
+      {
+        "id": "glencore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 256,
+    "dup_title": 138,
+    "too_old": 99,
+    "gate1_blocked": 0,
+    "gate2_blocked": 4,
+    "passed": 15,
+    "pass_rate": "12.7%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "Investors Will Clean Up With Veolia Environnement - Barron's",
+      "Sims Limited Subject to Initial Substantial Holder Notice from State Street Corporation at 5.06% - K",
+      "MRF upgrades for Republic, Circular Services harness AI and tech",
+      "Corrugated boxes maintain dominance despite shifting market dynamics: FBA"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為WCN、陶朗、嘉能可相關動態：「Tomra sees strong 2026 RVM sales - Recycling Today」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tomra sees strong 2026 RVM sales - Recycling Today（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tomra reports 20% revenue growth as reverse vending sales increase - Vending ...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
