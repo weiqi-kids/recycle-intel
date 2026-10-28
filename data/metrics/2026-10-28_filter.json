@@ -1,0 +1,15 @@
+{
+  "total_raw": 256,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 1,
+  "gate2_fail": 4,
+  "passed": 23,
+  "gate2_samples": [
+    "Arctic raises its price target for Tomra to 117 Norwegian kroner (115), reiterates buy - www.markets",
+    "Glencore Reportedly Closing in on Two Multibillion-dollar Asset Sales - www.marketscreener.com",
+    "Investors Will Clean Up With Veolia Environnement - Barron's",
+    "MRF upgrades for Republic, Circular Services harness AI and tech"
+  ]
+}
