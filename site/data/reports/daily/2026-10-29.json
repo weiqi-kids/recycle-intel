@@ -1,0 +1,237 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T14:54:20.128012Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "boliden-2026-10-29-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Boliden Q3 2026: Solid performance across Mines and Smelters",
+      "companies": [
+        "boliden"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-10-29-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Glencore Logs Decline in Q3 Copper, Silver, Gold Production; Nickel, Energy Coal Output Rise - marketscreener.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLTNfMjNDS1BOeVlWM1dVNmVoS0ZkQ1dfcVpCV19qd3VuYW1PUWdaMXI4cEJadlN5REphSU9vWTRZT19DZk1hSlJVUGpUeGdRNnN6TUpucEdIRnFoQXVyR3Bsek9PV0hYY3gzclY2OU1MejBKaGlwQVoyZjZST3M0ZWlSTkdfOEk5M3ZPWFU1SkRmYkVrbzd5R1N6R1FsaEFtNlJYV3EyY2gtYm1DLWxpTWVpTlZlbTVoOTNvM0xkMjJMejNLTWFnVml2cXRPZjM1dV9BYmdzVkc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-10-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore copper output rises 3% YTD; guidance unchanged - Yahoo Finance",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSW8tNUVmQ0czN3F3UFBMaTdXdVNvbHUzTUlmOE5SN0pmcXpGdjRaWGJlMGVYazZGM1ZXUW5BRVVKWnpIU3NseGI5c01EcWV3V3VFOUpsRlNuaTRRRE1jTzd0LWFlUGN0eXZodm1NajRhdjcwb1dBQmxTQ3pta0hQTnFWWkhqVGFUaXpyODBUQXFWcXRrY1RFOUVXbTAwLUQ1cWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-10-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore Affirms FY26 Production Outlook - marketscreener.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa1F3LURUYzFuRzVsV3VpQm5xQ0l4Z1hxcnBSbUM5T1hIa3NRaHJPaEdod2JpT2FwRTBhLVdVQ3hWOFpWZHJzVzhLOVBKTExmQTRuaHhheXpLZjBQVXBDcG1kWmhxaUxnWjE2RFZ6cjhnWEppR0VURzlnNDUzOURTUHdVSXd2cDN4RWdPM0YzdEg0NlBqdkNzLQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-10-29-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore Q3 2026: Ferrochrome Output Up 29% on Smelter Restarts - News and Statistics - IndexBox",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd2hGRlN0QkNYY2xDSmJ6Nk0wNkFDN1dIR2sxNGI1TF9RN1NodTU2NF9GTWNNMm1rdURXbTE0bDJGUXRYSmhwRE5mOF9pNFNBVlR2RFdOaWd0TXR6aThvRl90eUVETFBpMDNYVWY1d1ctYTdMQkMwMEwzT3VUa2IxU2ZEa0FfZmswRnFnTHBlUlFIdlQwaDdn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 12
+      },
+      {
+        "id": "boliden",
+        "count": 1
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      },
+      {
+        "id": "sims",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "guidance",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 258,
+    "dup_title": 136,
+    "too_old": 95,
+    "gate1_blocked": 0,
+    "gate2_blocked": 2,
+    "passed": 25,
+    "pass_rate": "20.5%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Analysts: M&A strategy could help Casella accelerate margin targets",
+      "CNG makes a case for food-grade PCR"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為嘉能可、博利登、WCN相關動態：「Boliden Q3 2026: Solid performance across Mines and Smelters」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Boliden Q3 2026: Solid performance across Mines and Smelters（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Glencore Logs Decline in Q3 Copper, Silver, Gold Production; Nickel, Energy C...（財報、產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

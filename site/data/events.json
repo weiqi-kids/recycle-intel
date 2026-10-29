@@ -1,5 +1,311 @@
 [
   {
+    "id": "boliden-2026-10-29-001",
+    "date": "2026-10-29",
+    "companies": [
+      "boliden"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Boliden Q3 2026: Solid performance across Mines and Smelters",
+    "summary": "\n\n\"Among our mines, Somincor has really integrated well into Boliden and had a very strong production, while Kevitsa set a new record for milled…",
+    "sources": []
+  },
+  {
+    "id": "glencore-2026-10-29-002",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore cobalt output sinks 52% under DRC quotas - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5LSFUtbmFMT3lhSjQyZkhrbFVMdVkyNmRnQTVzelc2NkM5WDk2VTUwdUtjdThzQW1zLVJfblExZHJtc1RGbUUwYU01UXRqdmg2Rk5KOWxOenAyYWVDR0Vma0N6NHdHa1c2dEdyRHVTZ1",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LSFUtbmFMT3lhSjQyZkhrbFVMdVkyNmRnQTVzelc2NkM5WDk2VTUwdUtjdThzQW1zLVJfblExZHJtc1RGbUUwYU01UXRqdmg2Rk5KOWxOenAyYWVDR0Vma0N6NHdHa1c2dEdyRHVTZ1Z2N214aklyMTMzVGk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-29-003",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore copper output rises 3% YTD; guidance unchanged - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPSW8tNUVmQ0czN3F3UFBMaTdXdVNvbHUzTUlmOE5SN0pmcXpGdjRaWGJlMGVYazZGM1ZXUW5BRVVKWnpIU3NseGI5c01EcWV3V3VFOUpsRlNuaTRRRE1jTzd0LWFlUGN0eXZodm1Naj",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSW8tNUVmQ0czN3F3UFBMaTdXdVNvbHUzTUlmOE5SN0pmcXpGdjRaWGJlMGVYazZGM1ZXUW5BRVVKWnpIU3NseGI5c01EcWV3V3VFOUpsRlNuaTRRRE1jTzd0LWFlUGN0eXZodm1NajRhdjcwb1dBQmxTQ3pta0hQTnFWWkhqVGFUaXpyODBUQXFWcXRrY1RFOUVXbTAwLUQ1cWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-29-004",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Own Sourced Copper Production Of 598,600 Tonnes In 9M - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPV19UM1g0SlRYNGRLTHFOblVCeWYxNHBXa3gySkxITlppS09yektsTHU2c2V6ZldZRDh6SDVfU1lJWXk3S0dTRlVVeW9JR1pNT05kSmd6SlhZcndQZWhYc3ByOFFrbW1aX1lYV18zQl",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV19UM1g0SlRYNGRLTHFOblVCeWYxNHBXa3gySkxITlppS09yektsTHU2c2V6ZldZRDh6SDVfU1lJWXk3S0dTRlVVeW9JR1pNT05kSmd6SlhZcndQZWhYc3ByOFFrbW1aX1lYV18zQldfakQ0c2YtWktzRzM5SUlHVDZ0bVpnUUZPbmJhNlRXdnNicXBkUnZzeXZaVy1JZWNWMFdEd3h4Vk5fbGk4N2ExWEk3R3praXJZR0JPclZMVWg0V2p5eEw1WnctNXI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-29-005",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Affirms FY26 Production Outlook - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOa1F3LURUYzFuRzVsV3VpQm5xQ0l4Z1hxcnBSbUM5T1hIa3NRaHJPaEdod2JpT2FwRTBhLVdVQ3hWOFpWZHJzVzhLOVBKTExmQTRuaHhheXpLZjBQVXBDcG1kWmhxaUxnWjE2RFZ6cj",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa1F3LURUYzFuRzVsV3VpQm5xQ0l4Z1hxcnBSbUM5T1hIa3NRaHJPaEdod2JpT2FwRTBhLVdVQ3hWOFpWZHJzVzhLOVBKTExmQTRuaHhheXpLZjBQVXBDcG1kWmhxaUxnWjE2RFZ6cjhnWEppR0VURzlnNDUzOURTUHdVSXd2cDN4RWdPM0YzdEg0NlBqdkNzLQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-29-006",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Q3 2026: Ferrochrome Output Up 29% on Smelter Restarts - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPd2hGRlN0QkNYY2xDSmJ6Nk0wNkFDN1dIR2sxNGI1TF9RN1NodTU2NF9GTWNNMm1rdURXbTE0bDJGUXRYSmhwRE5mOF9pNFNBVlR2RFdOaWd0TXR6aThvRl90eUVETFBpMDNYVWY1d1",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd2hGRlN0QkNYY2xDSmJ6Nk0wNkFDN1dIR2sxNGI1TF9RN1NodTU2NF9GTWNNMm1rdURXbTE0bDJGUXRYSmhwRE5mOF9pNFNBVlR2RFdOaWd0TXR6aThvRl90eUVETFBpMDNYVWY1d1ctYTdMQkMwMEwzT3VUa2IxU2ZEa0FfZmswRnFnTHBlUlFIdlQwaDdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-29-007",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore’s Copper Output Ticked Up, But 2026 Looks Softer - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNR0d0d1JEUDEyR1VkQmpPUFk3NlNTVUhpdTBuMGdQZkNlb2kzajAwaWdpUHhWWjhhNUhaNVQ5bThsdUZBNEhCcjlJTzRJVGJQNWJ0RTRENmNkcG9KcXJSeV9lU19PYlFGa09GRmJKYl",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR0d0d1JEUDEyR1VkQmpPUFk3NlNTVUhpdTBuMGdQZkNlb2kzajAwaWdpUHhWWjhhNUhaNVQ5bThsdUZBNEhCcjlJTzRJVGJQNWJ0RTRENmNkcG9KcXJSeV9lU19PYlFGa09GRmJKYlBua1F3cnc5cnNBZVpEWEJqY0ZDekRRY2RzWFlQXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-29-008",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore’s ferrochrome production up - Mining Weekly",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNalB4ZXJ0aHpoX3hfZk1NNC0yVHNwZ3RKMGFxQy1YNlNPSXZrbXlibzFxNGpkV2tTZDB4T0RtNlM2UGQ0WHZPel9veTNCeE5qT2xFbUpSSlF4V2xkVUx2SEFmWjZ4cVUyUDUzd0FwSF",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNalB4ZXJ0aHpoX3hfZk1NNC0yVHNwZ3RKMGFxQy1YNlNPSXZrbXlibzFxNGpkV2tTZDB4T0RtNlM2UGQ0WHZPel9veTNCeE5qT2xFbUpSSlF4V2xkVUx2SEFmWjZ4cVUyUDUzd0FwSFRGYlRRekZpV1h0VXZ6QUpzTVpsa1hQN0RtMU5J?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-29-009",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore’s strong Q3 production results - African Mining Market",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNam84blNsLWJLMWUwRVNPbWVHTUpNcks3NUc5WEhGRVFCamdNdnN3SXJ0cDZiV1VidjdsZUR4cFI5UFlnTGVwMElJVXJXX0ljMmg4OXJEbnF6UjBleDVTMlF4Y3hiV3EwWTZvTnFNaT",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNam84blNsLWJLMWUwRVNPbWVHTUpNcks3NUc5WEhGRVFCamdNdnN3SXJ0cDZiV1VidjdsZUR4cFI5UFlnTGVwMElJVXJXX0ljMmg4OXJEbnF6UjBleDVTMlF4Y3hiV3EwWTZvTnFNaTRXeFZJbm9OQ1BYa1JtOU5QUi0yOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-29-010",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Reports 12% Rise in Adjusted Copper Production and Maintains 2026 Guidance - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPUTR1SHpGUXhBcUR3ZkU2Ukdxdm1zWEJlQnNjTWxKVGdHYUxQSUdDaWN6ekxRNEhFR2pVcXRZeWV4MjRJclBmRXF3U2lYSllUWVBqRG9VUGhqdjJPN0F4QVhmbDFFZkhwcG85a2VDWF",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUTR1SHpGUXhBcUR3ZkU2Ukdxdm1zWEJlQnNjTWxKVGdHYUxQSUdDaWN6ekxRNEhFR2pVcXRZeWV4MjRJclBmRXF3U2lYSllUWVBqRG9VUGhqdjJPN0F4QVhmbDFFZkhwcG85a2VDWFNocWdkaVliR2ZtZ3JiX3dvdnhYV19hamdRUlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-29-011",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Glencore keeps copper forecast as Q3 output improves - MiningMX",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0h2NDE3TGpzZnVuaXhfNUh0YXo2b1FHUjc1OG9JcTNnQXJXN1h6OTNjcTA5ZDZsQXRUeWFsNElxMDhueTlmQTVMeWJDSjkyXzVCN2s0VnRNQ00yaDVWUXN6bVBlMnJFMjNzbk5NWn",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0h2NDE3TGpzZnVuaXhfNUh0YXo2b1FHUjc1OG9JcTNnQXJXN1h6OTNjcTA5ZDZsQXRUeWFsNElxMDhueTlmQTVMeWJDSjkyXzVCN2s0VnRNQ00yaDVWUXN6bVBlMnJFMjNzbk5NWnJScUZwNE11TlhEOTl5YXhoMGlOcFZzY2JYRURBV2pR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-29-012",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why is Glencore stock sliding today? - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObVJMX25WaFd4U2htYmxlbjZRY3h4VnVJcUdnSXVObDd1QkZZQVk1XzViQ1lOcVZ4MF94ZGNzT1lWTFVpdkJ1VFRxS0xWZGhaRjE1T3hyNkVVV2J2bXR0aVdWdDBRVW5hRTNEbmdGNW",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObVJMX25WaFd4U2htYmxlbjZRY3h4VnVJcUdnSXVObDd1QkZZQVk1XzViQ1lOcVZ4MF94ZGNzT1lWTFVpdkJ1VFRxS0xWZGhaRjE1T3hyNkVVV2J2bXR0aVdWdDBRVW5hRTNEbmdGNWg0N0Q2UVNGeXpqMzdpSFpCUXRwQjlSV2RPQ1AySTBadExCOUtMQTFwSlZoaGoxQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-29-013",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Glencore Logs Decline in Q3 Copper, Silver, Gold Production; Nickel, Energy Coal Output Rise - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLTNfMjNDS1BOeVlWM1dVNmVoS0ZkQ1dfcVpCV19qd3VuYW1PUWdaMXI4cEJadlN5REphSU9vWTRZT19DZk1hSlJVUGpUeGdRNnN6TUpucEdIRnFoQXVyR3Bsek9PV0hYY3gzclY2OU",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLTNfMjNDS1BOeVlWM1dVNmVoS0ZkQ1dfcVpCV19qd3VuYW1PUWdaMXI4cEJadlN5REphSU9vWTRZT19DZk1hSlJVUGpUeGdRNnN6TUpucEdIRnFoQXVyR3Bsek9PV0hYY3gzclY2OU1MejBKaGlwQVoyZjZST3M0ZWlSTkdfOEk5M3ZPWFU1SkRmYkVrbzd5R1N6R1FsaEFtNlJYV3EyY2gtYm1DLWxpTWVpTlZlbTVoOTNvM0xkMjJMejNLTWFnVml2cXRPZjM1dV9BYmdzVkc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-10-29-014",
+    "date": "2026-10-29",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections (WCN) Insider Sale: SR VP & Chief Accounting O - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXZYdkNpc09iYk1PZ1l5aXMtbi1abU51T3FQWWExZDR0R0RkQTUwWGNrcExVY3FxMzYzX0ZXQUdRb29ZRlIxaWdkWlpmMkt1U0ZyNXRCM2Rxamswb2l2QVlwQ0FOdnJiRHFScm95OW",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXZYdkNpc09iYk1PZ1l5aXMtbi1abU51T3FQWWExZDR0R0RkQTUwWGNrcExVY3FxMzYzX0ZXQUdRb29ZRlIxaWdkWlpmMkt1U0ZyNXRCM2Rxamswb2l2QVlwQ0FOdnJiRHFScm95OWxtN2NSSmYwamlWN0k0VzR3NGgzMUc1RF9HYjVCVFNYX01feVhoVGRtY3FrS0Z4S2tVRlZ6bF9SQm9acEZWTHczdnlabnh1dXNpWTdPMXZWaWU4YmZXNnlPNGlEdF8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-10-29-015",
+    "date": "2026-10-29",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims Limited (ASX:SGM): How Did Recycling and Data Centre Services Shape FY26 Earnings? - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTkwTW0yMVdYT3p2WmVzV0swRG94NFg4aFV5T3I5VkthLWdXclBhT3hiLXk2ZzNnckpHUG05MGlhbWdCbmt5WnEyczZYeERYbUkzVFhmOTZCRUt4RDBBVDR3UXZvTGhHZkpYdG56U3",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTkwTW0yMVdYT3p2WmVzV0swRG94NFg4aFV5T3I5VkthLWdXclBhT3hiLXk2ZzNnckpHUG05MGlhbWdCbmt5WnEyczZYeERYbUkzVFhmOTZCRUt4RDBBVDR3UXZvTGhHZkpYdG56U3RGQ3dpZmFwVVY0WUQ2U2Joekd2U1V5QlotNWFBQnlVTDlxRXdwSDhkeUdPZmtEUnJBNVFSMU9FYjVCd3hoQWZITk5saFQxU3NVLWZpNmhDcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-10-28-001",
     "date": "2026-10-28",
     "companies": [
@@ -300,6 +606,123 @@
     ]
   },
   {
+    "id": "glencore-2026-10-28-016",
+    "date": "2026-10-28",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore, CNGR back $380M Brazil nickel mine with $40M - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjBaR21OTzlseHRWTXBmSHE3UC1CTHJPa3IwVEIwQng0dC1LQWdEbW9NYkYwUXVnMXJ2eFpQc2hTdk1pZFBOendKemxib1poZmpZQkRMWnVUdmFsTnBURFNCVXlfdVBzQm0wVVAxRU",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQjBaR21OTzlseHRWTXBmSHE3UC1CTHJPa3IwVEIwQng0dC1LQWdEbW9NYkYwUXVnMXJ2eFpQc2hTdk1pZFBOendKemxib1poZmpZQkRMWnVUdmFsTnBURFNCVXlfdVBzQm0wVVAxRU43STFZdWFQdjA2MDh2T25Oeg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-10-28-017",
+    "date": "2026-10-28",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Price Target Raised to $215.00/Share From $200.00 by UBS - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQTWgzeTZfOGs3VHpJNlVYakx6VkdRYURhcHBmbFp5dTZleG5qSmF1M2pfZmU2M3ZsdWU5S1kzZkN5dUhPNTVZX1RoLURTa3RKTjdJTlN2dVplTXM2NzQxZnljNkF0TTRJLVVZX1N1az",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTWgzeTZfOGs3VHpJNlVYakx6VkdRYURhcHBmbFp5dTZleG5qSmF1M2pfZmU2M3ZsdWU5S1kzZkN5dUhPNTVZX1RoLURTa3RKTjdJTlN2dVplTXM2NzQxZnljNkF0TTRJLVVZX1N1azV4WXk1WTc0QkNRSnMwTnZ0ZlRUYnoxd291dmd2ZkM3ZTM3S2xfZW83OEo5eW9xUTFUUTdWWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-10-28-018",
+    "date": "2026-10-28",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Veolia to supply CO₂ purification units for Protos carbon capture plant - ChemEngOnline",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNMHBhOGx6TkstVW1DVURoUkh5U1ZkQzlEczdiQ004OVFqWUZJUmFLWEFoNjRYMG5xV3RJdWlRMER2WmZaLUlyNnpSUEpoQWpWblY5dFBOWklocmRpcUZMMW81MDJRZTBFRDZQbGpGZW",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMHBhOGx6TkstVW1DVURoUkh5U1ZkQzlEczdiQ004OVFqWUZJUmFLWEFoNjRYMG5xV3RJdWlRMER2WmZaLUlyNnpSUEpoQWpWblY5dFBOWklocmRpcUZMMW81MDJRZTBFRDZQbGpGZWVSc2tKZmRBdFNHU2x4WXozdzF4SkgzdjBfdzQtVVl2T2xkRXlNcGtXOWt5Y2pDM1ZycGlMaTlJR215aW1pM3Zn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_mgmt-2026-10-28-019",
+    "date": "2026-10-28",
+    "companies": [
+      "waste_mgmt"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "WM president says ‘we’ve turned a corner’ on healthcare waste profits",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/szWT1olJygSoT-IltmoAv7Jl23IMtepSQxx-9p5nAkI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMTk1NS5qcGc=.webp\"/></div></figu",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/wm-q3-2026-earnings-healthcare-solutions-milestones/873052/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-020",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Clean Harbors reveals $55M Los Angeles hub, co-CEO’s retirement",
+    "summary": "<p>The company recorded record revenue up 21% year over year in its third quarter earnings release. It also disclosed future plans, including transitioning Eric Gerstenberg to become sole CEO.</p>",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/clean-harbors-mike-battles-retirement-los-angeles-hub-earnings-release-q3/873042/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-021",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "plastic_recycling",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Recycled plastic textile maker gets loan boost from Closed Loop Partners",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/FKmUpZ2FGNfT_sCQDrQykeTjuwjdz8VoFMkViV7_fDs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbWFnZXMtMTEtNzM2eDQ5Mi5qcGVn.webp\"/>",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/recycled-plastic-textile-maker-gets-loan-boost-from-closed-loop-partners/873005/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-10-27-001",
     "date": "2026-10-27",
     "companies": [
@@ -534,6 +957,47 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/biogas-to-methanol-refiner-emvolon-raises-22m-series-a-funding/872863/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-10-27-013",
+    "date": "2026-10-27",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "State Announces Lawsuit Against Waste Connections for Chiquita Landfill - SCVNews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWJrVndpb0piMzZnMGViYlhRV0c0Vm5jU0RNQU5ma1dPWVBCdExHOGtZdExjUkpZVXBWSEpYTlpfOFRwdG9qcG1Ba3A1VGlwMlZ2MkwwSmEtdllyclE2ZVpCb3hkYmk1N1RBaGRWdm",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWJrVndpb0piMzZnMGViYlhRV0c0Vm5jU0RNQU5ma1dPWVBCdExHOGtZdExjUkpZVXBWSEpYTlpfOFRwdG9qcG1Ba3A1VGlwMlZ2MkwwSmEtdllyclE2ZVpCb3hkYmk1N1RBaGRWdmg1bXVweFJ1MkZkS3ZwOXBCUlgyR1M2N2hVaVdPWDJER045VzdJT0Y4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-10-27-014",
+    "date": "2026-10-27",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "circular_economy_policy",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS Adjusts Price Target on Waste Connections to $215 From $200, Maintains Buy Rating - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3l0a3NqMXFFYjIxOUNDNFA2SGRZYXd4LWltMWwtQWhLTmNEUGhBa0MySDNTRTFaTURkMlkzZTBrTEVUcmZ3a08zdzZ1X3JNazNOVEJWM0ZPY3hBTWpkalp3ekZHMm5xUEpRRE9yN0",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3l0a3NqMXFFYjIxOUNDNFA2SGRZYXd4LWltMWwtQWhLTmNEUGhBa0MySDNTRTFaTURkMlkzZTBrTEVUcmZ3a08zdzZ1X3JNazNOVEJWM0ZPY3hBTWpkalp3ekZHMm5xUEpRRE9yN0xvWml5SDBFUVJ5VVJ2OWpZLS0xRWE2NjFtQTNKOVRBNnRvdS1DNnRlMWJRVQ?oc=5",
         "type": "rss"
       }
     ]
@@ -831,6 +1295,25 @@
     ]
   },
   {
+    "id": "unknown-2026-10-26-016",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Weekly Recap: Raised 2026 guidance and price growth, volume gains - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTE1aTEY3TTR3aWxFazhpdzA1TW02OW5hMW52X3ZhRmg4TGtpQjNNSUtiX3g2SjZaTXBOWFRSTXNNdkhBMTV2NWtPQzYycFl6c00zbkVmTmg0RTU5MkN1emhMcTJQdXI5OTNCTFFacG",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTE1aTEY3TTR3aWxFazhpdzA1TW02OW5hMW52X3ZhRmg4TGtpQjNNSUtiX3g2SjZaTXBOWFRSTXNNdkhBMTV2NWtPQzYycFl6c00zbkVmTmg0RTU5MkN1emhMcTJQdXI5OTNCTFFacG42Q1dlM0drQXA5NlQ5OVc2NWtkR0pBLXQ4bGJmaDczV3JmY2hkYnAyY2ZiaG5FUW94NWZlZDRBUE5DMnpUM2JRUUFHSEFwU2oxbGRWZlNlREJkcVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-10-25-001",
     "date": "2026-10-25",
     "companies": [
@@ -868,6 +1351,27 @@
       {
         "name": "glencore",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclZkTjZIUjFySkZvWGxaMTdYMnY1dGRtRE0zaE9zMTBfNUhGaWdqZGs2Mm8tVXhsVkRqZ3dRMGQ0aFh4b0NnNS1WZjBIRXFRcS1TWTVQMnVyRy1TcFpfOUh0OVJUQ2ZlRVMxaWJUelp3c0hNODZ2dE5PSjlFNHJFbGxkUGRhT19YU2FEOHJHNnR6eHdCMXhETWs3a01ETXdrSUJVSHFlZHFFcHJ2c052RnFURXdLS3pEYzZnd1JsOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tomra-2026-10-25-003",
+    "date": "2026-10-25",
+    "companies": [
+      "tomra"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tomra Systems ASA (TMR0.F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kdnRGU2RBdGhSemllU2FwQkhHV3Q3bEpyalVRc2luMWJ3YlJwUElLb2lfNTV5blpDZ2FLTHhPSUpLVXNqaXQwbFBTWkVjUUExeUVJUw?oc=5\" target=\"_blank\">Tomra Systems",
+    "sources": [
+      {
+        "name": "tomra",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kdnRGU2RBdGhSemllU2FwQkhHV3Q3bEpyalVRc2luMWJ3YlJwUElLb2lfNTV5blpDZ2FLTHhPSUpLVXNqaXQwbFBTWkVjUUExeUVJUw?oc=5",
         "type": "rss"
       }
     ]

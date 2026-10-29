@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-29",
+  "total_events": 15,
+  "by_company": {
+    "boliden": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "glencore": {
+      "count": 12,
+      "sentiment_avg": -0.04
+    },
+    "waste_connections": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sims": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 9,
+      "sentiment_avg": 0.06
+    },
+    "industry_general": {
+      "count": 14,
+      "sentiment_avg": 0.04
+    },
+    "guidance": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
