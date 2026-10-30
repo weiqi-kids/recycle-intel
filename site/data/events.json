@@ -1,5 +1,253 @@
 [
   {
+    "id": "glencore-2026-10-30-001",
+    "date": "2026-10-30",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Reports Higher Q3 Copper Production, Maintains 2026 Guidance - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmNZNXZySVdRX0V3QzEyWWQ5YnFqeENjZ3hJdi03dlozLXoxMmkxaTFfNTFCVlFXWTZQcDJQelRXMDZra3JqaXZMVlROZGZIRFFOQmgtVVZYOXhMbzREU1NYSkRTbzFfaXR4WWd1Y0",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmNZNXZySVdRX0V3QzEyWWQ5YnFqeENjZ3hJdi03dlozLXoxMmkxaTFfNTFCVlFXWTZQcDJQelRXMDZra3JqaXZMVlROZGZIRFFOQmgtVVZYOXhMbzREU1NYSkRTbzFfaXR4WWd1Y0lwNFFxVk55aUc1SVhUUWFZYmMxbDBFTGRhcVJnbHMzalk4bzFDVndNWnFRUktOU1QxWExLSVBITnlNT2h0d0o0NEFHYVZVZHg1RmhOWi13?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-30-002",
+    "date": "2026-10-30",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "[SMM Chromium Flash] Glencore’s Q3 Ferrochrome Output Rises 29% QoQ to 125,000 mt, Chrome Ore Up 11% to 906,000 mt - Shanghai Metals Market",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTHR1ZjRSc0lwMmlVQW1jNHIxSEdWZFN2b25Ec3AwdzMxaEZ5YjlaN193MnRsdVIzcGt5d0FlMHY1N0c1cDFfdXdVb2t5UDNLcFI4VEFpV04xTGt4Y3M1VGtwNFZLSUhNMHdVRjRCNF",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTHR1ZjRSc0lwMmlVQW1jNHIxSEdWZFN2b25Ec3AwdzMxaEZ5YjlaN193MnRsdVIzcGt5d0FlMHY1N0c1cDFfdXdVb2t5UDNLcFI4VEFpV04xTGt4Y3M1VGtwNFZLSUhNMHdVRjRCNFVWWElYVXNFRGpEMk1NZ1IyYnlGMjZBNUlUVm52T2s4ajJPek85ZHk1SDBTNFpaNWN6Sm56VFFKWVVjTHJZNlRFdHRwSTRaZ1JKX0pLQlFJalRJejVoZjJpdERuUnpISVh6ZTBmRzk4TG9rdjZkbnk3b1h4aGFRdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-30-003",
+    "date": "2026-10-30",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Glencore output results show increased copper - www.mining-journal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcDY1TEdqYkN5ZWNpNzFMUVNwdnN1OE03NndoMlR4WkJNY0lIUnFNY3F5NHlKNmNCNDRoX1hMdFFTRXg4aHpibGhGMWZReE9YbjY0YmVFYmtoZ0diVUh5SkhuMFE5TVl6ZTdReFpSR2",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcDY1TEdqYkN5ZWNpNzFMUVNwdnN1OE03NndoMlR4WkJNY0lIUnFNY3F5NHlKNmNCNDRoX1hMdFFTRXg4aHpibGhGMWZReE9YbjY0YmVFYmtoZ0diVUh5SkhuMFE5TVl6ZTdReFpSR2NJV2dwS1YtOFptVGhLUm5WU0FuVl9LTEdjbnRTdGtrZ3U3R0N0eklHVm1Scm5YVm50MWpkMDhnNjk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-10-30-004",
+    "date": "2026-10-30",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Waste Connections plans to improve leaf pickup this year - Oakridger",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlNVS0toY1VZSURFSDJXVHppdTVpUkN2N2FscEtOanlFM3BBOVMtckdLSkJJdllTSHphTmhZTHRNelVJbXZqaDk2V3NFajYwWlVFSlF1TmlUdG1wV0dNWWIxOWlxRmJGeFFMMkJqS1",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlNVS0toY1VZSURFSDJXVHppdTVpUkN2N2FscEtOanlFM3BBOVMtckdLSkJJdllTSHphTmhZTHRNelVJbXZqaDk2V3NFajYwWlVFSlF1TmlUdG1wV0dNWWIxOWlxRmJGeFFMMkJqS1lpZTFpZFJ1T2FfWUFHa2RuOTRuMFY1NTU3WEFhQktuNWtJTS1BYUNUTnEtWWRyNGducVJMZmlmNnZhczBpQzlv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-10-30-005",
+    "date": "2026-10-30",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections stock hits 52-week high at $187.96 By Investing.com - Investing.com India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNRW9wZkxtaDRCUERhSEhRRHJaR0JnX0VHY3Y0Vkg1LTFybVU0SEJIZGQ3VGl2bnNxaWwxdjE1Y1IwY2tsSDZuOGZMb3pmTGNobUh2TXRxMDlJai1XRjJaSG42dEdCeVJ5X3NrbjQ1cG",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRW9wZkxtaDRCUERhSEhRRHJaR0JnX0VHY3Y0Vkg1LTFybVU0SEJIZGQ3VGl2bnNxaWwxdjE1Y1IwY2tsSDZuOGZMb3pmTGNobUh2TXRxMDlJai1XRjJaSG42dEdCeVJ5X3NrbjQ1cGdjMk4tREtJbHlvWS1zZ21laThfbmkxM1ZPNjJfRFQ4U0Y3NzlFMjBZNjNHQUlZV0tLS0JiX1A1T1p6VkFlLVBz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-10-30-006",
+    "date": "2026-10-30",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Waste Connections (WCN) Earnings Beat Means For Shareholders - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT0RrU20zM1ZKMXRuaExfdXdMcVZHckZ1WWNHWWxXZ0tnV2dJRnpNaUQ3QW1TVUVtelhReXFMYUtIYVRza1Z4amViVE9MNkNIMnhHdVdHWmplZmZFeUVUX3U2djZ4WXpLczlPekR3OG",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT0RrU20zM1ZKMXRuaExfdXdMcVZHckZ1WWNHWWxXZ0tnV2dJRnpNaUQ3QW1TVUVtelhReXFMYUtIYVRza1Z4amViVE9MNkNIMnhHdVdHWmplZmZFeUVUX3U2djZ4WXpLczlPekR3OGZGMW0tWWN2TTR4UVNkT25IRnpudGhWYUR5WHdBWU5mUDRTZ3o1QlhUcVRROGdPelVQdlJYdDFkZ1BubWZ3eXJVbFBJZ2YxYkhGWGVFSHl2YldOLUV2cC1fU2RialVjdktmZEZWTG5PVFVpZzkw0gHiAUFVX3lxTFBfdHV1ZmRMZFZ6X3hiS2R3ckVOVXJtdl9RRXZUSEp3YmU0eVByalhoci0wbFFpTXVrcXZoRFlzZzlaZVdpUXdFY1NaRXNIV241SEw4MU9ZWGZLeHoxNUdySWFBRnNoM0N6LXJwLVpMZEFUUndMdWtSRmpxb29OMGtDaEZ5WU92Q19GX3pxa1F5UXdCYXczWTRGVmNDQzlpTTlmMFU2Q1IyaTdOeFM1dGYzbXlZeFV5bDhWT3p1bzZfcjFSOF9pclJGM3JTNmNreEVGWnktaUJpN1RyeTlaUk9MdGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-10-30-007",
+    "date": "2026-10-30",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Form 4 Waste Connections: James Little (Executive VP Engineering) For: 27 October - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRGJXTUVvVTQyU2JCRkZsdnNyOExBWUM1dndMdmRsS3Z0Wkk3T2NKSVlJaWZoSkdwY2VSNVVQdDBqRUNfT3ppSkQzNnNfRC10QjIzZFBQdS16ZWlSZ2pnQXg2cUxYU2hKZF9lb1BsS2",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRGJXTUVvVTQyU2JCRkZsdnNyOExBWUM1dndMdmRsS3Z0Wkk3T2NKSVlJaWZoSkdwY2VSNVVQdDBqRUNfT3ppSkQzNnNfRC10QjIzZFBQdS16ZWlSZ2pnQXg2cUxYU2hKZF9lb1BsS2ZxbXRnME5OMXZkSVFvLWZsRDZSSW9CeWt0c1oyNkFmVlRYLTUxbGJlNmFmYlFGS3pNcUVtbjNmZlM0S2FyZkxINko3NVhKVjhvX2h3ZHJVOUxNc21Oa3EycHRhemtFb1NzMjZRQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-10-30-008",
+    "date": "2026-10-30",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Form 144 WASTE CONNECTIONS For: 29 October By Investing.com - Investing.com India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkRtZHh5U2dSR3JLd2Voc0V3UTJ3RnhFb2VVTHFnSzQ4bUhoWGRBTkV4akF6amNTWDhiWGpTSDh3ZFZpdmtGclp5aXg2Z3dzRHlzd3VrZ3JPYUdyN0thZEpBSTN5ZjBTUHliLWxDbD",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkRtZHh5U2dSR3JLd2Voc0V3UTJ3RnhFb2VVTHFnSzQ4bUhoWGRBTkV4akF6amNTWDhiWGpTSDh3ZFZpdmtGclp5aXg2Z3dzRHlzd3VrZ3JPYUdyN0thZEpBSTN5ZjBTUHliLWxDbDI0MFJKZUhBNUpaWWJSQnN2ZXh5eTJWYnBmT0NkNE1OcmM5NkVVdmZiaXlDQlM5dXlWOWlSaQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-10-30-009",
+    "date": "2026-10-30",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia stock: Clean Earth integration faces November results test - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmRneG8zQnZiWHlidnBEdlRVZVlEQjVZR2ZnZWxkbGVsNjVDTVVXR0lLSjlMMHRMbFhocGxPYjIwLUc2a3kyY2N6eTc2RlktR29xTlZlVzUwZWQxaXNibkEzMXN1Qlc0WU0xSm0yUm",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmRneG8zQnZiWHlidnBEdlRVZVlEQjVZR2ZnZWxkbGVsNjVDTVVXR0lLSjlMMHRMbFhocGxPYjIwLUc2a3kyY2N6eTc2RlktR29xTlZlVzUwZWQxaXNibkEzMXN1Qlc0WU0xSm0yUmxmUFZkcXAwZXQ0VGlXamxRNjVYUlREYmJrT1pCS3JoeDMzcGdrY3h3OVBGd19vcTFtYU1oOGZIME9FTXp5dlB3bVdWNDBEbnVaUjZVazlYN0VrZVcta3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-10-30-010",
+    "date": "2026-10-30",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sims Limited Substantial Holder State Street Ceases Holding on 28 October 2026 - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNazRLMl90Z20xRFNKZ0dadFE3ei1lblFLUE52LS1ZODJTZ2prSmtPNUVxZTZodVdMRU9iUDAtTllYTTdvMDF3bm1xVlNFRWtwUGJpMVBrZnZBdlE1RDVJQ1Fra0hwUC16WmItcm16eV",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNazRLMl90Z20xRFNKZ0dadFE3ei1lblFLUE52LS1ZODJTZ2prSmtPNUVxZTZodVdMRU9iUDAtTllYTTdvMDF3bm1xVlNFRWtwUGJpMVBrZnZBdlE1RDVJQ1Fra0hwUC16WmItcm16eVhtSmpoOWtHQzdTYzJwMUI3X1dNZmtNZHN5N1NYcjNtTWhJQTdyak4xQlg0aS1WVnZ4bjRobjMwTlQzbVNqZEh4UlZJUFowZFJUQTFSYg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-10-30-011",
+    "date": "2026-10-30",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "State Street Global Advisors Ends Substantial Holding in Sims Limited as of 28 October 2026 - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSUZQMnVHQmd6ZldxbkxRQ2FDR1U4VDg2UF9SNHRfdUZDdGlOVjhiNkNmNEdyQldibDF6a1pmb2ppN194SGV1Skx1R1VZZTNoNUJ2OHYtUjZNZHBrX1phaDZidFVlQzZCX1A0eTg1Zm",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSUZQMnVHQmd6ZldxbkxRQ2FDR1U4VDg2UF9SNHRfdUZDdGlOVjhiNkNmNEdyQldibDF6a1pmb2ppN194SGV1Skx1R1VZZTNoNUJ2OHYtUjZNZHBrX1phaDZidFVlQzZCX1A0eTg1ZmpfYWEybUlKWUR3d21UcDJvajNnZ192bWU0d3RRa2N6VzRCZ3duNWxzN1A4ODV0aGRCeW9OMDNTUXo3VUVGNTRsemFtSTFrVG9LajRyVXZ0T01lMkFPX3RVT05uRTF6QTJzdTFHZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-10-30-012",
+    "date": "2026-10-30",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology (ABAT) Set to Announce Quarterly Earnings on Friday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxONW56eDZXdUlkVmswMkxKczU1TDJTa0ZjVVNIMFV1RkZuVVhTTHN5Unk5X19IejRMNVk3c2lmdklxWWFjREdXaUxoTzJCcFB5dElYV1UwRlR0MUd6VzhONnktSUdYNzlMSldPNFA3bG",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONW56eDZXdUlkVmswMkxKczU1TDJTa0ZjVVNIMFV1RkZuVVhTTHN5Unk5X19IejRMNVk3c2lmdklxWWFjREdXaUxoTzJCcFB5dElYV1UwRlR0MUd6VzhONnktSUdYNzlMSldPNFA3bGZmaWZNMmxpZjJNeE9JWmE3TEJ4Mnd5Mjg5NDJUNzBMUUhkRGV4S2prSUNSMUdBOFBLMklxdzFVbnZPMHl2YUVxZHp4MWQxWFI3YmJDSVRCODB0RkwtekJXT0wzZFNFaVBmREpsSFFtQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "boliden-2026-10-29-001",
     "date": "2026-10-29",
     "companies": [
@@ -301,6 +549,247 @@
       {
         "name": "sims",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTkwTW0yMVdYT3p2WmVzV0swRG94NFg4aFV5T3I5VkthLWdXclBhT3hiLXk2ZzNnckpHUG05MGlhbWdCbmt5WnEyczZYeERYbUkzVFhmOTZCRUt4RDBBVDR3UXZvTGhHZkpYdG56U3RGQ3dpZmFwVVY0WUQ2U2Joekd2U1V5QlotNWFBQnlVTDlxRXdwSDhkeUdPZmtEUnJBNVFSMU9FYjVCd3hoQWZITk5saFQxU3NVLWZpNmhDcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-29-016",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore CEO sees bumper year coming on asset sales, trading boom - FT (GLCNF:OTCMKTS) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT2lTYnJoblNZQTYyamJUcXBMbEVDcE5ZWWI1a3V3bmFiS1ZZZ0RXaGZZTW1VMl9teUtlQm85dzhSSk1DY1k1R1F0U2c3dTZORTBfa3oyelJ2Rnl6MXRmT0otV2VOeDZucUFlX1BreV",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT2lTYnJoblNZQTYyamJUcXBMbEVDcE5ZWWI1a3V3bmFiS1ZZZ0RXaGZZTW1VMl9teUtlQm85dzhSSk1DY1k1R1F0U2c3dTZORTBfa3oyelJ2Rnl6MXRmT0otV2VOeDZucUFlX1BreVJ1dHJJcUJPUUwweXV5UkxsUFZNeVRaZkgtUFJ1aUJubXlkdHBZYndTNmNKTV92ZjNrZVdoTVRtaGpLYlk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-29-017",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Glencore (GLCNF) Advances Major Asset Sales Amid Strong Trading Profits Outlook - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNMG1jNGc0RDA4b214YUtMT21OTGdlNGhmTGR1UVp2X2FWWTNELW1fa0tBZWp1WGZzWTh3eG4yeXNaX0MycXVMN3JNR0tjd01FTFgwTmtBMjNwR0lmUm1VZTdYMkZzcTVvbE50X3JfRF",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMG1jNGc0RDA4b214YUtMT21OTGdlNGhmTGR1UVp2X2FWWTNELW1fa0tBZWp1WGZzWTh3eG4yeXNaX0MycXVMN3JNR0tjd01FTFgwTmtBMjNwR0lmUm1VZTdYMkZzcTVvbE50X3JfRFltc0JEUTFQOHVoenVKQkcxWDUtblB4NGVBajYwVnZyS3IzSDRUdTJKNmJCQXpQaDFtNFppeTVjVWJzZjJneGpMM1pCQnhQeDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-29-018",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore cobalt output halves as Congo quotas bite - The Northern Miner",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPN0ZIb3lLX2MxWEdqelJENFFjajkzekVWQUxzZDhYRGVtQzV2ZUI4UVFfMlM0SE10TDdrN2JmYWJ3cTlSYm4zd2szQzVmV3NRVDJjZmlZTXlCRHpqZmlrVk9EblBBRzNXQ205bjIxY3",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN0ZIb3lLX2MxWEdqelJENFFjajkzekVWQUxzZDhYRGVtQzV2ZUI4UVFfMlM0SE10TDdrN2JmYWJ3cTlSYm4zd2szQzVmV3NRVDJjZmlZTXlCRHpqZmlrVk9EblBBRzNXQ205bjIxY3RBR2RqMG9HWjQxeVB6Q0hvNjF3V2NSeksxcmoxZThFTUVpcUNIc0ZkdVU2b3VBQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-29-019",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore copper output rises 3% YTD; guidance unchanged - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1pmbG44Q1puNW0wQ3hrLUNhWkZHb1QzUjFBbVNnb1cxandYY3dVUTJtT29hUmR5WDR6RmlnSnRnUmFFSnBtVWdOellROFVBelZrVFhlX19VTjFwMk9Nd0QycUlDWVhqRTZ5YkE0T2",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1pmbG44Q1puNW0wQ3hrLUNhWkZHb1QzUjFBbVNnb1cxandYY3dVUTJtT29hUmR5WDR6RmlnSnRnUmFFSnBtVWdOellROFVBelZrVFhlX19VTjFwMk9Nd0QycUlDWVhqRTZ5YkE0T2FscnY5LTZINnA2bVk0UDhQeEl5c0xSOS0tNVZGRG9MazAxUFp3ZHZ6REE4UVFJNzQ5bUVV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-29-020",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore (LSE:GLEN) Locks In Jaguar Nickel Offtake With Brazil Project Investment - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTIwV1c3alhaX2lucHdxRjBWcVM0VmtjckRUMTY2WHh5WW5rQS1TaGpOZnd6LXRqS29zc1I4MUV0M0lveEV0NzVzeThvVHNuaFFvYmdMZjNZZnJrTDNXazM1Tm9Gb3FsbEhPdzFaaD",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTIwV1c3alhaX2lucHdxRjBWcVM0VmtjckRUMTY2WHh5WW5rQS1TaGpOZnd6LXRqS29zc1I4MUV0M0lveEV0NzVzeThvVHNuaFFvYmdMZjNZZnJrTDNXazM1Tm9Gb3FsbEhPdzFaaDZLRUc5bjdtbWN0ZUtwc1Vub1JkckNyTGwwOFlOMDN2Sno5S3RueWtOamhsOTlFU2hqclE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-10-29-021",
+    "date": "2026-10-29",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Glencore CEO sees bumper year coming on asset sales, trading boom - FT - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEczNF9VZWFPZDdDczdiY1BJTDNxRWZObzl2OXRZQ3dBUXlzbmw3V2JVU294YkcyNElRSHJrbnFtZXZhenZjTHF3Q0VLMktzTERaVkktS0dkMTZsN09tekNTenNmX1p2VWxIUHUzcF",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEczNF9VZWFPZDdDczdiY1BJTDNxRWZObzl2OXRZQ3dBUXlzbmw3V2JVU294YkcyNElRSHJrbnFtZXZhenZjTHF3Q0VLMktzTERaVkktS0dkMTZsN09tekNTenNmX1p2VWxIUHUzcFE0LVMtcGJBemdfdmlPbUs4clVZRmJzeG5RaVB5WFlES0pZS2RCa3BoQTBPYWZ4VExVME1LN2o2UEtsaVVqczZyMzlWVVo3bm5zTm9ydWloMXItWVl3Vm9PZGpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-10-29-022",
+    "date": "2026-10-29",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California AG Bonta sues Waste Connections over closed Chiquita landfill - Waste Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPSzV6dHBnMXliNy0yZlZaUEctQTAxNG8tMHBjRDE5THppZnNlYTR2OVRNYVpVR1R3aDc1ZUt1d1VUMDR6LWZieUo1YXM2b09YRXhadWxyQjduU3pMclJHUTEwYk5paWp3M3p0OTJUdW",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSzV6dHBnMXliNy0yZlZaUEctQTAxNG8tMHBjRDE5THppZnNlYTR2OVRNYVpVR1R3aDc1ZUt1d1VUMDR6LWZieUo1YXM2b09YRXhadWxyQjduU3pMclJHUTEwYk5paWp3M3p0OTJUdWYybFRJeHRnYzBNUXdUWTFkbllUM3llRHBlVXU0LUZXMkg3aHp4ajBtQ01R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-10-29-023",
+    "date": "2026-10-29",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections, Inc. (WCN.TO) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LQlhyTU5kQVZ4Y18wYjdLdjFiSXVweE5OWWpQVmFnclBFQ0ViYlpQUWFsblh0RThvVS1zN0x2QkR2S1doMUI2alpweVpfcTRkR01ZblV4SkhaQWV4ZUpVRkV3Umc?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LQlhyTU5kQVZ4Y18wYjdLdjFiSXVweE5OWWpQVmFnclBFQ0ViYlpQUWFsblh0RThvVS1zN0x2QkR2S1doMUI2alpweVpfcTRkR01ZblV4SkhaQWV4ZUpVRkV3Umc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-10-29-024",
+    "date": "2026-10-29",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections, Inc. (WCN) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE16YklNZUplaHdaYU5TTE5DX0JSSmF0UWRzWTV5dWFYa1hmX2RMbU1fdWF4d2pyTE95WEJ2UDBITTNzaDZCZDJ0aVAtMlRhU2ttdElrMmgybkhJRGJvMlBpWg?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16YklNZUplaHdaYU5TTE5DX0JSSmF0UWRzWTV5dWFYa1hmX2RMbU1fdWF4d2pyTE95WEJ2UDBITTNzaDZCZDJ0aVAtMlRhU2ttdElrMmgybkhJRGJvMlBpWg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-025",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Reworld CEO Mohammed departs after 5 years",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/fW5hFqTGi-5kGy4cB13qjf3rY92bZ9H52JEv4ofiVvg/g:nowe:0:555/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMzUxNDEuanBl",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/reworld-ceo-azeez-mohammed-out-eqt/873249/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-10-29-026",
+    "date": "2026-10-29",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California AG Bonta sues Waste Connections over closed Chiquita landfill",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/IaCN4RlkgWtKo1PglVVEssr17qOXf2DNOCANwKbmtmY/g:nowe:0:30/c:1600:903/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jaGlxdWl0YV9jYW55b2",
+    "sources": [
+      {
+        "name": "waste_dive",
+        "url": "https://www.wastedive.com/news/landfill-waste-connections-chiquita-bonta-gfl-wisconsin/873188/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-027",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Recycling Europe Calls For Greater Recognition Of Recyclers In EU Industrial Policy - Auto Recycling World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQazlwRWplWmdCR1FmbldtQjc5c2Y3Ym1UNjNYY1RISks3VGozbnNPcHhpNGczX3VRbzhoOXFzRVhuVFkxQlkxNzN0b0l6SGEyNDZhVlE0dWZ4V3BuVmkwdDJheTZsdW8yVDlmMFFvNX",
+    "sources": [
+      {
+        "name": "google_news_recycling",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQazlwRWplWmdCR1FmbldtQjc5c2Y3Ym1UNjNYY1RISks3VGozbnNPcHhpNGczX3VRbzhoOXFzRVhuVFkxQlkxNzN0b0l6SGEyNDZhVlE0dWZ4V3BuVmkwdDJheTZsdW8yVDlmMFFvNXVPWTduampBd2UyUy03MmtOUjVOSjNWSmJsNXBNWTVOM3BJdlpyWHNwUlc4OFM3TklXQ1c2Rjc0dTJrdUpkcURhNHMtMWxtQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -718,6 +1207,26 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/recycled-plastic-textile-maker-gets-loan-boost-from-closed-loop-partners/873005/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abtc-2026-10-28-022",
+    "date": "2026-10-28",
+    "companies": [
+      "abtc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Battery Technology (Nasdaq:ABAT) - Stock Analysis - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2UxM2tLT3d6WFFvQUlEb2JySDUzV3hmMFBSYVV1cklfTmQwMHhuQkVIVUVQbmJPMWFxLS1oLWgwQkFXd0JiSnNEd3R4R3c2aUxUU1RoNENPS2RsS2NOQ0thRko0T3FPUzhraTlPZU",
+    "sources": [
+      {
+        "name": "abtc",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2UxM2tLT3d6WFFvQUlEb2JySDUzV3hmMFBSYVV1cklfTmQwMHhuQkVIVUVQbmJPMWFxLS1oLWgwQkFXd0JiSnNEd3R4R3c2aUxUU1RoNENPS2RsS2NOQ0thRko0T3FPUzhraTlPZU1JekljSHdBV0NQR2g0UW5uMm5ESUNqNzlx?oc=5",
         "type": "rss"
       }
     ]
