@@ -1,0 +1,14 @@
+{
+  "total_raw": 258,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 2,
+  "gate2_fail": 3,
+  "passed": 12,
+  "gate2_samples": [
+    "Arctic raises its price target for Tomra to 117 Norwegian kroner (115), reiterates buy - www.markets",
+    "Why Glencore (LSE:GLEN) Is Back In The Spotlight - Yahoo Finance",
+    "Analysts: M&A strategy could help Casella accelerate margin targets"
+  ]
+}
