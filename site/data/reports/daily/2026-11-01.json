@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T14:41:21.786779Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "waste_connections-2026-11-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Connections (WCN) Could Be 11% Undervalued Following Earnings And A Dividend Rise - Simply Wall St",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMm03RmhPNnhFZ3ZkeXdmcjRKbUgxcjJweWRGYjMzSFFMVnFkaFNkU3A0OUI2cDNjM01vZk16MVJMR3EwcDNCNXJqVm1MOUUwMmJkd0tzaVZKbjJiekg2NktMMWdWTDJHazJZUHh5THhQM1JkSjZxbXNuUTZkUFEzUGtUNzM3cTJOUzBpT2ctZEt5RkNESmtpVFR1Mkk3dGdzYUljNGtCRl9vZDdRWDlQdTliV0tmSUE5MS1PV3NuUGhGSTdaQnMxdk9Sc3FQSHFlMkN4c3Ffdlkta2hE0gHiAUFVX3lxTFBiZXR4TVJXQ1NYWlJTQzRaY0FsdDZsS20yblJIVGNSdTBrMEVxUTNlWEdwOF9TMjJUWjVXRzl6Qnc4SWhDTVFNUnNjaFJIUFk0Y0pkRkNZdjVZb0FqajJFNi1xeElLNDE4UzhOQkhmYkt3V20tcjVudGVIMExaY3hldDZqMkJWUHBPczJZaFR5OWY0YXRHekdxZkJFcWtka05sblBremt0Vk0wTVVYS1RxdG56Vy1adjVKZnk2bGlwTWJsMnlsQ2k3eXdwcmRrWFpJN3ZIaXJwSWJ3OTZTSEpSc0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "veolia-2026-11-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Veolia Environnement SA (VVD.DE) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1veUxHWmZJZ0R6Z3lfbVZ5dkQ2QUY3R1hqOVBWS0RTRkJlZmlrVlM1enVweGoyQlA1X1ZMck1JWW95ZkN2YjZWODBQV2ZyV0VRY3ZvNjZYZzhoQVdrUk5PcTVDaGw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "aurubis-2026-11-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Prysmian and Aurubis partner on copper agreement - American Recycler",
+      "companies": [
+        "aurubis"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbHlSRUpDVVF4X3A2Q19zNUdKcUNhNXRXcWtiSVBMZ3R1Zm05Q3REdHdjMHdJTVdCUmlFNXc2U2x3T3d6NnlNTW1vNDdwQ1ZLWUN2SG5zVWR5NU5FeDJjTUNoZ0VJNUZIc2lOSG9VVU9ZMVgyVHdPYl9HbmNjVS1CSTVGcEFyQ2hObE00TG02Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "aurubis",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 249,
+    "dup_title": 141,
+    "too_old": 91,
+    "gate1_blocked": 2,
+    "gate2_blocked": 5,
+    "passed": 10,
+    "pass_rate": "9.3%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "Tomra Systems ASA (TMRA.DU) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "Tomra Systems ASA (TMRA.DU) Seasonal returns chart - Yahoo Finance Australia",
+      "Veolia Environnement S.A. (VEOEY) Seasonal returns chart - Yahoo Finance UK",
+      "Veolia Environnement SA (VVDH.MU) Seasonal returns chart - Yahoo Finance UK",
+      "Analysts: M&A strategy could help Casella accelerate margin targets"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為WCN、威立雅、奧魯比斯相關動態：「Waste Connections (WCN) Could Be 11% Undervalued Followin...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Waste Connections (WCN) Could Be 11% Undervalued Following Earnings And A Div...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Veolia Environnement SA (VVD.DE) Seasonal Returns Chart - Yahoo Finance - Yah...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 249,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 2,
+  "gate2_fail": 5,
+  "passed": 10,
+  "gate2_samples": [
+    "Tomra Systems ASA (TMRA.DU) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Tomra Systems ASA (TMRA.DU) Seasonal returns chart - Yahoo Finance Australia",
+    "Veolia Environnement S.A. (VEOEY) Seasonal returns chart - Yahoo Finance UK",
+    "Veolia Environnement SA (VVDH.MU) Seasonal returns chart - Yahoo Finance UK",
+    "Analysts: M&A strategy could help Casella accelerate margin targets"
+  ]
+}
