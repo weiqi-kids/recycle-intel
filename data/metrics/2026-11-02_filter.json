@@ -1,0 +1,13 @@
+{
+  "total_raw": 257,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 1,
+  "gate2_fail": 2,
+  "passed": 31,
+  "gate2_samples": [
+    "What Investors Overlooked Before Axon Enterprise Slid - Simply Wall St",
+    "Why Glencore (LSE:GLEN) Is Back In The Spotlight - Yahoo Finance"
+  ]
+}
