@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T17:43:43.235769Z",
+  "updated_at": "2026-11-03T15:45:46.161293Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -92,17 +92,17 @@
       "name": "共和",
       "ticker": "RSG",
       "currency": "USD",
-      "ar": 2029000000,
-      "ar_prev": 1917000000,
-      "ar_qoq": "+6%",
+      "ar": 2126000000,
+      "ar_prev": 2029000000,
+      "ar_qoq": "+5%",
       "ar_period": "QoQ",
-      "inventory": 115000000,
-      "inv_prev": 114000000,
-      "inv_qoq": "+1%",
+      "inventory": 122000000,
+      "inv_prev": 115000000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "sims",

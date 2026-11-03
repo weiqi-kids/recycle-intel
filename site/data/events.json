@@ -1,5 +1,106 @@
 [
   {
+    "id": "glencore-2026-11-03-001",
+    "date": "2026-11-03",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Said to Propose Revised CEO Pay Package - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHh5bHR1ZmdrSEJIX25POFNIZ1pDbHgtUFhXLVlZb0lxYnpUVzRhNUY2ZU9Dd1lkVnphZTZTMFEzVHRRYWtrMmhta2swVG1BcDZ0Ym01RVN0RXpJc2tncXVrWXJWcHZjbVJ5cml6ZG",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHh5bHR1ZmdrSEJIX25POFNIZ1pDbHgtUFhXLVlZb0lxYnpUVzRhNUY2ZU9Dd1lkVnphZTZTMFEzVHRRYWtrMmhta2swVG1BcDZ0Ym01RVN0RXpJc2tncXVrWXJWcHZjbVJ5cml6ZGZlM1dBSURweTY2eDc2Tk5oR0otblo0OFh3ZjItU0gxOWNvQlNxR2dFUkx0ZG5ERnhJUXln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-11-03-002",
+    "date": "2026-11-03",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Inc.: Trading Activity and Volume Profile in Focus - kalkine.ca",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNNUd3cWVBN0Z0OVhwR3Q2Y2FBNlZ6WDZDUHAwa3puYUdNVjFxeWhJd0ZEelBlLVRrM0hWVGszUVRHaEE4MGtXaFJfY0I5azFaV2h2b1MxM2pSaXkzeVl0cWk5SVgtSjljemNpUzJZV0",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNUd3cWVBN0Z0OVhwR3Q2Y2FBNlZ6WDZDUHAwa3puYUdNVjFxeWhJd0ZEelBlLVRrM0hWVGszUVRHaEE4MGtXaFJfY0I5azFaV2h2b1MxM2pSaXkzeVl0cWk5SVgtSjljemNpUzJZV0pDR1Y5VnlvdExuajBzZWVpUVNJVlFYWTRHMUNyYUZiWlVleVItMXRJNllZblk4WDdCVFFSSg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sims-2026-11-03-003",
+    "date": "2026-11-03",
+    "companies": [
+      "sims"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Sims (ASX:SGM) Lifts FY26 Earnings as Recycling Margins and Digital Services Expand - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObVZuTlg3bGROREJYZUxkWmFrWUZtVXlqdWZEQ1hVWVktLWpzR09ER1BVUTF3SEp1MDJNcjljckpMSzkzeVp4MHlZZGg1ajNLdmxrM1RRMTlJR3FDV09tS25JY1FTWnFCRGxDWkVmSV",
+    "sources": [
+      {
+        "name": "sims",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObVZuTlg3bGROREJYZUxkWmFrWUZtVXlqdWZEQ1hVWVktLWpzR09ER1BVUTF3SEp1MDJNcjljckpMSzkzeVp4MHlZZGg1ajNLdmxrM1RRMTlJR3FDV09tS25JY1FTWnFCRGxDWkVmSV8weVJ2LU5fT3ZWcFJEazRPVGtObUljVlFpS01RU0ZzbXRPWVlWLWV3dzdyR0NDeUVFT3QwendPLS01N3BDWHhacEdIYXhVWGZKdk5Ycg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-03-004",
+    "date": "2026-11-03",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UK’s battery recycling gap hands China control of critical minerals, supplier says - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9lZ0duTHF3R0F6UFpLQWJqQkd5Szg0VF9fR0p2RmRqY1N2bHRQLWdaa0U0OHE1UlBrSERHNmtYc0p0OWxMbVkzMHRJLXhQOVA5T1djWVBhclhCb0lBcGg1TWFIOUdHZ1ZfZmxMZGhnTH",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lZ0duTHF3R0F6UFpLQWJqQkd5Szg0VF9fR0p2RmRqY1N2bHRQLWdaa0U0OHE1UlBrSERHNmtYc0p0OWxMbVkzMHRJLXhQOVA5T1djWVBhclhCb0lBcGg1TWFIOUdHZ1ZfZmxMZGhnTHlDb0JyWmZHS09Bd1NOdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-03-005",
+    "date": "2026-11-03",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EV battery recycling market to reach $3.15 billion by 2034 - Manufacturing Today India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQVmRwYjVmVjhJeGdhVm9fZnN3bkVDdnVZSzM4aS1odmlsbW5tdUdyODljNTVDeXAxcWRWbVNhcENOczhwazVodXFXS1Q4VGlmRTY5cEtxS1RKWDNFdW1WU2U5Q2VYVnU2cUtSZWlwWm",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVmRwYjVmVjhJeGdhVm9fZnN3bkVDdnVZSzM4aS1odmlsbW5tdUdyODljNTVDeXAxcWRWbVNhcENOczhwazVodXFXS1Q4VGlmRTY5cEtxS1RKWDNFdW1WU2U5Q2VYVnU2cUtSZWlwWmlNS3RFZlBQejJYRmVaNEFNRktROVhGeDBvUG14ck5EQzVHT3VJdHo2WG8tbHhaZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-11-02-001",
     "date": "2026-11-02",
     "companies": [
@@ -333,6 +434,68 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/spons/how-intelligent-route-optimization-delivers-safety-value-and-measurable-ro/872871/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "glencore-2026-11-02-018",
+    "date": "2026-11-02",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore proposes to alter CEO pay terms after any takeover, FT reports - Mining Weekly",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3VpLXJDRS13OHZuN2tvc3poMTVmTU1BRXhOQWt5YmgwU3kwOUlrRlNtUV9HUzFQSXpwYTRzR09MYkt0RGFGRkpndU9kVkU0VzFPbjgzcnNfcF85c1dicUNFSjFielNrWlFOdXJjbG",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3VpLXJDRS13OHZuN2tvc3poMTVmTU1BRXhOQWt5YmgwU3kwOUlrRlNtUV9HUzFQSXpwYTRzR09MYkt0RGFGRkpndU9kVkU0VzFPbjgzcnNfcF85c1dicUNFSjFielNrWlFOdXJjbGJMeVc2TGNiT18tQmxDVjJXY1lXQ1VBRkhiOGFIYUVtbE5tejcyRXpMMkhEUjlRdzM4WUVxTWpmRXRMVkg2TzNNWmMxVWhKbHpBdXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-11-02-019",
+    "date": "2026-11-02",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections Sr VP Chief Tax Officer Sold Shares Worth Over $1.9M - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOU2hZVWJ3bVlnMU1vSGYxby02X0tNX1gxbUZ0N19ZSm9QLVNwdElXZG9XX2FXaV80MWNaVGZ1cEp1SHZMa25maUtxYmJlVldicnJvdzBnTVFLd1lJYUtya3paSFJtNG1JNDlZX3hoVE",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU2hZVWJ3bVlnMU1vSGYxby02X0tNX1gxbUZ0N19ZSm9QLVNwdElXZG9XX2FXaV80MWNaVGZ1cEp1SHZMa25maUtxYmJlVldicnJvdzBnTVFLd1lJYUtya3paSFJtNG1JNDlZX3hoVEwxb2hjVk9PMEFNa19TSDdOT2J6TTQtUGt3T09VVEFFT0NTWXRKRHM3dWhodVZTNjFvSlZudEo1Z3pHZU43VVpwTDhpQ2g2M0wySG1zT1ViR2p6cjltNXBVS3dHWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boliden-2026-11-02-020",
+    "date": "2026-11-02",
+    "companies": [
+      "boliden"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Boliden to use recycled tailings sand in backfill for Maurliden reclamation - International Mining",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0RhNkY1clRGSTFRclNRZ1c0RmdCNkY5RW9SYzNIX1BEMmtoSXBZT3V0blREMjVycmxrNi0zeU5RRFY4Z195c3NNTFhKUEE0Umd0S1FoeVNzUmMwTTFMN25HV0pOTVN4VzhpV1piRm",
+    "sources": [
+      {
+        "name": "boliden",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0RhNkY1clRGSTFRclNRZ1c0RmdCNkY5RW9SYzNIX1BEMmtoSXBZT3V0blREMjVycmxrNi0zeU5RRFY4Z195c3NNTFhKUEE0Umd0S1FoeVNzUmMwTTFMN25HV0pOTVN4VzhpV1piRmVVYl84TGluWkZqUXY0ellseEp0MVl6NU5IWnZSV21ETHd0MEZsc2Y1TG1qYWVYdlVycnhOUjV0TFNYeERtRGc?oc=5",
         "type": "rss"
       }
     ]
