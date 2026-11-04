@@ -1,0 +1,14 @@
+{
+  "total_raw": 237,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 1,
+  "gate2_fail": 3,
+  "passed": 7,
+  "gate2_samples": [
+    "What Investors Overlooked Before Axon Enterprise Slid - Simply Wall St",
+    "Why Glencore (LSE:GLEN) Is Back In The Spotlight - Yahoo Finance",
+    "Lawmakers ask EPA for maritime fuel credits; RNG news from Aemetis, Waga"
+  ]
+}

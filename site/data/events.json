@@ -1,5 +1,67 @@
 [
   {
+    "id": "glencore-2026-11-04-001",
+    "date": "2026-11-04",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore Stock Drops 2.83%, RSI Oversold In Focus - JournalArta",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWpYYnpFejlrX0J1UnNxS1RoSlNQcTM5TURyS0lLWDZ2YzgwWTBFSGZ6NEZUSF83bFd4MXdyT2dxczJUanZXV3ctODRMZU41NHQySEpXS0c5ckE2Z21QeWhQZ0RaZzY4ejlQZlBkWG",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWpYYnpFejlrX0J1UnNxS1RoSlNQcTM5TURyS0lLWDZ2YzgwWTBFSGZ6NEZUSF83bFd4MXdyT2dxczJUanZXV3ctODRMZU41NHQySEpXS0c5ckE2Z21QeWhQZ0RaZzY4ejlQZlBkWGc4ZVpfUmJpTGd3WUtKS3RWTUJSZmI1bzRQdnp5bDA0MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "waste_connections-2026-11-04-002",
+    "date": "2026-11-04",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections (WCN) Insider Sale: SR VP Operations Iii Niels - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY3NBbEYxWkVmbUtFYnQ3Q2JIWW9YTTNoVFc2aVM5bjBWYU5hUl9ZZWZnbzB6WXk0dmE3NXhhUHVpV25md3d3VkdZUWVuQ1dfOHNualpBUW8zb1NCbmZMTmI1SlgtaHM1ZEhIX0hKLV",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY3NBbEYxWkVmbUtFYnQ3Q2JIWW9YTTNoVFc2aVM5bjBWYU5hUl9ZZWZnbzB6WXk0dmE3NXhhUHVpV25md3d3VkdZUWVuQ1dfOHNualpBUW8zb1NCbmZMTmI1SlgtaHM1ZEhIX0hKLVRKV1F4NWlrSFE2dnVfTFJSLUd1UWdFWXQxbFVVbnduVEY3M1p2cld1ZS1GcWNoYktFaGZrMmVRYmN2NFdfVlVHeUp5b2lQWWZrUVZfUU5MSUc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-11-04-003",
+    "date": "2026-11-04",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia stock wins Brazil water-treatment contract from Arauco - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU2JsQW5MY2prUWNVT3hMSXJ2Z3lNUmQ1cGtfemZRTkREcnA5b1RGVXY3S0xNTml1Z0E4TWEzT2huNGNReEN4VWo2SXZrR1FwbXFGZXRYZDNqLXl5ZUNOX0pCb19PTE5OT3dUTkJabV",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU2JsQW5MY2prUWNVT3hMSXJ2Z3lNUmQ1cGtfemZRTkREcnA5b1RGVXY3S0xNTml1Z0E4TWEzT2huNGNReEN4VWo2SXZrR1FwbXFGZXRYZDNqLXl5ZUNOX0pCb19PTE5OT3dUTkJabVhDYkpueU1JNDFCUFIzZjhLd0QyZmVIeERWaWd0Mms5cUROQS00MEhBeFFibllHNmJ4Smh0VHF5ZFdwYnEyNFZGb2xTSlo0dXJQRUtpZm5MWDhhQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-11-03-001",
     "date": "2026-11-03",
     "companies": [
@@ -96,6 +158,86 @@
       {
         "name": "google_news_battery_recycling",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVmRwYjVmVjhJeGdhVm9fZnN3bkVDdnVZSzM4aS1odmlsbW5tdUdyODljNTVDeXAxcWRWbVNhcENOczhwazVodXFXS1Q4VGlmRTY5cEtxS1RKWDNFdW1WU2U5Q2VYVnU2cUtSZWlwWmlNS3RFZlBQejJYRmVaNEFNRktROVhGeDBvUG14ck5EQzVHT3VJdHo2WG8tbHhaZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-03-006",
+    "date": "2026-11-03",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Major waste companies largely pass diesel price spike along to customers - Waste Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPaU1GeGdnNmJVMF8tbHJ3bkIzTG1fUGItbHRmTEZsMEI5TkRGRGtxcThNXzJFRGYyd3Bnc3Z3cnlvOE9lVEdFZmNIWFlYSXEyVHk5Z0IxN1gxaWlRTE5wWE0zOFNlZ3ludXVmSzdPa3",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaU1GeGdnNmJVMF8tbHJ3bkIzTG1fUGItbHRmTEZsMEI5TkRGRGtxcThNXzJFRGYyd3Bnc3Z3cnlvOE9lVEdFZmNIWFlYSXEyVHk5Z0IxN1gxaWlRTE5wWE0zOFNlZ3ludXVmSzdPa3Y1c3RQUEVKYjFySUlwdGQ3RkhvSDRwQWxfcGlUUEM3VjZmcVJpZTdqd3ZJNHhTWldrQ3h4VmF6ajZidkNDZnZMSA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-11-03-007",
+    "date": "2026-11-03",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia to supply wastewater treatment for Arauco’s Sucuriú pulp mill in Brazil - ChemEngOnline",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSjZoQzF2Z00wY2RmZEk1R2F4SjBhZ0dZaVNVbm5VQ1pvNGlCM1owTnJqaVM2UzVPRV94NFlLRkpJeXQ2bmRicXRKZzVOUHhBSDk4clRGZHdoNVhYUUVqeS1GTHBLblEzc1NrMFNId2",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSjZoQzF2Z00wY2RmZEk1R2F4SjBhZ0dZaVNVbm5VQ1pvNGlCM1owTnJqaVM2UzVPRV94NFlLRkpJeXQ2bmRicXRKZzVOUHhBSDk4clRGZHdoNVhYUUVqeS1GTHBLblEzc1NrMFNId2p5blpFdmpsYXBtWEJOMlRhMnFjWUlkOHpISElyelBEdkduZmt0SC0wU1dqRHYzbTh4ZEVSdzkxc091UVFM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-11-03-008",
+    "date": "2026-11-03",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia stock gains Brazil pulp mill water-treatment contract - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzlTUl9HeEI1T0VPaUQtdlNDaDk0RU5BcEJ2cTFRaUQ1eGphXzZyaVdTUFZwZUtHX3pYdjBzTXZ1Z05zTW1qVXltampjQnR0T1I0eFBEeGphNnFqTUFmNmkyQWFKXzVTd0RxV3RGZW",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzlTUl9HeEI1T0VPaUQtdlNDaDk0RU5BcEJ2cTFRaUQ1eGphXzZyaVdTUFZwZUtHX3pYdjBzTXZ1Z05zTW1qVXltampjQnR0T1I0eFBEeGphNnFqTUFmNmkyQWFKXzVTd0RxV3RGZWtNY2lvejNxQW41bE55VWxkYl9NVjdYZV9wX3FxMVpNMHIzOW4tMHNYWUExeGQ3VmRfQjV6TGFMUHctRFNmRkpiT0t4MU44bXRzSjZyd0lsSVY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-03-009",
+    "date": "2026-11-03",
+    "companies": [],
+    "topics": [
+      "battery_recycling",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EV Battery Recycling Market to Reach USD 3.15 Billion by 2034 | CAGR: 21.38% - TimesTech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPNnFMbkpNaEIzM1poaWp3emxoS2REWG10MVV0Xy1hZzB5OXRhM2dxbko5bzU4T01aVW1kU3l4aEZtSVdmTDlKRDF0QjJua1BacEJ1SWVOTWV3dUVqX052U0g4Qlc1SjV6MklSaThDU0",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNnFMbkpNaEIzM1poaWp3emxoS2REWG10MVV0Xy1hZzB5OXRhM2dxbko5bzU4T01aVW1kU3l4aEZtSVdmTDlKRDF0QjJua1BacEJ1SWVOTWV3dUVqX052U0g4Qlc1SjV6MklSaThDU05udWNGOXh2UkV6T1lBNWsxUUJqX3ZHS0p3QnN3YzRCVlBjdFN4anZhWHFB?oc=5",
         "type": "rss"
       }
     ]
