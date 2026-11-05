@@ -1,0 +1,14 @@
+{
+  "total_raw": 237,
+  "dup_title": 122,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 1,
+  "gate2_fail": 3,
+  "passed": 21,
+  "gate2_samples": [
+    "What Investors Overlooked Before Axon Enterprise Slid - Simply Wall St",
+    "Veolia Environnement: Information relating to the total number of voting rights forming the share ca",
+    "Lawmakers ask EPA for maritime fuel credits; RNG news from Aemetis, Waga"
+  ]
+}
