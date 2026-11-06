@@ -1,0 +1,14 @@
+{
+  "total_raw": 232,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 1,
+  "gate2_fail": 3,
+  "passed": 14,
+  "gate2_samples": [
+    "Optical Sorter Market to Reach USD 5.80 Billion by 2033 as TOMRA - openPR.com",
+    "Veolia Environnement: Information relating to the total number of voting rights forming the share ca",
+    "Lawmakers ask EPA for maritime fuel credits; RNG news from Aemetis, Waga"
+  ]
+}

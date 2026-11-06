@@ -1,0 +1,234 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T15:36:15.652761Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-11-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "REG - Glencore PLC - Notice of 2026 Annual Investor Update - TradingView",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVBFNU1oMm1ocHlCY2RxME9IYmlpNXBwSXNxR25sUEFVUllQaW5fcDA1WFFUajdUb0E0bm5uc1QzSFhUb2hycVUzQjBVTDM0Q1pnc2IyT01zeENjaW9VVG1hRmRRVnhkTHRGSGZnZWtoMVUzRXE3RTBoYTlVR2RwZGUwODFuZzVmcElqLXJLQUNlYVdWREh6N3dTUHhQdnNEeExQZ3hBNjlIbldNNFB5R2dJSTJ1aEI3ZmhReGZCaEJVaDJKay1qRmJB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-11-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Indonesia investigates nickel miners linked to ex-Glencore trader on bribery charges - TradingView",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSHF0TlRpdmN6WjFFbUsyaENraUJBTGU1UE53SGRpWGV5MVhLV3dEdlBnWDlTUnQ3Ui0zLTZ6TVQ0NzhTeGpjWlFEQXVDcDdNZTNONjJBLVg0RVo2M2dzcDRLTjdHNlllU3hvb0ZBcmppVHhDX252dW5JdmRYTklFMXluZ2pHLXA2SEMyTEdkRXdFRFE2cjZaUFV2VGZmUmNkdC1jVUhwT1R5enRILXJNSzZtVUpLLTFqbUFaQTR2SnZVdndBam5TbmdWOUdvVnlJTGs1cnRDWk9COWZrWkdIQWJUdWJYVmM1aGc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-11-06-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore Buys Back 6,375,002 Shares at CHF 5.6235 Each on 5 November 2026 - Kalkine",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbGMtbEN1bFlkQlpTVExvNUtUV3F3NFpDd0dzQ0lQQ3NHbjdJbHRBejM5YktXNWZvNVpoVThScTM4alFEWTRLUmlPRjFlakJTT1lGX0xkNkJLSTZYaC0xWXBteHljUmd5X2FYZnBhSjJ3Y2ZQZDBIODVSVXhZb1Z0MGZoN09ha2I1eXdiemwtM0RoRkw3MjNkVU00WmduNkV5UktrWmZLang2MUNpTkF4UklB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "waste_connections-2026-11-06-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Connections (TSX:WCN): High Profit Per Employee Underscores the Earnings Power of Landfill-Anchored Waste Collection - kalkine.ca",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTVBuSHh0NHJqZHd4blVobHhPUDdkSVRCSWxLcWpDOFAzeW5Jem9TcEVObS1faDZGT3UtZk92VWJYNDE2SW9HYVpGQTRfajdXZ29UNHlvaUZRU2t5eE14bUpHazVQYjBkRVNLR2RTQnZaZFZIYmJoUTNyRk01Ui1XNDdyZ1dBQnM3MU1KOFRSb3pSZVkzUDM3Wk9DWFN6WG5BdzhNTnBmUUk4SHZ4SXA2akhNV0pEMnY3a3dEaGFwbEFMZURydXhPOFZxRkYzVWJabEgwWm82NXZJTHBxNWZ4QXBFSjhFRFFwLVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "waste_connections-2026-11-06-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Waste Connections Inc.: Trading Volume, Business Fundamentals and Market Outlook - kalkine.ca",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaG1MWGstMk1zQ1JTd3hOZFBiRVlmUVpuTFlWT0Y4MVptdHluLWRtZVRCU0ExX2ltNVF6NkV6bDBkakxSZGRESUhBd1VjdmtRb1N2TmljdEFXdXFwMnV6TzYzZGRmTDJtNDhta1NUaWR0ZVZad1FyWXo3cDN0dDlTNWZqNFRXY3U0X19ZN3JyUzZaZGxROGxjWXlDOXRGQXFrYm1JNnB3X3Rkd1BkdFFneTNUdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 4
+      },
+      {
+        "id": "sims",
+        "count": 3
+      },
+      {
+        "id": "waste_connections",
+        "count": 2
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 232,
+    "dup_title": 124,
+    "too_old": 90,
+    "gate1_blocked": 1,
+    "gate2_blocked": 3,
+    "passed": 14,
+    "pass_rate": "13.0%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "Optical Sorter Market to Reach USD 5.80 Billion by 2033 as TOMRA - openPR.com",
+      "Veolia Environnement: Information relating to the total number of voting rights forming the share ca",
+      "Lawmakers ask EPA for maritime fuel credits; RNG news from Aemetis, Waga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為嘉能可、西姆斯、WCN相關動態：「REG - Glencore PLC - Notice of 2026 Annual Investor Updat...」。主要關注主題為財報、產業通用、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "REG - Glencore PLC - Notice of 2026 Annual Investor Update - TradingView（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Indonesia investigates nickel miners linked to ex-Glencore trader on bribery ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
