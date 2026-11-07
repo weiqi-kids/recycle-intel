@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T14:37:44.892459Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-11-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore Stock Week Ahead: Levels and Scenarios for November 9–13 - JournalArta",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2hKZmlFZHJEeExLQUNTaG9JZVotem9paXdTLXo1ZTBSQ3UwU29FbEdjeWNoeXRYQlpXNklLcExxNlVielBxZjlFRkd6TVJuNWZ6UFlqNnhOakxIU28zUU9EWnIydjIzQmQzUFlCUHdYRklJWVhuaHU5LTgxSG5YMGdkdEdNY042WDlsd092TlJqYzIzSVVQOVFuTFY5ZXV3eDFZbml3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 232,
+    "dup_title": 129,
+    "too_old": 95,
+    "gate1_blocked": 1,
+    "gate2_blocked": 4,
+    "passed": 3,
+    "pass_rate": "2.9%",
+    "gate2_block_rate": "3.9%",
+    "gate2_samples": [
+      "What Veolia Environnement Holders Got Right - Simply Wall St",
+      "Veolia Environnement: Information relating to the total number of voting rights forming the share ca",
+      "Veolia charts growth amid ‘successful’ Clean Earth integration",
+      "Lawmakers ask EPA for maritime fuel credits; RNG news from Aemetis, Waga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為嘉能可相關動態：「Glencore Stock Week Ahead: Levels and Scenarios for Novem...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore Stock Week Ahead: Levels and Scenarios for November 9–13 - JournalArta（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "嘉能可為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
