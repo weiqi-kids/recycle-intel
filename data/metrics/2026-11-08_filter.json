@@ -1,0 +1,14 @@
+{
+  "total_raw": 231,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 1,
+  "gate2_fail": 3,
+  "passed": 3,
+  "gate2_samples": [
+    "Veolia Environnement: Information relating to the total number of voting rights forming the share ca",
+    "Veolia charts growth amid ‘successful’ Clean Earth integration",
+    "Lawmakers ask EPA for maritime fuel credits; RNG news from Aemetis, Waga"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T14:43:19.202647Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-11-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore stock quotes EUR 5.91 in Saturday Lang & Schwarz trading - ad-hoc-news.de",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV1pKNWtaUDRJTUoxM0hUY2tPVnRaaXRJOXRWNW00NFJYTkpyc1RCWXA0NGljczM3T1VicnNCN0hXR3AxYXVvMXdnMVNscFNnXzRmT0RxMmc5OVBOYjUtSE1xWEs3Y3VEQTFsZTUxX3ItVl8wSXA5MTU3UEFmcTAtdmczeS1fTVFYZ2R6MzZJVm51QVJXZkoxMnRCaGtzV1ViSENkVmFUelBKV2hqSU9faGx2bDFJZjlZRWZiakdfbnVFTWtP?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 231,
+    "dup_title": 128,
+    "too_old": 96,
+    "gate1_blocked": 1,
+    "gate2_blocked": 3,
+    "passed": 3,
+    "pass_rate": "2.9%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "Veolia Environnement: Information relating to the total number of voting rights forming the share ca",
+      "Veolia charts growth amid ‘successful’ Clean Earth integration",
+      "Lawmakers ask EPA for maritime fuel credits; RNG news from Aemetis, Waga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為嘉能可相關動態：「Glencore stock quotes EUR 5.91 in Saturday Lang & Schwarz...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore stock quotes EUR 5.91 in Saturday Lang & Schwarz trading - ad-hoc-ne...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "嘉能可為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

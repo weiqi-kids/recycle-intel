@@ -1,5 +1,25 @@
 [
   {
+    "id": "glencore-2026-11-08-001",
+    "date": "2026-11-08",
+    "companies": [
+      "glencore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glencore stock quotes EUR 5.91 in Saturday Lang & Schwarz trading - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOV1pKNWtaUDRJTUoxM0hUY2tPVnRaaXRJOXRWNW00NFJYTkpyc1RCWXA0NGljczM3T1VicnNCN0hXR3AxYXVvMXdnMVNscFNnXzRmT0RxMmc5OVBOYjUtSE1xWEs3Y3VEQTFsZTUxX3",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV1pKNWtaUDRJTUoxM0hUY2tPVnRaaXRJOXRWNW00NFJYTkpyc1RCWXA0NGljczM3T1VicnNCN0hXR3AxYXVvMXdnMVNscFNnXzRmT0RxMmc5OVBOYjUtSE1xWEs3Y3VEQTFsZTUxX3ItVl8wSXA5MTU3UEFmcTAtdmczeS1fTVFYZ2R6MzZJVm51QVJXZkoxMnRCaGtzV1ViSENkVmFUelBKV2hqSU9faGx2bDFJZjlZRWZiakdfbnVFTWtP?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "glencore-2026-11-07-001",
     "date": "2026-11-07",
     "companies": [
@@ -241,6 +261,24 @@
       {
         "name": "google_news_battery_recycling",
         "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQbFZrLTMwOVNPNmRjUXlLSmQ2bXBvU1FkaWxXOE5RRzJkX1V2OEJqVDhMZWlHR0g3RDJUOWR6WFJHdW9BN0l0RmNHM0hiY291MFdiQmV5dW90R2stS2h2bldBNm8zckFjWmIxWGdiM1Zfcms3elpPUXM2MHZ4XzhQYkwyZWhYdC13SE9fQmpfdjZVT1RXTWZBY1N4M091ZEFyVXh6M05OaFdrZ09ULUlBZWp1emhPLTEtazQ4aEVVT3NjS1cxTmtYT1ptdTBBWEkxRGZ5cEhFQW81X3RkdHVNT0dCYVpDWkFIZDF0MFI1RFNaMmM5Q0d6NzFPLU9MSDUxY1R6aDJRRzViUE5CcUxzR05rSER1dFZYYVZkTDhncHJNU3o2TTRJYUVnTE1ZTW5zekNrUklJNk9waTQzeHhIWXJ6ZU1fcmlZdG9sWWRqWUxIcllndFkzWmFMbDdEemZDekJ3TmJUWdIB7AJBVV95cUxOY0M4TUpTR0kwMW05VjUzMkQwT2RVbHBrMWJmZ25tYjBjQnV5OEFkNTBSX3hEeFNzY0I1YUNaYjVWLVFPdzUtYVNtdU9JY3UxRHVxWkhTRU1ZMXc0Q2p3aFpKVWlNUjNOWWhJRTc2bTk4RWlPOGtyREt5ZVdaVFc4N0VJY0dLcERXc1F6VWRQRkVZb1NSb3lDRDdKVnJkSmxHejdIdk5PUWVidHRnSGJkLTc2WmI4cWFPbnBEVXpYaDVTbXlBUTh3UWg0Nk1mN3BKVGZpN3hkQVlBTkJjdXk5Rm1iRXR6Rnh4MWdxTmdCTlBHZ0hHT0NSZXlJeGdybUdWS21RazNlYlFEcFA5Q2dKQ0lxWFNkSmstWFVueS1idWNqSndOMmJ4SEFPMmpnZWNYQkdvVl8ybWlfNk5BUHp2eDMtd3lGN3U3TTdXWWJ5Z1BncjhFYWxQNjN5UDhHMnZweG9vSklpWG9CWGN1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-11-06-012",
+    "date": "2026-11-06",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Veolia Bags EUR200 Million of Desalination Contracts in Middle East - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPWU4xdXBxRzZLVGZTTG91YTIweG8wWEkwM3hXWS15S1h5ZzVnSWpIYjdVZTdoM1JIMTVQbjRQLUdNZkZ6RERYejhiZHotc1FXT0lQaHFOVWpjMERNd05ycDVJeWN4aThBQjBpSUhmYX",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWU4xdXBxRzZLVGZTTG91YTIweG8wWEkwM3hXWS15S1h5ZzVnSWpIYjdVZTdoM1JIMTVQbjRQLUdNZkZ6RERYejhiZHotc1FXT0lQaHFOVWpjMERNd05ycDVJeWN4aThBQjBpSUhmYXlUX05IaTRiajhZNDZPNDVtMDFmWURieUxtSG1kTHB3OXA3dTBkdVVBZ2QtdzFBN24wd1l5d1ZobjlmTXk5dndESTlsd3g1RUtWaEp3Xw?oc=5",
         "type": "rss"
       }
     ]
@@ -614,6 +652,27 @@
       {
         "name": "veolia",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQmNyc1ozZXA4TWpDeldLZ1pOLWxfSzlfektZWmhBanQtSndGZ1lMQkhhUnhaNWhoRnBkalV6Nk1jV2dnR19SNTVsSGJKMDE3Xy1Ca1RVTnB6RjExSk9nQ2pUdkdyTzc0R0NqYWxWbUVUZDN2NGtmVklWVjZ5X0o2SDI1R3dXbnhLZjRXREhKMmVEdXRweEhyQUJfUjNldVg1eE1rZm9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-11-05-019",
+    "date": "2026-11-05",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Woonsocket City Council Unanimously Selects Veolia to Rehabilitate Wastewater System Neglected by Prior Operator - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdkp3ZGJvMFU4dVZ0NDBtcVpnaE9ISWFUWWd3bUtxa1BNb2gweURaN2VoRVY0NU9hc3YtMmJnclZycFVNTzd0YnM4MEttQ2ZTTlE4bThudXBWd0c3cTNYM1Jvenluc3owYS1DcXZBS2",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdkp3ZGJvMFU4dVZ0NDBtcVpnaE9ISWFUWWd3bUtxa1BNb2gweURaN2VoRVY0NU9hc3YtMmJnclZycFVNTzd0YnM4MEttQ2ZTTlE4bThudXBWd0c3cTNYM1Jvenluc3owYS1DcXZBS2FHenFQbXQ3alRITDJpMTllLWFiX1ZEdm1YejZTM3BjeFdJVkpZWnNaUzhRenozY21xaFNtTDhRV0FTODQ1STdFd1N6VkFJMXFBaHI5WndkVUNPLS1FanZRTzNXNlo2QmhleC1VTmVWcThXN2EtekptRm1qSkM1aExMbVJWN3RfT0VjV1ZrZVhUUjNOaGdiZw?oc=5",
         "type": "rss"
       }
     ]
