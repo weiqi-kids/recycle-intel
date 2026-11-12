@@ -1,0 +1,249 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T16:30:57.741801Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "waste_connections-2026-11-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Form 144 WASTE CONNECTIONS For: 12 November By Investing.com - Investing.com UK",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_credit",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUVhTGk3WC02M0lZdlU0aGJ4ZThTeDJPQ29lU29fQXI4bXBRREhUZ0xmSkVIbFVnNHJJb2E0ZHl5THc3Yklha2NEbW51XzZIWU1TSDVYb1d3alk3VE1NVUhLX3ZuaTJIZkVESGliMHpibF8zRmRua1FKeUdHVEhMeEJtcHMtMlhjV25MWFl6ZVlUdVM4OUc0dlVDb1FYUXNpb3BfR1BR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "waste_connections-2026-11-12-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "An officer sells 5,500 Waste Connections (WCN) shares for $1.05M. - Stock Titan",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcHFPUlltRzUycmI1VXpNbjlIQTFoVUN3cUxNN01LdWNfYnI0Q0ZJQXZ1XzBUNHNfUDVja2FONzZ4YlRVVWoyR0tFb3V2Y1l0aVVHUWxHZ1dYcWxqX29nNGJLaUhibFRqNkgyeVVPeTZPRzQ3YkZDcUdBdmRMQTgzVHZvRmI2LUo2SGs5eUE2cWMxSjBRSVBnZ1JVYUFkZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "waste_connections-2026-11-12-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Form 144 WASTE CONNECTIONS For: 12 November By Investing.com - Investing.com India",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYmx6YWxWR0RONjZpcDJnVDVvRUJ0cGRvUGViWmZqUDM4VnotNlJpOXN6RnRfRjluTEpXVExVWFNEX2lWSFZWZm5KaUhlX3o1T1Zmd2VqSkJrYmNTUnJIenNuem9kMExYS25ZZGhkX19qQzlBamdMN3gyYXpkbFZIQ0ZXR3FtYzJORENoSGdmd2pSYWxrdUh0V3d0WTU5TjZpWTJnQ21n?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-11-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What do Yancoal Australia's (ASX:YAL) renewed Glencore trading caps say about its coal sales to 2029? - Kalkine",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb1ZoTFRVVHJDallCRVd2eVNWN29BN3J0NUV1UWsxNDZGb3U0Mmw0X1hBVE5tdjdVR1lEQjNlLWdkaHduYkJaaFYwS3lZSHE3d1VfOHZyOUNnZ2N5ajBjVFBCckZCdklUZ2pla3QzVEtZWWc3MG0wVnVuaVVDMDB1Y3lnOTN5TUNPVmJnNHdVaFlPRVh4Y2h5bmJPTXdkWU15bGdIOVpmeVVrV1V6Mll0NkhpMkpZaXRlTjE0VHJVSW5ua0VsSTYwb0J3UFpuSk14LWJiLVhvb18?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "veolia-2026-11-12-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Veolia Environnement Unveils EV Battery Recycling Facility in France - www.marketscreener.com",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "battery_recycling",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlJ1b2Rha2ttMVRFamEzRHVMZ0NPOEZUbUpvUThHWjNUajBzd3dGUndNVE1lTFhzWkN2ak5jZlJMUno1QlNhQk5kWEJkWEJYNEdmYUdJc1VnNXlPdXJRUjB2TlQ5REZ5U3VSUkJ2TDliNk5hN29pai1lTklXVlJDOS0tV1NLSHlQVWlKc3U0bE5temFXbjJ4QVI4OHpTcGNELU9IS2lXR2xPZlVjRVB4TXJlMEw5UDhoYzRidHBB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_credit": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "battery_recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 3
+      },
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      },
+      {
+        "id": "sims",
+        "count": 1
+      },
+      {
+        "id": "abtc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "carbon_credit",
+        "count": 1
+      },
+      {
+        "id": "battery_recycling",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 233,
+    "dup_title": 124,
+    "too_old": 93,
+    "gate1_blocked": 0,
+    "gate2_blocked": 3,
+    "passed": 13,
+    "pass_rate": "11.9%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "What Veolia Environnement Holders Got Right - Simply Wall St",
+      "Veolia increases organic EBITDA by 5% over nine months - www.marketscreener.com",
+      "Veolia charts growth amid ‘successful’ Clean Earth integration"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為WCN、嘉能可、威立雅相關動態：「Form 144 WASTE CONNECTIONS For: 12 November By Investing....」。主要關注主題為產業通用、財報、碳權，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Form 144 WASTE CONNECTIONS For: 12 November By Investing.com - Investing.com UK（碳權、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "An officer sells 5,500 Waste Connections (WCN) shares for $1.05M. - Stock Titan（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,14 @@
+{
+  "total_raw": 233,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 0,
+  "gate2_fail": 3,
+  "passed": 13,
+  "gate2_samples": [
+    "What Veolia Environnement Holders Got Right - Simply Wall St",
+    "Veolia increases organic EBITDA by 5% over nine months - www.marketscreener.com",
+    "Veolia charts growth amid ‘successful’ Clean Earth integration"
+  ]
+}
