@@ -1,0 +1,12 @@
+{
+  "total_raw": 233,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 1,
+  "gate2_fail": 1,
+  "passed": 16,
+  "gate2_samples": [
+    "Veolia charts growth amid ‘successful’ Clean Earth integration"
+  ]
+}
