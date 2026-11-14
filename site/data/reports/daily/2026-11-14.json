@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T14:43:26.239488Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "waste_connections-2026-11-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Form 4 Waste Connections: Mary Anne Whitney (Executive Vice President & CFO) For: 11 November - Investing.com Canada",
+      "companies": [
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUjh6MXBJd3daS1F4M1J6ZDJ6M24zMU5lS2pudktxek9zRHZEdUNtdVE3bXdHWWkzUlRQRjl0dkdqVzVEQVhWMjRvcVZVcUJBaGhIbFUyMlZPZnA3S1B4dGZ0TUpXS2UtOWpPQnJSNzl0Mzh2MUJiZTBkc3drZUp2bV9EMi1oOWdOOTQ3WUtlVnJqSXlhVzJOdlNMZXM4ckptcmdPRjVrbXFac2w5R0VjY01rTDVkODVQYko1bEQ5akw0WDJ1cWxTd2YxamRjWkM3cGZNUW9UZTNoTUxhT3ZFWWd0NA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "waste_connections",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 233,
+    "dup_title": 131,
+    "too_old": 93,
+    "gate1_blocked": 1,
+    "gate2_blocked": 0,
+    "passed": 8,
+    "pass_rate": "7.8%",
+    "gate2_block_rate": "0.0%",
+    "gate2_samples": [],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為WCN相關動態：「Form 4 Waste Connections: Mary Anne Whitney (Executive Vi...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Form 4 Waste Connections: Mary Anne Whitney (Executive Vice President & CFO) ...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "WCN為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
