@@ -1,5 +1,43 @@
 [
   {
+    "id": "unknown-2026-11-15-001",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "These 4 Waste and Services Stocks Collect Recurring Revenue - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3NoN0ZqYU1leEVDWjM5c1ViRkxoMGRhQm5HeUkxQjhiQUttV1U2bmtMTUwydnZCNXBIU0VzNS15b2s3UUVzWjY3VU1abUVtUkhwOUFtQmNYdDMtMkl6c0xVYjFNX1RMLXY5cEpBRm",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3NoN0ZqYU1leEVDWjM5c1ViRkxoMGRhQm5HeUkxQjhiQUttV1U2bmtMTUwydnZCNXBIU0VzNS15b2s3UUVzWjY3VU1abUVtUkhwOUFtQmNYdDMtMkl6c0xVYjFNX1RMLXY5cEpBRmNOTFY1RkRIX3pYRDMxTHhzb0Y1aDY3X0RKZm8xc0hZMVJDRHFOUlpTSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-15-002",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "These 4 Waste and Services Stocks Collect Recurring Revenue - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZklNSllFTzhxTkF6VklmUUJpbjl0NWhkWkxHWGQyVHJkRTBXcUtjT1ZtNExac09yNC1lVUd5ZEw0MWxBZ3JQSkVydzNkVmVIc0dwdEJCMHZrcW1CQzdveEpVUFlLblhqN0pHZmRjdT",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZklNSllFTzhxTkF6VklmUUJpbjl0NWhkWkxHWGQyVHJkRTBXcUtjT1ZtNExac09yNC1lVUd5ZEw0MWxBZ3JQSkVydzNkVmVIc0dwdEJCMHZrcW1CQzdveEpVUFlLblhqN0pHZmRjdTJueHhZZzN4S0s1a3A2Vi1ST1RfbnhjT1h1NFJvWGlDS0NnV09VZEtEVEVHY0tmM3I5LWw0QVJKZk8zQkxpTXFjQ2x3LTVXS2pvWk5ocFVNdnQxSkZGTHhZbXh2YUxBclVYSTlRT2ZBZnBKZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "waste_connections-2026-11-14-001",
     "date": "2026-11-14",
     "companies": [
@@ -279,6 +317,27 @@
       {
         "name": "google_news_battery_recycling",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVJ3MFduWmhELXZrSFJFOFp6SE43TWh0cEJEMndZV1NJN1JvUlk4cTZWQlI3N3FERXlST3ZEN2lfN3dRd0trZ21EQjVBNW5jU1pvVmpYQW1sZ2pGS3E2Sm96NVM3bUNSY1JnRGdFajRjZVZsZTI4OXNSbVUtX0FOU0xYUDhJREJqWFFKOVQ4R1Rma3prd3FYY0U1T053UktkRF9pZXRXQWgtS01XOWluWVI5Sk9HNzFuMVlsUllOc3o0OVJsY2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "veolia-2026-11-13-014",
+    "date": "2026-11-13",
+    "companies": [
+      "veolia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Veolia CEO wants stricter ban on EU exports of used battery materials - Irish Independent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPZEdlX0hDSWRsRHBOVmVKOF9lTS1nbHd1bEkxZUd5ZGR1M056VnptbW1veWc2b0FpbS1CbnlBQWpXcFppaXU3R3pJVHlDQjV0TllPSWtyV0FBWkloVUYtSlllQ2sxemVHTEhQOEtETj",
+    "sources": [
+      {
+        "name": "veolia",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZEdlX0hDSWRsRHBOVmVKOF9lTS1nbHd1bEkxZUd5ZGR1M056VnptbW1veWc2b0FpbS1CbnlBQWpXcFppaXU3R3pJVHlDQjV0TllPSWtyV0FBWkloVUYtSlllQ2sxemVHTEhQOEtETjRYYUp2UjZBNERwX05YRW5ocmRJVU1wQ1ZGaXg1NEpTZFpEQ2VLUzlIU1JQd1FzUm0zMVNiUHpGbTEwLW9lR0VZcko0MG5IenJFeXVYQkJDUllrZTVrandn?oc=5",
         "type": "rss"
       }
     ]
@@ -605,6 +664,25 @@
       {
         "name": "waste_dive",
         "url": "https://www.wastedive.com/news/waste-recycling-bills-to-watch-2026-congress/874505/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-017",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Mining input cost inflation quickens on fuel and chemical pressures - Mining Weekly",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0NJSUhvVDVKZFBtOFpQOUxWTXl3cE93ME5tdVJYMlhXNFUtc2s2WVkwTWFmZEVzdjc3ZTVRNlZZMXpBSFJodTJsNnUxa1YyNDBKbXBzVVlGeFNFWDE3S293alJyMFk4Ql9oZ1ZTV2",
+    "sources": [
+      {
+        "name": "glencore",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0NJSUhvVDVKZFBtOFpQOUxWTXl3cE93ME5tdVJYMlhXNFUtc2s2WVkwTWFmZEVzdjc3ZTVRNlZZMXpBSFJodTJsNnUxa1YyNDBKbXBzVVlGeFNFWDE3S293alJyMFk4Ql9oZ1ZTV2poWHMtLWxlc2tJcEQ3cy1ldFZ3aml5NFRJUDFHQldxYUlBUHIyVmRtcHNMVUozSUcyZHY3SWZ3aUlPaEo3VEFxbGEzZlZndw?oc=5",
         "type": "rss"
       }
     ]
