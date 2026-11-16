@@ -1,0 +1,235 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T17:50:09.770439Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-11-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore Buys Back 4,816,451 Shares at CHF 5.6969 on 13 November 2026 - Kalkine",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQazFLOTh6bFBVSUhGNWp6bE4xRXVfdFY1b3BjOTJ3TVowdUhKQVM0Q283LWVhYko4dEpZdnJQZlFfeEthdkdXZTY0Q21MWVZEdFlaUzREOVcwUzcxTTA3dnNoMlVKSDYxMXQzSm04Mk9MU0FqQ2NHQW1BZzd4SnliaHVsUEpzNzJLR3BCWm1VOWhMQlNLQThBS25JZldDVXVZOWtlTzZLNkVKUThr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-16-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Recap: Battery recycling and pickleball partnership extension - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "battery_recycling",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSlVXV3hxMmJTdDlrMWRTWkpLQ2JfZ2FDNkJpcE9tZDcyRm5SdXh5aTB4MUozWTRaWUdhdGh5ZXpCVzFzQlNjdDRUVVRzUDRtdlZ5ZUVKdDBzNHM5b2YtVUU5bHlmSnFxSHBKRWpJdG9fOThCdTdQMDlBbkJGTGFfUlFNcXBCempkYkR2bFp6a3d2SlJITGx1N2VJSkszNmlmZXVhbFJ4eEMyUnppT1ZGa1VNS1l5Wi1ISXBXQ0Z1UHEtUzlCRDM0aQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "veolia-2026-11-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Battery Recycling Expansion Altering The Investment Case For Veolia (ENXTPA:VIE)? - Simply Wall St",
+      "companies": [
+        "veolia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "battery_recycling",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd0o4ZVZqZjNmSmRoTjNkTk16ckFVaE1NMzN4R0Ztb2ZtS0RyT2VWTkxOclN0dHZKS01rUFplSGcwQklyUjNubDBucjJyTG45TEgwOElpRk13MkZFSTRvazVDaGxXZVFocWF6OUFhSFUyb2c3OHlXYW9mNm5OeHNUMG03U3EzNmkxcFN2NjR1MERib2taWkJobTBtR0FCQ1dYNllpNTh3bktzNUJtdlhnQm5RYWlKU1cwTExWZGJYYVhGWmVMeUJfcW1oelZtQ2dsTURwVy1LZFQ2Z9IB3wFBVV95cUxOYllwOEVOcEZVZXdicllkT3NZSDcxdmZtZkRCZDhUZE53TmRSQkVONlB6Ul85MEo0RHRsbnlKMW5La2dlNGxfcE5lUXJFckJGRHFvZklOM0h5SDdJSHFFNTJjTUpmcGx6OUIxNU1nRjRyWlJwS0FKVjN5Zm52bFJNY0t6TUZ6dUZrQ2NqQnVkSkNfLWpJUnJWdEJsbDhzMHROUjlXYWtkNFI4Ynl5SWNkSTJtZ3hUamItX2ZCRTBhRVV2Q1BiQi1idUVBeEEwaU45azliVDdxQTM3UEhib1ZN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-16-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Recap: 83% revenue growth and Tonopah plan accepted, grant restored - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRHZPWEppYjVSN2g2QUl4bmlUeTVVNW9VNUUyVXpTWHF4WHZ0eml0UkE2d1dXUFhFYjlLekpJclFwSVBPTVJVMWFNVGUtek45Zlp6QXhNQUF5R2F2TWpDNEJkTC1oUnQ1dDFNV2FjdEk4OF9JVDhRTDlGUjlVNVNjYklxSWYxbFkzTUN0RkFmVzI1SUVrOFpQbjREemxDYTUzR1NNSDV1cHdTZ0JOMkJtZDVJVlRPcDA1RWlQbURrYjVPUUpTd1lpTndYUVNGUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-16-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Solar panel recycler expands into ‘epicenter’ for solar installations in California",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.wastedive.com/news/solar-panel-recycler-expands-into-california/874734/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "battery_recycling": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "circular_economy_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 1
+      },
+      {
+        "id": "veolia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "battery_recycling",
+        "count": 2
+      },
+      {
+        "id": "circular_economy_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 233,
+    "dup_title": 127,
+    "too_old": 95,
+    "gate1_blocked": 1,
+    "gate2_blocked": 1,
+    "passed": 9,
+    "pass_rate": "8.5%",
+    "gate2_block_rate": "0.9%",
+    "gate2_samples": [
+      "Missed Veolia Environnement's Rally? Here Is What Holders Saw - Simply Wall St"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為嘉能可、威立雅相關動態：「Glencore Buys Back 4,816,451 Shares at CHF 5.6969 on 13 N...」。主要關注主題為產業通用、財報、電池回收，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore Buys Back 4,816,451 Shares at CHF 5.6969 on 13 November 2026 - Kalkine（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Weekly Recap: Battery recycling and pickleball partnership extension - Tradin...（電池回收、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

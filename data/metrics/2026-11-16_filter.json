@@ -1,0 +1,12 @@
+{
+  "total_raw": 233,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 1,
+  "gate2_fail": 1,
+  "passed": 9,
+  "gate2_samples": [
+    "Missed Veolia Environnement's Rally? Here Is What Holders Saw - Simply Wall St"
+  ]
+}
