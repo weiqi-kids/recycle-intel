@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T17:50:05.859142Z",
+  "updated_at": "2026-11-17T17:19:16.114543Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -7,17 +7,17 @@
       "name": "美國電池",
       "ticker": "ABAT",
       "currency": "USD",
-      "ar": 6952929,
-      "ar_prev": 7774982,
-      "ar_qoq": "-11%",
+      "ar": 3036105,
+      "ar_prev": 6952929,
+      "ar_qoq": "-56%",
       "ar_period": "QoQ",
-      "inventory": 584763,
-      "inv_prev": 846603,
-      "inv_qoq": "-31%",
+      "inventory": 2823375,
+      "inv_prev": 584763,
+      "inv_qoq": "+383%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "aurubis",

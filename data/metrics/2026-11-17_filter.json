@@ -1,0 +1,13 @@
+{
+  "total_raw": 232,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 1,
+  "gate2_fail": 2,
+  "passed": 15,
+  "gate2_samples": [
+    "Race for BHP’s West Musgrave narrows to one - The Australian",
+    "Missed Veolia Environnement's Rally? Here Is What Holders Saw - Simply Wall St"
+  ]
+}
