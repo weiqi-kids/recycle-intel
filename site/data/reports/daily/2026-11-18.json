@@ -1,0 +1,163 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T16:54:19.907856Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-11-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore and Wogen inject $44.5 million into Larvotto - Mining.com.au",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQXdDRlVqTXBlMWdRVWNxVEgzWFhRUGxxQU91clNYTlZCYi1wZHBDYkhrTWVsMUI3MzNkUkdnZHlpRkJERUp5YmZLQ29TdHVid1VXM2VFMnl5SlI4Q3RrMGNuck5INHoxYXFkWlNLRktsa1Z3cUQ5YXVpenBWYTJ0VA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sims-2026-11-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sims Limited Gains State Street Global Advisors Asia Limited as Substantial Holder with 5.00% Voting Power - Kalkine",
+      "companies": [
+        "sims"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX1pGZXoyZHNpbHFOaUM3ajFuY1U1NExWYlM3eDZDVkZNYmplbXEyZURrZlI1c3h1djhZWk5YSkhmRnJvbkwzVk1EaVlKZ1ZodVk5Q1Q1Y0x0dHlvS0c2S2FQYUt4MnB4T0h2OXhzOWcycU5LY2x5c3FFNm1aaHRxN091c2JER0pvSWNXYXRLcy12dzFWcEwzYmJhUUIteDlOa19uVmh2S2luakxIWWhHTjhEc2xyX1YtckhDWV8tb3VSLWFWZmZUbVRySk1keVV5Ti0wWGxiLWxqdjR3cmk4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sims-2026-11-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ASX 200 Metals Recycler Sims (ASX:SGM) Pushes Into Data Centres - Kalkine Media",
+      "companies": [
+        "sims"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUw1Rm41eUUzLXZRRzU5RlpGdk1OYVBZdUE4NEJ1Q19RWDVQbGw5OEVFNmZDa1B6Z3N2RXQ2VVlzWmhQZ3FKYkNnb1lvOTYyZklUMHhUcGZ5TWNaaVd1Q0hjd1h3dFF5aDZ4Qk9xSlFmQ0VFRTl4WVB1UndLeEE3bElfUVAxUDR1VlJlY1kzczNjcGcweHZ1WFBTTjV0UWtjMGJZ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sims",
+        "count": 2
+      },
+      {
+        "id": "glencore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 222,
+    "dup_title": 115,
+    "too_old": 84,
+    "gate1_blocked": 2,
+    "gate2_blocked": 3,
+    "passed": 18,
+    "pass_rate": "16.8%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "Larvotto Resources Ships First Gold Concentrate From Hillgrove Mine to Glencore - marketscreener.com",
+      "Larvotto Resources Secures US$30M Concentrate Prepayment from Glencore and Wogen Resources - Kalkine",
+      "Race for BHP’s West Musgrave narrows to one - The Australian"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為西姆斯、嘉能可相關動態：「Glencore and Wogen inject $44.5 million into Larvotto - M...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore and Wogen inject $44.5 million into Larvotto - Mining.com.au（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Sims Limited Gains State Street Global Advisors Asia Limited as Substantial H...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

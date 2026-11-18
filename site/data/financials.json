@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T17:19:16.114543Z",
+  "updated_at": "2026-11-18T16:54:15.139611Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "崑鼎",
       "ticker": "6803.TWO",
       "currency": "TWD",
-      "ar": 847767000,
-      "ar_prev": 806399000,
-      "ar_qoq": "+5%",
+      "ar": 798236000,
+      "ar_prev": 847767000,
+      "ar_qoq": "-6%",
       "ar_period": "QoQ",
-      "inventory": 7927000,
-      "inv_prev": 7950000,
-      "inv_qoq": "-0%",
+      "inventory": 8291000,
+      "inv_prev": 7927000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "republic",
