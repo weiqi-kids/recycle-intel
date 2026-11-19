@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T17:00:36.471972Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "waste_mgmt-2026-11-19-007",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Waste Connections, Inc. (WCN): Why This Waste Management Stock Remains on Investors’ Radar - Yahoo Finance",
+      "companies": [
+        "waste_mgmt",
+        "waste_connections"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaTdXVUV5U0xaVS10cm0wS2ZuNVB4a29fQk5YQjQ1N3FpRk96WEtZRnRscF94blJ3Vk44anhBc0tsN2QyUEFjVUZ6LUFVVVBfMFRlQlVBaFQ5WkVNSDBmU3JBOVc3aVFoemlsaGl0LVZZOVF4WnNLUlMwSkw0d3lVcUlTVFpvUDBaeF9lNGhLV0dyOEVOQzRpWG9n?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Matiq Group becomes eager technology user in UK - Recycling Today",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOemFpUXNlaVloeUFNa1VvUjN6ZVFoUVJ2ZlE5R0tkbXpIY1F1REZORmxGRTdTZ3FydVZUTFU3TmYtTkhmMURSejdjLTNCaHE1Ny1zT1FYZWNhWGFTaEVNelFFS1RKNldsTFcwM09TYnp5ekxpZmttbGlhZFRPQjdGRU53WU5CWkZ3elRuOFFOV3d5elVTYnFRSjRiaGNvQ1lBNXJteTRBRHlsVjlIYmpnY1dFZWg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-11-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore shares are down 27%. Is this a golden buying opportunity? - Yahoo Finance UK",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOV9oN1VFdXpvUy1pdkR2ZVpSYzlESmQ4ZW1oZ2xMOW9XMGpWOXFDdTQzQW9JTTRnRFJuOGQ0U01qd3BQZ2ZPcHZZZXVOTDlENGtDZDc0R3RMdTZPbnJYWWdFYXFPRzdHajRsUk1vU2x6Sk8wdXdmQ0tuLUVkRUtDYUlzMWJ1Zw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-11-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Alkemy Capital Investments Announces Glencore Binding Offtake Expanded To Cover 100% Of TVL Production - TradingView",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcWdDZXR4U2dwTDN5RnJJX2YxMzAzRDBUZ0tuT2ZheWUtMEFQWXBvZEdya3JUYmx6TUZBV3pSb2txd2Z5UXdYRGVKNGpCT0N1RlgzYUsxay1VOVhodDRJWWNKWEl1T0xCMS1HV2xSNjB6eElZa185am1GX19YUGxoemdCUTFkaUtISnBtTndlTXdFMDV5aEU2MlQzalpXOXR1SzdFNDN6S2JueXppSWNWal9yUWNvcWM0VDJfQ0JVcjQ3X09mRkt4Z3BNT1hVd1hBa0NmZW5RQXpXdlZFUEhmNHlrRlRLdGFfQXd4VlFBZFRsQ3ljdmxNZ09mOFRaZEc3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-11-19-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore expands offtake for planned UK lithium refinery - Mining.com.au",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSU43MHhqSXA3UEdUb3JPZG9FQ3doM1JJZDVjU2swb25JZFdMMm5lZnJVa2hiajByRlNhc09RUkw5a3kwZXpjeTRkckRoT2gxTGkyQXdaZkt4US1fbTMwYWZhQVN4UGtEVkxXb2JIYWNVV1ZHQ1VraGF0Y2VFcWdqMzRuMENDQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 5
+      },
+      {
+        "id": "waste_mgmt",
+        "count": 1
+      },
+      {
+        "id": "waste_connections",
+        "count": 1
+      },
+      {
+        "id": "sims",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 231,
+    "dup_title": 121,
+    "too_old": 95,
+    "gate1_blocked": 1,
+    "gate2_blocked": 2,
+    "passed": 12,
+    "pass_rate": "10.9%",
+    "gate2_block_rate": "1.8%",
+    "gate2_samples": [
+      "Larvotto Resources Ships First Gold Concentrate From Hillgrove Mine to Glencore - marketscreener.com",
+      "Lessons from Washington’s PCR law, 3 years into enforcement"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為嘉能可、廢管、WCN相關動態：「Waste Connections, Inc. (WCN): Why This Waste Management ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Waste Connections, Inc. (WCN): Why This Waste Management Stock Remains on Inv...（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Matiq Group becomes eager technology user in UK - Recycling Today（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

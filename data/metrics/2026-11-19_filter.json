@@ -1,0 +1,13 @@
+{
+  "total_raw": 231,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 1,
+  "gate2_fail": 2,
+  "passed": 12,
+  "gate2_samples": [
+    "Larvotto Resources Ships First Gold Concentrate From Hillgrove Mine to Glencore - marketscreener.com",
+    "Lessons from Washington’s PCR law, 3 years into enforcement"
+  ]
+}
