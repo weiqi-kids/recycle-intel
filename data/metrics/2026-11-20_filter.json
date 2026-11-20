@@ -1,0 +1,16 @@
+{
+  "total_raw": 238,
+  "dup_title": 125,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 1,
+  "gate2_fail": 5,
+  "passed": 15,
+  "gate2_samples": [
+    "Tomra Systems Gross Return Physically Settled Monthly Futures Price Chart — OMXNORDIC:GTOMG2027 - Tr",
+    "What Bears Saw Before Tomra Systems Slid - Simply Wall St",
+    "Tomra Systems ASA (TMRAF) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Sims Limited Subject to Initial Substantial Holder Notice from State Street Corporation at 5.01% - K",
+    "Lessons from Washington’s PCR law, 3 years into enforcement"
+  ]
+}
