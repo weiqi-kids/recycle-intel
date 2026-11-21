@@ -1,0 +1,14 @@
+{
+  "total_raw": 227,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 1,
+  "gate2_fail": 3,
+  "passed": 4,
+  "gate2_samples": [
+    "Orion Minerals Limited (ASX:ORN): What Does the First US$6.7 Million Glencore Drawdown Mean for Prie",
+    "Republic, WM pursue food-grade PP resin projects",
+    "Lessons from Washington’s PCR law, 3 years into enforcement"
+  ]
+}

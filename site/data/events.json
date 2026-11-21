@@ -1,5 +1,44 @@
 [
   {
+    "id": "waste_connections-2026-11-21-001",
+    "date": "2026-11-21",
+    "companies": [
+      "waste_connections"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste Connections launches first Great Holiday Haul toy drive for foster kids - KCBY",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGVJdDRYYkhiaUVzeF9MNHRZNkhFQ0k0cVdHSFQ0Mll6UnF2TXNOS0FxNHNNLW11N2o5UDZrMmt0aDBvTWprTlRXSjV5RER0QjZmMlRZaUJ4VWtQTVR4X1VMc2dTT3lkdERsTnhoaj",
+    "sources": [
+      {
+        "name": "waste_connections",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGVJdDRYYkhiaUVzeF9MNHRZNkhFQ0k0cVdHSFQ0Mll6UnF2TXNOS0FxNHNNLW11N2o5UDZrMmt0aDBvTWprTlRXSjV5RER0QjZmMlRZaUJ4VWtQTVR4X1VMc2dTT3lkdERsTnhoajBQUDZzaHBXbzZqV3NwSXAycFBQQWlSM1lTZnBlTlIxazVkQ1k3WnNMMU4xRUJxT0otQ3p1MXYwNl8zdUtGcEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-21-002",
+    "date": "2026-11-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New recycling plant in France keeps EV battery metals in Europe instead of sending them to Asia - The Cool Down",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQMWtobml5S1RGOVBFb3BUajBrWVRTQkVnR0hGVEQtRlVKRDFLYk9vMjdHM0FTNXFhMS1Dc1dxVm5meVhBSl9KamlTUmIzV0F1Tnp3ejRycjBOUkJCWWE5c1dhTXVCVnJQRUQyaUdCYj",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMWtobml5S1RGOVBFb3BUajBrWVRTQkVnR0hGVEQtRlVKRDFLYk9vMjdHM0FTNXFhMS1Dc1dxVm5meVhBSl9KamlTUmIzV0F1Tnp3ejRycjBOUkJCWWE5c1dhTXVCVnJQRUQyaUdCYjBxTVluUW9pNzZCbnRRSWtlLTAtb3hBMlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tomra-2026-11-20-001",
     "date": "2026-11-20",
     "companies": [
@@ -178,6 +217,44 @@
       {
         "name": "sims",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU1NnVEc2cnlDUGJxbEo1OERCODFDZjBPMVJiNndsdkkyemtuVFBVZTVUM25IWG5rS2pRTVFNUDRwWHFaSE9Id1UyNER2NTlzYW42U1RqbDJMdEFqLXZ2SUlja3h6cXhLRUJaZDVfUWVXTnJPRmFaZDhXLXlwZzZSQ3NQSHNYc3g2bDJPYlBGdDZvczNLRk9ETHpURTAyRE9ZNE11d2lIX1RkNi00TGl5QXhxYWt6N1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "umicore-2026-11-20-010",
+    "date": "2026-11-20",
+    "companies": [
+      "umicore"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cobalt joins the mix in Umicore’s Hoboken upgrade - Recycling International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxON3BvNksxMXZkVk1aTmNIemtqb1MxOGRiLWtSQXpVci1wbTJ3SkpqRXlPNmJncjA2WEs2U0dBS0pTZ3ZYdUE4VlpRMG9abGt2T2NlWmN6RldJUnhweEw4cE9QRlg4YnNuZ3hwazdsZG",
+    "sources": [
+      {
+        "name": "umicore",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON3BvNksxMXZkVk1aTmNIemtqb1MxOGRiLWtSQXpVci1wbTJ3SkpqRXlPNmJncjA2WEs2U0dBS0pTZ3ZYdUE4VlpRMG9abGt2T2NlWmN6RldJUnhweEw4cE9QRlg4YnNuZ3hwazdsZGt0VmJIWkc4ODNCQ0xRR3M5Q0hBZ2lXVGhta2V1U2FnSEJxZG5xY0dkRjZJZUV6aXlHa2lZd040eUw1NGo3MXhVZElKZTFubGdFUGhndkE2XzJvVllib1JXd3owaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-20-011",
+    "date": "2026-11-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "£250,000 Project to Take Lithium Recovery From EV Batteries Out of the Lab - AZoCleantech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pb2otZDZ5dExYa3V1Z3NTWmZYeFo2N1ZWMTFEckRZQWVVdTc4U1BhTFlVLTBDSm1Hc3ZGQW9waHBrYTJBaURvcW5xQm5vcnQ0QmxvTFIwS0RyOXR2bC1XQg?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "google_news_battery_recycling",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pb2otZDZ5dExYa3V1Z3NTWmZYeFo2N1ZWMTFEckRZQWVVdTc4U1BhTFlVLTBDSm1Hc3ZGQW9waHBrYTJBaURvcW5xQm5vcnQ0QmxvTFIwS0RyOXR2bC1XQg?oc=5",
         "type": "rss"
       }
     ]
