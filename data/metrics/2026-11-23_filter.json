@@ -1,0 +1,15 @@
+{
+  "total_raw": 230,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 1,
+  "gate2_fail": 4,
+  "passed": 12,
+  "gate2_samples": [
+    "State Street Notice: Holder Ceased to Be Substantial Holder of Sims - The Globe and Mail",
+    "Sims Limited Subject to Initial Substantial Holder Notice from State Street Corporation at 5.01% - K",
+    "Republic, WM pursue food-grade PP resin projects",
+    "Lessons from Washington’s PCR law, 3 years into enforcement"
+  ]
+}
