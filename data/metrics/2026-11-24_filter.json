@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 0,
+  "gate2_fail": 5,
+  "passed": 24,
+  "gate2_samples": [
+    "Tomra Systems ASA (TMRAF) Seasonal returns chart - Yahoo Finance UK",
+    "Does Glencore (LSE:GLEN) Merit A Premium As Cash Flow Recovers? - Yahoo Finance",
+    "Washington DC’s bottle bill won’t move this year, expected back in 2027",
+    "Republic, WM pursue food-grade PP resin projects",
+    "Lessons from Washington’s PCR law, 3 years into enforcement"
+  ]
+}

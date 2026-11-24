@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-24",
+  "total_events": 17,
+  "by_company": {
+    "tomra": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "glencore": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "waste_connections": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "veolia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 17,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "battery_recycling": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
