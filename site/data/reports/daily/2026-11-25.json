@@ -1,0 +1,243 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T18:22:27.097849Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tomra-2026-11-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tomra considers sale or partner funding for plastics venture – report - Packaging Gateway",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNGVqUE9jVXB4TnZCR1NXUTEtdXlSNHBDa1JsQ0VGbnFkLUxrTXVOdFFvRkdqdGxUOTlHd3pldWN5dHE1bGxWVzR6eDBXaWQ3VGdURzZUaFhnNTVpakNiVnJIRGowdVd5dXFSNzlCQUs3MTdHeUVGRTdFQW9NaHluQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-11-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore appoints former CEO's nephew to run coal business, Bloomberg News reports - Reuters",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQlVXei1WNWgxWDBYRm1JWXNfWjZ0d2EtQTF2MUMydExhZFdCQ2F6bENqemtURzZXRHNpWlJPOVQ4Y3pHbm5pUklvaURRcWVyQUl1aElUTFU1MFVVV2hJXzBGMVkzQmpBV195SF8yZVJPNXhyZUpsa1hpU2lLMVpuS0ZqSnBBbjFqQkhweDNVcXdGbEluWS1US25yRWxZZTFndzNaS3NobU1kZk52NnY4U21mSFZVa3ROaV91N2ZpMHdFb21qS3Q4LTlET0ZvQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-11-25-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore appoints former CEO's nephew to run coal business, Bloomberg News reports - TradingView",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN05DSTFEUUYxSmE3RERYTGJ4b1Z2OG10TDE1Z1ZCRzB6RjVLNS1ETnY4YWREZk02ejhLYy1LTWFETkdsQ1hVdW5YRFdGeTJvcmUtUFAtam94VS1vU0JyQjRsc3JDdGlnOUZiSjFsM1RvcFNQZ1J5dnJKdTBodGw5Mks0dFRsaHlodkhfaHEzWE9tZ2xJd2xodnhqUGY2WGZ5VDVpTXIwdVZnWDhkYmk5amNsOXZHQm9HRnlGaFZwQ29jYTBkY0xMWTQyaTBOTG5jVU45N01KUkRPQVZUUHdTTUVvRGlzZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-11-25-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore taps former CEO’s nephew to lead coal unit - Mining.com",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fNmlWRUJva3VNdFFNRm1yQ2ZhMlV3QUpZaDlvWUFKdXk2QUtvZXNFX0JiLUdZNmlpNlJteEZkaUFIOFlQVjI5MGE2UnJMRkhlVlh1MGo1T2VBT19OVGh6a3UwSWRvZDhIZ1Y5NU9ZMHREUDRRaHplamFKekZaNjA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-11-25-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore names ex-CEO’s nephew to lead coal unit from 2027 - Business Day",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYnBlem96OG1iRklLYkZ2R3BMdHNnNzJaQ09JWFdYWlFaazdkeXRmc01iejRnNG5ycjI3dWhwOGkxV3BrUkJQS3ZfblRPNWN2Q0xnRUlsZ0lPRFBsOHU3RFRJSEhvWkVpcTZZS0dvZlo1aXVjeUNwSHVCMG8yaDJIWjZOR1VLTWpwaFBfLVBRejh2Y3BfTG5JZVdzNHFsQkpWSVVmM3ZEY2dYa2NiUUMxQ3RQWkZpbmpjRW5haVd2ek5WQjEyX1ZaLQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "circular_economy_policy": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "battery_recycling": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 6
+      },
+      {
+        "id": "tomra",
+        "count": 2
+      },
+      {
+        "id": "veolia",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "circular_economy_policy",
+        "count": 2
+      },
+      {
+        "id": "battery_recycling",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 131,
+    "too_old": 108,
+    "gate1_blocked": 0,
+    "gate2_blocked": 5,
+    "passed": 23,
+    "pass_rate": "16.9%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "Does Glencore (LSE:GLEN) Merit A Premium As Cash Flow Recovers? - Yahoo Finance",
+      "State Street Notice: Holder Ceased to Be Substantial Holder of Sims - The Globe and Mail",
+      "Sims Limited Subject to Initial Substantial Holder Notice from State Street Corporation at 5.01% - K",
+      "Washington DC’s bottle bill won’t move this year, expected back in 2027",
+      "Republic, WM pursue food-grade PP resin projects"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為嘉能可、陶朗、威立雅相關動態：「Tomra considers sale or partner funding for plastics vent...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tomra considers sale or partner funding for plastics venture – report - Packa...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Glencore appoints former CEO's nephew to run coal business, Bloomberg News re...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 267,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 0,
+  "gate2_fail": 5,
+  "passed": 23,
+  "gate2_samples": [
+    "Does Glencore (LSE:GLEN) Merit A Premium As Cash Flow Recovers? - Yahoo Finance",
+    "State Street Notice: Holder Ceased to Be Substantial Holder of Sims - The Globe and Mail",
+    "Sims Limited Subject to Initial Substantial Holder Notice from State Street Corporation at 5.01% - K",
+    "Washington DC’s bottle bill won’t move this year, expected back in 2027",
+    "Republic, WM pursue food-grade PP resin projects"
+  ]
+}
