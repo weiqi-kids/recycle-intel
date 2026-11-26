@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T18:03:56.443432Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-11-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore taps former CEO’s nephew to lead coal unit - The Northern Miner",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUWVNaHlXN1VmU0RqVHVYNVlrT1ZVcUlGVDdLVG02RUVyenBGTWRhbUh6cUxteGc1WGlFMUQ4aTVtbVBPYzMxWTJfZlNMRzJLcFYxRVYxZVdSajAxU0V2Y2xYVkc1LTVSSjA5SUVmTlZIZ3FnOHhjWmxXX0lVai1FVUJiOUdjbzhpcEUyZkoyVU5rQ3J5RnZ6ZS1MY05Udw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "glencore-2026-11-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Glencore reportedly hands industrial coal unit to Colin Glasenberg, Bloomberg News says - energynews.pro",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcll3ZXQ4dTAtY3gwLWZMQkhNVmg5M0s3Z1Q0MnpaaVpXZWg5VlBaSFNwMzV1N3IzbVgya2RWUHlrQUVxQlBUSjVWMUJjbjBqaWNxOW1pM2pxYzZzLXZVdF9lbS03UktpcjM1YVI4XzZWS2FqcHVpRHltaFhiVUpzSGduSl9pelVZSzNwMU5lM0RGbXZJaGhvMmNDOFlVUU5SVVh3OHlkcjRfZkQ5a2U2ZGln?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "glencore-2026-11-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Glencore taps former CEO’s nephew to run coal business, Bloomberg reports - Digg",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIMHhDeUhDRGVBbFFWdnlpMENCYjlkZ1JUcUFqQkpMbVcxV3RUN2c3a3hvelBGRkNtZFRyY012TGlQX0tlRHRiVDFsUjUxN1dzYVE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "glencore-2026-11-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Former CEO’s nephew to lead Glencore coal unit, report says - Mining.com.au",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQnc5SElrNS1fV21XVXMzR3NrOWdRN3BQS2lhZkprcmROQzVKOFJjaTFGWW9vc0NFWkJ4TXJJTjlET0wxZjF4M29tOUgzb3ltNVJIbEJCZzBJUG9ZVTNPcVcxRDgtb1hqMm94ZmVsTlJocTdlWUNNTU56SEVmSzNZS2VsMUZkaEk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 256,
+    "dup_title": 153,
+    "too_old": 92,
+    "gate1_blocked": 0,
+    "gate2_blocked": 5,
+    "passed": 6,
+    "pass_rate": "5.8%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Does Glencore (LSE:GLEN) Merit A Premium As Cash Flow Recovers? - Yahoo Finance",
+      "State Street Notice: Holder Ceased to Be Substantial Holder of Sims - The Globe and Mail",
+      "Sims Limited Subject to Initial Substantial Holder Notice from State Street Corporation at 5.01% - K",
+      "Washington DC’s bottle bill won’t move this year, expected back in 2027",
+      "Republic, WM pursue food-grade PP resin projects"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為嘉能可相關動態：「Glencore taps former CEO’s nephew to lead coal unit - The...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Glencore taps former CEO’s nephew to lead coal unit - The Northern Miner（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Glencore reportedly hands industrial coal unit to Colin Glasenberg, Bloomberg...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
