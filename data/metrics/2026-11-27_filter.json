@@ -1,0 +1,16 @@
+{
+  "total_raw": 237,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 0,
+  "gate2_fail": 7,
+  "passed": 13,
+  "gate2_samples": [
+    "Tomra Systems ASA (TMRAF) Seasonal returns chart - Yahoo Finance UK",
+    "Does Glencore (LSE:GLEN) Merit A Premium As Cash Flow Recovers? - Yahoo Finance",
+    "Veolia Environnement SA (VVDH.F) Seasonal returns chart - Yahoo Finance Australia",
+    "State Street Notice: Holder Ceased to Be Substantial Holder of Sims - The Globe and Mail",
+    "Sims Limited Subject to Initial Substantial Holder Notice from State Street Corporation at 5.01% - K"
+  ]
+}

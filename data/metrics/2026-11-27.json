@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-27",
+  "total_events": 9,
+  "by_company": {
+    "tomra": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "glencore": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "umicore": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": 0.11
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "circular_economy_policy": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

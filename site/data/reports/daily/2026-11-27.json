@@ -1,0 +1,224 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T17:48:10.717122Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "glencore-2026-11-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lithium Africa Lines Up A DRC Deal With Ganfeng And Glencore - Finimize",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDRZa18xc0hJa0ZfVjNfdm0yOUtGMzhXcVFyRzFvdW9WTEZVbkRmQXlLeEdmV1RwZEQ3RGdwaGhCeGNiMjJDaU1zZnZVeWJKT0EtVklHaWZqaldVMDIyTlNmV1cwRWNJSWlxQWlieEZkUXItOGhTbmxNVTVZUGQ1c3BXX2VQUk9wa00wM1B0bE9nX3M?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "umicore-2026-11-27-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Umicore stock rises to EUR 16.39, up 2.95% before Xetra - ad-hoc-news.de",
+      "companies": [
+        "umicore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRk8xMlY5YV9pS1JBNnVYY0xzOU9ubEdwU3IxaU02NTZ3RU82a1ZsX040cW9kQWxxVTFpVDh5M0t3eUlTVFZkMGpQYzBGazVod2Vrdm1rZFdIUmNGdFY5OGNwWENKdzlISkJQQ24yZzVRdnNlRXRqVkhSb0ZHSnhXcTZRRUFqMzZieWs5MVRfWjVnQUFTcGloVy1kc2xHNGI3SnVNUTBWN0pOaDU2ZzFlcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tomra-2026-11-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tomra Systems: Sorting Through And Recycling The Valuation - Seeking Alpha",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0s1bXB4Vkk4eDBRdGhNblRuYV9obDE5NkdQRW5kTDJwcjkwSzRsMWItN0lrY25FWWNkT09EMGNwZkNCRGc1bE1xUW1GcjNXTjFta1dyTmpfQnNvLUFYUUxWbUUtZnNUMGZsMjJLUk5CZGlDVmtFNzVCcDNWQXlsVThxNUNobVh6RUs2UktPdjViV3FqcEstdEZseVg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tomra-2026-11-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tomra shares fall as company revises growth targets, reviews plastics recycling business - Packaging Insights",
+      "companies": [
+        "tomra"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc3dnTE1adWtDVElxZ29nRkw5V044Yk5FMU1HMzZJcUQ5c01YZU9fVlZuMG90TzlKaGFOcGcyN2Z1Y1otMzN3bkJxOTdvVmNZUG5sOXpSSy1EdGlGc0JMUGxBNVBzaWN1U3QzVm9VYTdOOElpazJ4dlc3bGlHdlhzdVdhMlVDXzVTQXM4dGVZV1lIQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "glencore-2026-11-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Citi tips Glencore ahead of investor day as copper output bottoms out - Proactive financial news",
+      "companies": [
+        "glencore"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOclBmNm9wTDZIcjJCcC1yN205YmdyZGxGMHlCVWZGZEtIWnFVMlZiZ1ZFNGJDOWhhV1J4bFB1U2JSSXZxYlNRSVN0a19yYmc3WHB5dFczUHFwTVVHX2ZzOXhsR1JxUjFzVWp3bGtnUVhvWS1YeGRnOFRrYXVFa21RWU9KOW1jd3R2R2w5X1F3ZW5NSTJTdGpKVFJiZUZDQTV6NVdkUFc5WjhWWjdJMGpVeUI1bHl3N0ZYSW5ldEZLUFhkRGdNb3h3N3kzanhzQXViV3NYNUZINA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "circular_economy_policy": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "glencore",
+        "count": 5
+      },
+      {
+        "id": "tomra",
+        "count": 2
+      },
+      {
+        "id": "umicore",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "circular_economy_policy",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 237,
+    "dup_title": 141,
+    "too_old": 76,
+    "gate1_blocked": 0,
+    "gate2_blocked": 7,
+    "passed": 13,
+    "pass_rate": "13.5%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "Tomra Systems ASA (TMRAF) Seasonal returns chart - Yahoo Finance UK",
+      "Does Glencore (LSE:GLEN) Merit A Premium As Cash Flow Recovers? - Yahoo Finance",
+      "Veolia Environnement SA (VVDH.F) Seasonal returns chart - Yahoo Finance Australia",
+      "State Street Notice: Holder Ceased to Be Substantial Holder of Sims - The Globe and Mail",
+      "Sims Limited Subject to Initial Substantial Holder Notice from State Street Corporation at 5.01% - K"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為嘉能可、陶朗、優美科相關動態：「Lithium Africa Lines Up A DRC Deal With Ganfeng And Glenc...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lithium Africa Lines Up A DRC Deal With Ganfeng And Glencore - Finimize（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Umicore stock rises to EUR 16.39, up 2.95% before Xetra - ad-hoc-news.de（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
