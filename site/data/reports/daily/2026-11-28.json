@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T16:34:24.219132Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 260,
+    "dup_title": 135,
+    "too_old": 115,
+    "gate1_blocked": 0,
+    "gate2_blocked": 1,
+    "passed": 9,
+    "pass_rate": "7.2%",
+    "gate2_block_rate": "0.8%",
+    "gate2_samples": [
+      "Washington DC’s bottle bill won’t move this year, expected back in 2027"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-11-28 無回收產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

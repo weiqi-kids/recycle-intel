@@ -1,0 +1,12 @@
+{
+  "total_raw": 260,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 115,
+  "gate1_fail": 0,
+  "gate2_fail": 1,
+  "passed": 9,
+  "gate2_samples": [
+    "Washington DC’s bottle bill won’t move this year, expected back in 2027"
+  ]
+}
